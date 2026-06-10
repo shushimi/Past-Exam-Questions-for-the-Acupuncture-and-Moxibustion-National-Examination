@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>国試過去問演習ツール</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app-container">
+
+    <!-- ==========================================
+         1. メニュー画面（条件選択）
+         ========================================== -->
+    <section id="menu-screen" class="active">
+      <header class="main-header">
+        <h1>国試過去問演習</h1>
+        <p class="subtitle">第23回 〜 第32回 対応</p>
+      </header>
+
+      <!-- 全体の学習進捗エリア -->
+      <div class="card progress-card">
+        <h3>全体の学習進捗</h3>
+        <div class="progress-info">
+          <span>解いた問題: <strong id="progress-count">0</strong> / 1680 問</span>
+          <span id="progress-percentage">0%</span>
+        </div>
+        <div class="progress-bar-container">
+          <div id="progress-bar-fill" style="width: 0%;"></div>
+        </div>
+        <div class="incorrect-summary">
+          <span>現在間違えている問題: <strong id="incorrect-count">0</strong> 問</span>
+        </div>
+      </div>
+
+      <!-- 条件設定フォーム -->
+      <div class="card form-card">
+        <h3>出題条件を設定</h3>
+
+        <!-- ① 科目選択 -->
+        <div class="form-group">
+          <label for="select-subject">科目</label>
+          <select id="select-subject">
+            <option value="">-- 科目を選択してください --</option>
+            
+            <optgroup label="復習機能">
+              <option value="incorrect">【復習】間違えた問題のみから出題</option>
+            </optgroup>
+
+            <optgroup label="専門基礎科目（9種）">
+              <option value="introduction">医療概論</option>
+              <option value="hygiene">衛生学・公衆衛生学</option>
+              <option value="laws">関係法規</option>
+              <option value="anatomy">解剖学</option>
+              <option value="physiology">生理学</option>
+              <option value="pathology">病理学概論</option>
+              <option value="clinical_general">臨床医学総論</option>
+              <option value="clinical_special">臨床医学各論</option>
+              <option value="rehab">リハビリテーション医学</option>
+            </optgroup>
+
+            <optgroup label="専門科目（5種）">
+              <option value="oriental_intro">東洋医学概論</option>
+              <option value="meridian">経絡経穴概論</option>
+              <option value="oriental_clinical">東洋医学臨床論</option>
+              <option value="acupuncture">はり理論</option>
+              <option value="moxibustion">きゅう理論</option>
+            </optgroup>
+          </select>
+        </div>
+
+        <!-- ② 大項目（カテゴリ）選択 ※選択した科目に応じてJSで選択肢を動的に変化させます -->
+        <div class="form-group" id="category-wrapper" style="display: none;">
+          <label for="select-category">大項目（カテゴリ）</label>
+          <select id="select-category">
+            <option value="all">すべてのカテゴリ</option>
+          </select>
+        </div>
+
+        <!-- ③ 試験の回数選択（第23回〜第32回） -->
+        <div class="form-group">
+          <label for="select-round">試験の回</label>
+          <select id="select-round">
+            <option value="all">すべての回</option>
+            <option value="23">第23回</option>
+            <option value="24">第24回</option>
+            <option value="25">第25回</option>
+            <option value="26">第26回</option>
+            <option value="27">第27回</option>
+            <option value="28">第28回</option>
+            <option value="29">第29回</option>
+            <option value="30">第30回</option>
+            <option value="31">第31回</option>
+            <option value="32">第32回</option>
+          </select>
+        </div>
+
+        <!-- ④ 出題問題数の選択 -->
+        <div class="form-group">
+          <label for="select-count">出題問題数</label>
+          <select id="select-count">
+            <option value="10">10問</option>
+            <option value="20">20問</option>
+            <option value="50">50問</option>
+            <option value="all">すべての問題</option>
+          </select>
+        </div>
+
+        <button id="btn-start" class="btn btn-primary" disabled>学習スタート</button>
+      </div>
+    </section>
+
+    <!-- ==========================================
+         2. 問題解答画面
+         ========================================== -->
+    <section id="quiz-screen" style="display: none;">
+      <div class="quiz-header">
+        <span id="quiz-progress-text">1 / 10 問目</span>
+        <button id="btn-quit" class="btn btn-secondary-small">中断する</button>
+      </div>
+
+      <div class="card quiz-card">
+        <!-- 問題の属性タグ（大項目や試験回などの情報） -->
+        <div class="tag-container">
+          <span id="quiz-tag-subject" class="tag tag-blue">解剖学</span>
+          <span id="quiz-tag-category" class="tag tag-gray">骨格系</span>
+          <span id="quiz-tag-round" class="tag tag-gray">第23回 問9</span>
+        </div>
+
+        <!-- 問題文 -->
+        <div id="quiz-question" class="question-text">
+          ここに問題文が動的に表示されます。
+        </div>
+        
+        <!-- 選択肢ボタンエリア -->
+        <div id="quiz-options" class="options-container">
+          <!-- JSで4つの選択肢ボタンをここに生成します -->
+        </div>
+
+        <!-- 解答後の解説表示エリア（初期状態は非表示） -->
+        <div id="quiz-feedback" style="display: none;">
+          <hr class="divider">
+          <div id="feedback-status" class="feedback-correct">
+            <!-- 正解・不正解のテキスト -->
+          </div>
+          <div class="explanation-box">
+            <h4>【解説】</h4>
+            <p id="quiz-explanation">ここに問題の解説が動的に表示されます。</p>
+          </div>
+          <button id="btn-next" class="btn btn-primary">次の問題へ</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================
+         3. 結果表示画面
+         ========================================== -->
+    <section id="result-screen" style="display: none;">
+      <header class="main-header">
+        <h1>演習終了</h1>
+      </header>
+
+      <div class="card result-card">
+        <h2>今回の結果</h2>
+        <div class="result-score-box">
+          <span id="result-score">0 / 0</span>
+          <p class="score-label">正解数</p>
+        </div>
+        <p id="result-message" class="result-message">お疲れ様でした！</p>
+      </div>
+
+      <button id="btn-to-menu" class="btn btn-primary">メニューに戻る</button>
+    </section>
+
+  </div>
+
+  <!-- JavaScriptファイルの読み込み -->
+  <script src="app.js"></script>
+</body>
+</html>
