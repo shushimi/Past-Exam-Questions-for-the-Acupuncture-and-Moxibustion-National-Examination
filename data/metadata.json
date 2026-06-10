@@ -1,0 +1,241 @@
+{
+  "subjects": [
+    {
+      "id": "introduction",
+      "name": "医療概論",
+      "type": "basic",
+      "path": "data/basic/introduction.json",
+      "categories": [
+        { "id": "medical_society", "name": "現代の医療と社会" },
+        { "id": "social_security", "name": "社会保障制度" },
+        { "id": "medical_ethics", "name": "医療倫理" }
+      ]
+    },
+    {
+      "id": "hygiene",
+      "name": "衛生学・公衆衛生学",
+      "type": "basic",
+      "path": "data/basic/hygiene.json",
+      "categories": [
+        { "id": "hygiene_concept", "name": "衛生学・公衆衛生学の概念" },
+        { "id": "health_promotion", "name": "健康の保持増進と疾病予防" },
+        { "id": "lifestyle_health", "name": "ライフスタイルと健康" },
+        { "id": "environmental_health", "name": "環境と健康" },
+        { "id": "occupational_health", "name": "産業保健" },
+        { "id": "mental_health", "name": "精神保健" },
+        { "id": "maternal_child_health", "name": "母子保健" },
+        { "id": "school_health", "name": "学校保健" },
+        { "id": "adult_elderly_health", "name": "成人・高齢者保健" },
+        { "id": "infectious_diseases", "name": "感染症" },
+        { "id": "disinfection", "name": "消毒法" },
+        { "id": "epidemiology", "name": "疫学" },
+        { "id": "health_statistics", "name": "保健統計" },
+        { "id": "international_health", "name": "国際保健" }
+      ]
+    },
+    {
+      "id": "laws",
+      "name": "関係法規",
+      "type": "basic",
+      "path": "data/basic/laws.json",
+      "categories": [
+        { "id": "ahaki_licence", "name": "あん摩マッサージ指圧師、はり師、きゅう師等に関する法律（あはき法）における免許" },
+        { "id": "ahaki_practice", "name": "あん摩マッサージ指圧師、はり師、きゅう師等に関する法律（あはき法）における業務" },
+        { "id": "penalties", "name": "罰則" },
+        { "id": "related_regulations", "name": "関係法規" }
+      ]
+    },
+    {
+      "id": "anatomy",
+      "name": "解剖学",
+      "type": "basic",
+      "path": "data/basic/anatomy.json",
+      "categories": [
+        { "id": "body_structure", "name": "人体の構成" },
+        { "id": "skeletal_system", "name": "骨格系" },
+        { "id": "muscular_system", "name": "筋系" },
+        { "id": "cardiovascular_system", "name": "循環器系" },
+        { "id": "respiratory_system", "name": "呼吸器系" },
+        { "id": "digestive_system", "name": "消化器系" },
+        { "id": "urinary_system", "name": "泌尿器系" },
+        { "id": "reproductive_system", "name": "生殖器系" },
+        { "id": "endocrine_system", "name": "内分泌系" },
+        { "id": "nervous_system", "name": "神経系" },
+        { "id": "sensory_system", "name": "感覚器系" }
+      ]
+    },
+    {
+      "id": "physiology",
+      "name": "生理学",
+      "type": "basic",
+      "path": "data/basic/physiology.json",
+      "categories": [
+        { "id": "physiology_basis", "name": "生理学の基礎" },
+        { "id": "blood", "name": "血液" },
+        { "id": "circulation", "name": "循環" },
+        { "id": "respiration", "name": "呼吸" },
+        { "id": "digestion_absorption", "name": "消化と吸収" },
+        { "id": "metabolism", "name": "代謝" },
+        { "id": "body_temperature", "name": "体温" },
+        { "id": "excretion", "name": "排泄" },
+        { "id": "endocrine_regulation", "name": "内分泌" },
+        { "id": "reproduction_growth", "name": "生殖と成長" },
+        { "id": "nervous_regulation", "name": "神経" },
+        { "id": "muscle_physiology", "name": "筋肉" },
+        { "id": "body_movement", "name": "身体の運動" },
+        { "id": "sensation", "name": "感覚" },
+        { "id": "body_defense", "name": "生体の防御機構" },
+        { "id": "homeostasis_rhythm", "name": "ホメオスタシスと生体リズム" }
+      ]
+    },
+    {
+      "id": "pathology",
+      "name": "病理学概論",
+      "type": "basic",
+      "path": "data/basic/pathology.json",
+      "categories": [
+        { "id": "pathology_basis", "name": "病理学の基礎" },
+        { "id": "pathology_etiology", "name": "病因" },
+        { "id": "cellular_injury_repair", "name": "細胞傷害と修復" },
+        { "id": "circulatory_disorder", "name": "循環障害" },
+        { "id": "inflammation", "name": "炎症" },
+        { "id": "immune_disorder", "name": "免疫異常" },
+        { "id": "tumor", "name": "腫瘍" }
+      ]
+    },
+    {
+      "id": "clinical_general",
+      "name": "臨床医学総論",
+      "type": "basic",
+      "path": "data/basic/clinical_general.json",
+      "categories": [
+        { "id": "symptoms", "name": "症候" },
+        { "id": "examination", "name": "診察法" },
+        { "id": "clinical_test", "name": "臨床検査法" },
+        { "id": "therapy", "name": "治療法" },
+        { "id": "psychotherapy", "name": "精神療法" },
+        { "id": "no_category", "name": "該当項目なし" }
+      ]
+    },
+    {
+      "id": "clinical_special",
+      "name": "臨床医学各論",
+      "type": "basic",
+      "path": "data/basic/clinical_special.json",
+      "categories": [
+        { "id": "infectious_special", "name": "感染症" },
+        { "id": "neuro_muscular_disease", "name": "神経・筋疾患" },
+        { "id": "respiratory_disease", "name": "呼吸器・胸壁疾患" },
+        { "id": "cardiovascular_disease", "name": "循環器疾患" },
+        { "id": "digestive_disease", "name": "消化器疾患" },
+        { "id": "renal_urological_reproductive", "name": "腎泌尿生殖器疾患" },
+        { "id": "hematological_disease", "name": "血液・造血器疾患" },
+        { "id": "metabolic_nutritional", "name": "代謝・栄養疾患" },
+        { "id": "endocrine_disease", "name": "内分泌疾患" },
+        { "id": "allergy_autoimmune", "name": "アレルギー・自己免疫疾患" },
+        { "id": "locomotor_disease", "name": "運動器疾患" },
+        { "id": "skin_head_neck_breast", "name": "皮膚・頭頸部・乳房疾患" },
+        { "id": "mental_psychosomatic", "name": "精神・心身医学的疾患" },
+        { "id": "pediatric_disease", "name": "小児疾患" }
+      ]
+    },
+    {
+      "id": "rehab",
+      "name": "リハビリテーション医学",
+      "type": "basic",
+      "path": "data/basic/rehab.json",
+      "categories": [
+        { "id": "rehab_overview", "name": "リハビリテーションの概要" },
+        { "id": "medical_rehab_overview", "name": "医学的リハビリテーションの概要" },
+        { "id": "disability_evaluation", "name": "障害の評価" },
+        { "id": "rehab_therapy", "name": "リハビリテーション治療" },
+        { "id": "kinesiology", "name": "運動学" },
+        { "id": "stroke_rehab", "name": "脳卒中のリハビリテーション" },
+        { "id": "spinal_cord_rehab", "name": "脊髄損傷のリハビリテーション" },
+        { "id": "amputation_rehab", "name": "切断のリハビリテーション" },
+        { "id": "pediatric_rehab", "name": "小児のリハビリテーション" },
+        { "id": "respiratory_cardio_rehab", "name": "呼吸器・循環器疾患のリハビリテーション" },
+        { "id": "locomotor_rehab", "name": "運動器疾患のリハビリテーション" },
+        { "id": "neurological_rehab", "name": "神経疾患のリハビリテーション" }
+      ]
+    },
+    {
+      "id": "oriental_intro",
+      "name": "東洋医学概論",
+      "type": "specialized",
+      "path": "data/specialized/oriental_intro.json",
+      "categories": [
+        { "id": "oriental_basis", "name": "東洋医学の基礎" },
+        { "id": "essence_qi_blood_fluid_spirit", "name": "精、気、血、水（津液）と神の生理" },
+        { "id": "visceral_manifestation", "name": "蔵象論" },
+        { "id": "meridian_theory", "name": "経絡論" },
+        { "id": "etiology_theory", "name": "病因論" },
+        { "id": "pathology_syndrome", "name": "病理・病証" },
+        { "id": "oriental_diagnostics", "name": "東洋医学的診察法と証の立て方" },
+        { "id": "oriental_therapy", "name": "治療法" }
+      ]
+    },
+    {
+      "id": "meridian",
+      "name": "経絡経穴概論",
+      "type": "specialized",
+      "path": "data/specialized/meridian.json",
+      "categories": [
+        { "id": "meridian_significance", "name": "経絡の意義" },
+        { "id": "acupoint_overview", "name": "経穴の意義と概要" },
+        { "id": "extraordinary_vessel_acupoint", "name": "所属経穴を持つ奇経" },
+        { "id": "twelve_regular_meridian", "name": "正経十二経脈" },
+        { "id": "acupoint_application", "name": "経穴の応用" },
+        { "id": "modern_research_meridian_acupoint", "name": "経絡・経穴の現代医学的研究" }
+      ]
+    },
+    {
+      "id": "oriental_clinical",
+      "name": "東洋医学臨床論",
+      "type": "specialized",
+      "path": "data/specialized/oriental_clinical.json",
+      "categories": [
+        { "id": "oriental_diagnosis_planning", "name": "診断の意義と治療計画" },
+        { "id": "oriental_examination_recording", "name": "診察法と記録法" },
+        { "id": "oriental_clinical_basis", "name": "治療の基礎" },
+        { "id": "acupuncture_moxibustion_symptoms", "name": "症候に対する鍼灸診療" },
+        { "id": "acupuncture_moxibustion_diseases", "name": "疾患に対する鍼灸診療" },
+        { "id": "geriatric_acupoint_therapy", "name": "高齢者に対する鍼灸施術" },
+        { "id": "sports_acupoint_therapy", "name": "スポーツ領域における鍼灸治療" },
+        { "id": "industrial_hygiene_acupoint", "name": "産業衛生における鍼灸治療" },
+        { "id": "health_acupoint_therapy", "name": "健康と鍼灸治療" }
+      ]
+    },
+    {
+      "id": "acupuncture",
+      "name": "はり理論",
+      "type": "specialized",
+      "path": "data/specialized/acupuncture.json",
+      "categories": [
+        { "id": "acupuncture_basics", "name": "鍼の基礎知識" },
+        { "id": "basic_needling_techniques", "name": "基本的な刺鍼方法" },
+        { "id": "special_needling_methods", "name": "特殊鍼法" },
+        { "id": "acupuncture_clinical_application", "name": "鍼の臨床応用" },
+        { "id": "acupuncture_risk_management", "name": "リスク管理" },
+        { "id": "acupuncture_mechanism_basics", "name": "鍼治効の基礎" },
+        { "id": "acupuncture_mechanism_theories", "name": "鍼療法の治効理論" },
+        { "id": "related_acupuncture_theories", "name": "関連学説" }
+      ]
+    },
+    {
+      "id": "moxibustion",
+      "name": "きゅう理論",
+      "type": "specialized",
+      "path": "data/specialized/moxibustion.json",
+      "categories": [
+        { "id": "moxibustion_basics", "name": "灸の基礎知識" },
+        { "id": "moxibustion_types", "name": "灸術の種類" },
+        { "id": "moxibustion_clinical_application", "name": "灸の臨床応用" },
+        { "id": "moxibustion_risk_management", "name": "リスク管理" },
+        { "id": "moxibustion_mechanism_basics", "name": "灸治効の基礎" },
+        { "id": "moxibustion_mechanism_theories", "name": "灸療法の治効理論" },
+        { "id": "related_moxibustion_theories", "name": "関連学説" }
+      ]
+    }
+  ]
+}
