@@ -316,7 +316,7 @@ function displayQuestion() {
   const subjectName = selectSubject.querySelector(`option[value="${question.subject}"]`)?.textContent || question.subject;
   quizTagSubject.textContent = subjectName;
   quizTagCategory.textContent = question.category;
-  quizTagRound.textContent = `第${question.round}回 問${question.number}`;
+  quizTagRound.textContent = `第${question.round}回 問${question.round_question_number}`;
 
   // 問題文の表示
   quizQuestion.textContent = question.question;
