@@ -359,4 +359,444 @@
     "is_irregular": false,
     "irregular_reason": ""
   }
+    {
+    "id": "laws_23_013",
+    "subject": "laws",
+    "category": "ahaki_practice",
+    "sub_category": "",
+    "category_question_number": 8,
+    "round": 23,
+    "round_question_number": 13,
+    "question": "あん摩マッサージ指圧師、はり師、きゅう師等に関する法律で専用の施術室として必要な面積はどれか。",
+    "options": [
+      "3.3平方メートル以上",
+      "5.5平方メートル以上",
+      "6.6平方メートル以上",
+      "7.7平方メートル以上"
+    ],
+    "answer": 2,
+    "explanation": "【解説】問題6の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_27_014",
+    "subject": "laws",
+    "category": "ahaki_practice",
+    "sub_category": "",
+    "category_question_number": 9,
+    "round": 27,
+    "round_question_number": 14,
+    "question": "あん摩マッサージ指圧師、はり師、きゅう師等に関する法律に基づいて施術所を開設した場合、適切でないのはどれか。",
+    "options": [
+      "待合室は10平方メートルとした。",
+      "施術に用いる器具・手指等の消毒設備を用意した。",
+      "採光、照明及び換気を充分にした。",
+      "施術室の一角を待合室とした。"
+    ],
+    "answer": 3,
+    "explanation": "【解説】4：施術所の構造設備基準として、専用の施術室が必要である［あはき法規則第25条］。1、2、3：問題6の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_28_014",
+    "subject": "laws",
+    "category": "ahaki_practice",
+    "sub_category": "",
+    "category_question_number": 10,
+    "round": 28,
+    "round_question_number": 14,
+    "question": "あん摩マッサージ指圧師、はり師、きゅう師等に関する法律（あはき法）で施術者もしくは施術所の開設者から必要な報告を提出させることができるのはどれか。",
+    "options": [
+      "市町村長",
+      "都道府県知事",
+      "地方厚生局長",
+      "厚生労働大臣"
+    ],
+    "answer": 1,
+    "explanation": "【解説】2：都道府県知事は、施術者若しくは施術所の開設者から施術所の構造設備もしくは衛生上の措置の実施状況について報告を提出させることができる。また、当該職員にその施術所に臨検し検査させることができる［あはき法第10条第1項］。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_26_014",
+    "subject": "laws",
+    "category": "ahaki_practice",
+    "sub_category": "",
+    "category_question_number": 11,
+    "round": 26,
+    "round_question_number": 14,
+    "question": "あん摩マッサージ指圧師、はり師、きゅう師等に関する法律で、施術所につき衛生上必要な措置が講じられていないとき、その使用制限を命じることができるのはどれか。",
+    "options": [
+      "厚生労働大臣",
+      "都道府県知事",
+      "市区町村長",
+      "保健所長"
+    ],
+    "answer": 1,
+    "explanation": "【解説】2：都道府県知事は、施術所の衛生上の措置が講じられていないと認めるときは、その開設者に対し施術所の使用制限・禁止または衛生上必要な措置を講ずべき旨を命ずることができる［あはき法第11条第2項］。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_30_011",
+    "subject": "laws",
+    "category": "ahaki_practice",
+    "sub_category": "",
+    "category_question_number": 12,
+    "round": 30,
+    "round_question_number": 11,
+    "question": "あはき法で、都道府県知事が施術者に対し、衛生上害を生ずるおそれがあると認める業務に関して必要な指示をするとき、その指示に関して意見を述べることができるのはどれか。",
+    "options": [
+      "地方厚生局長",
+      "市町村長",
+      "保健所長",
+      "医師の団体"
+    ],
+    "answer": 3,
+    "explanation": "【解説】4：医師の団体は、都道府県知事が行った施術者に対する指示に関して、都道府県知事に意見を述べることができる［あはき法第8条第2項］。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_30_013",
+    "subject": "laws",
+    "category": "ahaki_practice",
+    "sub_category": "",
+    "category_question_number": 13,
+    "round": 30,
+    "round_question_number": 13,
+    "question": "あはき法で、施術所について広告できるのはどれか。",
+    "options": [
+      "パルス鍼",
+      "やいと",
+      "認定鍼灸師",
+      "労災保険の適用"
+    ],
+    "answer": 1,
+    "explanation": "【解説】2：広告できる事項は①施術者である旨、施術者の氏名・住所、②業務の種類、③施術所の名称・電話番号・所在の場所を表示する事項、④施術日・施術時間［以上、あはき法第7条第1項］。⑤もみりょうじ、⑥やいと・えつ、⑦小児鍼（はり）、⑧医療保険療養費支給申請ができる旨、⑨予約に基づく施術の実施、⑩休日・夜間における施術の実施、⑪出張による施術の実施、⑫駐車設備に関する事項［以上、厚生省告示第69号］。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_32_012",
+    "subject": "laws",
+    "category": "ahaki_practice",
+    "sub_category": "",
+    "category_question_number": 14,
+    "round": 32,
+    "round_question_number": 12,
+    "question": "あはき法で、施術所について広告できるのはどれか。",
+    "options": [
+      "美容鍼",
+      "中国鍼",
+      "小児鍼",
+      "電気鍼"
+    ],
+    "answer": 2,
+    "explanation": "【解説】3：問題13の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_25_014",
+    "subject": "laws",
+    "category": "penalties",
+    "sub_category": "あん摩マッサージ指圧師、はり師、きゅう師に関する罰則",
+    "category_question_number": 1,
+    "round": 25,
+    "round_question_number": 14,
+    "question": "あん摩マッサージ指圧師、はり師、きゅう師等に関する法律で、はり師が必要な消毒をしなかったときの罰則はどれか。",
+    "options": [
+      "1年以下の懲役",
+      "50万円以下の罰金",
+      "30万円以下の罰金",
+      "期間を定めた業務停止"
+    ],
+    "answer": 2,
+    "explanation": "【解説】1：指定試験（登録）機関に関する罰則には1年以下の懲役はあるが、施術者の罰則には規定されていない。2：50万円以下の罰金に処されるのは、①無免許で施術を行った者、②虚偽または不正の事実に基づいて免許を受けた者、③秘密保持義務違反である［あはき法第13条の7］。\n3：30万円以下の罰金に処されるのは、①あマ指師の脱臼または骨折の患部への施術禁止違反（要医師の同意）、②広告制限違反、③はり師の消毒義務違反、④厚生労働大臣または都道府県知事の施術者に対する指示違反、⑤業務停止命令違反、⑥施術所の届出義務違反又は虚偽の届出、⑦報告・臨検に応じる義務違反、⑧施術所の使用禁止・改善命令等違反、⑨届出医業類似行為業者の業務停止命令違反である［あはき法第13条の8］。\n4：業務停止の処分を受けるのは欠格事由に該当した場合である［あはき法第9条］。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_27_015",
+    "subject": "laws",
+    "category": "penalties",
+    "sub_category": "あん摩マッサージ指圧師、はり師、きゅう師に関する罰則",
+    "category_question_number": 2,
+    "round": 27,
+    "round_question_number": 15,
+    "question": "あん摩マッサージ指圧師、はり師、きゅう師等に関する法律で、業務停止を命ぜられた者がその期間中に業務を行った場合の罰則はどれか。",
+    "options": [
+      "免許取消し",
+      "30万円以下の罰金",
+      "50万円以下の罰金",
+      "1年以下の懲役"
+    ],
+    "answer": 1,
+    "explanation": "【解説】問題1の解説を参照。業務停止命令違反は30万円以下の罰金。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_29_013",
+    "subject": "laws",
+    "category": "penalties",
+    "sub_category": "あん摩マッサージ指圧師、はり師、きゅう師に関する罰則",
+    "category_question_number": 3,
+    "round": 29,
+    "round_question_number": 13,
+    "question": "あはき法で、30万円以下の罰金に処せられるのはどれか。",
+    "options": [
+      "きゅう師が灸頭鍼を行った。",
+      "虚偽の事実に基づいてきゅう師免許を取得した。",
+      "はり師が医師の同意を得ずに骨折の患部に鍼施術した。",
+      "はり師が必要な消毒をせずに鍼施術した。"
+    ],
+    "answer": 3,
+    "explanation": "【解説】問題1の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_30_014",
+    "subject": "laws",
+    "category": "penalties",
+    "sub_category": "あん摩マッサージ指圧師、はり師、きゅう師に関する罰則",
+    "category_question_number": 4,
+    "round": 30,
+    "round_question_number": 14,
+    "question": "あはき法で定められている罰則で量刑が最も重いのはどれか。",
+    "options": [
+      "はり師が消毒をせずに施術した。",
+      "施術所の開設を届け出なかった。",
+      "施術者が都道府県知事の指示に違反した。",
+      "施術者が秘密保持義務に違反した。"
+    ],
+    "answer": 3,
+    "explanation": "【解説】問題1の解説を参照。4は50万円以下の罰金。1、2、3は30万円以下の罰金。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_31_012",
+    "subject": "laws",
+    "category": "penalties",
+    "sub_category": "あん摩マッサージ指圧師、はり師、きゅう師に関する罰則",
+    "category_question_number": 5,
+    "round": 31,
+    "round_question_number": 12,
+    "question": "あはき法で、施術者が都道府県知事に虚偽の報告をしたときの罰則はどれか。",
+    "options": [
+      "免許の取消し",
+      "1年以下の懲役",
+      "50万円以下の罰金",
+      "30万円以下の罰金"
+    ],
+    "answer": 3,
+    "explanation": "【解説】問題1の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_28_012",
+    "subject": "laws",
+    "category": "related_regulations",
+    "sub_category": "医療関係法規",
+    "category_question_number": 1,
+    "round": 28,
+    "round_question_number": 12,
+    "question": "施術所の名称を考えるときに遵守しなければならない法律はどれか。",
+    "options": [
+      "医師法",
+      "医療法",
+      "保健師助産師看護師法",
+      "理学療法士及び作業療法士法"
+    ],
+    "answer": 1,
+    "explanation": "【解説】2：医療法は医療施設及び医療提供の理念に関する基本法規であり、病院、診療所（医院、クリニック）、助産所の類似名称の使用制限が定められている［医療法第3条］。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_32_014",
+    "subject": "laws",
+    "category": "related_regulations",
+    "sub_category": "医療関係法規",
+    "category_question_number": 2,
+    "round": 32,
+    "round_question_number": 14,
+    "question": "施術所の名称を付ける際に留意しなければならない法律はどれか。",
+    "options": [
+      "医療法",
+      "医師法",
+      "地域保健法",
+      "健康増進法"
+    ],
+    "answer": 0,
+    "explanation": "【解説】1：問題1の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_23_014",
+    "subject": "laws",
+    "category": "related_regulations",
+    "sub_category": "医療関係法規",
+    "category_question_number": 3,
+    "round": 23,
+    "round_question_number": 14,
+    "question": "施術所の名称として使用できるのはどれか。",
+    "options": [
+      "東京はりクリニック",
+      "東京はり科医院",
+      "東京きゅう治療院",
+      "東京きゅう診療所"
+    ],
+    "answer": 2,
+    "explanation": "【解説】施術所の名称については、医療法により病院、診療所またはこれに紛らわしい名称を付すことが禁じられている。\n1、4：はり、きゅうの文字を使用しているが、クリニック、診療所は医療法によって使用が禁止されている。なお医療法には「クリニック」の具体的な文言は規定していないが、診療所に紛らわしい名称となる。\n2：医院の名称も使えないが、「科」は医療機関の診療科目と紛らわしいので使用することができない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_23_012",
+    "subject": "laws",
+    "category": "related_regulations",
+    "sub_category": "医療関係法規",
+    "category_question_number": 4,
+    "round": 23,
+    "round_question_number": 12,
+    "question": "医療法による特定機能病院に必要な条件はどれか。",
+    "options": [
+      "都道府県知事の承認",
+      "高度医療を提供する能力",
+      "救急医療を提供する能力",
+      "200以上の患者を入院させるための施設"
+    ],
+    "answer": 1,
+    "explanation": "【解説】特定機能病院は、社会保障審議会の意見を聴いて厚生労働大臣が承認する。さらに高度医療を提供する能力などを有し、16以上の診療科名を含み、400以上の患者を入院させるための施設を有するといった要件がある。\n1、3、4：地域医療支援病院の要件である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_26_015",
+    "subject": "laws",
+    "category": "related_regulations",
+    "sub_category": "医療関係法規",
+    "category_question_number": 5,
+    "round": 26,
+    "round_question_number": 15,
+    "question": "助産所について定めている法律はどれか。",
+    "options": [
+      "地域保健法",
+      "医師法",
+      "保健師助産師看護師法",
+      "医療法"
+    ],
+    "answer": 3,
+    "explanation": "【解説】4：医療法は、医療に関する選択の支援など、医療の安全の確保、病院、診療所および助産所の開設など・管理・監督、医療提供体制の確保、医療法人、地域医療連携推進法人について規定している。助産所の定義については、同法第2条で定められている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_31_014",
+    "subject": "laws",
+    "category": "related_regulations",
+    "sub_category": "医療関係法規",
+    "category_question_number": 6,
+    "round": 31,
+    "round_question_number": 14,
+    "question": "都道府県等に医療安全支援センターを設けるよう定めている法律はどれか。",
+    "options": [
+      "医療法",
+      "健康増進法",
+      "地域保健法",
+      "医薬品医療機器等法"
+    ],
+    "answer": 0,
+    "explanation": "【解説】都道府県、保健所を設置する市及び特別区は、医療安全支援センターを設けるよう努めなければならない［医療法第6条の13］。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_27_012",
+    "subject": "laws",
+    "category": "related_regulations",
+    "sub_category": "社会福祉(保険)関係の法律",
+    "category_question_number": 7,
+    "round": 27,
+    "round_question_number": 12,
+    "question": "生活保護法による扶助で現物給付はどれか。",
+    "options": [
+      "教育扶助",
+      "住宅扶助",
+      "医療扶助",
+      "生活扶助"
+    ],
+    "answer": 2,
+    "explanation": "【解説】保護の種類は次の通りである。①生活扶助、②教育扶助、③住宅扶助、④医療扶助、⑤介護扶助、⑥出産扶助、⑦生業扶助、⑧葬祭扶助［生活保護法第11条］。保護のうち3：医療扶助と介護扶助は、原則、現物給付によって支給される。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_23_015",
+    "subject": "laws",
+    "category": "related_regulations",
+    "sub_category": "社会福祉(保険)関係の法律",
+    "category_question_number": 8,
+    "round": 23,
+    "round_question_number": 15,
+    "question": "高齢者の医療の確保に関する法律における特定健康診査の対象者の年齢はどれか。",
+    "options": [
+      "20歳以上",
+      "40歳以上",
+      "65歳以上",
+      "75歳以上"
+    ],
+    "answer": 1,
+    "explanation": "【解説】この法律は前期高齢者（65歳〜74歳）、後期高齢者（75歳以上）に区分し、高齢者の医療費負担を調整しているが、さらに40歳以上の者の糖尿病等の生活習慣病の予防、早期発見、指導等を目的として、市町村（特別区）が実施主体となり特定健康診査を実施している。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_25_015",
+    "subject": "laws",
+    "category": "related_regulations",
+    "sub_category": "社会福祉(保険)関係の法律",
+    "category_question_number": 9,
+    "round": 25,
+    "round_question_number": 15,
+    "question": "受動喫煙の防止を規定しているのはどれか。",
+    "options": [
+      "健康増進法",
+      "地域保健法",
+      "介護保険法",
+      "高齢者の医療の確保に関する法律"
+    ],
+    "answer": 0,
+    "explanation": "【解説】1：健康増進法は、生活習慣病を防ぐことを含めて食生活、運動、飲酒、喫煙などの生活習慣改善を健康増進の概念とし、国民の栄養の改善その他の国民の健康の増進を図るための措置を講じ、もって国民保健の向上を図ることを目的としている。第25条では、公共の場での受動喫煙の防止を規定している。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "laws_29_014",
+    "subject": "laws",
+    "category": "related_regulations",
+    "sub_category": "社会福祉(保険)関係の法律",
+    "category_question_number": 10,
+    "round": 29,
+    "round_question_number": 14,
+    "question": "保健所の設置根拠となる法律はどれか。",
+    "options": [
+      "医療法",
+      "感染症法",
+      "健康増進法",
+      "地域保健法"
+    ],
+    "answer": 3,
+    "explanation": "【解説】4：保健所は都道府県、地方自治法の指定都市、中核市、政令で定める市、特別区に設置する〔法第5条〕。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  }
 ]
