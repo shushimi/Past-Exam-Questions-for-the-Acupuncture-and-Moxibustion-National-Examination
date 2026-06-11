@@ -189,6 +189,50 @@ body {
 }
 
 /* ==========================================================================
+   ボタン式選択UI（タグ風）の追加設定
+   ========================================================================== */
+.button-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.toggle-btn {
+  background-color: #f0f2f5;
+  border: 1px solid #ccd0d5;
+  color: #444;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  user-select: none; /* スマホでのテキスト選択を防ぐ */
+}
+
+.toggle-btn:hover {
+  background-color: #e4e6eb;
+}
+
+/* 選択されている状態のボタン */
+.toggle-btn.active {
+  background-color: #007bff;
+  color: #ffffff;
+  border-color: #007bff;
+}
+
+/* 専門基礎/専門科目 などの見出しラベル */
+.group-label {
+  width: 100%;
+  font-size: 12px;
+  color: #888;
+  margin-top: 12px;
+  margin-bottom: 2px;
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 4px;
+}
+
+/* ==========================================================================
    4. 問題解答画面
    ========================================================================== */
 .quiz-header {
