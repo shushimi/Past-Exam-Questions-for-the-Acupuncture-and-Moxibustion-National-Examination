@@ -309,30 +309,69 @@ function handleAnswerSelect(selectedIndex) {
   isAnswered = true;
 
   const question = currentQuestions[currentQuestionIndex];
-  const correctIndex = question.answer;
   const optionButtons = quizOptions.querySelectorAll(".option-btn");
-  const isCorrect = (selectedIndex === correctIndex);
-
-  if (isCorrect) {
-    score++;
-    feedbackStatus.className = "feedback-correct";
-    feedbackStatus.textContent = "正解！";
-  } else {
-    feedbackStatus.className = "feedback-incorrect";
-    feedbackStatus.textContent = `不正解（正解: ${correctIndex + 1}）`;
+  
+  // answerが単一数値、配列、nullのどのパターンで来ても処理できるように配列化する
+  let correctAnswers = [];
+  if (Array.isArray(question.answer)) {
+    correctAnswers = question.answer;        // 複数正解の場合 [1, 3] など
+  } else if (question.answer !== null) {
+    correctAnswers = [question.answer];      // 通常の単一正解の場合 [0] など
   }
 
+  let isCorrect = false;
+
+  // 正誤判定
+  if (correctAnswers.length === 0) {
+    // answerが null の場合（解答なし、不適切問題）は何を選んでもボーナス正解とする
+    isCorrect = true;
+    score++;
+    feedbackStatus.className = "feedback-correct";
+    feedbackStatus.textContent = "正解扱い（不適切問題・全員加点など）";
+  } else {
+    // ユーザーが選んだ選択肢が、正解の配列の中に含まれているか
+    isCorrect = correctAnswers.includes(selectedIndex);
+
+    if (isCorrect) {
+      score++;
+      feedbackStatus.className = "feedback-correct";
+      feedbackStatus.textContent = "正解！";
+    } else {
+      feedbackStatus.className = "feedback-incorrect";
+      // 正解の番号（+1して元の数値に戻す）をカンマ区切りで表示
+      const correctText = correctAnswers.map(ans => ans + 1).join(", ");
+      feedbackStatus.textContent = `不正解（正解: ${correctText}）`;
+    }
+  }
+
+  // ボタンの装飾（色付け）
   optionButtons.forEach((btn, index) => {
     btn.classList.add("disabled");
-    if (index === correctIndex) btn.classList.add("correct");
-    else if (index === selectedIndex) btn.classList.add("incorrect");
-    else btn.classList.add("fade");
+    
+    if (correctAnswers.includes(index)) {
+      // 正解のボタンはすべて緑色にする
+      btn.classList.add("correct");
+    } else if (index === selectedIndex && !isCorrect) {
+      // 間違えて選んだボタンは赤色にする
+      btn.classList.add("incorrect");
+    } else {
+      // それ以外は半透明にする
+      btn.classList.add("fade");
+    }
   });
 
-  updateHistory(question.id, isCorrect);
-  quizExplanation.textContent = question.explanation;
+  // 万が一、不適切問題の理由が書いてあれば解説の冒頭に赤字で追記する
+  let explanationHTML = "";
+  if (question.is_irregular && question.irregular_reason) {
+    explanationHTML += `<span style="color: #dc3545; font-weight: bold;">【注意】${question.irregular_reason}</span><br><br>`;
+  }
+  explanationHTML += question.explanation;
+
+  quizExplanation.innerHTML = explanationHTML;
   quizFeedback.style.display = "block";
   quizFeedback.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+
+  updateHistory(question.id, isCorrect);
 }
 
 function updateHistory(questionId, isCorrect) {
