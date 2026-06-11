@@ -2,8 +2,7 @@
   {
     "id": "anatomy_31_015",
     "subject": "anatomy",
-    "category": "人体の構成",
-    "sub_category": "細胞",
+    "category": "body_structure",
     "category_question_number": 1,
     "round": 31,
     "round_question_number": 15,
@@ -22,8 +21,7 @@
   {
     "id": "anatomy_25_016",
     "subject": "anatomy",
-    "category": "人体の構成",
-    "sub_category": "細胞",
+    "category": "body_structure",
     "category_question_number": 2,
     "round": 25,
     "round_question_number": 16,
@@ -42,8 +40,7 @@
   {
     "id": "anatomy_24_016",
     "subject": "anatomy",
-    "category": "人体の構成",
-    "sub_category": "組織",
+    "category": "body_structure",
     "category_question_number": 3,
     "round": 24,
     "round_question_number": 16,
@@ -62,8 +59,7 @@
   {
     "id": "anatomy_27_016",
     "subject": "anatomy",
-    "category": "人体の構成",
-    "sub_category": "組織",
+    "category": "body_structure",
     "category_question_number": 4,
     "round": 27,
     "round_question_number": 16,
@@ -75,15 +71,14 @@
       "単球"
     ],
     "answer": 0,
-    "explanation": "白血球はその種類によって、存在する割合が異なる。正常値において最も多いのは1：好中球であり、白血球の44〜74%程度を占める。2：好酸球は10%以下、3：リンパ球が20〜60%、4：単球が12%以下である。感染などによって、白血球の分画は大きく変化する。",
+    "explanation": "白血球はその種類によって、存在する割合が異なる。正常値において最も多いのは1：好中球であり、白血球の44〜74％程度を占める。2：好酸球は10％以下、3：リンパ球が20〜60％、4：単球が12％以下である。感染などによって、白血球の分画は大きく変化する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_26_016",
     "subject": "anatomy",
-    "category": "人体の構成",
-    "sub_category": "受精と発生",
+    "category": "body_structure",
     "category_question_number": 5,
     "round": 26,
     "round_question_number": 16,
@@ -102,8 +97,7 @@
   {
     "id": "anatomy_28_016",
     "subject": "anatomy",
-    "category": "人体の構成",
-    "sub_category": "受精と発生",
+    "category": "body_structure",
     "category_question_number": 6,
     "round": 28,
     "round_question_number": 16,
@@ -122,8 +116,7 @@
   {
     "id": "anatomy_23_016",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "骨格系の概要",
+    "category": "skeletal_system",
     "category_question_number": 1,
     "round": 23,
     "round_question_number": 16,
@@ -135,15 +128,14 @@
       "椎間関節"
     ],
     "answer": 0,
-    "explanation": "線維性結合組織によって骨と骨とが連結するものを線維性の連結という。線維性の連結には、縫合、1：釘植、靱帯結合の3種がある。なかでも釘植は歯根と歯槽の連結にみられる構造で、結合組織性の歯根膜によって結合される。縫合は頭蓋骨の連結、靱帯結合は黄色靱帯による椎弓の連結などでみられる。2：仙腸関節と4：椎間関節は滑膜性の連結（いわゆる関節）である。3：恥骨結合は軟骨性の連結に分類される。",
+    "explanation": "線維性結合組織によって骨と骨とが連結するものを線維性の連結という。線維性の連結には、縫合、1：釘植、靭帯結合の3種がある。なかでも釘植は歯根と歯槽の連結にみられる構造で、結合組織性の歯根膜によって結合される。縫合は頭蓋骨の連結、靭帯結合は黄色靭帯による椎弓の連結などでみられる。2：仙腸関節と4：椎間関節は滑膜性の連結（いわゆる関節）である。3：恥骨結合は軟骨性の連結に分類される。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_30_015",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "脊柱",
+    "category": "skeletal_system",
     "category_question_number": 2,
     "round": 30,
     "round_question_number": 15,
@@ -162,12 +154,11 @@
   {
     "id": "anatomy_28_017",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "脊柱",
+    "category": "skeletal_system",
     "category_question_number": 3,
     "round": 28,
     "round_question_number": 17,
-    "question": "椎骨で黄色靱帯が付着するのはどれか。",
+    "question": "椎骨で黄色靭帯が付着するのはどれか。",
     "options": [
       "椎体",
       "椎弓",
@@ -175,35 +166,33 @@
       "棘突起"
     ],
     "answer": 1,
-    "explanation": "脊柱では、複数の靱帯が上下の椎骨を結ぶように走行する。このうち、黄色靱帯は椎弓の後方を上下に結び、弾性線維が豊富なため、黄色を呈する。この靱帯が椎弓とともに脊柱管の後壁を形成する。そのほかに上下に走行する靱帯として、椎体の前面を上下に結ぶ前縦靱帯、椎体の後面を上下に結び脊柱管の前壁を形成する後縦靱帯がある。",
+    "explanation": "脊柱では、複数の靭帯が上下の椎骨を結ぶように走行する。このうち、黄色靭帯は椎弓の後方を上下に結び、弾性線維が豊富なため、黄色を呈する。この靭帯が椎弓とともに脊柱管の後壁を形成する。そのほかに上下に走行する靭帯として、椎体の前面を上下に結ぶ前縦靭帯、椎体の後面を上下に結び脊柱管の前壁を形成する後縦靭帯がある。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_32_015",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "脊柱",
+    "category": "skeletal_system",
     "category_question_number": 4,
     "round": 32,
     "round_question_number": 15,
     "question": "脊髄の背側面に最も近いのはどれか。",
     "options": [
-      "黄色靱帯",
-      "棘間靱帯",
-      "棘上靱帯",
-      "後縦靱帯"
+      "黄色靭帯",
+      "棘間靭帯",
+      "棘上靭帯",
+      "後縦靭帯"
     ],
     "answer": 0,
-    "explanation": "黄色靱帯は上下の椎弓を結ぶ靱帯で、弾性線維を多く含むため黄色を呈する。選択肢では、黄色靱帯が脊髄の背側面に最も近く、脊柱管の後壁を形成する。選択肢および脊髄を腹側から背側に向かって並べると、後縦靱帯、脊髄、黄色靱帯、棘間靱帯、棘上靱帯の順となる。後縦靱帯は椎体の後面を縦走する靱帯で、脊柱管の前壁をなす。",
+    "explanation": "黄色靭帯は上下の椎弓を結ぶ靭帯で、弾性線維を多く含むため黄色を呈する。選択肢では、黄色靭帯が脊髄の背側面に最も近く、脊柱管の後壁を形成する。選択肢および脊髄を腹側から背側に向かって並べると、後縦靭帯、脊髄、黄色靭帯、棘間靭帯、棘上靭帯の順となる。後縦靭帯は椎体の後面を縦走する靭帯で、脊柱管の前壁をなす。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_26_017",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "脊柱",
+    "category": "skeletal_system",
     "category_question_number": 5,
     "round": 26,
     "round_question_number": 17,
@@ -222,8 +211,7 @@
   {
     "id": "anatomy_24_017",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "脊柱",
+    "category": "skeletal_system",
     "category_question_number": 6,
     "round": 24,
     "round_question_number": 17,
@@ -232,18 +220,17 @@
       "生理的後弯がある。",
       "椎骨動脈は第7頸椎の横突孔を通る。",
       "環椎後頭関節は頭部の屈伸に関与する。",
-      "環椎横靱帯は歯突起前面を覆う。"
+      "環椎横靭帯は歯突起前面を覆う。"
     ],
     "answer": 2,
-    "explanation": "3：環椎後頭関節は、第1頸椎（環椎）の上関節窩と後頭骨の後頭顆が作る楕円関節で、頭部の屈曲と伸展、側屈を行う。ただし可動域は約5〜10度と大きくない。1：脊柱は生理的に弯曲する。頸椎は前方、胸椎は後方、腰椎は前方に弯曲して全体としてS字状を呈する。2：横突孔は頸椎の横突起にある孔で、第1頸椎から第6頸椎の横突孔には椎骨動脈が通る。第7頸椎の横突孔は椎骨静脈が通る。4：環椎横靱帯は歯突起の後面を覆う靱帯で、環椎の前弓の左右に付着する。厚く強力な靱帯で、頸椎の回旋時に歯突起がずれるのを防ぐ。",
+    "explanation": "3：環椎後頭関節は、第1頸椎（環椎）の上関節窩と後頭骨の後頭顆が作る楕円関節で、頭部の屈曲と伸展、側屈を行う。ただし可動域は約5〜10度と大きくない。1：脊柱は生理的に弯曲する。頸椎は前方、胸椎は後方、腰椎は前方に弯曲して全体としてS字状を呈する。2：横突孔は頸椎の横突起にある孔で、第1頸椎から第6頸椎の横突孔には椎骨動脈が通る。第7頸椎の横突孔は椎骨静脈が通る。4：環椎横靭帯は歯突起の後面を覆う靭帯で、環椎の前弓の左右に付着する。厚く強力な靭帯で、頸椎の回旋時に歯突起がずれるのを防ぐ。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_31_016",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "胸郭",
+    "category": "skeletal_system",
     "category_question_number": 7,
     "round": 31,
     "round_question_number": 16,
@@ -262,8 +249,7 @@
   {
     "id": "anatomy_25_017",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "上肢の骨格",
+    "category": "skeletal_system",
     "category_question_number": 8,
     "round": 25,
     "round_question_number": 17,
@@ -282,8 +268,7 @@
   {
     "id": "anatomy_24_018",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "上肢の骨格",
+    "category": "skeletal_system",
     "category_question_number": 9,
     "round": 24,
     "round_question_number": 18,
@@ -302,8 +287,7 @@
   {
     "id": "anatomy_29_015",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "上肢の骨格",
+    "category": "skeletal_system",
     "category_question_number": 10,
     "round": 29,
     "round_question_number": 15,
@@ -322,8 +306,7 @@
   {
     "id": "anatomy_32_016",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "下肢の骨格",
+    "category": "skeletal_system",
     "category_question_number": 11,
     "round": 32,
     "round_question_number": 16,
@@ -335,15 +318,14 @@
       "上前腸骨棘"
     ],
     "answer": 0,
-    "explanation": "骨盤の分界線は大骨盤と小骨盤を分ける構造であり、前方から恥骨結合上縁、恥骨上枝、弓状線を通って仙骨の岬角に至る。坐骨棘には仙棘靱帯、坐骨結節には仙結節靱帯がそれぞれ付着する。上前腸骨棘からは縫工筋や大腿筋膜張筋が起始するが、いずれも分界線の構成には関わらない。",
+    "explanation": "骨盤の分界線は大骨盤と小骨盤を分ける構造であり、前方から恥骨結合上縁、恥骨上枝、弓状線を通って仙骨の岬角に至る。坐骨棘には仙棘靭帯、坐骨結節には仙結節靭帯がそれぞれ付着する。上前腸骨棘からは縫工筋や大腿筋膜張筋が起始するが、いずれも分界線の構成には関わらない。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_24_019",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "下肢の骨格",
+    "category": "skeletal_system",
     "category_question_number": 12,
     "round": 24,
     "round_question_number": 19,
@@ -362,8 +344,7 @@
   {
     "id": "anatomy_23_017",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "頭蓋骨",
+    "category": "skeletal_system",
     "category_question_number": 13,
     "round": 23,
     "round_question_number": 17,
@@ -382,8 +363,7 @@
   {
     "id": "anatomy_27_017",
     "subject": "anatomy",
-    "category": "骨格系",
-    "sub_category": "頭蓋骨",
+    "category": "skeletal_system",
     "category_question_number": 14,
     "round": 27,
     "round_question_number": 17,
@@ -402,8 +382,7 @@
   {
     "id": "anatomy_23_018",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "体幹の筋",
+    "category": "muscular_system",
     "category_question_number": 1,
     "round": 23,
     "round_question_number": 18,
@@ -422,8 +401,7 @@
   {
     "id": "anatomy_30_016",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "体幹の筋",
+    "category": "muscular_system",
     "category_question_number": 2,
     "round": 30,
     "round_question_number": 16,
@@ -442,8 +420,7 @@
   {
     "id": "anatomy_31_017",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "体幹の筋",
+    "category": "muscular_system",
     "category_question_number": 3,
     "round": 31,
     "round_question_number": 17,
@@ -462,8 +439,7 @@
   {
     "id": "anatomy_28_018",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "体幹の筋",
+    "category": "muscular_system",
     "category_question_number": 4,
     "round": 28,
     "round_question_number": 18,
@@ -482,8 +458,7 @@
   {
     "id": "anatomy_25_019",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "体幹の筋",
+    "category": "muscular_system",
     "category_question_number": 5,
     "round": 25,
     "round_question_number": 19,
@@ -502,8 +477,7 @@
   {
     "id": "anatomy_24_020",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "体幹の筋",
+    "category": "muscular_system",
     "category_question_number": 6,
     "round": 24,
     "round_question_number": 20,
@@ -522,8 +496,7 @@
   {
     "id": "anatomy_24_021",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "上肢の筋",
+    "category": "muscular_system",
     "category_question_number": 7,
     "round": 24,
     "round_question_number": 21,
@@ -542,8 +515,7 @@
   {
     "id": "anatomy_32_017",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "上肢の筋",
+    "category": "muscular_system",
     "category_question_number": 8,
     "round": 32,
     "round_question_number": 17,
@@ -562,8 +534,7 @@
   {
     "id": "anatomy_30_017",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "上肢の筋",
+    "category": "muscular_system",
     "category_question_number": 9,
     "round": 30,
     "round_question_number": 17,
@@ -582,8 +553,7 @@
   {
     "id": "anatomy_29_016",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "下肢の筋",
+    "category": "muscular_system",
     "category_question_number": 10,
     "round": 29,
     "round_question_number": 16,
@@ -602,8 +572,7 @@
   {
     "id": "anatomy_25_018",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "下肢の筋",
+    "category": "muscular_system",
     "category_question_number": 11,
     "round": 25,
     "round_question_number": 18,
@@ -622,8 +591,7 @@
   {
     "id": "anatomy_31_018",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "下肢の筋",
+    "category": "muscular_system",
     "category_question_number": 12,
     "round": 31,
     "round_question_number": 18,
@@ -642,8 +610,7 @@
   {
     "id": "anatomy_27_019",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "頭頸部の筋",
+    "category": "muscular_system",
     "category_question_number": 13,
     "round": 27,
     "round_question_number": 19,
@@ -662,8 +629,7 @@
   {
     "id": "anatomy_29_017",
     "subject": "anatomy",
-    "category": "筋系",
-    "sub_category": "頭頸部の筋",
+    "category": "muscular_system",
     "category_question_number": 14,
     "round": 29,
     "round_question_number": 17,
@@ -682,8 +648,7 @@
   {
     "id": "anatomy_29_018",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "心臓",
+    "category": "cardiovascular_system",
     "category_question_number": 1,
     "round": 29,
     "round_question_number": 18,
@@ -702,8 +667,7 @@
   {
     "id": "anatomy_24_022",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "心臓",
+    "category": "cardiovascular_system",
     "category_question_number": 2,
     "round": 24,
     "round_question_number": 22,
@@ -722,8 +686,7 @@
   {
     "id": "anatomy_32_018",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "心臓",
+    "category": "cardiovascular_system",
     "category_question_number": 3,
     "round": 32,
     "round_question_number": 18,
@@ -742,8 +705,7 @@
   {
     "id": "anatomy_26_019",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "心臓",
+    "category": "cardiovascular_system",
     "category_question_number": 4,
     "round": 26,
     "round_question_number": 19,
@@ -762,8 +724,7 @@
   {
     "id": "anatomy_30_018",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "動脈系",
+    "category": "cardiovascular_system",
     "category_question_number": 5,
     "round": 30,
     "round_question_number": 18,
@@ -782,8 +743,7 @@
   {
     "id": "anatomy_28_019",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "動脈系",
+    "category": "cardiovascular_system",
     "category_question_number": 6,
     "round": 28,
     "round_question_number": 19,
@@ -795,15 +755,14 @@
       "卵巣動脈"
     ],
     "answer": 1,
-    "explanation": "【解説】上殿動脈は内腸骨動脈から分かれる大きな動脈枝で、上殿神経とともに梨状筋上孔を通って殿部に至る。中殿筋や大殿筋の一部を栄養する。上直腸動脈は下腸間膜動脈の終枝で、小骨盤の中を直腸に向かって走行し、内肛門括約筋まで達する。内側大腿回旋動脈は、外側大腿回旋動脈とともに大腿深動脈より分かれる。内転筋群の上方を大腿骨頸にそって進んで転子窩に至り、大腿外旋筋群や内転筋群等を栄養する。卵巣動脈は腹大動脈から分枝する。",
+    "explanation": "上殿動脈は内腸骨動脈から分かれる大きな動脈枝で、上殿神経とともに梨状筋上孔を通って殿部に至る。中殿筋や大殿筋の一部を栄養する。上直腸動脈は下腸間膜動脈の終枝で、小骨盤の中を直腸に向かって走行し、内肛門括約筋まで達する。内側大腿回旋動脈は、外側大腿回旋動脈とともに大腿深動脈より分かれる。内転筋群の上方を大腿骨頸にそって進んで転子窩に至り、大腿外旋筋群や内転筋群等を栄養する。卵巣動脈は腹大動脈から分枝する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_25_020",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "動脈系",
+    "category": "cardiovascular_system",
     "category_question_number": 7,
     "round": 25,
     "round_question_number": 20,
@@ -815,15 +774,14 @@
       "足背動脈 ── 深腓骨神経"
     ],
     "answer": 3,
-    "explanation": "【解説】4：足背動脈は前脛骨動脈の枝で、舟状骨と楔状骨の部分で体表から拍動を触知できる。この部分で深腓骨神経と伴行する。深腓骨神経は総腓骨神経の枝で、下腿前部の深部を下行し、前脛骨筋や長指伸筋などを支配する。その後、皮枝となって、母指と第2指の皮膚に分布する。\n1：大腿動脈は大腿三角で大腿神経と伴行し、内転筋管へ向かう。一方、閉鎖神経は閉鎖管を通る。2：膝窩動脈は、膝窩の中で脛骨神経と伴行する。伏在神経は大腿神経の皮枝で、内転筋管に向かった後に表層に出て、下腿内側と足部内側の皮膚に分布する。3：腓骨動脈は後脛骨動脈の枝で、腓骨の内側縁に向かって走行する。下腿では、後脛骨動脈が脛骨神経と伴行する。",
+    "explanation": "4：足背動脈は前脛骨動脈の枝で、舟状骨と楔状骨の部分で体表から拍動を触知できる。この部分で深腓骨神経と伴行する。深腓骨神経は総腓骨神経の枝で、下腿前部の深部を下行し、前脛骨筋や長指伸筋などを支配する。その後、皮枝となって、母指と第2指の皮膚に分布する。\n1：大腿動脈は大腿三角で大腿神経と伴行し、内転筋管へ向かう。一方、閉鎖神経は閉鎖管を通る。2：膝窩動脈は、膝窩の中で脛骨神経と伴行する。伏在神経は大腿神経の皮枝で、内転筋管に向かった後に表層に出て、下腿内側と足部内側の皮膚に分布する。3：腓骨動脈は後脛骨動脈の枝で、腓骨の内側縁に向かって走行する。下腿では、後脛骨動脈が脛骨神経と伴行する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_27_020",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "静脈系",
+    "category": "cardiovascular_system",
     "category_question_number": 8,
     "round": 27,
     "round_question_number": 20,
@@ -835,15 +793,14 @@
       "左心房に流入する前にすべてが合流する。"
     ],
     "answer": 1,
-    "explanation": "【解説】肺静脈が肺門を通過する際、両肺ともに2本の肺静脈にまとまる。よって、肺門でみられる肺静脈は左右とも2本ずつとなる。1：末梢の静脈は弁を持つが、肺静脈を含む大静脈には弁はみられない。3：弾性血管は中膜に弾性線維を多く含む血管で、心臓に近い大きな動脈でみられる。4：左心房には、左右の肺からそれぞれ2本ずつ（計4本）の肺静脈がそれぞれ開口する。",
+    "explanation": "肺静脈が肺門を通過する際、両肺ともに2本の肺静脈にまとまる。よって、肺門でみられる肺静脈は左右とも2本ずつとなる。1：末梢の静脈は弁を持つが、肺静脈を含む大静脈には弁はみられない。3：弾性血管は中膜に弾性線維を多く含む血管で、心臓に近い大きな動脈でみられる。4：左心房には、左右の肺からそれぞれ2本ずつ（計4本）の肺静脈がそれぞれ開口する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_31_019",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "静脈系",
+    "category": "cardiovascular_system",
     "category_question_number": 9,
     "round": 31,
     "round_question_number": 19,
@@ -855,15 +812,14 @@
       "肋間静脈"
     ],
     "answer": 0,
-    "explanation": "【解説】奇静脈は、肋間静脈や腰静脈、食道静脈や気管支静脈の血液を集め、第3胸椎の高さで上大静脈に注ぐ。内頸静脈は、鎖骨下静脈と合して腕頭静脈となり、さらに左右が合して上大静脈を作る。椎骨静脈は、腕頭静脈に注ぐ。",
+    "explanation": "奇静脈は、肋間静脈や腰静脈、食道静脈や気管支静脈の血液を集め、第3胸椎の高さで上大静脈に注ぐ。内頸静脈は、鎖骨下静脈と合して腕頭静脈となり、さらに左右が合して上大静脈を作る。椎骨静脈は、腕頭静脈に注ぐ。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_23_020",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "静脈系",
+    "category": "cardiovascular_system",
     "category_question_number": 10,
     "round": 23,
     "round_question_number": 20,
@@ -875,15 +831,14 @@
       "門脈 ── 下大静脈"
     ],
     "answer": 1,
-    "explanation": "【解説】2：奇静脈は胸椎の右側に沿って上行し、肋間静脈や食道静脈を集めて上大静脈に注ぐ。下大静脈と上大静脈を連絡する側副路であり、左側の半奇静脈も奇静脈に注ぐ。1：海綿静脈洞は、蝶形骨洞やトルコ鞍、下垂体周囲の静脈が不規則に吻合した網目状の血管である。海綿静脈洞を流れる静脈血は、内頸静脈に向かう。3：橈側皮静脈は、前腕の橈側から上腕二頭筋の外側を上行する皮静脈である。鎖骨下で小胸筋の上縁を越えて腋窩静脈に入る。4：門脈は上腸間膜静脈、下腸間膜静脈と脾静脈が合流して作られ、消化管で吸収された栄養を肝臓に運ぶ。門脈によって肝臓に運ばれた血液は肝静脈から排出される。",
+    "explanation": "2：奇静脈は胸椎の右側に沿って上行し、肋間静脈や食道静脈を集めて上大静脈に注ぐ。下大静脈と上大静脈を連絡する側副路であり、左側の半奇静脈も奇静脈に注ぐ。1：海綿静脈洞は、蝶形骨洞やトルコ鞍、下垂体周囲の静脈が不規則に吻合した網目状の血管である。海綿静脈洞を流れる静脈血は、内頸静脈に向かう。3：橈側皮静脈は、前腕の橈側から上腕二頭筋の外側を上行する皮静脈である。鎖骨下で小胸筋の上縁を越えて腋窩静脈に入る。4：門脈は上腸間膜静脈、下腸間膜静脈と脾静脈が合流して作られ、消化管で吸収された栄養を肝臓に運ぶ。門脈によって肝臓に運ばれた血液は肝静脈から排出される。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_26_020",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "静脈系",
+    "category": "cardiovascular_system",
     "category_question_number": 11,
     "round": 26,
     "round_question_number": 20,
@@ -895,15 +850,14 @@
       "橈側皮静脈は上腕静脈に注ぐ。"
     ],
     "answer": 2,
-    "explanation": "【解説】3：外陰部静脈は下腹部や外陰部の血液を集める皮静脈で、伏在裂孔を通って大腿静脈に合流する。\n1：奇静脈は脊柱の右側を上行する静脈で、右腰静脈や右肋間静脈のほか食道静脈や気管支静脈の血液を集め、上大静脈に注ぐ。2：内胸静脈は前胸部の血液を集め、腕頭静脈へ注ぐ。4：橈側皮静脈は上腕二頭筋の橈側を走り、鎖骨胸筋三角から腋窩静脈に合流する。",
+    "explanation": "3：外陰部静脈は下腹部や外陰部の血液を集める皮静脈で、伏在裂孔を通って大腿静脈に合流する。\n1：奇静脈は脊柱の右側を上行する静脈で、右腰静脈や右肋間静脈のほか食道静脈や気管支静脈の血液を集め、上大静脈に注ぐ。2：内胸静脈は前胸部の血液を集め、腕頭静脈へ注ぐ。4：橈側皮静脈は上腕二頭筋の橈側を走り、鎖骨胸筋三角から腋窩静脈に合流する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_30_019",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "静脈系",
+    "category": "cardiovascular_system",
     "category_question_number": 12,
     "round": 30,
     "round_question_number": 19,
@@ -915,15 +869,14 @@
       "肝静脈は肝門を通る。"
     ],
     "answer": 1,
-    "explanation": "【解説】大伏在静脈は下肢の皮静脈の血液を集め、伏在裂孔を通って大腿静脈に注ぐ。奇静脈は脊柱の右側を上行して肋間静脈などの血液を集め、上大静脈に注ぐ。尺側皮静脈は上腕の内側で腋窩静脈に注ぐ。鎖骨胸筋三角を通るのは橈側皮静脈である。肝静脈は無漿膜野から出て下大静脈に注ぐ。肝門を通過する血管は、門脈と固有肝動脈である。",
+    "explanation": "大伏在静脈は下肢の皮静脈の血液を集め、伏在裂孔を通って大腿静脈に注ぐ。奇静脈は脊柱の右側を上行して肋間静脈などの血液を集め、上大静脈に注ぐ。尺側皮静脈は上腕の内側で腋窩静脈に注ぐ。鎖骨胸筋三角を通るのは橈側皮静脈である。肝静脈は無漿膜野から出て下大静脈に注ぐ。肝門を通過する血管は、門脈と固有肝動脈である。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_28_020",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "胎児循環",
+    "category": "cardiovascular_system",
     "category_question_number": 13,
     "round": 28,
     "round_question_number": 20,
@@ -935,15 +888,14 @@
       "臍動脈"
     ],
     "answer": 0,
-    "explanation": "【解説】胎児は呼吸できない。このため胎児は母体でガス交換を行う。よって母体から戻る血液、すなわち臍静脈が最も酸素を多く含むことになる。臍静脈は静脈管（アランチウス管）を通って下大静脈に流入する。その後、右心房、卵円孔、左心房の順に流れ、左心室から体循環へと進む。体循環のうち、内腸骨動脈に至った静脈血の一部が臍動脈を通って母体に送られる。",
+    "explanation": "胎児は呼吸できない。このため胎児は母体でガス交換を行う。よって母体から戻る血液、すなわち臍静脈が最も酸素を多く含むことになる。臍静脈は静脈管（アランチウス管）を通って下大静脈に流入する。その後、右心房、卵円孔、左心房の順に流れ、左心室から体循環へと進む。体循環のうち、内腸骨動脈に至った静脈血の一部が臍動脈を通って母体に送られる。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_23_019",
     "subject": "anatomy",
-    "category": "循環器系",
-    "sub_category": "リンパ系",
+    "category": "cardiovascular_system",
     "category_question_number": 14,
     "round": 23,
     "round_question_number": 19,
@@ -955,15 +907,14 @@
       "聴診三角"
     ],
     "answer": 3,
-    "explanation": "【解説】4：聴診三角は僧帽筋の外側縁、肩甲骨の内側縁、広背筋の上縁で構成される三角で、この領域を還流したリンパは腋窩リンパ節へ流れる。その後、右側は右リンパ本幹、左側は胸管へ注ぎ、左右の静脈角（鎖骨下静脈と内頸静脈の合流部）から循環系に戻る。1：顎下三角、2：筋三角、3：後頸三角はいずれも鎖骨上部にある。これらの領域を還流したリンパは左右の頸リンパ本幹に集まり、腋窩リンパ節には還流しない。",
+    "explanation": "4：聴診三角は僧帽筋の外側縁、肩甲骨の内側縁、広背筋の上縁で構成される三角で、この領域を還流したリンパは腋窩リンパ節へ流れる。その後、右側は右リンパ本幹、左側は胸管へ注ぎ、左右の静脈角（鎖骨下静脈と内頸静脈の合流部）から循環系に戻る。1：顎下三角、2：筋三角、3：後頸三角はいずれも鎖骨上部にある。これらの領域を還流したリンパは左右の頸リンパ本幹に集まり、腋窩リンパ節には還流しない。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_24_023",
     "subject": "anatomy",
-    "category": "呼吸器系",
-    "sub_category": "鼻腔・副鼻腔",
+    "category": "respiratory_system",
     "category_question_number": 1,
     "round": 24,
     "round_question_number": 23,
@@ -975,15 +926,14 @@
       "嗅上皮は総鼻道の上部にある。"
     ],
     "answer": 3,
-    "explanation": "【解説】1：キーゼルバッハ部位は損傷すると鼻出血が生じる。この部位は鼻中隔の前下部にあり、鼻腔の内側壁に当たる。2：鼻前庭は前鼻孔から約2cmの部分で、鼻毛が生える。皮膚が覆っているため、上皮は重層扁平上皮となる。3：蝶形骨洞と後部篩骨蜂巣は上鼻道に開口する。前頭洞、上顎洞、前部篩骨蜂巣は中鼻道に開く。4：嗅上皮（嗅粘膜）はにおいを知覚する嗅細胞が並ぶ上皮で、鼻腔の天井に存在する。ただし「嗅上皮は上鼻道の上壁にある」とする書籍もみられる³⁾。",
+    "explanation": "1：キーゼルバッハ部位は損傷すると鼻出血が生じる。この部位は鼻中隔の前下部にあり、鼻腔の内側壁に当たる。2：鼻前庭は前鼻孔から約2cmの部分で、鼻毛が生える。皮膚が覆っているため、上皮は重層扁平上皮となる。3：蝶形骨洞と後部篩骨蜂巣は上鼻道に開口する。前頭洞、上顎洞、前部篩骨蜂巣は中鼻道に開く。4：嗅上皮（嗅粘膜）はにおいを知覚する嗅細胞が並ぶ上皮で、鼻腔の天井に存在する。ただし「嗅上皮は上鼻道の上壁にある」とする書籍もみられる。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_27_021",
     "subject": "anatomy",
-    "category": "呼吸器系",
-    "sub_category": "鼻腔・副鼻腔",
+    "category": "respiratory_system",
     "category_question_number": 2,
     "round": 27,
     "round_question_number": 21,
@@ -994,16 +944,15 @@
       "鼻涙管は下鼻道に開口する。",
       "鼻粘膜は重層扁平上皮からなる。"
     ],
-    "answer": 1,
-    "explanation": "【解説】1：キーゼルバッハ部位は鼻中隔の前下端部で、鼻出血の好発部位である。2：嗅上皮は鼻腔上壁（上鼻道の天井）にあり、臭気を受容する嗅細胞が集まる。4：鼻粘膜は多列円柱上皮からなり、この上皮は線毛を持つ。吸気時に取り込んだ空気中の小さな異物を、線毛によって体外に排出する役割を担う。",
+    "answer": 2,
+    "explanation": "1：キーゼルバッハ部位は鼻中隔の前下端部で、鼻出血の好発部位である。2：嗅上皮は鼻腔上壁（上鼻道の天井）にあり、臭気を受容する嗅細胞が集まる。4：鼻粘膜は多列円柱上皮からなり、この上皮は線毛を持つ。吸気時に取り込んだ空気中の小さな異物を、線毛によって体外に排出する役割を担う。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_31_020",
     "subject": "anatomy",
-    "category": "呼吸器系",
-    "sub_category": "鼻腔・副鼻腔",
+    "category": "respiratory_system",
     "category_question_number": 3,
     "round": 31,
     "round_question_number": 20,
@@ -1015,19 +964,18 @@
       "鼻涙管は中鼻道に開口する。"
     ],
     "answer": 0,
-    "explanation": "【解説】キーゼルバッハ部位は鼻出血の好発部位とされる静脈が集まった部分で、鼻中隔前端の下部（外鼻孔から約1〜1.5cm）にある。鼻前庭は外鼻孔近傍の鼻腔で、皮膚が覆う部分を指す。この部位では鼻毛が生じる。一方、嗅上皮は鼻腔の天井に位置する。上顎洞は中鼻道と交通する。鼻涙管は下鼻道に開口する。",
+    "explanation": "キーゼルバッハ部位は鼻出血の好発部位とされる静脈が集まった部分で、鼻中隔前端の下部（外鼻孔から約1〜1.5cm）にある。鼻前庭は外鼻孔近傍の鼻腔で、皮膚が覆う部分を指す。この部位では鼻毛が生じる。一方、嗅上皮は鼻腔の天井に位置する。上顎洞は中鼻道と交通する。鼻涙管は下鼻道に開口する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_23_021",
     "subject": "anatomy",
-    "category": "呼吸器系",
-    "sub_category": "喉頭",
+    "category": "respiratory_system",
     "category_question_number": 4,
     "round": 23,
     "round_question_number": 21,
-    "question": "声帯靱帯が付着するのはどれか。",
+    "question": "声帯靭帯が付着するのはどれか。",
     "options": [
       "甲状軟骨",
       "喉頭蓋軟骨",
@@ -1035,15 +983,14 @@
       "輪状軟骨"
     ],
     "answer": 0,
-    "explanation": "【解説】声帯靱帯は、披裂軟骨の前端から1：甲状軟骨の後面を結ぶ紐状の靱帯で、弾性線維に富んでいる。声帯筋はこの靱帯に沿って張り、声帯を緊張させる。2：喉頭蓋軟骨は、嚥下時に気管に蓋をするように動く弾性軟骨で、声門の上方に位置する。3：小角軟骨は、円錐状を呈した左右1対の小さな軟骨で、披裂軟骨の上方に位置している。4：輪状軟骨は気管を取り巻く輪状の軟骨で、後部が著しく高い。後壁の上縁で披裂軟骨と連結するため、声門の下方に位置する。",
+    "explanation": "声帯靭帯は、披裂軟骨の前端から1：甲状軟骨の後面を結ぶ紐状の靭帯で、弾性線維に富んでいる。声帯筋はこの靭帯に沿って張り、声帯を緊張させる。2：喉頭蓋軟骨は、嚥下時に気管に蓋をするように動く弾性軟骨で、声門の上方に位置する。3：小角軟骨は、円錐状を呈した左右1対の小さな軟骨で、披裂軟骨の上方に位置している。4：輪状軟骨は気管を取り巻く輪状の軟骨で、後部が著しく高い。後壁の上縁で披裂軟骨と連結するため、声門の下方に位置する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_29_019",
     "subject": "anatomy",
-    "category": "呼吸器系",
-    "sub_category": "肺",
+    "category": "respiratory_system",
     "category_question_number": 5,
     "round": 29,
     "round_question_number": 19,
@@ -1055,15 +1002,14 @@
       "胸管"
     ],
     "answer": 2,
-    "explanation": "【解説】肺門を通る主な構造は、気管支、肺動静脈、気管支動静脈、神経である。このうち気管支動脈は肺の栄養血管として分布する。横隔神経は横隔膜に分布する。気管は第4〜第5胸椎の高さで左右の気管支に分かれた後、肺門に向かう。胸管は脊柱にそって上行し、左鎖骨下静脈と内頸静脈の合する部分（左静脈角）から静脈に注ぐ。",
+    "explanation": "肺門を通る主な構造は、気管支、肺動静脈、気管支動静脈、神経である。このうち気管支動脈は肺の栄養血管として分布する。横隔神経は横隔膜に分布する。気管は第4〜第5胸椎の高さで左右の気管支に分かれた後、肺門に向かう。胸管は脊柱にそって上行し、左鎖骨下静脈と内頸静脈の合する部分（左静脈角）から静脈に注ぐ。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_26_021",
     "subject": "anatomy",
-    "category": "消化器系",
-    "sub_category": "口腔",
+    "category": "digestive_system",
     "category_question_number": 1,
     "round": 26,
     "round_question_number": 21,
@@ -1075,15 +1021,14 @@
       "舌骨"
     ],
     "answer": 2,
-    "explanation": "【解説】固有口腔は口腔において、歯列の後方の腔となる。ここに存在するのは、3：歯肉である。歯肉は歯根を囲む口腔粘膜の一部であり、歯列の前方にも後方にも存在するため、この選択肢が正解となる。\n1：口唇は消化管の始まりであり、口唇と歯列の間（歯列よりも前方）が口腔前庭となる。2：耳下腺は耳介の前方周囲にある漿液性の唾液腺で、導管が口腔前庭に開く。4：舌骨は下顎と咽頭の間に位置するU字型の骨で、舌根を支持する役割を持つ。",
+    "explanation": "固有口腔は口腔において、歯列の後方の腔となる。ここに存在するのは、3：歯肉である。歯肉は歯根を囲む口腔粘膜の一部であり、歯列の前方にも後方にも存在するため、この選択肢が正解となる。\n1：口唇は消化管の始まりであり、口唇と歯列の間（歯列よりも前方）が口腔前庭となる。2：耳下腺は耳介の前方周囲にある漿液性の唾液腺で、導管が口腔前庭に開く。4：舌骨は下顎と咽頭の間に位置するU字型の骨で、舌根を支持する役割を持つ。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_28_021",
     "subject": "anatomy",
-    "category": "消化器系",
-    "sub_category": "口腔",
+    "category": "digestive_system",
     "category_question_number": 2,
     "round": 28,
     "round_question_number": 21,
@@ -1095,15 +1040,14 @@
       "葉状乳頭"
     ],
     "answer": 2,
-    "explanation": "【解説】有郭乳頭は分界溝の前方にある乳頭で、分界溝に沿って逆V字状に並ぶ。茸状乳頭は舌背全面に分布する。葉状乳頭は、舌縁の後部で前後方向に数条のヒダを形成する。有郭乳頭、茸状乳頭と葉状乳頭はそれぞれ味蕾を有する。一方、糸状乳頭は舌背全体に密生する小さな乳頭である。表層の上皮は角化し、味蕾を持たない。",
+    "explanation": "有郭乳頭は分界溝の前方にある乳頭で、分界溝に沿って逆V字状に並ぶ。茸状乳頭は舌背全面に分布する。葉状乳頭は、舌縁の後部で前後方向に数条のヒダを形成する。有郭乳頭、茸状乳頭と葉状乳頭はそれぞれ味蕾を有する。一方、糸状乳頭は舌背全体に密生する小さな乳頭である。表層の上皮は角化し、味蕾を持たない。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_32_019",
     "subject": "anatomy",
-    "category": "消化器系",
-    "sub_category": "口腔",
+    "category": "digestive_system",
     "category_question_number": 3,
     "round": 32,
     "round_question_number": 19,
@@ -1115,15 +1059,14 @@
       "耳下腺管は口腔前庭の頬粘膜に開口する。"
     ],
     "answer": 3,
-    "explanation": "【解説】耳下腺管は、上顎の口腔前庭（第2大臼歯の向かい側の頬粘膜）に開口する。軟口蓋は随意筋でつくられる。嚥下の際に咽頭後壁に向かって動き、飲食物が鼻腔に逆流するのを防ぐ。内舌筋と外舌筋は、ともに舌下神経により支配される。舌扁桃は舌根部に位置する。口蓋垂の両側に位置するのは、口腔側壁にある口蓋扁桃となる。",
+    "explanation": "耳下腺管は、上顎の口腔前庭（第2大臼歯の向かい側の頬粘膜）に開口する。軟口蓋は随意筋でつくられる。嚥下の際に咽頭後壁に向かって動き、飲食物が鼻腔に逆流するのを防ぐ。内舌筋と外舌筋は、ともに舌下神経により支配される。舌扁桃は舌根部に位置する。口蓋垂の両側に位置するのは、口腔側壁にある口蓋扁桃となる。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_27_022",
     "subject": "anatomy",
-    "category": "消化器系",
-    "sub_category": "食道",
+    "category": "digestive_system",
     "category_question_number": 4,
     "round": 27,
     "round_question_number": 22,
@@ -1135,15 +1078,14 @@
       "成人では長さ約15cmである。"
     ],
     "answer": 1,
-    "explanation": "【解説】食道には生理的狭窄部が3カ所ある。輪状軟骨部、気管分岐部、噴門部である。それぞれの構造によって、管状を呈する食道は圧迫され、生理的に狭窄する。食道は気管と同じ高さから始まり、1：その高位は第6頸椎に相当する。3：食道は気管の後方を通る。4：成人における食道の長さは約25〜30cmである。一方、気管は約10cmの長さであり、2：気管の終端である気管分岐部で食道が狭窄される。",
+    "explanation": "食道には生理的狭窄部が3カ所ある。輪状軟骨部、気管分岐部、噴門部である。それぞれの構造によって、管状を呈する食道は圧迫され、生理的に狭窄する。食道は気管と同じ高さから始まり、1：その高位は第6頸椎に相当する。3：食道は気管の後方を通る。4：成人における食道の長さは約25〜30cmである。一方、気管は約10cmの長さであり、2：気管の終端である気管分岐部で食道が狭窄される。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_30_020",
     "subject": "anatomy",
-    "category": "消化器系",
-    "sub_category": "食道",
+    "category": "digestive_system",
     "category_question_number": 5,
     "round": 30,
     "round_question_number": 20,
@@ -1155,15 +1097,14 @@
       "粘膜上皮は多列線毛上皮からなる。"
     ],
     "answer": 0,
-    "explanation": "【解説】食道は喉頭および気管の後方を走行する。胸腔に入ると縦隔後部を下行して、食道裂孔を貫き噴門に至る。食道は第6頸椎の高さから始まる。食道の筋層は上部と下部で異なる。上部は横紋筋で随意性があり、下部は平滑筋で構成される。食道の粘膜上皮は、物理的な刺激に強い重層扁平上皮でつくられる。",
+    "explanation": "食道は喉頭および気管の後方を走行する。胸腔に入ると縦隔後部を下行して、食道裂孔を貫き噴門に至る。食道は第6頸椎の高さから始まる。食道の筋層は上部と下部で異なる。上部は横紋筋で随意性があり、下部は平滑筋で構成される。食道の粘膜上皮は、物理的な刺激に強い重層扁平上皮でつくられる。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_31_021",
     "subject": "anatomy",
-    "category": "消化器系",
-    "sub_category": "胃",
+    "category": "digestive_system",
     "category_question_number": 6,
     "round": 31,
     "round_question_number": 21,
@@ -1175,15 +1116,14 @@
       "大弯に小網が付着する。"
     ],
     "answer": 1,
-    "explanation": "【解説】幽門では括約筋が発達し、幽門括約筋を形成する。十二指腸で分泌される胆汁や膵液の逆流を防ぐ。幽門に連なるのは胃前庭である。胃底は胃上部の丸い終端を指す。塩酸は壁細胞（傍細胞）から分泌される。主細胞はペプシノーゲンを分泌する。胃の大弯には大網が、小弯には小網が付着する。",
+    "explanation": "幽門では括約筋が発達し、幽門括約筋を形成する。十二指腸で分泌される胆汁や膵液の逆流を防ぐ。幽門に連なるのは胃前庭である。胃底は胃上部の丸い終端を指す。塩酸は壁細胞（傍細胞）から分泌される。主細胞はペプシノーゲンを分泌する。胃の大弯には大網が、小弯には小網が付着する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_24_024",
     "subject": "anatomy",
-    "category": "消化器系",
-    "sub_category": "小腸",
+    "category": "digestive_system",
     "category_question_number": 7,
     "round": 24,
     "round_question_number": 24,
@@ -1195,15 +1135,14 @@
       "表面に腹膜垂がある。"
     ],
     "answer": 1,
-    "explanation": "【解説】小腸は十二指腸、空腸、回腸で構成される。2：パイエル板（集合リンパ小節）は回腸にあるリンパ組織の集まりで、腸内細菌の免疫制御にかかわる。パイエル板は上皮のすぐ下の粘膜固有層に存在し、効率的に腸管免疫の機能を果たす。\n1：小腸の粘膜上皮は単層円柱上皮であり、吸収機能に優れる。消化管系では噴門から直腸の肛門端の手前までが単層円柱上皮となる。3：十二指腸は腹膜後器官であり、後腹壁に固定されているため腸間膜を持たない。4：腹膜垂は、袋状の腹膜に脂肪が集積した黄色で葉状の構造である。結腸表面で観察されるが、小腸ではみられない。",
+    "explanation": "小腸は十二指腸、空腸、回腸で構成される。2：パイエル板（集合リンパ小節）は回腸にあるリンパ組織の集まりで、腸内細菌の免疫制御にかかわる。パイエル板は上皮のすぐ下の粘膜固有層に存在し、効率的に腸管免疫の機能を果たす。1：小腸の粘膜上皮は単層円柱上皮であり、吸収機能に優れる。消化管系では噴門から直腸の肛門端の手前までが単層円柱上皮となる。3：十二指腸は腹膜後器官であり、後腹壁に固定されているため腸間膜を持たない。4：腹膜垂は、袋状の腹膜に脂肪が集積した黄色で葉状の構造である。結腸表面で観察されるが、小腸ではみられない。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_29_020",
     "subject": "anatomy",
-    "category": "消化器系",
-    "sub_category": "小腸",
+    "category": "digestive_system",
     "category_question_number": 8,
     "round": 29,
     "round_question_number": 20,
@@ -1215,15 +1154,14 @@
       "回腸には腸間膜がない。"
     ],
     "answer": 0,
-    "explanation": "【解説】小腸に限らず、消化管の上皮は内胚葉で作られる。半月ヒダは結腸にあり、小腸では輪状ヒダが見られる。十二指腸空腸曲は第2腰椎の左側にあり、十二指腸提筋（トライツ靱帯）により固定される。空腸と回腸はともに腸間膜を持ち、間膜の中を走行する血管が腸管を栄養する。",
+    "explanation": "小腸に限らず、消化管の上皮は内胚葉で作られる。半月ヒダは結腸にあり、小腸では輪状ヒダが見られる。十二指腸空腸曲は第2腰椎の左側にあり、十二指腸提筋（トライツ靭帯）により固定される。空腸と回腸はともに腸間膜を持ち、間膜の中を走行する血管が腸管を栄養する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_32_020",
     "subject": "anatomy",
-    "category": "消化器系",
-    "sub_category": "大腸",
+    "category": "digestive_system",
     "category_question_number": 9,
     "round": 32,
     "round_question_number": 20,
@@ -1235,15 +1173,14 @@
       "パイエル板"
     ],
     "answer": 2,
-    "explanation": "【解説】腹膜垂は漿膜に包まれた脂肪塊で、結腸壁の外面にみられる。横行結腸で発達するが、上行結腸でも観察される。結腸で間膜を有するのは、横行結腸とS状結腸であり、上行結腸は間膜をもたない。腸絨毛は小腸粘膜の表面にある無数の小突起で、空腸で発達する。パイエル板は、リンパ小節が集合したもので長径4cm程度の大きさを呈し、回腸下部にみられる。",
+    "explanation": "腹膜垂は漿膜に包まれた脂肪塊で、結腸壁の外面にみられる。横行結腸で発達するが、上行結腸でも観察される。結腸で間膜を有するのは、横行結腸とS状結腸であり、上行結腸は間膜をもたない。腸絨毛は小腸粘膜の表面にある無数の小突起で、空腸で発達する。パイエル板は、リンパ小節が集合したもので長径4cm程度の大きさを呈し、回腸下部にみられる。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_23_022",
     "subject": "anatomy",
-    "category": "消化器系",
-    "sub_category": "大腸",
+    "category": "digestive_system",
     "category_question_number": 10,
     "round": 23,
     "round_question_number": 22,
@@ -1255,15 +1192,14 @@
       "輪状ヒダを持つ。"
     ],
     "answer": 2,
-    "explanation": "【解説】上行結腸は盲腸から右結腸曲までの結腸を指す。上行結腸が走行する部位は中腹部の右外側に相当し、1：肝臓と右結腸曲のあたりで右葉の内臓面に接する。3：上行結腸を栄養する動脈は右結腸動脈と回結腸動脈である。これらの動脈はいずれも上腸間膜動脈から分枝する。2：脾臓は腹部の左外側にあるため、上行結腸と接することはない。4：輪状ヒダは小腸にみられ、結腸ではみられない。3〜8mm程度の粘膜ヒダであり、粘膜の表面積を増やして栄養吸収を高める役割を持つ。",
+    "explanation": "上行結腸は盲腸から右結腸曲までの結腸を指す。上行結腸が走行する部位は中腹部の右外側に相当し、1：肝臓と右結腸曲のあたりで右葉の内臓面に接する。3：上行結腸を栄養する動脈は右結腸動脈と回結腸動脈である。これらの動脈はいずれも上腸間膜動脈から分枝する。2：脾臓は腹部の左外側にあるため、上行結腸と接することはない。4：輪状ヒダは小腸にみられ、結腸ではみられない。3〜8mm程度の粘膜ヒダであり、粘膜の表面積を増やして栄養吸収を高める役割を持つ。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_27_023",
     "subject": "anatomy",
-    "category": "消化器系",
-    "sub_category": "肝臓",
+    "category": "digestive_system",
     "category_question_number": 11,
     "round": 27,
     "round_question_number": 23,
@@ -1275,15 +1211,14 @@
       "肝静脈は肝門を通る。"
     ],
     "answer": 0,
-    "explanation": "【解説】1：肝実質では、肝小葉が多数観察される。肝小葉は大きさ約1mmの6角柱状を呈し、グリソン鞘は肝小葉の周囲を取り巻く。2：肝鎌状間膜は肝臓を解剖学的に分ける間膜で、左葉と右葉・尾状葉・方形葉を分ける。3：肝葉では、右葉が最も大きい。4：肝静脈は肝臓の後縁から出る太い静脈で、肝臓を出るとすぐに下大静脈に入る。肝臓の下面に位置する肝門は通過しない。",
+    "explanation": "1：肝実質では、肝小葉が多数観察される。肝小葉は大きさ約1mmの6角柱状を呈し、グリソン鞘は肝小葉の周囲を取り巻く。2：肝鎌状間膜は肝臓を解剖学的に分ける間膜で、左葉と右葉・尾状葉・方形葉を分ける。3：肝葉では、右葉が最も大きい。4：肝静脈は肝臓の後縁から出る太い静脈で、肝臓を出るとすぐに下大静脈に入る。肝臓の下面に位置する肝門は通過しない。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_30_021",
     "subject": "anatomy",
-    "category": "消化器系",
-    "sub_category": "膵臓",
+    "category": "digestive_system",
     "category_question_number": 12,
     "round": 30,
     "round_question_number": 21,
@@ -1295,15 +1230,14 @@
       "ランゲルハンス島は膵頭部に多い。"
     ],
     "answer": 2,
-    "explanation": "【解説】膵管は総胆管とともに十二指腸の下行部に開口する。開口部が大十二指腸乳頭（ファーター乳頭）であり、開口部周囲をオッディ括約筋が取り巻く。膵頭部が接するのは十二指腸で、脾臓には膵尾が接する。膵臓は腹膜後器官であり、腹膜には覆われない。内分泌を行うランゲルハンス島は膵尾に多く分布する。",
+    "explanation": "膵管は総胆管とともに十二指腸の下行部に開口する。開口部が大十二指腸乳頭（ファーター乳頭）であり、開口部周囲をオッディ括約筋が取り巻く。膵頭部が接するのは十二指腸で、脾臓には膵尾が接する。膵臓は腹膜後器官であり、腹膜には覆われない。内分泌を行うランゲルハンス島は膵尾に多く分布する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_25_021",
     "subject": "anatomy",
-    "category": "消化器系",
-    "sub_category": "腹膜",
+    "category": "digestive_system",
     "category_question_number": 13,
     "round": 25,
     "round_question_number": 21,
@@ -1315,15 +1249,14 @@
       "膵臓"
     ],
     "answer": 3,
-    "explanation": "【解説】腹膜は、腹腔内臓器の一部を覆う2層性の漿膜である。腹部臓器の一部は腹膜によって作られる間膜を持つため、可動性を有する。腸間膜を持つ2：回腸と空腸、小網を持つ3：肝臓、小網と大網を持つ胃などが、間膜を持つ臓器の代表例で、横行結腸や1：S状結腸も間膜を有する。\n腹膜後器官は腹膜の後方に存在する器官であり、後腹壁に固定されるため可動性に乏しい。腹膜後器官の代表例として、4：膵臓のほか、十二指腸、腎臓と副腎、尿管などがある。",
+    "explanation": "腹膜は、腹腔内臓器の一部を覆う2層性の漿膜である。腹部臓器の一部は腹膜によって作られる間膜を持つため、可動性を有する。腸間膜を持つ2：回腸と空腸、小網を持つ3：肝臓、小網と大網を持つ胃などが、間膜を持つ臓器の代表例で、横行結腸や1：S状結腸も間膜を有する。\n腹膜後器官は腹膜の後方に存在する器官であり、後腹壁に固定されるため可動性に乏しい。腹膜後器官の代表例として、4：膵臓のほか、十二指腸、腎臓と副腎、尿管などがある。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_29_021",
     "subject": "anatomy",
-    "category": "泌尿器系",
-    "sub_category": "腎臓",
+    "category": "urinary_system",
     "category_question_number": 1,
     "round": 29,
     "round_question_number": 21,
@@ -1335,15 +1268,14 @@
       "足細胞は糸球体表面を取り囲んでいる。"
     ],
     "answer": 3,
-    "explanation": "【解説】足細胞は糸球体の上皮細胞である。糸球体の表面に独特の突起を伸ばして、血漿タンパクや赤血球が原尿に漏れ出るのを防ぐ。腎小体は皮質でのみ観察される。腎乳頭は腎錐体の先端に開口する。集合管はネフロンに含まない。ネフロンは腎小体と尿細管から構成される。",
+    "explanation": "足細胞は糸球体の上皮細胞である。糸球体の表面に独特の突起を伸ばして、血漿タンパクや赤血球が原尿に漏れ出るのを防ぐ。腎小体は皮質でのみ観察される。腎乳頭は腎錐体の先端に開口する。集合管はネフロンに含まない。ネフロンは腎小体と尿細管から構成される。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_25_022",
     "subject": "anatomy",
-    "category": "泌尿器系",
-    "sub_category": "尿路",
+    "category": "urinary_system",
     "category_question_number": 2,
     "round": 25,
     "round_question_number": 22,
@@ -1355,15 +1287,14 @@
       "骨盤内臓神経が分布する。"
     ],
     "answer": 3,
-    "explanation": "【解説】4：第2〜第4仙骨神経には、側角から出た副交感性の節前線維が混じる。このニューロンが骨盤内臓神経となり、直腸や膀胱、生殖器などに分布し、排泄や生殖の自律神経支配を行う。\n1：解剖学的肢位において、坐骨の後方（背側）にあるのは殿筋群である。膀胱は恥骨の後方に位置する。2：膀胱と腹膜の関係において、腹膜は膀胱の上面のみを覆う。腹膜は膀胱と後方にある臓器との間で反転し、男性では膀胱直腸窩、女性では膀胱子宮窩を作る。3：膀胱頂（膀胱尖）は膀胱の前部にあって、三角錐のような形状をした膀胱の頂点に相当する。尿管が開口するのは膀胱の後部で、内尿道口と左右の尿管口で膀胱三角を形成する。",
+    "explanation": "4：第2〜第4仙骨神経には、側角から出た副交感性の節前線維が混じる。このニューロンが骨盤内臓神経となり、直腸や膀胱、生殖器などに分布し、排泄や生殖の自律神経支配を行う。\n1：解剖学的肢位において、坐骨の後方（背側）にあるのは殿筋群である。膀胱は恥骨の後方に位置する。2：膀胱と腹膜の関係において、腹膜は膀胱の上面のみを覆う。腹膜は膀胱と後方にある臓器との間で反転し、男性では膀胱直腸窩、女性では膀胱子宮窩を作る。3：膀胱頂（膀胱尖）は膀胱の前部にあって、三角錐のような形状をした膀胱の頂点に相当する。尿管が開口するのは膀胱の後部で、内尿道口と左右の尿管口で膀胱三角を形成する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_26_022",
     "subject": "anatomy",
-    "category": "泌尿器系",
-    "sub_category": "尿路",
+    "category": "urinary_system",
     "category_question_number": 3,
     "round": 26,
     "round_question_number": 22,
@@ -1375,15 +1306,14 @@
       "膀胱"
     ],
     "answer": 2,
-    "explanation": "【解説】3：尿道球腺（カウパー腺）は左右で対をなす性腺で、導管は尿道に開く。男性尿道の隔膜部（尿生殖隔膜）のなかに存在し、大きさは大豆大である。性的興奮時にアルカリ性の粘液を分泌し、酸性の尿道内を中和すると同時に、性的興奮時に亀頭の先端を濡らす役目を持つ。",
+    "explanation": "3：尿道球腺（カウパー腺）は左右で対をなす性腺で、導管は尿道に開く。男性尿道の隔膜部（尿生殖隔膜）のなかに存在し、大きさは大豆大である。性的興奮時にアルカリ性の粘液を分泌し、酸性の尿道内を中和すると同時に、性的興奮時に亀頭の先端を濡らす役目を持つ。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_28_022",
     "subject": "anatomy",
-    "category": "生殖器系",
-    "sub_category": "男性生殖器",
+    "category": "reproductive_system",
     "category_question_number": 1,
     "round": 28,
     "round_question_number": 22,
@@ -1395,35 +1325,33 @@
       "ライディッヒ細胞（間細胞）"
     ],
     "answer": 3,
-    "explanation": "【解説】精巣で男性ホルモンを分泌するのは、ライディッヒ細胞である。この細胞は、精細管の間質を構成し、下垂体から放出される黄体形成ホルモン（LH）の刺激によってテストステロン等の男性ホルモンを分泌する。精祖細胞や精母細胞はいずれも精子産生細胞で、成熟すると精子となる。セルトリ細胞は精子産生細胞を支持栄養する役割を担う。いずれも精細管の内部にあり、男性ホルモンを分泌しない。",
+    "explanation": "精巣で男性ホルモンを分泌するのは、ライディッヒ細胞である。この細胞は、精細管の間質を構成し、下垂体から放出される黄体形成ホルモン（LH）の刺激によってテストステロン等の男性ホルモンを分泌する。精祖細胞や精母細胞はいずれも精子産生細胞で、成熟すると精子となる。セルトリ細胞は精子産生細胞を支持栄養する役割を担う。いずれも精細管の内部にあり、男性ホルモンを分泌しない。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_25_023",
     "subject": "anatomy",
-    "category": "生殖器系",
-    "sub_category": "男性生殖器",
+    "category": "reproductive_system",
     "category_question_number": 2,
     "round": 25,
     "round_question_number": 23,
     "question": "男性生殖器とその位置の組合せで正しいのはどれか。",
     "options": [
-      "精巣上体 ── 陰囊",
+      "精巣上体 ── 陰嚢",
       "精管 ── 大腿輪",
       "尿道球腺 ── 骨盤隔膜",
       "射精管 ── 尿道球"
     ],
     "answer": 0,
-    "explanation": "【解説】1：精巣上体は精巣の上部に付着し、精巣と同じく陰囊に納まる。内部は細い管の集合体で、精子を貯蔵し受精能の獲得にかかわる。\n2：精管は鼠径管を通り、鼠径靱帯の上方を通って腹腔に至る。大腿輪は大腿管の入り口に当たり、鼠径靱帯の下方で大腿静脈の内側に位置する。\n3：骨盤下部にある会陰は、前方の尿生殖三角（恥骨結合と左右の坐骨結節を結ぶ三角）と後方の肛門三角に分けられる。このうち尿生殖三角は尿生殖隔膜（深会陰横筋と尿道括約筋でできる）と骨盤隔膜（肛門挙筋と尾骨筋からなる）の2つの隔膜によって覆われる。尿道球腺は尿生殖隔膜に位置する。\n4：射精管は精管の終端部を指す。精囊腺と合流した後に前立腺を貫き、前立腺内部を走行する尿道に開く。尿道海綿体の後端は丸く膨らみ、尿道球を形成する。",
+    "explanation": "1：精巣上体は精巣の上部に付着し、精巣と同じく陰嚢に納まる。内部は細い管の集合体で、精子を貯蔵し受精能の獲得にかかわる。\n2：精管は鼠径管を通り、鼠径靭帯の上方を通って腹腔に至る。大腿輪は大腿管の入り口に当たり、鼠径靭帯の下方で大腿静脈の内側に位置する。\n3：骨盤下部にある会陰は、前方の尿生殖三角（恥骨結合と左右の坐骨結節を結ぶ三角）と後方の肛門三角に分けられる。このうち尿生殖三角は尿生殖隔膜（深会陰横筋と尿道括約筋でできる）と骨盤隔膜（肛門挙筋と尾骨筋からなる）の2つの隔膜によって覆われる。尿道球腺は尿生殖隔膜に位置する。\n4：射精管は精管の終端部を指す。精嚢腺と合流した後に前立腺を貫き、前立腺内部を走行する尿道に開く。尿道海綿体の後端は丸く膨らみ、尿道球を形成する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_27_024",
     "subject": "anatomy",
-    "category": "生殖器系",
-    "sub_category": "男性生殖器",
+    "category": "reproductive_system",
     "category_question_number": 3,
     "round": 27,
     "round_question_number": 24,
@@ -1431,19 +1359,18 @@
     "options": [
       "セルトリ細胞は男性ホルモンを分泌する。",
       "射精管は陰茎を貫いている。",
-      "精子は精囊に蓄えられる。",
-      "精巣上体は陰囊内にある。"
+      "精子は精嚢に蓄えられる。",
+      "精巣上体は陰嚢内にある。"
     ],
     "answer": 3,
-    "explanation": "【解説】4：精巣上体は精巣の上部に付着しており、陰囊の内部に納まる。精子を蓄え、成熟させる。\n2：射精管は精管の終端で、前立腺を貫く。1：セルトリ細胞は精細管の内部にある大型の細胞で、精子形成細胞を支持・栄養する。精巣において男性ホルモンを分泌するのは、ライディッヒ細胞（間細胞）である。2：陰茎を貫くのは尿道である。3：精囊は精液の一部を分泌する腺である。",
+    "explanation": "4：精巣上体は精巣の上部に付着しており、陰嚢の内部に納まる。精子を蓄え、成熟させる。2：射精管は精管の終端で、前立腺を貫く。1：セルトリ細胞は精細管の内部にある大型の細胞で、精子形成細胞を支持・栄養する。精巣において男性ホルモンを分泌するのは、ライディッヒ細胞（間細胞）である。2：陰茎を貫くのは尿道である。3：精嚢は精液の一部を分泌する腺である。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_23_023",
     "subject": "anatomy",
-    "category": "生殖器系",
-    "sub_category": "女性生殖器",
+    "category": "reproductive_system",
     "category_question_number": 4,
     "round": 23,
     "round_question_number": 23,
@@ -1455,15 +1382,14 @@
       "固有卵巣索"
     ],
     "answer": 0,
-    "explanation": "【解説】鼠径管は鼠径靱帯の上方を走行する約4〜5cmの管で、性別によって通過するものが異なる。男性は、精管、精巣動脈・静脈、精巣挙筋が通過する。女性では1：子宮円索となる。子宮円索（別名：子宮円靱帯）は、子宮の外側上部と大陰唇を結ぶ細いひも状の構造物で、子宮体部を前側方に支える。2：臍動脈索は出生時に閉鎖した臍動脈が変化したもので、膀胱外側と臍を結ぶ。3：卵巣提索と4：固有卵巣索は、共に卵巣を固定する役割を持つ。卵巣提索は骨盤と卵巣を、固有卵巣索は子宮と卵巣を固定する。また、卵巣提索の内部には卵巣動脈が通っており、卵巣を栄養する役割を兼ねる。",
+    "explanation": "鼠径管は鼠径靭帯の上方を走行する約4〜5cmの管で、性別によって通過するものが異なる。男性は、精管、精巣動脈・静脈、精巣挙筋が通過する。女性では1：子宮円索となる。子宮円索（別名：子宮円靭帯）は、子宮の外側上部と大陰唇を結ぶ細いひも状の構造物で、子宮体部を前側方に支える。2：臍動脈索は出生時に閉鎖した臍動脈が変化したもので、膀胱外側と臍を結ぶ。3：卵巣提索と4：固有卵巣索は、共に卵巣を固定する役割を持つ。卵巣提索は骨盤と卵巣を、固有卵巣索は子宮と卵巣を固定する。また、卵巣提索の内部には卵巣動脈が通っており、卵巣を栄養する役割を兼ねる。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_24_025",
     "subject": "anatomy",
-    "category": "内分泌系",
-    "sub_category": "下垂体",
+    "category": "endocrine_system",
     "category_question_number": 1,
     "round": 24,
     "round_question_number": 25,
@@ -1475,15 +1401,14 @@
       "下垂体ホルモンは下垂体門脈系により標的器官に達する。"
     ],
     "answer": 1,
-    "explanation": "【解説】下垂体はトルコ鞍の下垂体窩に納まり、前葉と後葉に分かれる。このうち前葉は口蓋の腺上皮に由来しており、腺性下垂体と呼ばれる。前葉は6種のホルモンを分泌し、下垂体門脈を介して標的器官にホルモンを運搬する。一方、後葉は脳の神経組織が突出して作られており、神経性下垂体と呼ばれる。2種のホルモンを放出するが、その運搬に下垂体門脈はかかわらない。",
+    "explanation": "下垂体はトルコ鞍の下垂体窩に納まり、前葉と後葉に分かれる。このうち前葉は口蓋の腺上皮に由来しており、腺性下垂体と呼ばれる。前葉は6種のホルモンを分泌し、下垂体門脈を介して標的器官にホルモンを運搬する。一方、後葉は脳の神経組織が突出して作られており、神経性下垂体と呼ばれる。2種のホルモンを放出するが、その運搬に下垂体門脈はかかわらない。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_28_023",
     "subject": "anatomy",
-    "category": "内分泌系",
-    "sub_category": "下垂体",
+    "category": "endocrine_system",
     "category_question_number": 2,
     "round": 28,
     "round_question_number": 23,
@@ -1495,15 +1420,14 @@
       "腺性下垂体は胎生期に神経管から独立してできる。"
     ],
     "answer": 0,
-    "explanation": "【解説】視床下部は自律神経系の中枢で、体温や性行動、摂食や飲水、内分泌等を調節する。下垂体前葉の内分泌も視床下部の調節のもとで機能する。乳腺刺激ホルモン（プロラクチン, PRL）は下垂体前葉から放出される。選択肢3と4の解説については問題1を参照のこと。",
+    "explanation": "視床下部は自律神経系の中枢で、体温や性行動、摂食や飲水、内分泌等を調節する。下垂体前葉の内分泌も視床下部の調節のもとで機能する。乳腺刺激ホルモン（プロラクチン, PRL）は下垂体前葉から放出される。選択肢3と4の解説については問題1を参照のこと。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_25_024",
     "subject": "anatomy",
-    "category": "内分泌系",
-    "sub_category": "甲状腺",
+    "category": "endocrine_system",
     "category_question_number": 3,
     "round": 25,
     "round_question_number": 24,
@@ -1515,15 +1439,14 @@
       "傍濾胞細胞から出るホルモンは血中カルシウム濃度を上げる。"
     ],
     "answer": 1,
-    "explanation": "【解説】2：甲状腺は異なる2つの動脈により、血液が供給される。一つは上甲状腺動脈であり、外頸動脈の枝である。もう一つは下甲状腺動脈で、鎖骨下動脈の枝である。\n1：甲状腺は上皮小体や胸腺と共に、内胚葉に由来する内分泌器官である。3：甲状腺から出る3本の静脈のうち、左右の上甲状腺静脈と中甲状腺静脈は内頸静脈に、下甲状腺静脈は腕頭静脈に注ぐ。4：傍濾胞細胞はカルシトニンを分泌する。カルシトニンは骨吸収を抑制し、血中カルシウム濃度を低下させる。",
+    "explanation": "2：甲状腺は異なる2つの動脈により、血液が供給される。一つは上甲状腺動脈であり、外頸動脈の枝である。もう一つは下甲状腺動脈で、鎖骨下動脈の枝である。\n1：甲状腺は上皮小体や胸腺と共に、内胚葉に由来する内分泌器官である。3：甲状腺から出る3本の静脈のうち、左右の上甲状腺静脈と中甲状腺静脈は内頸静脈に、下甲状腺静脈は腕頭静脈に注ぐ。4：傍濾胞細胞はカルシトニンを分泌する。カルシトニンは骨吸収を抑制し、血中カルシウム濃度を低下させる。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_28_024",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "中枢神経系",
+    "category": "nervous_system",
     "category_question_number": 1,
     "round": 28,
     "round_question_number": 24,
@@ -1535,19 +1458,18 @@
       "仙骨"
     ],
     "answer": 1,
-    "explanation": "【解説】脊髄の下端は円錐状を呈する。このため、脊髄の終端を脊髄円錐とよぶ。その高さは第1腰椎から第2腰椎に相当する。脊髄の成長が脊柱よりも早い時期に止まるため、身体の成長に伴って脊椎と脊髄の高さにずれが生じる。脊髄円錐よりも下方では馬尾を形成する。",
+    "explanation": "脊髄の下端は円錐状を呈する。このため、脊髄の終端を脊髄円錐とよぶ。その高さは第1腰椎から第2腰椎に相当する。脊髄の成長が脊柱よりも早い時期に止まるため、身体の成長に伴って脊椎と脊髄の高さにずれが生じる。脊髄円錐よりも下方では馬尾を形成する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_29_022",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "中枢神経系",
+    "category": "nervous_system",
     "category_question_number": 2,
     "round": 29,
     "round_question_number": 22,
-    "question": "脳の部位と存在するものとの組合せで正しいのはどれか。",
+    "question": "脳の部位と存在するものの組合せで正しいのはどれか。",
     "options": [
       "大脳頭頂葉 ── 運動野",
       "間脳 ── 被蓋",
@@ -1555,15 +1477,14 @@
       "小脳 ── 虫部"
     ],
     "answer": 3,
-    "explanation": "【解説】小脳は中央部の虫部と左右に発達する半球に分けられる。虫部は主に体幹部の平衡感覚を司り、障害されると起立歩行のふらつきが出現する。一方、半球は共調運動を制御して運動の巧緻性を高めている。運動野は大脳の前頭葉に位置する。被蓋は中脳や橋で見られるが、間脳を指す用語ではない。内側膝状体は間脳にある。",
+    "explanation": "小脳は中央部の虫部と左右に発達する半球に分けられる。虫部は主に体幹部の平衡感覚を司り、障害されると起立歩行のふらつきが出現する。一方、半球は共調運動を制御して運動の巧緻性を高めている。運動野は大脳の前頭葉に位置する。被蓋は中脳や橋で見られるが、間脳を指す用語ではない。内側膝状体は間脳にある。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_26_023",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "中枢神経系",
+    "category": "nervous_system",
     "category_question_number": 3,
     "round": 26,
     "round_question_number": 23,
@@ -1575,15 +1496,14 @@
       "第4脳室は硬膜下腔に開口する。"
     ],
     "answer": 1,
-    "explanation": "【解説】2：第3脳室は左右の間脳の間にある間隙状の脳室で、前後と上下に広がっているが、左右の幅は極めて狭い。\n1：室間孔は側脳室と第3脳室を結ぶ。脈絡叢は脳脊髄液を産生する器官であり、側脳室、第3脳室、第4脳室に存在する。3：中脳水道は第3脳室と第4脳室を結ぶ脳脊髄液の細い通路であり、脈絡叢はない。4：第4脳室は左右の外側口と正中口の3カ所で、クモ膜下腔に開口する。硬膜下腔は硬膜とクモ膜の間の微少な腔であり、脳脊髄液はクモ膜と軟膜の間にあるクモ膜下腔を流れる。",
+    "explanation": "2：第3脳室は左右の間脳の間にある間隙状の脳室で、前後と上下に広がっているが、左右の幅は極めて狭い。\n1：室間孔は側脳室と第3脳室を結ぶ。脈絡叢は脳脊髄液を産生する器官であり、側脳室、第3脳室、第4脳室に存在する。3：中脳水道は第3脳室と第4脳室を結ぶ脳脊髄液の細い通路であり、脈絡叢はない。4：第4脳室は左右の外側口と正中口の3カ所で、クモ膜下腔に開口する。硬膜下腔は硬膜とクモ膜の間の微少な腔であり、脳脊髄液はクモ膜と軟膜の間にあるクモ膜下腔を流れる。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_23_024",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "中枢神経系",
+    "category": "nervous_system",
     "category_question_number": 4,
     "round": 23,
     "round_question_number": 24,
@@ -1602,8 +1522,7 @@
   {
     "id": "anatomy_32_021",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "中枢神経系",
+    "category": "nervous_system",
     "category_question_number": 5,
     "round": 32,
     "round_question_number": 21,
@@ -1622,8 +1541,7 @@
   {
     "id": "anatomy_24_026",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "中枢神経系",
+    "category": "nervous_system",
     "category_question_number": 6,
     "round": 24,
     "round_question_number": 26,
@@ -1642,8 +1560,7 @@
   {
     "id": "anatomy_30_022",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "中枢神経系",
+    "category": "nervous_system",
     "category_question_number": 7,
     "round": 30,
     "round_question_number": 22,
@@ -1662,8 +1579,7 @@
   {
     "id": "anatomy_25_025",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "中枢神経系",
+    "category": "nervous_system",
     "category_question_number": 8,
     "round": 25,
     "round_question_number": 25,
@@ -1682,8 +1598,7 @@
   {
     "id": "anatomy_29_023",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "末梢神経系",
+    "category": "nervous_system",
     "category_question_number": 9,
     "round": 29,
     "round_question_number": 23,
@@ -1702,8 +1617,7 @@
   {
     "id": "anatomy_27_018",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "末梢神経系",
+    "category": "nervous_system",
     "category_question_number": 10,
     "round": 27,
     "round_question_number": 18,
@@ -1722,8 +1636,7 @@
   {
     "id": "anatomy_31_022",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "末梢神経系",
+    "category": "nervous_system",
     "category_question_number": 11,
     "round": 31,
     "round_question_number": 22,
@@ -1735,15 +1648,14 @@
       "迷走神経 ── らせん神経節"
     ],
     "answer": 2,
-    "explanation": "耳神経節は、舌咽神経（鼓室神経）の副交感枝がニューロンを変えるほか、三叉神経第3枝（下顎神経）の運動枝が集まる。毛様体神経節は動眼神経の副交感成分、翼口蓋神経節は顔面神経の副交感成分が、それぞれニューロンを変える。らせん神経節は蝸牛神経が作り、コルチ器で受容された聴覚情報を中枢神経に伝える役割を担う。",
+    "explanation": "耳神経節は、舌咽神経（鼓索神経）の副交感枝がニューロンを変えるほか、三叉神経第3枝（下顎神経）の運動枝が集まる。毛様体神経節は動眼神経の副交感成分、翼口蓋神経節は顔面神経の副交感成分が、それぞれニューロンを変える。らせん神経節は蝸牛神経が作り、コルチ器で受容された聴覚情報を中枢神経に伝える役割を担う。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_26_025",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "末梢神経系",
+    "category": "nervous_system",
     "category_question_number": 12,
     "round": 26,
     "round_question_number": 25,
@@ -1762,8 +1674,7 @@
   {
     "id": "anatomy_27_025",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "末梢神経系",
+    "category": "nervous_system",
     "category_question_number": 13,
     "round": 27,
     "round_question_number": 25,
@@ -1782,8 +1693,7 @@
   {
     "id": "anatomy_23_025",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "末梢神経系",
+    "category": "nervous_system",
     "category_question_number": 14,
     "round": 23,
     "round_question_number": 25,
@@ -1802,8 +1712,7 @@
   {
     "id": "anatomy_25_026",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "末梢神経系",
+    "category": "nervous_system",
     "category_question_number": 15,
     "round": 25,
     "round_question_number": 26,
@@ -1822,8 +1731,7 @@
   {
     "id": "anatomy_32_022",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "末梢神経系",
+    "category": "nervous_system",
     "category_question_number": 16,
     "round": 32,
     "round_question_number": 22,
@@ -1835,15 +1743,14 @@
       "長胸神経"
     ],
     "answer": 2,
-    "explanation": "腕神経叢は複雑に分岐する。C5〜T1の前枝が合流して3つの神経幹をつくり、斜角筋隙のあたりで再び分かれて3つの神経束を形成する。後神経束は腋窩動脈より後方にある神経束で、ここから広背筋を支配する胸背神経が出る。肩甲上神経は上神経幹、肩甲背神経はC5の前枝、長胸神経はC5〜C7の前枝から、それぞれ派生する。",
+    "explanation": "腕神経叢は複雑に分岐する。C5〜T1の前枝が合流して3つの神経幹をつくり、斜角筋隙のあたりで再び分かれて3つの神経束を形成する。後神経束は腋窩動脈より後方にある神経束で、ここから広背筋を支配する胸背神経が出る。肩甲上神経は上神経幹、肩甲背神経はC5の前枝、長胸神経はC5〜C7の前枝から、それぞれ派出する。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_26_024",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "末梢神経系",
+    "category": "nervous_system",
     "category_question_number": 17,
     "round": 26,
     "round_question_number": 24,
@@ -1862,8 +1769,7 @@
   {
     "id": "anatomy_26_018",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "末梢神経系",
+    "category": "nervous_system",
     "category_question_number": 18,
     "round": 26,
     "round_question_number": 18,
@@ -1875,15 +1781,14 @@
       "上腕三頭筋の長頭と外側頭の間を橈骨神経が通る。"
     ],
     "answer": 1,
-    "explanation": "2：筋皮神経は烏口腕筋の筋腹を貫き、この筋を支配する。\n1：回外筋を貫くのは橈骨神経の深枝であり、回外筋は橈骨神経の支配を受ける。3：円回内筋の上腕頭と尺骨頭の間を走行するのは正中神経であり、この神経の支配を受ける。4：橈骨神経は、上腕三頭筋の内側頭と外側頭の間を外下方に向かって上腕深動脈とともに走行する。これらの走行に伴ってみられる上腕骨の後面にある浅い溝を橈骨神経溝と呼ぶ。",
+    "explanation": "2：筋皮神経は烏口腕筋の筋腹を貫き、この筋を支配する。\n1：回外筋を貫くのは橈骨神経の深枝であり、回外筋は橈骨神経の支配を受ける。3：円回内筋の上腕頭と尺側頭の間を走行するのは正中神経であり、この神経の支配を受ける。4：橈骨神経は、上腕三頭筋の内側頭と外側頭の間を外下方に向かって上腕深動脈とともに走行する。これらの走行に伴ってみられる上腕骨の後面にある浅い溝を橈骨神経溝と呼ぶ。",
     "is_irregular": false,
     "irregular_reason": ""
   },
   {
     "id": "anatomy_28_025",
     "subject": "anatomy",
-    "category": "神経系",
-    "sub_category": "末梢神経系",
+    "category": "nervous_system",
     "category_question_number": 19,
     "round": 28,
     "round_question_number": 25,
@@ -1902,8 +1807,7 @@
   {
     "id": "anatomy_26_026",
     "subject": "anatomy",
-    "category": "感覚器系",
-    "sub_category": "視覚器",
+    "category": "sensory_system",
     "category_question_number": 1,
     "round": 26,
     "round_question_number": 26,
@@ -1922,8 +1826,7 @@
   {
     "id": "anatomy_31_023",
     "subject": "anatomy",
-    "category": "感覚器系",
-    "sub_category": "視覚器",
+    "category": "sensory_system",
     "category_question_number": 2,
     "round": 31,
     "round_question_number": 23,
@@ -1942,8 +1845,7 @@
   {
     "id": "anatomy_28_026",
     "subject": "anatomy",
-    "category": "感覚器系",
-    "sub_category": "平衡聴覚器",
+    "category": "sensory_system",
     "category_question_number": 3,
     "round": 28,
     "round_question_number": 26,
@@ -1962,8 +1864,7 @@
   {
     "id": "anatomy_32_023",
     "subject": "anatomy",
-    "category": "感覚器系",
-    "sub_category": "味覚器",
+    "category": "sensory_system",
     "category_question_number": 4,
     "round": 32,
     "round_question_number": 23,
@@ -1982,8 +1883,7 @@
   {
     "id": "anatomy_27_026",
     "subject": "anatomy",
-    "category": "感覚器系",
-    "sub_category": "皮膚",
+    "category": "sensory_system",
     "category_question_number": 5,
     "round": 27,
     "round_question_number": 26,
@@ -2002,8 +1902,7 @@
   {
     "id": "anatomy_30_023",
     "subject": "anatomy",
-    "category": "感覚器系",
-    "sub_category": "皮膚",
+    "category": "sensory_system",
     "category_question_number": 6,
     "round": 30,
     "round_question_number": 23,
@@ -2022,8 +1921,7 @@
   {
     "id": "anatomy_23_026",
     "subject": "anatomy",
-    "category": "感覚器系",
-    "sub_category": "皮膚",
+    "category": "sensory_system",
     "category_question_number": 7,
     "round": 23,
     "round_question_number": 26,
@@ -2035,7 +1933,7 @@
       "表皮は有棘細胞の分裂によって増殖する。"
     ],
     "answer": 0,
-    "explanation": "1：自由神経終末とは受容器を持たない神経線維の末端のことで、構造的に髄鞘が消失している。全身の皮膚に幅広く分布しており、痛みなどの侵害刺激に加え、触覚や温度の刺激を受容する。2：成人の皮膚面積の概算には、熱傷面積の計測で用いられる手掌法が便利である。手掌法によれば、成人の右上肢の皮膚面積は9%である。3：パチニ小体は卵形、長さ1mm程度、同心状の薄層を持つ感覚受容器で、表皮下層や皮下組織に分布する。真皮乳頭に分布が密集するのはマイスナー小体の特徴である。表皮は表層から角質層、透明層（手掌と足底のみ）、顆粒層、有棘層、基底層によって構成される。4：表皮は基底層にある基底細胞の分裂によって増殖する。",
+    "explanation": "1：自由神経終末とは受容器を持たない神経線維の末端のことで、構造的に髄鞘が消失している。全身の皮膚に幅広く分布しており、痛みなどの侵害刺激に加え、触覚や温度の刺激を受容する。2：成人の皮膚面積の概算には、熱傷面積の計測で用いられる手掌法が便利である。手掌法によれば、成人の右上肢の皮膚面積は9％である。3：パチニ小体は卵形、長さ1mm程度、同心状の薄層を持つ感覚受容器で、表皮下層や皮下組織に分布する。真皮乳頭に分布が密集するのはマイスナー小体の特徴である。表皮は表層から角質層、透明層（手掌と足底のみ）、顆粒層、有棘層、基底層によって構成される。4：表皮は基底層にある基底細胞の分裂によって増殖する。",
     "is_irregular": false,
     "irregular_reason": ""
   }
