@@ -1,3 +1,6 @@
+// ==========================================================================
+// 1. グローバル変数と状態管理
+// ==========================================================================
 let metadata = null;
 let currentQuestions = [];
 let currentQuestionIndex = 0;
@@ -5,7 +8,7 @@ let score = 0;
 let isAnswered = false;
 
 // UIの選択状態を保持する変数
-let selectedSubject = "";
+let selectedSubjects = []; // 複数選択に対応するため配列に変更
 let selectedCategory = "all";
 
 // localStorageデータ
@@ -13,12 +16,13 @@ let solvedIds = [];
 let incorrectIds = [];
 const TOTAL_QUESTIONS_COUNT = 1680;
 
-// DOM要素
+// ==========================================================================
+// 2. DOM要素の取得
+// ==========================================================================
 const menuScreen = document.getElementById("menu-screen");
 const quizScreen = document.getElementById("quiz-screen");
 const resultScreen = document.getElementById("result-screen");
 
-// フォーム入力
 const subjectButtonsContainer = document.getElementById("subject-buttons");
 const categoryWrapper = document.getElementById("category-wrapper");
 const categoryButtonsContainer = document.getElementById("category-buttons");
@@ -26,7 +30,6 @@ const selectRound = document.getElementById("select-round");
 const selectCount = document.getElementById("select-count");
 const btnStart = document.getElementById("btn-start");
 
-// 表示エリア
 const progressCount = document.getElementById("progress-count");
 const progressPercentage = document.getElementById("progress-percentage");
 const progressBarFill = document.getElementById("progress-bar-fill");
@@ -47,6 +50,9 @@ const btnQuit = document.getElementById("btn-quit");
 const btnToMenu = document.getElementById("btn-to-menu");
 const resultScore = document.getElementById("result-score");
 
+// ==========================================================================
+// 3. 初期化処理・イベント設定
+// ==========================================================================
 window.addEventListener("DOMContentLoaded", async () => {
   loadUserData();
   updateProgressUI();
@@ -83,14 +89,37 @@ function updateProgressUI() {
 }
 
 function setupEventListeners() {
-  // 科目ボタンのクリック処理
+  // 科目ボタンのクリック処理（複数選択・排他制御）
   subjectButtonsContainer.addEventListener("click", (e) => {
     if (e.target.classList.contains("toggle-btn")) {
-      // 全ボタンのアクティブを解除
-      subjectButtonsContainer.querySelectorAll(".toggle-btn").forEach(btn => btn.classList.remove("active"));
-      // クリックされたボタンをアクティブに
-      e.target.classList.add("active");
-      selectedSubject = e.target.dataset.value;
+      const val = e.target.dataset.value;
+
+      if (val === "incorrect" || val === "all_subjects") {
+        // 特殊モードの場合：他の選択をクリアし、これだけにする
+        selectedSubjects = [val];
+      } else {
+        // 通常の科目の場合：特殊モードが選ばれていたらクリアする
+        if (selectedSubjects.includes("incorrect") || selectedSubjects.includes("all_subjects")) {
+          selectedSubjects = [];
+        }
+        
+        // すでに選ばれていれば外し、選ばれていなければ追加する（トグル）
+        if (selectedSubjects.includes(val)) {
+          selectedSubjects = selectedSubjects.filter(s => s !== val);
+        } else {
+          selectedSubjects.push(val);
+        }
+      }
+
+      // UIの見た目を更新
+      subjectButtonsContainer.querySelectorAll(".toggle-btn").forEach(btn => {
+        if (selectedSubjects.includes(btn.dataset.value)) {
+          btn.classList.add("active");
+        } else {
+          btn.classList.remove("active");
+        }
+      });
+
       handleSubjectChange();
     }
   });
@@ -110,8 +139,11 @@ function setupEventListeners() {
   btnNext.addEventListener("click", nextQuestion);
 }
 
+// ==========================================================================
+// 4. メニュー画面の動的制御
+// ==========================================================================
 function handleSubjectChange() {
-  if (!selectedSubject) {
+  if (selectedSubjects.length === 0) {
     categoryWrapper.style.display = "none";
     btnStart.disabled = true;
     return;
@@ -119,17 +151,13 @@ function handleSubjectChange() {
 
   btnStart.disabled = false;
 
-  // 「復習」または「すべての科目」の場合は、カテゴリ選択を隠す
-  if (selectedSubject === "incorrect" || selectedSubject === "all_subjects") {
-    categoryWrapper.style.display = "none";
-    selectedCategory = "all";
-  } else if (metadata) {
-    // 特定の科目が選ばれた場合はカテゴリボタンを動的生成
+  // 科目が「1つだけ」選ばれている時のみ、大項目（カテゴリ）の絞り込みを表示する
+  if (selectedSubjects.length === 1 && selectedSubjects[0] !== "incorrect" && selectedSubjects[0] !== "all_subjects" && metadata) {
     categoryWrapper.style.display = "block";
     categoryButtonsContainer.innerHTML = '<button type="button" class="toggle-btn active" data-value="all">すべてのカテゴリ</button>';
     selectedCategory = "all";
     
-    const targetSubject = metadata.subjects.find(s => s.id === selectedSubject);
+    const targetSubject = metadata.subjects.find(s => s.id === selectedSubjects[0]);
     if (targetSubject && targetSubject.categories) {
       targetSubject.categories.forEach(cat => {
         const btn = document.createElement("button");
@@ -140,9 +168,16 @@ function handleSubjectChange() {
         categoryButtonsContainer.appendChild(btn);
       });
     }
+  } else {
+    // 複数選択、または特殊モードの時は大項目選択は隠す
+    categoryWrapper.style.display = "none";
+    selectedCategory = "all";
   }
 }
 
+// ==========================================================================
+// 5. クイズ開始・問題データのフェッチ
+// ==========================================================================
 async function startQuiz() {
   const round = selectRound.value;
   const countLimit = selectCount.value;
@@ -153,7 +188,7 @@ async function startQuiz() {
   try {
     let rawQuestions = [];
 
-    if (selectedSubject === "incorrect") {
+    if (selectedSubjects.includes("incorrect")) {
       if (incorrectIds.length === 0) {
         alert("現在、間違えた問題（復習用）はありません。");
         backToMenu();
@@ -171,24 +206,30 @@ async function startQuiz() {
       const results = await Promise.all(fetchPromises);
       rawQuestions = results.flat().filter(q => incorrectIds.includes(q.id));
 
-    } else if (selectedSubject === "all_subjects") {
-      // すべての科目からランダム出題の場合（全ファイルをフェッチ）
+    } else if (selectedSubjects.includes("all_subjects")) {
+      // 全科目の一括フェッチ
       const fetchPromises = metadata.subjects.map(s => fetch(s.path).then(res => res.json()));
       const results = await Promise.all(fetchPromises);
       rawQuestions = results.flat();
 
     } else {
-      // 単一科目の場合
-      const targetSubject = metadata.subjects.find(s => s.id === selectedSubject);
-      const response = await fetch(targetSubject.path);
-      rawQuestions = await response.json();
+      // 選択された複数科目の一括フェッチ
+      const fetchPromises = selectedSubjects.map(subId => {
+        const targetSubject = metadata.subjects.find(s => s.id === subId);
+        return targetSubject ? fetch(targetSubject.path).then(res => res.json()) : Promise.resolve([]);
+      });
+      const results = await Promise.all(fetchPromises);
+      rawQuestions = results.flat();
     }
 
     // フィルタリング処理（カテゴリID、試験回）
     let filtered = rawQuestions;
-    if (selectedSubject !== "incorrect" && selectedSubject !== "all_subjects" && selectedCategory !== "all") {
+    
+    // カテゴリでの絞り込みは「単一の科目」を選んでいる時だけ適用
+    if (selectedSubjects.length === 1 && selectedSubjects[0] !== "incorrect" && selectedSubjects[0] !== "all_subjects" && selectedCategory !== "all") {
       filtered = filtered.filter(q => q.category === selectedCategory);
     }
+
     if (round !== "all") {
       filtered = filtered.filter(q => q.round === parseInt(round, 10));
     }
@@ -199,6 +240,7 @@ async function startQuiz() {
       return;
     }
 
+    // ランダムシャッフル
     shuffleArray(filtered);
 
     if (countLimit !== "all") {
@@ -233,6 +275,9 @@ function shuffleArray(array) {
   }
 }
 
+// ==========================================================================
+// 6. クイズ進行（表示と解答処理）
+// ==========================================================================
 function displayQuestion() {
   isAnswered = false;
   quizFeedback.style.display = "none";
@@ -310,6 +355,9 @@ function nextQuestion() {
   }
 }
 
+// ==========================================================================
+// 7. クイズ終了・中断・結果表示
+// ==========================================================================
 function showResult() {
   resultScore.textContent = `${score} / ${currentQuestions.length}`;
   const percentage = Math.round((score / currentQuestions.length) * 100);
@@ -330,7 +378,7 @@ function quitQuiz() {
 
 function backToMenu() {
   // 状態のクリア
-  selectedSubject = "";
+  selectedSubjects = [];
   selectedCategory = "all";
   subjectButtonsContainer.querySelectorAll(".toggle-btn").forEach(btn => btn.classList.remove("active"));
   categoryWrapper.style.display = "none";
