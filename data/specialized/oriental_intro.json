@@ -1,0 +1,3245 @@
+[
+  {
+    "id": "oriental_intro_32_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "東洋医学の特色",
+    "category_question_number": 1,
+    "round": 32,
+    "round_question_number": 91,
+    "question": "未病の概念について適切なのはどれか。",
+    "options": [
+      "人体と自然は相応している。",
+      "心と体は一体である。",
+      "人体は有機体として機能する。",
+      "健康と疾病は連続している。"
+    ],
+    "answer": 3,
+    "explanation": "未病に関する設問である。\n未病とは疾病でなければ健康、健康でなければ疾病ではなく、健康の程度には高い状態、低い状態があり、それが低下すると疾病の状態に至るという連続的な見方をするものである。したがって4が正しい。1：人体の形と機能が天地自然と相応している思想を天人合一思想という。2：心と体は一体であるという考え方は心身一如である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_089",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "陰陽論",
+    "category_question_number": 2,
+    "round": 24,
+    "round_question_number": 89,
+    "question": "陰陽学説で同じ属性の組合せはどれか。",
+    "options": [
+      "内部 ― 上部",
+      "奇数 ― 老年",
+      "左側 ― 衛気",
+      "静止 ― 急性"
+    ],
+    "answer": 2,
+    "explanation": "陰陽学説に関する設問である。1の内部は陰、上部は陽、2の奇数は陽、老年は陰、3の左側は陽、衛気は陽、4の静止は陰、急性は陽である。したがって、3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "陰陽論",
+    "category_question_number": 3,
+    "round": 29,
+    "round_question_number": 91,
+    "question": "陰陽の属性が同じ組合せはどれか。",
+    "options": [
+      "温 ― 西",
+      "遅 ― 凸",
+      "魄 ― 腹",
+      "左 ― 偶数"
+    ],
+    "answer": 2,
+    "explanation": "陰陽学説に関する設問である。1：温は陽、西は陰、2：遅は陰、凸は陽、3：魄は陰、腹は陰、4：左は陽、偶数は陰である。したがって3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_089",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "陰陽論",
+    "category_question_number": 4,
+    "round": 23,
+    "round_question_number": 89,
+    "question": "生体リズムに関する陰陽学説で最も適切なのはどれか。",
+    "options": [
+      "陰陽消長",
+      "陰陽対立",
+      "陰陽制約",
+      "陰陽互根"
+    ],
+    "answer": 0,
+    "explanation": "陰陽に関する設問である。「リズム」とは周期的に反復循環する動きのことである。1：「陰陽消長」は陰陽の盛衰変化を表し、これで四季の変化に応じた生体の変化（生体リズム）などを説明するため、正しい。2：「陰陽対立」は反対の性質を表し、上下・内外などを説明するため、誤り。3：「陰陽制約」は反対の性質により相互に制約することを表し、例えば寒熱は生体を冷え過ぎないよう、熱くなり過ぎないように制限していると説明するため、誤り。4：「陰陽互根」は相互に依存し、片方だけでは存在できないことを表す。例えば気（陽）と血（陰）は気が血を動かし、血が気を養い、相互がうまく影響してはじめて機能を発揮できるなどと説明するため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "陰陽論",
+    "category_question_number": 5,
+    "round": 30,
+    "round_question_number": 91,
+    "question": "陰陽の関係で「寒い日には活動して冷えすぎないようにする」のはどれか。",
+    "options": [
+      "陰陽互根",
+      "陰陽消長",
+      "陰陽制約",
+      "陰陽転化"
+    ],
+    "answer": 2,
+    "explanation": "陰陽に関する設問である。陰陽制約とは、陰は陽を制約することによって平衡（バランス）を取ることができることである。暑い日は静かにすることで、熱くなりすぎないようにし、寒い日には活動して冷えすぎないようにする。したがって3が正しい。1：陰陽互根とは陰と陽は相反する属性で成り立ち、どちらか一方だけでは成立しないことを表すため、誤り。2：陰陽消長は陰陽の量が増えたり減ったりすることであり、誤り。4：陰陽転化は、ある一定のところで増加は減少に、減少は増加に転化することであり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_100",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 6,
+    "round": 32,
+    "round_question_number": 100,
+    "question": "五行色体で相剋関係にある組合せはどれか。",
+    "options": [
+      "噫 ― 羽",
+      "収 ― 肌肉",
+      "麦 ― 羊",
+      "石 ― 色"
+    ],
+    "answer": 0,
+    "explanation": "五行説に関する設問である。\n1：噫（火）― 羽（水）、2：収（金）― 肌肉（土）、3：麦（木）― 羊（火）、4：石（水）― 色（木）である。したがって1が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 7,
+    "round": 31,
+    "round_question_number": 91,
+    "question": "五行色体における五臓と五労の組合せで誤っているのはどれか。",
+    "options": [
+      "肝 ― 久視",
+      "脾 ― 久坐",
+      "肺 ― 久臥",
+      "腎 ― 久立"
+    ],
+    "answer": 0,
+    "explanation": "五行説に関する設問である。肝は久行（長時間の歩行や運動で筋を傷つける）であり、久視（長時間の視覚使用で血を傷つける）は心である。したがって1が誤っている。\n2：脾は久坐（長時間の坐位で肉を傷つける）、肺は久臥（長時間の臥床で気を傷つける）、腎は久立（長時間の立位で骨を傷つける）である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_090",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 8,
+    "round": 28,
+    "round_question_number": 90,
+    "question": "五行色体における五脈と五病の組合せで正しいのはどれか。",
+    "options": [
+      "弦 ― 呑",
+      "代 ― 咳",
+      "毛 ― 語",
+      "石 ― 欠"
+    ],
+    "answer": 3,
+    "explanation": "五行説に関する設問である。1：弦（肝）―呑（脾）、2：代（脾）―咳（肺）、3：毛（肺）―語（肝）、4：石（腎）―欠（腎）である。したがって4が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_090",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 9,
+    "round": 24,
+    "round_question_number": 90,
+    "question": "五行色体の組合せで正しいのはどれか。",
+    "options": [
+      "唾 ― 呻",
+      "香 ― 鼻",
+      "辛 ― 思",
+      "爪 ― 神"
+    ],
+    "answer": 0,
+    "explanation": "五行説に関する設問である。1は「唾（腎）―呻（腎）」、2は「香（脾）―鼻（肺）」、3は「辛（肺）―思（脾）」、4は「爪（肝）―神（心）」である。したがって、1が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_090",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 10,
+    "round": 25,
+    "round_question_number": 90,
+    "question": "五行色体で相剋関係にある組合せはどれか。",
+    "options": [
+      "筋 ― 唾",
+      "血脈 ― 涎",
+      "肌肉 ― 涕",
+      "皮毛 ― 汗"
+    ],
+    "answer": 3,
+    "explanation": "五行説に関する設問である。1：「筋―唾」は筋が木、唾が水に属し、誤り。2：「血脈―涎」は血脈が火、涎は土に属し、誤り。3：「肌肉―涕」は肌肉が土、涕が金に属し、誤り。4：「皮毛―汗」は皮毛が金、汗が火に属し、火剋金の関係となり、これが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_26_089",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 11,
+    "round": 26,
+    "round_question_number": 89,
+    "question": "五行色体で相生関係にある組合せはどれか。",
+    "options": [
+      "鈎 ― 毛",
+      "蔵 ― 生",
+      "志 ― 神",
+      "語 ― 呑"
+    ],
+    "answer": 1,
+    "explanation": "五行説に関する設問である。相生関係は母子関係でもあり、木が火を生むような関係をいう。1：「鈎―毛」は五脈で、鈎が火、毛が金に属し、誤り。2：「蔵―生」は五能で、蔵が水、生は木に属して水生木の関係となり、これが正しい。3：「志―神」は五神で、志が水、神が火に属し、誤り。4：「語―呑」は五病で、語が木、呑が土に属し、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_27_090",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 12,
+    "round": 27,
+    "round_question_number": 90,
+    "question": "五行色体で相剋関係にある組合せはどれか。",
+    "options": [
+      "酸 ― 鹹",
+      "面色 ― 毛",
+      "汗 ― 涎",
+      "久坐 ― 久臥"
+    ],
+    "answer": 1,
+    "explanation": "五行色体と五行関係に関する複合問題である。\n相剋関係は相勝関係ともいい、「木は土を剋す」などがある。1：「酸―鹹」は酸が木、鹹はしおからいで水に属すので誤り。2：「面色―毛」は面色が火、毛は金に属し、火は金を剋すとなるので、これが正しい。3：「汗―涎」は汗が火、涎は土に属すので誤り。4：「久坐―久臥」は久坐が土、久臥は金に属すので誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 13,
+    "round": 23,
+    "round_question_number": 91,
+    "question": "臓腑の働きと五華の組合せで正しいのはどれか。",
+    "options": [
+      "精を蔵する ― 爪",
+      "神を蔵する ― 毛",
+      "血を蔵する ― 面色",
+      "営を蔵する ― 唇"
+    ],
+    "answer": 3,
+    "explanation": "五行説と蔵象に関する設問である。1：「精を蔵する」のは腎、「爪」は肝であるため、誤り。2：「神を蔵する」のは心、「毛」は肺であるため、誤り。3：「血を蔵する」のは肝、「面色」は心であるため、誤り。4：「営を蔵する」のは脾、「唇」も脾であるため、正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_089",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 14,
+    "round": 25,
+    "round_question_number": 89,
+    "question": "相剋関係にある経脈の絡穴の組合せはどれか。",
+    "options": [
+      "外関 ― 通里",
+      "蠡溝 ― 大鍾",
+      "公孫 ― 偏歴",
+      "飛揚 ― 内関"
+    ],
+    "answer": 3,
+    "explanation": "五行説の相剋と経穴に関する設問である。\n1：外関は手少陽三焦経、通里は手少陰心経であり、火と火の同属で誤り。2：蠡溝は足厥陰肝経、大鍾は足少陰腎経であり、木と水の相生関係で誤り。3：公孫は足太陰脾経、偏歴は手陽明大腸経であり、金と土の相生関係で誤り。4：飛揚は足太陽膀胱経、内関は手厥陰心包経で火に属し、水と火の相剋関係でこれが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_092",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "精",
+    "category_question_number": 1,
+    "round": 31,
+    "round_question_number": 92,
+    "question": "成長や生殖活動を行うもととなる基本的な物質の生理作用で最も適切なのはどれか。",
+    "options": [
+      "神を維持する。",
+      "血脈を満たす。",
+      "呼吸を推動する。",
+      "体温を一定に保つ。"
+    ],
+    "answer": 0,
+    "explanation": "精気血津液に関する設問である。成長や生殖活動を行うもととなる基本的な物質は精であり、生理作用は生殖、滋養、血への化生、気への化生、神の維持である。したがって1が正しい。2：血脈を満たす、滋潤・濡養するのは、津液の作用である。3：呼吸を推動する、血の運行を促進するのは、宗気である。4：外邪の侵襲を防ぐ、腠理を開闔する、全身を温め養う作用で体温を一定に保つのは、衛気である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_092",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 2,
+    "round": 23,
+    "round_question_number": 92,
+    "question": "元気の説明で正しいのはどれか。",
+    "options": [
+      "血とともに脈中を行く。",
+      "清気とも言う。",
+      "夜間に人体の陰の部を二十五周する。",
+      "先天の精が変化生成したものである。"
+    ],
+    "answer": 3,
+    "explanation": "気血津液に関する設問である。1：「血とともに脈中を行く」のは営気であるため、誤り。2：「清気とも言う」のは天の陽気であるため、誤り。3：「夜間に人体の陰の部を二十五周する」のは衛気であるため、誤り。4：「先天の精が変化生成したものである」は元気の説明であり、正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_091",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 3,
+    "round": 24,
+    "round_question_number": 91,
+    "question": "肺に作用して発声・呼吸を推動するのはどれか。",
+    "options": [
+      "営気",
+      "衛気",
+      "宗気",
+      "元気"
+    ],
+    "answer": 2,
+    "explanation": "蔵象の気血津液に関する設問である。営気は栄養を供給し、衛気は体表を温め、防御し、開闔を主る。宗気は血の推動、発声、呼吸を推進し、元気は生命活動の原動力となる。したがって、3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_094",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 4,
+    "round": 29,
+    "round_question_number": 94,
+    "question": "胸中に集まる気について正しいのはどれか。",
+    "options": [
+      "発育を促す。",
+      "発声に関わる。",
+      "発汗を調整する。",
+      "栄養分をもつ。"
+    ],
+    "answer": 1,
+    "explanation": "気の種類に関する設問である。胸中に集まる気は宗気であり、呼吸や発声に関係するため、2：発声に関わるが正しい。1：発育を促すのは、原気であるため、誤り。3：発汗を調整するのは、衛気であるため、誤り。4：栄養分をもつのは、営気であるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_090",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 5,
+    "round": 23,
+    "round_question_number": 90,
+    "question": "後天の精から得られた水穀の悍気はどれか。",
+    "options": [
+      "胃気",
+      "営気",
+      "衛気",
+      "宗気"
+    ],
+    "answer": 2,
+    "explanation": "気血津液に関する設問である。飲食物から得られた「後天の精」は、水穀の精ともいう。「後天の精」は「水穀の悍気」（陽性の気）と「水穀の精気」（陰性の気）を含む。1：胃気は胃を働かせる気、および胃の働きによって得られた後天の気、つまり後天の精が気に変化したものを指すため、誤り。2：営気は後天の精から得られる陰性の気（水穀の精気）であるため、誤り。3：衛気は後天の精から得られる陽性の気（水穀の悍気）であるため、正しい。4：宗気は後天の精と天の気が交わってできる気であるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_091",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 6,
+    "round": 28,
+    "round_question_number": 91,
+    "question": "脈中を行き、血をめぐらすのはどれか。",
+    "options": [
+      "原気",
+      "宗気",
+      "営気",
+      "衛気"
+    ],
+    "answer": 2,
+    "explanation": "気と血に関する設問である。3：営気は豊かな栄養分を持ち、血の一部として脈中に入り全身をめぐるので、これが正しい。1：原気は人体の最も根本的な気であり、三焦を通って全身に分布するため、誤り。2：宗気は胸中に集まり、心肺の活動を支える働きを持つため、誤り。4：衛気は血脈内に拘束されることなく、外は皮膚・肌肉から、内は臓腑に至るまで全身に分布するため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_093",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 7,
+    "round": 31,
+    "round_question_number": 93,
+    "question": "三焦を通って臓腑の気になるのはどれか。",
+    "options": [
+      "宗気",
+      "衛気",
+      "営気",
+      "原気"
+    ],
+    "answer": 3,
+    "explanation": "気血津液に関する設問である。三焦を通って臓腑の気になるのは原気である。人の成長や発育を促し、臓腑の生理活動を始動させ、生命活動の原動力となる。したがって4が正しい。1：宗気は胸中に集まり、心肺の活動を支える働きを持つ。2：衛気は血脈内に拘束されることなく、外は皮膚・肌肉から、内は臓腑に至るまで全身にくまなく分布する。3：営気は豊かな栄養分を持ち、血の一部として脈中に入り、全身をめぐり、組織・器官の活動を支える。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "東洋医学の特色",
+    "category_question_number": 1,
+    "round": 32,
+    "round_question_number": 91,
+    "question": "未病の概念について適切なのはどれか。",
+    "options": [
+      "人体と自然は相応している。",
+      "心と体は一体である。",
+      "人体は有機体として機能する。",
+      "健康と疾病は連続している。"
+    ],
+    "answer": 3,
+    "explanation": "未病に関する設問である。\n未病とは疾病でなければ健康、健康でなければ疾病ではなく、健康の程度には高い状態、低い状態があり、それが低下すると疾病の状態に至るという連続的な見方をするものである。したがって4が正しい。1：人体の形と機能が天地自然と相応している思想を天人合一思想という。2：心と体は一体であるという考え方は心身一如である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_089",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "陰陽論",
+    "category_question_number": 2,
+    "round": 24,
+    "round_question_number": 89,
+    "question": "陰陽学説で同じ属性の組合せはどれか。",
+    "options": [
+      "内部 ― 上部",
+      "奇数 ― 老年",
+      "左側 ― 衛気",
+      "静止 ― 急性"
+    ],
+    "answer": 2,
+    "explanation": "陰陽学説に関する設問である。1の内部は陰、上部は陽、2の奇数は陽、老年は陰、3の左側は陽、衛気は陽、4の静止は陰、急性は陽である。したがって、3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "陰陽論",
+    "category_question_number": 3,
+    "round": 29,
+    "round_question_number": 91,
+    "question": "陰陽の属性が同じ組合せはどれか。",
+    "options": [
+      "温 ― 西",
+      "遅 ― 凸",
+      "魄 ― 腹",
+      "左 ― 偶数"
+    ],
+    "answer": 2,
+    "explanation": "陰陽学説に関する設問である。1：温は陽、西は陰、2：遅は陰、凸は陽、3：魄は陰、腹は陰、4：左は陽、偶数は陰である。したがって3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_089",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "陰陽論",
+    "category_question_number": 4,
+    "round": 23,
+    "round_question_number": 89,
+    "question": "生体リズムに関する陰陽学説で最も適切なのはどれか。",
+    "options": [
+      "陰陽消長",
+      "陰陽対立",
+      "陰陽制約",
+      "陰陽互根"
+    ],
+    "answer": 0,
+    "explanation": "陰陽に関する設問である。「リズム」とは周期的に反復循環する動きのことである。1：「陰陽消長」は陰陽の盛衰変化を表し、これで四季の変化に応じた生体の変化（生体リズム）などを説明するため、正しい。2：「陰陽対立」は反対の性質を表し、上下・内外などを説明するため、誤り。3：「陰陽制約」は反対の性質により相互に制約することを表し、例えば寒熱は生体を冷え過ぎないよう、熱くなり過ぎないように制限していると説明するため、誤り。4：「陰陽互根」は相互に依存し、片方だけでは存在できないことを表す。例えば気（陽）と血（陰）は気が血を動かし、血が気を養い、相互がうまく影響してはじめて機能を発揮できるなどと説明するため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "陰陽論",
+    "category_question_number": 5,
+    "round": 30,
+    "round_question_number": 91,
+    "question": "陰陽の関係で「寒い日には活動して冷えすぎないようにする」のはどれか。",
+    "options": [
+      "陰陽互根",
+      "陰陽消長",
+      "陰陽制約",
+      "陰陽転化"
+    ],
+    "answer": 2,
+    "explanation": "陰陽に関する設問である。陰陽制約とは、陰は陽を制約することによって平衡（バランス）を取ることができることである。暑い日は静かにすることで、熱くなりすぎないようにし、寒い日には活動して冷えすぎないようにする。したがって3が正しい。1：陰陽互根とは陰と陽は相反する属性で成り立ち、どちらか一方だけでは成立しないことを表すため、誤り。2：陰陽消長は陰陽の量が増えたり減ったりすることであり、誤り。4：陰陽転化は、ある一定のところで増加は減少に、減少は増加に転化することであり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_100",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 6,
+    "round": 32,
+    "round_question_number": 100,
+    "question": "五行色体で相剋関係にある組合せはどれか。",
+    "options": [
+      "噫 ― 羽",
+      "収 ― 肌肉",
+      "麦 ― 羊",
+      "石 ― 色"
+    ],
+    "answer": 0,
+    "explanation": "五行説に関する設問である。\n1：噫（火）― 羽（水）、2：収（金）― 肌肉（土）、3：麦（木）― 羊（火）、4：石（水）― 色（木）である。したがって1が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 7,
+    "round": 31,
+    "round_question_number": 91,
+    "question": "五行色体における五臓と五労の組合せで誤っているのはどれか。",
+    "options": [
+      "肝 ― 久視",
+      "脾 ― 久坐",
+      "肺 ― 久臥",
+      "腎 ― 久立"
+    ],
+    "answer": 0,
+    "explanation": "五行説に関する設問である。肝は久行（長時間の歩行や運動で筋を傷つける）であり、久視（長時間の視覚使用で血を傷つける）は心である。したがって1が誤っている。\n2：脾は久坐（長時間の坐位で肉を傷つける）、肺は久臥（長時間の臥床で気を傷つける）、腎は久立（長時間の立位で骨を傷つける）である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_090",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 8,
+    "round": 28,
+    "round_question_number": 90,
+    "question": "五行色体における五脈と五病の組合せで正しいのはどれか。",
+    "options": [
+      "弦 ― 呑",
+      "代 ― 咳",
+      "毛 ― 語",
+      "石 ― 欠"
+    ],
+    "answer": 3,
+    "explanation": "五行説に関する設問である。1：弦（肝）―呑（脾）、2：代（脾）―咳（肺）、3：毛（肺）―語（肝）、4：石（腎）―欠（腎）である。したがって4が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_090",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 9,
+    "round": 24,
+    "round_question_number": 90,
+    "question": "五行色体の組合せで正しいのはどれか。",
+    "options": [
+      "唾 ― 呻",
+      "香 ― 鼻",
+      "辛 ― 思",
+      "爪 ― 神"
+    ],
+    "answer": 0,
+    "explanation": "五行説に関する設問である。1は「唾（腎）―呻（腎）」、2は「香（脾）―鼻（肺）」、3は「辛（肺）―思（脾）」、4は「爪（肝）―神（心）」である。したがって、1が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_090",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 10,
+    "round": 25,
+    "round_question_number": 90,
+    "question": "五行色体で相剋関係にある組合せはどれか。",
+    "options": [
+      "筋 ― 唾",
+      "血脈 ― 涎",
+      "肌肉 ― 涕",
+      "皮毛 ― 汗"
+    ],
+    "answer": 3,
+    "explanation": "五行説に関する設問である。1：「筋―唾」は筋が木、唾が水に属し、誤り。2：「血脈―涎」は血脈が火、涎は土に属し、誤り。3：「肌肉―涕」は肌肉が土、涕が金に属し、誤り。4：「皮毛―汗」は皮毛が金、汗が火に属し、火剋金の関係となり、これが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_26_089",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 11,
+    "round": 26,
+    "round_question_number": 89,
+    "question": "五行色体で相生関係にある組合せはどれか。",
+    "options": [
+      "鈎 ― 毛",
+      "蔵 ― 生",
+      "志 ― 神",
+      "語 ― 呑"
+    ],
+    "answer": 1,
+    "explanation": "五行説に関する設問である。相生関係は母子関係でもあり、木が火を生むような関係をいう。1：「鈎―毛」は五脈で、鈎が火、毛が金に属し、誤り。2：「蔵―生」は五能で、蔵が水、生は木に属して水生木の関係となり、これが正しい。3：「志―神」は五神で、志が水、神が火に属し、誤り。4：「語―呑」は五病で、語が木、呑が土に属し、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_27_090",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 12,
+    "round": 27,
+    "round_question_number": 90,
+    "question": "五行色体で相剋関係にある組合せはどれか。",
+    "options": [
+      "酸 ― 鹹",
+      "面色 ― 毛",
+      "汗 ― 涎",
+      "久坐 ― 久臥"
+    ],
+    "answer": 1,
+    "explanation": "五行色体と五行関係に関する複合問題である。\n相剋関係は相勝関係ともいい、「木は土を剋す」などがある。1：「酸―鹹」は酸が木、鹹はしおからいで水に属すので誤り。2：「面色―毛」は面色が火、毛は金に属し、火は金を剋すとなるので、これが正しい。3：「汗―涎」は汗が火、涎は土に属すので誤り。4：「久坐―久臥」は久坐が土、久臥は金に属すので誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 13,
+    "round": 23,
+    "round_question_number": 91,
+    "question": "臓腑の働きと五華の組合せで正しいのはどれか。",
+    "options": [
+      "精を蔵する ― 爪",
+      "神を蔵する ― 毛",
+      "血を蔵する ― 面色",
+      "営を蔵する ― 唇"
+    ],
+    "answer": 3,
+    "explanation": "五行説と蔵象に関する設問である。1：「精を蔵する」のは腎、「爪」は肝であるため、誤り。2：「神を蔵する」のは心、「毛」は肺であるため、誤り。3：「血を蔵する」のは肝、「面色」は心であるため、誤り。4：「営を蔵する」のは脾、「唇」も脾であるため、正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_089",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 14,
+    "round": 25,
+    "round_question_number": 89,
+    "question": "相剋関係にある経脈の絡穴の組合せはどれか。",
+    "options": [
+      "外関 ― 通里",
+      "蠡溝 ― 大鍾",
+      "公孫 ― 偏歴",
+      "飛揚 ― 内関"
+    ],
+    "answer": 3,
+    "explanation": "五行説の相剋と経穴に関する設問である。\n1：外関は手少陽三焦経、通里は手少陰心経であり、火と火の同属で誤り。2：蠡溝は足厥陰肝経、大鍾は足少陰腎経であり、木と水の相生関係で誤り。3：公孫は足太陰脾経、偏歴は手陽明大腸経であり、金と土の相生関係で誤り。4：飛揚は足太陽膀胱経、内関は手厥陰心包経で火に属し、水と火の相剋関係でこれが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_092",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "精",
+    "category_question_number": 1,
+    "round": 31,
+    "round_question_number": 92,
+    "question": "成長や生殖活動を行うもととなる基本的な物質の生理作用で最も適切なのはどれか。",
+    "options": [
+      "神を維持する。",
+      "血脈を満たす。",
+      "呼吸を推動する。",
+      "体温を一定に保つ。"
+    ],
+    "answer": 0,
+    "explanation": "精気血津液に関する設問である。成長や生殖活動を行うもととなる基本的な物質は精であり、生理作用は生殖、滋養、血への化生、気への化生、神の維持である。したがって1が正しい。2：血脈を満たす、滋潤・濡養するのは、津液の作用である。3：呼吸を推動する、血の運行を促進するのは、宗気である。4：外邪の侵襲を防ぐ、腠理を開闔する、全身を温め養う作用で体温を一定に保つのは、衛気である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_092",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 2,
+    "round": 23,
+    "round_question_number": 92,
+    "question": "元気の説明で正しいのはどれか。",
+    "options": [
+      "血とともに脈中を行く。",
+      "清気とも言う。",
+      "夜間に人体の陰の部を二十五周する。",
+      "先天の精が変化生成したものである。"
+    ],
+    "answer": 3,
+    "explanation": "気血津液に関する設問である。1：「血とともに脈中を行く」のは営気であるため、誤り。2：「清気とも言う」のは天の陽気であるため、誤り。3：「夜間に人体の陰の部を二十五周する」のは衛気であるため、誤り。4：「先天の精が変化生成したものである」は元気の説明であり、正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_091",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 3,
+    "round": 24,
+    "round_question_number": 91,
+    "question": "肺に作用して発声・呼吸を推動するのはどれか。",
+    "options": [
+      "営気",
+      "衛気",
+      "宗気",
+      "元気"
+    ],
+    "answer": 2,
+    "explanation": "蔵象の気血津液に関する設問である。営気は栄養を供給し、衛気は体表を温め、防御し、開闔を主る。宗気は血の推動、発声、呼吸を推進し、元気は生命活動の原動力となる。したがって、3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_094",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 4,
+    "round": 29,
+    "round_question_number": 94,
+    "question": "胸中に集まる気について正しいのはどれか。",
+    "options": [
+      "発育を促す。",
+      "発声に関わる。",
+      "発汗を調整する。",
+      "栄養分をもつ。"
+    ],
+    "answer": 1,
+    "explanation": "気の種類に関する設問である。胸中に集まる気は宗気であり、呼吸や発声に関係するため、2：発声に関わるが正しい。1：発育を促すのは、原気であるため、誤り。3：発汗を調整するのは、衛気であるため、誤り。4：栄養分をもつのは、営気であるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_090",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 5,
+    "round": 23,
+    "round_question_number": 90,
+    "question": "後天の精から得られた水穀の悍気はどれか。",
+    "options": [
+      "胃気",
+      "営気",
+      "衛気",
+      "宗気"
+    ],
+    "answer": 2,
+    "explanation": "気血津液に関する設問である。飲食物から得られた「後天の精」は、水穀の精ともいう。「後天の精」は「水穀の悍気」（陽性の気）と「水穀の精気」（陰性の気）を含む。1：胃気は胃を働かせる気、および胃の働きによって得られた後天の気、つまり後天の精が気に変化したものを指すため、誤り。2：営気は後天の精から得られる陰性の気（水穀の精気）であるため、誤り。3：衛気は後天の精から得られる陽性の気（水穀の悍気）であるため、正しい。4：宗気は後天の精と天の気が交わってできる気であるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_091",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 6,
+    "round": 28,
+    "round_question_number": 91,
+    "question": "脈中を行き、血をめぐらすのはどれか。",
+    "options": [
+      "原気",
+      "宗気",
+      "営気",
+      "衛気"
+    ],
+    "answer": 2,
+    "explanation": "気と血に関する設問である。3：営気は豊かな栄養分を持ち、血の一部として脈中に入り全身をめぐるので、これが正しい。1：原気は人体の最も根本的な気であり、三焦を通って全身に分布するため、誤り。2：宗気は胸中に集まり、心肺の活動を支える働きを持つため、誤り。4：衛気は血脈内に拘束されることなく、外は皮膚・肌肉から、内は臓腑に至るまで全身に分布するため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_093",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 7,
+    "round": 31,
+    "round_question_number": 93,
+    "question": "三焦を通って臓腑の気になるのはどれか。",
+    "options": [
+      "宗気",
+      "衛気",
+      "営気",
+      "原気"
+    ],
+    "answer": 3,
+    "explanation": "気血津液に関する設問である。三焦を通って臓腑の気になるのは原気である。人の成長や発育を促し、臓腑の生理活動を始動させ、生命活動の原動力となる。したがって4が正しい。1：宗気は胸中に集まり、心肺の活動を支える働きを持つ。2：衛気は血脈内に拘束されることなく、外は皮膚・肌肉から、内は臓腑に至るまで全身にくまなく分布する。3：営気は豊かな栄養分を持ち、血の一部として脈中に入り、全身をめぐり、組織・器官の活動を支える。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_091",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 8,
+    "round": 25,
+    "round_question_number": 91,
+    "question": "三焦を通って全身に分布する気はどれか。",
+    "options": [
+      "原気",
+      "宗気",
+      "営気",
+      "衛気"
+    ],
+    "answer": 0,
+    "explanation": "気の分布に関する設問である。\n1：原気は臍下丹田に集まり、三焦を通って全身をめぐるため、これが正しい。2：宗気は胸中に集まるため、誤り。3：営気は脈の中をめぐるため、誤り。4：衛気は脈外をめぐるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_27_089",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 9,
+    "round": 27,
+    "round_question_number": 89,
+    "question": "気について正しいのはどれか。",
+    "options": [
+      "宗気は臍下丹田に集まる。",
+      "原気は津液を血に変化させる。",
+      "衛気は臓腑を温める。",
+      "営気は呼吸を推動する。"
+    ],
+    "answer": 2,
+    "explanation": "気の種類に関する設問である。\n1：宗気は呼吸を推動するので、誤り。2：原気は臍下丹田に集まるので、誤り。3：衛気は臓腑を温めるので、これが正しい。4：営気は津液を血に変化させるので、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_092",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "血",
+    "category_question_number": 10,
+    "round": 30,
+    "round_question_number": 92,
+    "question": "血瘀の症状はどれか。",
+    "options": [
+      "筋けいれん",
+      "顔面蒼白",
+      "視力減退",
+      "色素沈着"
+    ],
+    "answer": 3,
+    "explanation": "血の症状に関する設問である。血瘀の症状は、固定痛・刺痛、腫脹・腫塊、紫舌・暗紅舌・瘀斑・瘀点・皮下出血斑、シミ・色素沈着、肌膚甲錯、月経痛・血塊が多いなどである。したがって、4が正しい。1：筋けいれん、2：顔面蒼白、3：視力減退は血虚の症状であり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_095",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "水（津液）",
+    "category_question_number": 11,
+    "round": 29,
+    "round_question_number": 95,
+    "question": "津液の停滞による症状はどれか。",
+    "options": [
+      "盗汗",
+      "口渇",
+      "しびれ",
+      "下痢"
+    ],
+    "answer": 3,
+    "explanation": "津液に関する設問である。津液が停滞すると、身体のだるさ、浮腫、4：下痢などの症状が起こる。したがって4が正しい。1：盗汗は陰虚によって起こるものが多く、誤り。2：口渇は実熱に伴う津液の損傷によるものが多く、誤り。3：しびれは、肝血が不足し、組織・器官を滋養できなくなるものであり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_092",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "神",
+    "category_question_number": 12,
+    "round": 32,
+    "round_question_number": 92,
+    "question": "狭義の神の働きでないのはどれか。",
+    "options": [
+      "思惟活動の維持",
+      "精神活動の制御",
+      "生命活動の維持",
+      "外界刺激に対する情動反応"
+    ],
+    "answer": 2,
+    "explanation": "神に関する設問である。\n狭義の神は精神・意識・思惟活動を指し、神志・心神と呼ばれ、心の機能に属する。臓腑や生理物質に直接影響を与えるとともに、それらに対して主導的な役割を担う。\n広義の神は生命活動の総称であり、臓腑・生理物質・精神活動の機能が統合された情報として外に現れたものである。したがって3が答えである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_094",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "六臓",
+    "category_question_number": 1,
+    "round": 31,
+    "round_question_number": 94,
+    "question": "条達作用をもつ臓腑と相生関係にある臓腑の作用はどれか。",
+    "options": [
+      "気血の源",
+      "水穀の海",
+      "水の上源",
+      "陰陽の根本"
+    ],
+    "answer": 3,
+    "explanation": "蔵象学説に関する設問である。生理特性で条達、昇発作用をもつ臓腑は肝であり、相生関係にある臓腑は腎である。腎の生理作用は蔵精、主水、納気、生理特性は封蔵、陰陽の根本である。したがって4が正しい。\n1：脾の運化作用は、飲食物から気血津液を化生するための水穀の精微を吸収するため、気血生成の源といわれる。2：胃は飲食物がおさまるところであり、水穀の海と称される。\n3：水分代謝における肺の粛降の働きを通調水道といい、人体の上部で水分代謝を主っているため、水の上源ともいう。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_095",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "六臓",
+    "category_question_number": 2,
+    "round": 31,
+    "round_question_number": 95,
+    "question": "肺が外邪の侵襲を防ぎ、臓腑を保護することを示すのはどれか。",
+    "options": [
+      "嬌臓",
+      "華蓋",
+      "粛降",
+      "宣発"
+    ],
+    "answer": 1,
+    "explanation": "蔵象学説に関する設問である。外邪の侵襲を防ぎ、臓腑を保護することは肺の生理特性の華蓋である。したがって2が正しい。\n1：嬌臓は弱々しい臓腑を意味し、肺は機能の失調が起こりやすい特性がある。3：粛降は肺の生理作用であり、気道を清潔に保ち、自然の清気を体内に取り込む、気機を下降させる、津液を腎まで輸送（通調水道）するなどがある。4：宣発は肺の生理作用であり、体内の濁気を体外に排出する、津液と衛気を輸送して体表に到達させる、体内の濁気を体外に排出するなどがある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_096",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "六臓",
+    "category_question_number": 3,
+    "round": 29,
+    "round_question_number": 96,
+    "question": "決断を主る臓腑と表裏関係にある臓腑の生理作用はどれか。",
+    "options": [
+      "気を主る。",
+      "血流量を調節する。",
+      "全身の陽気を主る。",
+      "水分代謝を調節する。"
+    ],
+    "answer": 1,
+    "explanation": "蔵象学説に関する設問である。決断を主る臓腑は胆であり、表裏関係にあるのは肝である。肝の生理作用には蔵血があり、血の貯蔵と2：血流量の調節がある。1：気を主る（主気）は、肺の生理作用であり、誤り。3：全身の陽気を主るは、心の生理特性であり、誤り。4：水分代謝を調節する（主水）は、腎の生理作用であり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_093",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "六臓",
+    "category_question_number": 4,
+    "round": 30,
+    "round_question_number": 93,
+    "question": "気血を化生する臓が剋する臓について正しいのはどれか。",
+    "options": [
+      "血を主る。",
+      "魂を蔵する。",
+      "発汗を調節する。",
+      "耳に開竅する。"
+    ],
+    "answer": 3,
+    "explanation": "蔵象学説に関する設問である。気血を化生する臓は脾であり、脾が剋する臓は腎である。\n1：血を主るのは心の作用であり、誤り。2：魂を蔵するのは肝であり、誤り。\n3：発汗を調節するのは心であり、誤り。4：耳に開竅するのは腎であり、これが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_092",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "六臓",
+    "category_question_number": 5,
+    "round": 24,
+    "round_question_number": 92,
+    "question": "五神の志を蔵すのはどれか。",
+    "options": [
+      "脾",
+      "肺",
+      "腎",
+      "肝"
+    ],
+    "answer": 2,
+    "explanation": "蔵象学説に関する設問である。1の脾は意を、2の肺は魄を、3の腎は志を、4の肝は魂をそれぞれ蔵す。したがって、3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_092",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "六臓",
+    "category_question_number": 6,
+    "round": 25,
+    "round_question_number": 92,
+    "question": "水の上源といわれる臓腑はどれか。",
+    "options": [
+      "脾",
+      "肺",
+      "腎",
+      "膀胱"
+    ],
+    "answer": 1,
+    "explanation": "蔵象学説に関する設問である。「水の上源」とは肺が宣発・粛降により津液を全身に散布することを指すため、2が正しい。なお、1の脾は水の運化を主り、3の腎は津液を主り（全身の津液代謝を管理する）、4の膀胱は尿（不要となった津液が気化されたもの）を貯留することで、それぞれ津液（水）の代謝に関与している。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_27_092",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "六臓",
+    "category_question_number": 7,
+    "round": 27,
+    "round_question_number": 92,
+    "question": "臓腑と生理作用の組合せで正しいのはどれか。",
+    "options": [
+      "小腸 ― 受納",
+      "胃 ― 降濁",
+      "大腸 ― 化物",
+      "胆 ― 腐熟"
+    ],
+    "answer": 1,
+    "explanation": "六臓六腑に関する設問である。\n1：小腸は胃から水穀を受け入れ（受盛）、変化（化物）させるので、誤り。2：胃は水穀を受け入れ（受納）、消化（腐熟）し、小腸へ降ろす（降濁）ので、これが正しい。3：大腸は水穀の精微を取り出した残り（糟粕）を便に変化させる（伝化）ので、誤り。4：胆は胆汁（精汁）を貯蔵・排泄するので、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_27_094",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "六臓",
+    "category_question_number": 8,
+    "round": 27,
+    "round_question_number": 94,
+    "question": "気血を化生する臓はどれか。",
+    "options": [
+      "肝",
+      "心",
+      "脾",
+      "腎"
+    ],
+    "answer": 2,
+    "explanation": "六臓六腑に関する設問である。\n気血は、水穀（飲食物）を摂取し、胃に入り腐熟されて、脾によって水穀の精微に変化する。1：肝は疏泄により化生を補助する臓のため、誤り。2：心は営気と協力して血のみを化生するため、誤り。3：脾は胃と協力して気血を化生するため、これが正しい。4：腎は腎精から元気を化生するため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_093",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "六臓",
+    "category_question_number": 9,
+    "round": 28,
+    "round_question_number": 93,
+    "question": "五臓と生理作用の組合せで正しいのはどれか。",
+    "options": [
+      "肝 ― 封蔵",
+      "心 ― 蔵血",
+      "腎 ― 治節",
+      "脾 ― 昇清"
+    ],
+    "answer": 3,
+    "explanation": "蔵象学説に関する設問である。4：昇清を主るのは脾の作用であり、これが正しい。1：肝は疏泄を主り、封蔵は腎の作用であることから、誤り。2：心は主血を主り、蔵血は肝の作用であることから、誤り。3：腎は納気を主り、治節は肺の作用であることから、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_092",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "六臓",
+    "category_question_number": 10,
+    "round": 29,
+    "round_question_number": 92,
+    "question": "陽中の陰の臓が剋する臓の生理作用はどれか。",
+    "options": [
+      "疏泄を主る。",
+      "血を主る。",
+      "運化を主る。",
+      "水を主る。"
+    ],
+    "answer": 0,
+    "explanation": "蔵象学説に関する設問である。陽中の陰の臓は肺であり、剋する臓（肝）の生理作用は、1：疏泄を主るである。2：血を主るのは、心であるため、誤り。3：運化を主るのは、脾であるため、誤り。4：水を主るのは、腎であるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_096",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "六腑",
+    "category_question_number": 11,
+    "round": 31,
+    "round_question_number": 96,
+    "question": "降濁作用の補助を受けている作用はどれか。",
+    "options": [
+      "伝化",
+      "疏泄",
+      "粛降",
+      "化物"
+    ],
+    "answer": 0,
+    "explanation": "蔵象学説に関する設問である。降濁作用は胃の生理特性であり、消化物を下降させる役割があり、小腸・大腸へと降ろす。胃の降濁は気機を下降させ大腸の機能を補助している。伝化は大腸の生理作用であり、したがって1が正しい。\n2：疏泄は肝の生理作用であり、生理物質を順調に推動させる機能である。3：粛降は肺の生理作用であり、気や津液を下へ内へ輸布する機能である。4：化物は小腸の生理作用であり、脾と共同作用によって消化・吸収を行い、水穀の精微と糟粕に変化させる機能である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_094",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "六腑",
+    "category_question_number": 12,
+    "round": 30,
+    "round_question_number": 94,
+    "question": "全身の陽気を主る臓腑と表裏関係にある臓腑の生理作用はどれか。",
+    "options": [
+      "受盛",
+      "治節",
+      "降濁",
+      "納気"
+    ],
+    "answer": 0,
+    "explanation": "蔵象学説に関する設問である。全身の陽気を主る臓腑は心であり、心の表裏関係にある臓腑は小腸である。1：受盛は小腸の生理作用であり、これが正しい。2：治節は宣発と粛降の協調運動を管理・調節する肺の機能であり、誤り。3：降濁は胃の生理特性であり、誤り。4：納気は腎の生理作用であり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_097",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "六腑",
+    "category_question_number": 13,
+    "round": 29,
+    "round_question_number": 97,
+    "question": "五臓とそれが蔵すものの組合せで正しいのはどれか。",
+    "options": [
+      "肝 ― 精",
+      "心 ― 血",
+      "脾 ― 営",
+      "腎 ― 魂"
+    ],
+    "answer": 2,
+    "explanation": "蔵象学説に関する設問である。1：精は腎が蔵すため、誤り。2：血は肝が蔵すため、誤り。3：営は脾が蔵すため、これが正しい。4：魂は肝と密接な関係であり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_094",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "奇恒の腑",
+    "category_question_number": 14,
+    "round": 32,
+    "round_question_number": 94,
+    "question": "衝脈・任脈・督脈のすべてと密接な関係にある奇恒の腑の機能はどれか。",
+    "options": [
+      "月経を主る。",
+      "肢体を支える。",
+      "情報を伝達する。",
+      "生命活動を主宰する。"
+    ],
+    "answer": 0,
+    "explanation": "奇恒の腑に関する設問である。\n奇恒の腑は、脳、髄、骨、脈、胆、女子胞であり、衝脈・任脈・督脈のすべてと密接な関係にある奇恒の腑は女子胞（胞宮）である。女子胞は月経・妊娠・出産に関与する。したがって1が正しい。2：肢体を支えるのは骨である。3：情報を伝達するのは血脈である。4：生命活動を主宰するのは脳である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_092",
+    "subject": "oriental_intro",
+    "category": "visceral_manifestation",
+    "sub_category": "奇恒の腑",
+    "category_question_number": 15,
+    "round": 28,
+    "round_question_number": 92,
+    "question": "六腑に属する奇恒の腑が、剋する腑の生理作用はどれか。",
+    "options": [
+      "貯尿を主る。",
+      "受納を主る。",
+      "決断を主る。",
+      "昇清を主る。"
+    ],
+    "answer": 1,
+    "explanation": "奇恒の腑に関する設問である。奇恒の腑は、脳、髄、骨、脈、胆、女子胞であり、六腑に属するのは胆である。胆を剋する腑（胃）の生理作用は2：「受納を主る」である。1：「貯尿を主る」のは、膀胱であるため、誤り。3：「決断を主る」のは、胆であるため、誤り。4：「昇清を主る」のは、脾であるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_095",
+    "subject": "oriental_intro",
+    "category": "meridian_theory",
+    "sub_category": "経絡論の概要",
+    "category_question_number": 1,
+    "round": 32,
+    "round_question_number": 95,
+    "question": "経絡の概要について正しいのはどれか。",
+    "options": [
+      "経脈の循行は上焦から起こる。",
+      "経別は別行する正経である。",
+      "奇経は表裏関係をもつ。",
+      "絡脈が集まったものを浮絡という。"
+    ],
+    "answer": 1,
+    "explanation": "経絡に関する設問である。\n経脈には十二経脈と奇経八脈があり、十二経脈には経脈から縦に走る支脈があり、これを十二経別という。経別とは別行する正経であり、表裏関係にある二経の結びつきを強め、さらに経脈と臓腑との連絡を強める役割を担っている。したがって2が正しい。1：経脈の循行は中焦から起こる。3：奇経は臓腑との属絡関係や奇経同士の表裏関係を持たない。4：絡脈より細く分かれたものを浮絡・孫絡という。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_093",
+    "subject": "oriental_intro",
+    "category": "meridian_theory",
+    "sub_category": "経絡論の概要",
+    "category_question_number": 2,
+    "round": 23,
+    "round_question_number": 93,
+    "question": "経脈で表裏関係にある組合せはどれか。",
+    "options": [
+      "太陰経 ― 陽明経",
+      "厥陰経 ― 太陽経",
+      "少陰経 ― 陽明経",
+      "少陽経 ― 少陰経"
+    ],
+    "answer": 0,
+    "explanation": "経絡に関する設問である。表裏関係は臓腑の関係で考えると分かりやすい。つまり、肝・胆、心・小腸、脾・胃、肺・大腸、腎・膀胱、心包・三焦である。まとめると、厥陰・少陽、少陰・太陽、太陰・陽明が正しい組合せである。1：「太陰経 ― 陽明経」が正しい。2、3、4は誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_097",
+    "subject": "oriental_intro",
+    "category": "meridian_theory",
+    "sub_category": "経絡論の概要",
+    "category_question_number": 3,
+    "round": 32,
+    "round_question_number": 97,
+    "question": "陰器（生殖器）に集まる経筋はどれか。",
+    "options": [
+      "手の三陰経筋",
+      "手の三陽経筋",
+      "足の三陰経筋",
+      "足の三陽経筋"
+    ],
+    "answer": 2,
+    "explanation": "経絡学説の経筋に関する設問である。\n経筋とは十二経脈およびそれに関係する経脈中の気血によって滋養される筋肉組織のことである。足に起こり、陰器（生殖器）に集まる経筋は、3：足の三陰経筋である。したがって3が正しい。\n1：手の三陰経筋は、手に起こり賁（心下付近）に結ぶ。2：手の三陽経筋は、手に起こり角（側頭部）に結ぶ。4：足の三陽経筋は、足に起こり頄（頬の付近）に結ぶ。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_093",
+    "subject": "oriental_intro",
+    "category": "meridian_theory",
+    "sub_category": "経絡論の概要",
+    "category_question_number": 4,
+    "round": 25,
+    "round_question_number": 93,
+    "question": "心下付近に結ぶ経筋はどれか。",
+    "options": [
+      "足の三陰",
+      "足の三陽",
+      "手の三陰",
+      "手の三陽"
+    ],
+    "answer": 2,
+    "explanation": "経絡学説の経筋に関する設問である。1の足の三陰は足に起こり、陰器に結ぶため、誤り。2の足の三陽は足に起こり、頄のあたりに結ぶため、誤り。3の手の三陰は手に起こり、心下のあたりに結ぶため、これが正しい。4の手の三陽は手に起こり、側頭部に結ぶため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_26_092",
+    "subject": "oriental_intro",
+    "category": "meridian_theory",
+    "sub_category": "経絡論の概要",
+    "category_question_number": 5,
+    "round": 26,
+    "round_question_number": 92,
+    "question": "下肢と体幹の両側の陰陽を調節し、下肢の陰経と陽経の協調に関与するのはどれか。",
+    "options": [
+      "陽蹻脈",
+      "陽維脈",
+      "帯脈",
+      "督脈"
+    ],
+    "answer": 0,
+    "explanation": "経絡論の概要に関する設問である。\n1の陽蹻脈は、陰蹻脈と共に下肢と体幹両方の陽を調節し、下肢の陰経と陽経を協調させる。これが正しい。2の陽維脈は全身の陽経を連絡させる。3の帯脈は諸経を束ねて統括する。4の督脈は陽気と真元を総督する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_26_093",
+    "subject": "oriental_intro",
+    "category": "meridian_theory",
+    "sub_category": "経絡論の概要",
+    "category_question_number": 6,
+    "round": 26,
+    "round_question_number": 93,
+    "question": "すべての絡脈に瘀血があるときに用いるのはどれか。",
+    "options": [
+      "鳩尾",
+      "長強",
+      "大包",
+      "蠡溝"
+    ],
+    "answer": 2,
+    "explanation": "経絡論の概要に関する設問である。経絡のなかに十五別絡があり、正経の一部位（絡穴の存在する所）から別れて循る支脈をいう。1の鳩尾は任脈の別絡、2の長強は督脈の別絡、3の大包は脾の大絡、4の蠡溝は足厥陰（肝）の別絡である。脾の大絡は諸絡の血を包括し、瘀血があるときは大包を取る。したがって、これが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_105",
+    "subject": "oriental_intro",
+    "category": "meridian_theory",
+    "sub_category": "経絡論の概要",
+    "category_question_number": 7,
+    "round": 30,
+    "round_question_number": 105,
+    "question": "奇経八脈で血海と呼ばれるのはどれか。",
+    "options": [
+      "任脈",
+      "衝脈",
+      "陰維脈",
+      "陰蹻脈"
+    ],
+    "answer": 1,
+    "explanation": "経絡論の概要に関する設問である。衝脈は、十二経脈の気血を調節する作用があるため十二経の海といわれ、血を豊富に蓄えているため血海ともいわれるので、2：衝脈が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_098",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 1,
+    "round": 32,
+    "round_question_number": 98,
+    "question": "長夏の病邪で生じやすい症状はどれか。",
+    "options": [
+      "けいれん",
+      "大量の汗",
+      "激しい口渇",
+      "下肢の浮腫"
+    ],
+    "answer": 3,
+    "explanation": "病因の外因に関する設問である。\n湿邪は陰邪であり、湿気の多い長夏に現れることが多い。その特徴は重濁性、粘滞性、下注性であり、脾を損傷しやすい。下注性は下痢、4：下肢の浮腫、排尿障害、帯下などが起こる。したがって4が正しい。1：けいれんは風邪・火邪、2：大量の汗、3：激しい口渇は熱邪（暑邪・火邪）である（表1を参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_098",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 2,
+    "round": 31,
+    "round_question_number": 98,
+    "question": "六淫で生風を特徴とするのはどれか。",
+    "options": [
+      "風邪",
+      "暑邪",
+      "燥邪",
+      "火邪"
+    ],
+    "answer": 3,
+    "explanation": "病因の外因に関する設問である。生風、動血、炎上性は4：火邪の特徴である。したがって4が正しい。1：風邪の特徴は、軽揚性、開泄性、遊走性、2：暑邪の特徴は、炎熱性、昇散性、3：燥邪の特徴は、乾燥性などである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_094",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 3,
+    "round": 23,
+    "round_question_number": 94,
+    "question": "外邪で収斂作用をもち、皮毛を収縮させるのはどれか。",
+    "options": [
+      "風邪",
+      "湿邪",
+      "寒邪",
+      "暑邪"
+    ],
+    "answer": 2,
+    "explanation": "外因に関する設問である。収縮、収斂の作用を持ち、皮毛を収縮させるのは寒邪である。他に気血を渋滞させて痛みを引き起こす凝滞性、陽気を損傷しやすい、臓腑を直接犯す寒邪直中などの性質があり、冷房による病も寒邪に起因すると考える。したがって、3：寒邪が正しい。1：風邪、2：湿邪、4：暑邪は誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_093",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 4,
+    "round": 24,
+    "round_question_number": 93,
+    "question": "外邪とその特徴の組合せで正しいのはどれか。",
+    "options": [
+      "火邪 ― 動血",
+      "風邪 ― 収斂",
+      "湿邪 ― 遊走性",
+      "寒邪 ― 粘滞性"
+    ],
+    "answer": 0,
+    "explanation": "病因に関する設問である。1の動血は火邪の特徴、2の収斂は寒邪の特徴、3の遊走性は風邪の特徴、4の粘滞性は湿邪の特徴である。組合せが正しいのは1である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_095",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 5,
+    "round": 30,
+    "round_question_number": 95,
+    "question": "外邪とその特徴の組合せで正しいのはどれか。",
+    "options": [
+      "風邪 ― 動血",
+      "暑邪 ― 昇散",
+      "湿邪 ― 凝滞",
+      "寒邪 ― 重濁"
+    ],
+    "answer": 1,
+    "explanation": "病因に関する設問である。1：動血は火邪の特徴であり、誤り。2：昇散は暑邪の特徴であり、これが正しい。3：凝滞は寒邪の特徴であり、誤り。4：重濁は湿邪の特徴であり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_099",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 6,
+    "round": 29,
+    "round_question_number": 99,
+    "question": "次の文で示す症状を引き起こす六淫の性質に含まれるのはどれか。\n「梅雨の時期から体が重く下肢がむくみ、下痢をするようになった。」",
+    "options": [
+      "遊走性",
+      "昇散性",
+      "粘滞性",
+      "収引性"
+    ],
+    "answer": 2,
+    "explanation": "病因の外因に関する設問である。「梅雨の時期、体が重く下肢のむくみ、下痢」という症状は湿邪の特徴である重濁性、粘滞性、下注性が現れている。1：遊走性を持つのは風邪であり、誤り。2：昇散性を持つのは暑邪であり、誤り。3：粘滞性を持つのは湿邪であり、これが正しい。4：収引性を持つのは寒邪であり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_094",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 7,
+    "round": 24,
+    "round_question_number": 94,
+    "question": "次の文で示す症状の病因はどれか。\n「2日前から喉が痛む。鼻がつまり、頭が痛く、顔がむくむ。」",
+    "options": [
+      "風邪",
+      "湿邪",
+      "暑邪",
+      "燥邪"
+    ],
+    "answer": 0,
+    "explanation": "病因に関する設問である。1の風邪は陽の邪気で、上部を犯しやすい性質があるため、頭痛、鼻づまり、咽頭痛、顔面の浮腫などが起こりやすい。よって、これが正しい。2の湿邪は下部を犯しやすく、重だるい症状が起こりやすい。3の暑邪は高熱や顔が赤くなる、4の燥邪は乾燥の性質で津液を損傷しやすいため、口や鼻、喉、皮膚などが乾燥しやすく、痰が少ない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_094",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 8,
+    "round": 25,
+    "round_question_number": 94,
+    "question": "次の文で示す患者の症状を引き起こす六淫はどれか。\n「55歳の女性。梅雨の頃より頭や体が重く、四肢がだるくなり、関節が腫れ、下痢をするようになった。」",
+    "options": [
+      "風邪",
+      "暑邪",
+      "湿邪",
+      "寒邪"
+    ],
+    "answer": 2,
+    "explanation": "病因の中の外因に関する設問である。「梅雨」ということから、湿邪、風邪、寒邪を思い浮かべたい。湿邪には重濁性、粘滞性という性質があり、「頭や体が重く、四肢がだるい」といった症状が現れやすい。関節に滞れば、関節が痛み腫れる。また、脾胃を犯しやすく、下痢や尿量減少、むくみを引き起こす。したがって、3の湿邪が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_26_094",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 9,
+    "round": 26,
+    "round_question_number": 94,
+    "question": "体重節痛を起こした場合、治療部位として適切なのはどれか。",
+    "options": [
+      "前脛骨筋腱内側の陥凹部、内果尖の前方",
+      "第4・第5中足骨間、第4中足指節関節近位の陥凹部",
+      "足内側、舟状骨粗面の下方、赤白肉際",
+      "第5中足指節関節の近位陥凹部、赤白肉際"
+    ],
+    "answer": 3,
+    "explanation": "病因の中の外因と経穴に関する複合設問である。「体重節痛」とは、頭や身体が重く、四肢がだるい、痛むという症状で、湿邪によって起こりやすい。1は中封で足厥陰肝経の経金穴、2は地五会で足少陽胆経の穴、3は然谷で足少陰腎経の滎火穴、4は束骨で足太陽膀胱経の輸木穴である。湿邪を除くには陰陵泉などがよく使われ、五輸穴の輸穴は体重節痛を主治とする。したがって、4が正しい。ただ、この問題は要穴の主治とその経穴を問う形式で、『経絡経穴概論』の範囲で出題されやすい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_26_095",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 10,
+    "round": 26,
+    "round_question_number": 95,
+    "question": "次の文で示す患者の症状を引き起こす六淫で最も適切なのはどれか。\n「40歳の女性。昨日、外出後、頭痛、鼻づまり、咽喉部の痒み、眼瞼および顔面の浮腫が発生した。顔面麻痺様の症状もある。」",
+    "options": [
+      "寒邪",
+      "風邪",
+      "湿邪",
+      "暑邪"
+    ],
+    "answer": 1,
+    "explanation": "症例形式による、病因の中の六淫に関する設問である。症例は六淫による外感病を示している。風邪は軽揚性という特徴があり、人体の上部や体表、肺などに影響を及ぼしやすい。症状は頭痛、鼻づまり、咽喉部の痒みや痛み、眼瞼および顔面の浮腫などが現れやすい。したがって、2が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_27_091",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 11,
+    "round": 27,
+    "round_question_number": 91,
+    "question": "「関節がだるく痛み、頭が重くなる。」の症状を引き起こす病邪の特徴はどれか。",
+    "options": [
+      "粘滞性",
+      "昇散性",
+      "開泄性",
+      "収引性"
+    ],
+    "answer": 0,
+    "explanation": "病因の外因に関する設問である。\n「関節がだるく痛み、頭が重くなる」という症状は、湿邪の重濁性や粘滞性が現れている。1：粘滞性を持つのは湿邪であり、これが正しい。2：昇散性を持つのは暑邪であり、誤り。3：開泄性を持つのは風邪であり、誤り。4：収引性を持つのは寒邪であり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_099",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 12,
+    "round": 31,
+    "round_question_number": 99,
+    "question": "内因において、気を緩ませる感情が過度に生じることでみられる症状はどれか。",
+    "options": [
+      "失禁",
+      "動悸",
+      "食欲不振",
+      "声のかすれ"
+    ],
+    "answer": 1,
+    "explanation": "病因の内因に関する設問である。気を緩ませる感情は喜であり、適度な喜びは気機をゆるませ、血を送り出す作用を補助する働きがある。喜びすぎると気機が過剰にゆるみ、心が血をうまく送り出せなくなり、心悸（動悸）や不整脈などが起こる。したがって2が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_095",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 13,
+    "round": 25,
+    "round_question_number": 95,
+    "question": "五労と傷られる臓が現す症状の組合せで正しいのはどれか。",
+    "options": [
+      "久視 ― 語",
+      "久臥 ― 欠",
+      "久坐 ― 呑",
+      "久立 ― 咳"
+    ],
+    "answer": 2,
+    "explanation": "病因の中の不内外因（労倦）に関する設問である。五労と五病の組合せである。1：久視は心、語は肝で誤り。2：久臥は肺、欠（あくび）は腎で誤り。3：久坐は脾、呑は脾でこれが正しい。4：久立は腎、咳は肺で誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_089",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 14,
+    "round": 28,
+    "round_question_number": 89,
+    "question": "次の文で示す患者の病因で最も適切なのはどれか。\n「34歳の男性。1週間前に上司から販売業績が悪いことを責められた。それ以来、やる気がでない。声に力がなく、食欲もない。」",
+    "options": [
+      "飲食不節",
+      "労倦",
+      "湿邪",
+      "怒"
+    ],
+    "answer": 1,
+    "explanation": "不内外因に関する設問である。2：労倦とは疲労のことで、肉体的な疲労を過労、精神的な疲労を心労という。労働や運動が過度になると、生理物質の消耗が激しくなり、このような状態が長時間続いたり、適切に休養が取れないと、倦怠感、無力感、消痩などの症状が起こるため、これが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_098",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 15,
+    "round": 30,
+    "round_question_number": 98,
+    "question": "次の文で示す患者の病因で最も適切なのはどれか。\n「28歳の女性。年末年始に接客が多忙だった。その後、徐々に気力がなくなり、疲れやすく、接客がつらい。」",
+    "options": [
+      "思",
+      "寒邪",
+      "労倦",
+      "飲食不節"
+    ],
+    "answer": 2,
+    "explanation": "不内外因に関する設問である。「年末年始に接客が多忙」から過度の労働で肉体的な疲労が原因である。過労が過度になると生理物質の消耗が激しくなり、「気力がなくなり、疲れやすい」といった症状が現れる。1：思は七情で思い悩みやすい感情であり、誤り。2：寒邪は気候が寒冷になると冬に出現することが多いため、誤り。3：労倦は疲労のことであり、これが正しい。4：飲食不節は不適切な食事や飲水のことであり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_094",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 16,
+    "round": 28,
+    "round_question_number": 94,
+    "question": "急にめまい、けいれんを起こすのはどれか。",
+    "options": [
+      "内風",
+      "内寒",
+      "内湿",
+      "内燥"
+    ],
+    "answer": 0,
+    "explanation": "内生五邪に関する設問である。1：内風は陽盛、血虚、陰虚によって、痙攣、振戦、眩暈など、揺れたり震えるような症状が起こる病態のことであり、これが正しい。2：内寒は寒がり、四肢の冷えなどが起こる病態のため、誤り。3：内湿は浮腫、下痢などが起こる病態のため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_095",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 17,
+    "round": 28,
+    "round_question_number": 95,
+    "question": "五労で正しいのはどれか。",
+    "options": [
+      "久しく視ると血を傷る。",
+      "久しく歩くと肉を傷る。",
+      "久しく坐ると気を傷る。",
+      "久しく立つと筋を傷る。"
+    ],
+    "answer": 0,
+    "explanation": "不内外因に関する設問である。五労は、病気の原因となる日常動作の過剰をまとめたものである。1：長時間の視覚使用で、血を傷つける。これが正しい。2：長時間の歩行や運動で筋を傷つけるため、誤り。3：長時間の坐位で肉を傷つけるため、誤り。4：長時間の立位で骨を傷つけるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_100",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三因論",
+    "category_question_number": 18,
+    "round": 29,
+    "round_question_number": 100,
+    "question": "五労で正しいのはどれか。",
+    "options": [
+      "久しく臥すは脾を傷る。",
+      "久しく視るは心を傷る。",
+      "久しく行くは腎を傷る。",
+      "久しく坐すは肺を傷る。"
+    ],
+    "answer": 1,
+    "explanation": "不内外因に関する設問である。五労は日常動作の過剰をまとめたものである。1：久しく臥すは肺を傷るため、誤り。2：久しく視るは心を傷る。これが正しい。3：久しく行くは肝を傷るため、誤り。4：久しく坐すは脾を傷るため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_099",
+    "subject": "oriental_intro",
+    "category": "etiology_theory",
+    "sub_category": "三毒説",
+    "category_question_number": 19,
+    "round": 32,
+    "round_question_number": 99,
+    "question": "三毒説と関係するのはどれか。",
+    "options": [
+      "疫癘",
+      "心労",
+      "打撲",
+      "運動不足"
+    ],
+    "answer": 2,
+    "explanation": "三毒説に関する設問である。\n三毒とは血の滞りである血毒、水の滞りである水毒、飲食物の滞りである食毒である。血毒は月経、打撲、血瘀などである。したがって3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_104",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "八綱病証",
+    "category_question_number": 1,
+    "round": 32,
+    "round_question_number": 104,
+    "question": "次の文で示す病証で最も適切なのはどれか。\n「32歳の男性。5日前に雨天の中、長時間の歩行をした。その翌日に微熱と発汗がみられた。現在は、倦怠感と食欲不振、水様便がみられる。」",
+    "options": [
+      "表虚証",
+      "裏虚証",
+      "表実証",
+      "裏実証"
+    ],
+    "answer": 1,
+    "explanation": "八綱弁証に関する設問である。\n表裏弁証は外感病の進行過程を病位によって弁別する方法で、病態が体表に存在している段階は表証、病態が体表よりも深部に存在している段階は裏証であり、臓腑の機能失調や生理物質の病態は裏証に属している。5日前に雨天の中でその翌日に微熱と発汗がみられたことから裏証である。虚実弁証は生理物質、陰陽、臓腑などの虚実を弁別し、人体における正気と邪気の盛衰を弁別する方法である。生理物質の不足や陰陽・臓腑などの機能が低下し、正気が虚弱となった病証は虚証であり、現在は、倦怠感と食欲不振、水様便などの気虚症状がみられる。したがって2が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_098",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "八綱病証",
+    "category_question_number": 2,
+    "round": 28,
+    "round_question_number": 98,
+    "question": "虚証で最もみられるのはどれか。",
+    "options": [
+      "脱肛",
+      "拒按",
+      "滑脈",
+      "口苦"
+    ],
+    "answer": 0,
+    "explanation": "1：気陥は、気虚と気の上昇不能という2つの病理が重なって起きる病態であり、上に向かわせる気機が失調し、組織・器官を正常な位置に保てないため、下垂症状（脱肛）が起こるので、これが正しい。2：拒按は実証に属するため、誤り。3：滑脈は痰湿や食滞によるため、誤り。4：口苦は熱証に現れやすいため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_093",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "八綱病証",
+    "category_question_number": 3,
+    "round": 32,
+    "round_question_number": 93,
+    "question": "本虚標実証に含まれるのはどれか。",
+    "options": [
+      "肝鬱気滞",
+      "肝陽上亢",
+      "肝火犯肺",
+      "心肝火旺"
+    ],
+    "answer": 1,
+    "explanation": "虚実挟雑証に関する設問である。\n虚実挟雑証とは虚証と実証が同時に存在する病証であり、疾病の本質が虚証で、主な症候が実証である場合を本虚標実という。2：肝陽上亢は実熱と陰虚であり、肝腎の陰液が不足したために肝陽が亢進した状態である。したがって2が正しい。1：肝鬱気滞は情志の変化などにより疏泄が失調し、気鬱・気滞が起こる病証である。3：肝火犯肺は肝火上炎と肺の機能失調が同時に存在する病証である。4：心肝火旺は肝火上炎と心火亢盛の病態が合わさる病証である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_101",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "八綱病証",
+    "category_question_number": 4,
+    "round": 29,
+    "round_question_number": 101,
+    "question": "病証において虚実挟雑証でないのはどれか。",
+    "options": [
+      "風熱犯肺",
+      "心腎不交",
+      "脾虚湿盛",
+      "肝陽上亢"
+    ],
+    "answer": 0,
+    "explanation": "虚実挟雑証に関する設問である。虚実挟雑証とは、虚証と実証が同時に存在する病証である。1：風熱犯肺とは、風熱が肺に影響することにより、宣発・粛降が失調して起こる病証であり、これが正しい。2：心腎不交とは、心腎陰虚と心火亢盛が同時に存在する病証である。3：脾虚湿盛とは、脾気虚のために痰湿が発生した病証である。4：肝陽上亢とは、肝腎の陰液が不足したために肝陽が亢進した状態であり、陽亢を主とした病証である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_104",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "気血水（津液）の病理・病証",
+    "category_question_number": 5,
+    "round": 30,
+    "round_question_number": 104,
+    "question": "次の文で示す患者の病証で最も適切なのはどれか。\n「46歳の男性。主訴は肩こり。1年以上テレワークで外出機会が減少し、ストレスを感じている。胸肋部痛と喉のつかえ感を伴う。」",
+    "options": [
+      "陰虚",
+      "気滞",
+      "湿熱",
+      "血虚"
+    ],
+    "answer": 1,
+    "explanation": "気血津液に関する設問である。「1年以上テレワークで外出機会が減少し、ストレスを感じている」ことから、気が滞り、気滞の症状である胸肋部痛（胸脇苦満）と喉のつかえ感（梅核気）を伴うことから2：気滞が考えられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_26_096",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "気血水（津液）の病理・病証",
+    "category_question_number": 6,
+    "round": 26,
+    "round_question_number": 96,
+    "question": "次の文で示す患者の病証はどれか。\n「最近、息切れと無力感があり動くと汗が出る。顔色は蒼白く、不眠、舌質は淡嫩。脈は細弱。」",
+    "options": [
+      "気虚血瘀",
+      "気血両虚",
+      "気滞血瘀",
+      "気不摂血"
+    ],
+    "answer": 1,
+    "explanation": "症例形式による気血病証に関する設問である。「息切れと無力感があり動くと汗が出る」のは、気虚を示している。動くと汗が出るのは、気を消耗して気虚が進むためである。「顔色は蒼白く、不眠、舌質は淡嫩」は血虚を示している。血虚により心神が養われないと、不眠が起こる。「舌質は嫩」は虚証を示している。したがって、2が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_106",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "五臓六腑の病理・病証",
+    "category_question_number": 7,
+    "round": 31,
+    "round_question_number": 106,
+    "question": "次の文で示す病証の病理で正しいのはどれか。\n「48歳の男性。3か月前に新型コロナウイルス感染症で30日間入院した。退院後も乾いた咳嗽が続き、粘稠性で黄色の痰が少量出る。また手足がほてり、頬が紅い。」",
+    "options": [
+      "肺気の不足",
+      "風寒の侵襲",
+      "陰液の損傷",
+      "痰湿の停留"
+    ],
+    "answer": 2,
+    "explanation": "病証と病理に関する設問である。乾いた咳嗽が続き、粘稠性で黄色の痰が少量出ることから肺の病証であり、手足がほてり、頬が紅いことから陰虚が考えられる。したがって3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_099",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "五臓六腑の病理・病証",
+    "category_question_number": 8,
+    "round": 23,
+    "round_question_number": 99,
+    "question": "次の文で示す患者について下記の2問に答えよ。\n「56歳の男性。主訴は食欲不振。腹部の痞えや膨満感、重痛を伴う。口が粘る、口苦、臭いの強い下痢がみられる。」\n\n最も適切な病証はどれか。",
+    "options": [
+      "気滞",
+      "陽虚",
+      "陰虚",
+      "湿熱"
+    ],
+    "answer": 3,
+    "explanation": "臓腑病証に関する症例形式の設問である。\n「食欲不振、腹部の痞えや膨満感、重痛を伴う」といった症状は、脾胃の気機失調を示し、「口が粘る、口苦、臭いの強い下痢」は湿熱の邪の存在を示している。全体を考慮すると脾胃湿熱が考えられる。したがって、4：湿熱が正しく、1：気滞、2：陽虚、3：陰虚は誤りである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_100",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "五臓六腑の病理・病証",
+    "category_question_number": 9,
+    "round": 23,
+    "round_question_number": 100,
+    "question": "本患者の病証でみられる脈状はどれか。",
+    "options": [
+      "濇脈",
+      "滑脈",
+      "結脈",
+      "細脈"
+    ],
+    "answer": 1,
+    "explanation": "脈診に関する症例形式の設問である。脾胃湿熱でよくみられる脈状を選択する。1：「濇脈」は血瘀や血虚などでみられるため、誤り。2：「滑脈」は痰飲、食積、湿証、実熱などでみられ、本症例は湿熱であるため、正しい。3：「結脈」は血瘀、積聚、寒証などでみられるため、誤り。4：「細脈」は血虚、陰虚などでみられるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_095",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "五臓六腑の病理・病証",
+    "category_question_number": 10,
+    "round": 23,
+    "round_question_number": 95,
+    "question": "嘈雑がみられる病証はどれか。",
+    "options": [
+      "胃の虚熱",
+      "食滞",
+      "胃の実熱",
+      "脾胃の湿熱"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "臓腑病証に関する設問である。嘈雑とは胸やけ、上腹部の痛み、空腹感はあるが食べられないといった症状である。教科書では、多くは胃の陰虚によって起こるとする。ただし、胃火上炎（胃の実熱）などでも起こるとする書籍もある。1：「胃の虚熱」は胃の陰虚を指しているため、正しい。2：「食滞」は食を嫌う、胸や胃の痞え、呑酸等がみられて異なるため、誤り。3：「胃の実熱」は上腹部の灼熱痛、腹部拒按、消穀善飢等がみられ、これも正しい答えとなる。4：「脾胃の湿熱」は腹部の痞え、膨満感、隠痛などがみられて異なるため、誤り。つまり、教科書では1が最適な答えであるが、財団では実熱も正解としている。本問題では正解が2つあることになる。",
+    "is_irregular": true,
+    "irregular_reason": "正解が複数（1または3）あるため"
+  },
+  {
+    "id": "oriental_intro_31_101",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "五臓六腑の病理・病証",
+    "category_question_number": 11,
+    "round": 31,
+    "round_question_number": 101,
+    "question": "五心煩熱や盗汗がみられるのはどれか。",
+    "options": [
+      "肝脾不和",
+      "心肝火旺",
+      "心脾両虚",
+      "心腎不交"
+    ],
+    "answer": 3,
+    "explanation": "臓腑病証に関する設問である。五心煩熱は手足心熱に胸中の煩熱を伴うものであり、陰虚内熱によって起こる。盗汗は寝汗のことで睡眠中に汗を多くかき、目覚めると止まるもので陰虚によって起こる。心腎不交とは心腎陰虚と心火亢盛が同時に存在する病証であり、陰液が不足することによって手足心熱、のぼせ、盗汗が起こり、虚熱が強くなると五心煩熱、潮熱が出現する。したがって4が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_096",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "五臓六腑の病理・病証",
+    "category_question_number": 12,
+    "round": 30,
+    "round_question_number": 96,
+    "question": "気機を上昇させる特性をもつ五志に損傷されやすい臓の症状はどれか。",
+    "options": [
+      "目のかすみ",
+      "不整脈",
+      "皮膚の乾燥",
+      "歯のぐらつき"
+    ],
+    "answer": 0,
+    "explanation": "臓腑病証に関する設問である。気機を上昇させる特性をもつ五志は怒であり、損傷されやすい臓は肝である。1：目のかすみは肝の症状であり、これが正しい。2：不整脈は心の症状であり、誤り。3：皮膚の乾燥は肺の症状であり、誤り。4：歯のぐらつきは腎の症状であり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_095",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "五臓六腑の病理・病証",
+    "category_question_number": 13,
+    "round": 24,
+    "round_question_number": 95,
+    "question": "腎陽虚証の症状はどれか。",
+    "options": [
+      "煩熱",
+      "浮腫",
+      "不眠",
+      "口渇"
+    ],
+    "answer": 1,
+    "explanation": "五臓の病証に関する設問である。腎陽虚は温煦・気化機能が低下する。全身の冷え、消化不良、陽痿、不妊、浮腫、尿量減少などが起こる。該当するのは2：浮腫である。なお、1の煩熱は熱証、3の不眠は血虚・熱証、4の口渇は津液不足、熱証などでみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_27_100",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "五臓六腑の病理・病証",
+    "category_question_number": 14,
+    "round": 27,
+    "round_question_number": 100,
+    "question": "心火亢盛証でみられないのはどれか。",
+    "options": [
+      "口渇",
+      "不眠",
+      "舌尖紅",
+      "結脈"
+    ],
+    "answer": 3,
+    "explanation": "病証に関する問題である。\n心火亢盛は、心火が亢進したため血や神志を主る機能が失調した病証である。1：口渇は、実熱で津液を消耗し現れるため、誤り。2：不眠は、実熱が心神に影響して現れるため、誤り。3：舌尖紅は、舌尖は心の状態を示し、心火亢進により赤くなって現れるため、誤り。4：結脈は、脈拍がやや遅く、不規則にときどき止まるもので、血瘀・寒証・積聚でみられるため、これが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_096",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "五臓六腑の病理・病証",
+    "category_question_number": 15,
+    "round": 24,
+    "round_question_number": 96,
+    "question": "病証と症状の組合せで正しいのはどれか。",
+    "options": [
+      "肝血虚 ― 目の充血",
+      "脾気虚 ― 内臓下垂",
+      "心陽虚 ― 盗汗",
+      "肺陰虚 ― 壮熱"
+    ],
+    "answer": 1,
+    "explanation": "五臓の病証に関する設問である。1の目の充血は肝火上炎、2の内臓下垂は脾気下陥、3の盗汗は陰虚、4の壮熱は実熱でよくみられる。脾気下陥は脾気虚が進展したものであるため、ここでは2が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_098",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "五臓六腑の病理・病証",
+    "category_question_number": 16,
+    "round": 23,
+    "round_question_number": 98,
+    "question": "次の文で示す患者の病証で適切なのはどれか。\n「16歳の男子。試験前になると食欲不振、腹部膨満感が起こる。腹鳴や腹痛を伴う下痢を頻発する。」",
+    "options": [
+      "脾胃の湿熱",
+      "肝腎の陰虚",
+      "脾腎の陽虚",
+      "肝脾の不調"
+    ],
+    "answer": 3,
+    "explanation": "臓腑病証に関する症例形式の設問である。「食欲不振、腹部膨満感」は脾胃の気機失調を示している。「試験前になると」というのは、精神的な緊張がきっかけになっており、心や肝への影響が考えられる。「腹鳴や腹痛を伴う下痢を頻発する」のは、気機の阻滞による症状で、実証である。1：「脾胃の湿熱」は、腹部の痞え、口苦、臭いの強い下痢などの湿熱症状がないため、誤り。2：「肝腎の陰虚」は便秘のほうが起こりやすく、口渇や足腰のだるさなどの症状もないため、誤り。3：「脾腎の陽虚」は腹痛や下痢がみられるものの虚証であり、精神的な緊張は関連せず、手足の冷えや畏寒などの陽虚症状もないため、誤り。4：「肝脾の不調」は肝の疏泄が失調して脾胃の運化機能に異常をきたす病態で、これが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_099",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "五臓六腑の病理・病証",
+    "category_question_number": 17,
+    "round": 30,
+    "round_question_number": 99,
+    "question": "次の文で示す患者の病証の病理で正しいのはどれか。\n「82歳の男性。半年前 に誤嚥性肺炎で1か月間入院した。退院後から腰の痛み、耳鳴り、手足のほてりが出現し寝汗をかくようになった。」",
+    "options": [
+      "疏泄の失調",
+      "運化の失調",
+      "肝火の上炎",
+      "腎陰の不足"
+    ],
+    "answer": 3,
+    "explanation": "臓腑病証に関する設問である。「誤嚥性肺炎」により、肺が損傷され、次第に腎も損傷され、「腰の痛み、耳鳴り、手足のほてり、寝汗」などの虚熱による症状があるため、4：腎陰の不足が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_103",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "五臓六腑の病理・病証",
+    "category_question_number": 18,
+    "round": 29,
+    "round_question_number": 103,
+    "question": "次の文で示す患者の病証で最もみられる症状はどれか。\n「42歳の女性。主訴は月経周期の乱れ。子どもの面倒をみながらの在宅勤務でイライラすることが多い。」",
+    "options": [
+      "太息",
+      "呵欠",
+      "短気",
+      "噴嚏"
+    ],
+    "answer": 0,
+    "explanation": "臓腑病証に関する設問である。「月経周期の乱れ、イライラすることが多い」は、肝の疏泄の失調によるもので、1：太息（ためいき）、これが正しい。2：呵欠は、労倦などによる虚証が考えられるため、誤り。3：短気は、肺気虚が考えられるため、誤り。4：噴嚏は、風寒邪による外感病が考えられるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_26_097",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "五臓六腑の病理・病証",
+    "category_question_number": 19,
+    "round": 26,
+    "round_question_number": 97,
+    "question": "病証と病因の組合せで正しいのはどれか。",
+    "options": [
+      "肝胆湿熱 ― 肝血虚が胆火に波及したもの",
+      "心火亢盛 ― 心陰が亢進したもの",
+      "脾胃湿熱 ― 湿が脾胃に長く影響し化熱したもの",
+      "腎陰虚 ― 腎気虚が進行し気の温煦作用が低下したもの"
+    ],
+    "answer": 2,
+    "explanation": "病証と病理に関する設問である。1の肝胆湿熱は、湿熱の邪が肝胆に影響したもので、誤り。2の心火亢盛は、心陽が亢進したもので、誤り。3の脾胃湿熱は正しい。4は腎陽虚の病機を説明しており、誤り。\nなお、問題文は「病因」としているが、原因ではなく病証の機序を示しているため、「病理」もしくは「病機」が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_101",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 20,
+    "round": 32,
+    "round_question_number": 101,
+    "question": "次の文で示す経脈病証はどれか。\n「55歳の女性。3週間前に肩の上部から上肢後面が痛み始めた。1週間前から耳の後ろと目尻が痛む。汗をかきやすい。」",
+    "options": [
+      "手の太陰経",
+      "手の少陰経",
+      "手の太陽経",
+      "手の少陽経"
+    ],
+    "answer": 3,
+    "explanation": "経脈病証に関する設問である。\n耳後〜肩上部〜上肢後面の痛み、目尻から頬の痛み、汗をかきやすいなどは手の少陽三焦経の経絡走行上の病証である。したがって4が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_097",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 21,
+    "round": 31,
+    "round_question_number": 97,
+    "question": "経脈病証で、喉に症状があり、外側前腕皮神経の支配領域に痛みがあるのはどれか。",
+    "options": [
+      "手の少陰経",
+      "手の少陽経",
+      "手の陽明経",
+      "手の太陽経"
+    ],
+    "answer": 2,
+    "explanation": "経脈病証に関する設問である。手の陽明大腸経の病証では、喉の腫れ痛み、上肢外側の痛み、示指の痛みなどである。外側前腕皮神経の支配領域は、手の陽明大腸経の経絡走行上の痛みである。したがって3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_102",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 22,
+    "round": 31,
+    "round_question_number": 102,
+    "question": "次の文で示す症例の経脈病証はどれか。\n「65歳の男性。2週間前から腰痛で、前かがみや仰向けができない。最近は下腹部が痛み、季肋部が腫れ、喉が渇き、下痢をする。」",
+    "options": [
+      "足の太陰経",
+      "足の厥陰経",
+      "足の陽明経",
+      "足の少陽経"
+    ],
+    "answer": 1,
+    "explanation": "経脈病証に関する設問である。腰痛で前かがみ（うつむいたり）や仰向けができない、下腹部の痛み、季肋部の腫れ、喉の渇き、下痢などの症状がみられるため、2：足の厥陰経病証が該当し、これが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_097",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 23,
+    "round": 23,
+    "round_question_number": 97,
+    "question": "次の文で示す経脈病証はどれか。\n「上肢がひきつり、手掌のほてりがある。胸苦しく、精神的に不安定である。」",
+    "options": [
+      "肺経",
+      "心経",
+      "心包経",
+      "三焦経"
+    ],
+    "answer": 2,
+    "explanation": "経脈病証に関する設問である。経脈の走行上の病証と関連病証が一緒に提示されることが多くなっている。1：「肺経」病証は手掌のほてりと胸苦しさは一致するが、精神的不安定はないので誤り。2：「心経」病証は手掌のほてりはあるが、他が該当しないため誤り。3：「心包経」病証はすべて該当し、正しい。4：「三焦経」病証は全く該当しないため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_097",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 24,
+    "round": 28,
+    "round_question_number": 97,
+    "question": "経脈病証で「顔がくすみ、皮膚がかさかさして艶がない。口が苦く、よくため息をつく。痛みで寝返りが打てない。」のはどれか。",
+    "options": [
+      "手の太陰経病証",
+      "手の太陽経病証",
+      "足の少陽経病証",
+      "足の厥陰経病証"
+    ],
+    "answer": 2,
+    "explanation": "経脈病証に関する設問である。胆経では口が苦い、よくため息をつく、顔色がくすむ、艶がないなどの症状がみられるため、3：足の少陽経病証が該当し、これが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_102",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 25,
+    "round": 29,
+    "round_question_number": 102,
+    "question": "次の文で示す経脈の病証はどれか。\n「48歳の女性。発汗、目尻から頬の痛みがあり、耳鳴りが続き耳が聞こえにくい。」",
+    "options": [
+      "足の陽明経",
+      "手の太陽経",
+      "足の少陰経",
+      "手の少陽経"
+    ],
+    "answer": 3,
+    "explanation": "経脈病証に関する設問である。耳鳴り、難聴は小腸経、三焦経、胆経が関連する。発汗、目尻から頬の痛みは、三焦経であることから、4：手の少陽経が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_101",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 26,
+    "round": 30,
+    "round_question_number": 101,
+    "question": "経脈病証で難聴が起こるのはどれか。",
+    "options": [
+      "足の少陰経",
+      "手の太陽経",
+      "足の厥陰経",
+      "手の陽明経"
+    ],
+    "answer": 1,
+    "explanation": "経脈病証に関する設問である。経脈病証で難聴、のど、あごの腫れや痛みが現れるのは2：手の太陽経であり、これが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_097",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 27,
+    "round": 24,
+    "round_question_number": 97,
+    "question": "次の文で示す経脈の病証はどれか。\n「48歳の女性。発汗、喉の腫れがあり、耳が聞こえにくく、耳鳴りが続く。」",
+    "options": [
+      "足の陽明経",
+      "手の太陽経",
+      "足の少陰経",
+      "手の少陽経"
+    ],
+    "answer": 3,
+    "explanation": "経脈病証に関する設問である。\n発汗と喉の腫れは胃経と三焦経でみられ、難聴、耳鳴は三焦経である。したがって、手の少陽三焦経を示す4が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_100",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 28,
+    "round": 30,
+    "round_question_number": 100,
+    "question": "経脈病証で「前頸部が腫れ、口がゆがみ口すぼめができず、うつ傾向にある」のはどれか。",
+    "options": [
+      "手の太陰経病証",
+      "手の少陰経病証",
+      "足の陽明経病証",
+      "足の少陽経病証"
+    ],
+    "answer": 2,
+    "explanation": "経脈病証に関する設問である。「前頸部が腫れ、口がゆがみ口すぼめができず」は、足の陽明経病証の経絡走行上の病証であり、「うつ傾向にある」は足の陽明経の経絡関連病証であるため、3：足の陽明経病証が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_096",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 29,
+    "round": 25,
+    "round_question_number": 96,
+    "question": "経脈病証で前胸部、心下部、腋下部の圧迫感、下肢内側の腫れや痛みがみられるのはどれか。",
+    "options": [
+      "陽明胃経病証",
+      "太陰脾経病証",
+      "少陽胆経病証",
+      "厥陰肝経病証"
+    ],
+    "answer": 1,
+    "explanation": "経脈病証に関する設問である。「下肢内側の腫れ痛み」から2の足太陰脾経が想起できる。「前胸部、心下部、腋下部の圧迫感」これらも含め、経絡走行上の病証である。1の胃経は前胸部・腹部・鼠径部・下肢前面・足背の痛みなどがある。3の胆経は体幹外側、下肢外側の痛み、足の第4指の麻痺などがあるが、腋窩症状はない。4の肝経は下腹部膨満感、腰痛、季肋部の腫れなどがあるが、下肢痛はない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_104",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 30,
+    "round": 29,
+    "round_question_number": 104,
+    "question": "経脈病証で咽喉の症状がみられないのはどれか。",
+    "options": [
+      "手の陽明経脈",
+      "手の太陽経脈",
+      "足の陽明経脈",
+      "足の太陽経脈"
+    ],
+    "answer": 3,
+    "explanation": "経脈病証に関する設問である。経絡走行上の病証で、咽喉の症状がみられないのは、4：足の太陽経脈である。足の太陽経脈の病証は、頭頂部・後頭部痛、体幹後面、下肢後面の痛み、足の小指の麻痺である。1：手の陽明経脈は、喉の腫れ痛み、上肢外側の痛み、示指の痛みである。2：手の太陽経脈は、頚が腫れ、後ろを振り返ることができない、肩、上腕の激しい痛みである。3：足の陽明経脈は、顔面の麻痺、前頚部の腫れ、前胸部・腹部・鼠径部・下肢前面・足背の痛みである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_26_091",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 31,
+    "round": 26,
+    "round_question_number": 91,
+    "question": "次の文で示す経脈病証はどれか。\n「心煩、心下痛、舌の強ばり、舌痛、鼠径部や膝の腫痛や冷え。」",
+    "options": [
+      "手の少陰経",
+      "足の太陰経",
+      "手の陽明経",
+      "足の太陽経"
+    ],
+    "answer": 1,
+    "explanation": "経脈病証に関する設問である。「鼠径部や膝の腫痛や冷え」という下肢の症状があることから、足の経脈を推定できる。2：足の太陰経は脾経で、是動病に「舌の強ばり」があり、他は所生病にある。これが正しい。基本的に経絡の流注と結びつけると理解しやすい。4の足の太陽経は膀胱経であり、頭から腰背部、下肢後面の症状が主で、胸腹部や舌の症状はみられない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_26_098",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 32,
+    "round": 26,
+    "round_question_number": 98,
+    "question": "足の太陽膀胱経の病証はどれか。",
+    "options": [
+      "前胸部・腹部・鼠径部の痛み、顔面の麻痺",
+      "前頭部・後頭部・脊柱の痛み、精神異常",
+      "側頭部・体幹外側・下肢外側の痛み、顔色のくすみ",
+      "腰部・大腿・下腿内側の痛み、顔色の黒ずみ"
+    ],
+    "answer": 1,
+    "explanation": "経脈病証に関する設問である。足太陽膀胱経の流注を考えると判断しやすい。1は顔面の麻痺が特徴で、足陽明胃経のため、誤り。2は督脈と似ているが、精神異常があることで足太陽膀胱経と判断できるため、これが正しい。3は身体の外側の症状が特徴で、足少陽胆経のため、誤り。4は足少陰腎経のため、誤り。下肢内側は三陰経が浮かび、腰痛で腎経と肝経に絞られる。意外にも、肝経の経脈病証には下肢内側の症状がない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_27_093",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 33,
+    "round": 27,
+    "round_question_number": 93,
+    "question": "胆経の病でみられるのはどれか。",
+    "options": [
+      "嘆息",
+      "喘息",
+      "噴嚏",
+      "吃逆"
+    ],
+    "answer": 0,
+    "explanation": "経絡病証に関する設問である。\n胆経では口が苦い、よくため息をつく、顔色がくすむ、かさついて艶がないなどがみられる。1：嘆息はため息のことで、これが正しい。2：喘息は呼吸困難のことで肺経や腎経でみられるため、誤り。3：噴嚏はくしゃみのことで、胆経の病としてはあまりみられないため、誤り。4：吃逆はしゃっくりのことで、胆経の病としてはあまりみられないため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_27_096",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "十二経脈の病証",
+    "category_question_number": 34,
+    "round": 27,
+    "round_question_number": 96,
+    "question": "経脈病証で「顔がすすけて黒く、腰が痛く、陰嚢が腫れて痛み、小便が出ない。」のはどれか。",
+    "options": [
+      "足の厥陰経脈病証",
+      "足の少陰経脈病証",
+      "足の少陽経脈病証",
+      "足の太陽経脈病証"
+    ],
+    "answer": 0,
+    "explanation": "経脈病証に関する設問である。\n「顔がすすけて黒い」のは肝経だが、腎経も黒くなる。胆経の場合はくすむ。腰痛は腎経、肝経、膀胱経で起こる。「小便が出ない」は尿閉で、肝経でみられる。「陰嚢の腫れ痛み」は疝気の症状で、肝経の病証である。1：足の厥陰経脈病証は肝経であり、これが正しい。2：足の少陰経脈病証は腎経であり、誤り。3：足の少陽経脈病証は胆経であり、誤り。4：足の太陽経脈病証は膀胱であり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_097",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "奇経八脈病証",
+    "category_question_number": 35,
+    "round": 30,
+    "round_question_number": 97,
+    "question": "陽経の気血を調節するのはどれか。",
+    "options": [
+      "督脈",
+      "任脈",
+      "衝脈",
+      "帯脈"
+    ],
+    "answer": 0,
+    "explanation": "経絡論の概要に関する設問である。1：督脈は手足の三陽経はすべて大椎で交会するため、陽経の気血を調節する作用を持っているので、これが正しい。2：任脈は陰経に対する調整する作用であり、誤り。3：衝脈は十二経脈の気血を調整する作用であり、誤り。4：帯脈は上下に走る各経脈を束ね調整する作用であり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_096",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "六経病",
+    "category_question_number": 36,
+    "round": 23,
+    "round_question_number": 96,
+    "question": "六経弁証の少陽病証でみられるのはどれか。",
+    "options": [
+      "悪風",
+      "口苦",
+      "下痢",
+      "高熱"
+    ],
+    "answer": 1,
+    "explanation": "六経病証に関する設問である。少陽病証では口苦、咽乾、食欲不振、悪心、胸脇苦満、寒熱往来等の症候を呈する。1：悪風は太陽病証でよくみられる症状のため、誤り。2：口苦は少陽病証でよくみられる症状であり、正しい。3：下痢は太陰病証でよくみられる症状のため、誤り。4：高熱は陽明病証でよくみられる症状のため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_102",
+    "subject": "oriental_intro",
+    "category": "pathology_syndrome",
+    "sub_category": "六経病",
+    "category_question_number": 37,
+    "round": 30,
+    "round_question_number": 102,
+    "question": "次の文で示す患者の病証で最もみられる脈状はどれか。\n「43歳の男性。主訴は便秘。1週間前に風邪を引き、その後、口渇が強くなり発汗も多くなった。午後3時から5時くらいまで体温が高くなる。」",
+    "options": [
+      "濡脈",
+      "弦脈",
+      "洪脈",
+      "緩脈"
+    ],
+    "answer": 2,
+    "explanation": "六経病証に関する設問である。陽明病は裏実熱証であり、邪正抗争が激しく病勢が盛んな段階である。陽明潮熱は、日晡の時間帯（午後3時〜5時）に体温上昇あるいは熱感が強くなる。主な症候は激しい汗、壮熱、激しい口渇、潮熱、大便秘結、譫語、洪脈などがみられる。1：濡脈は湿証、虚証でみられるため、誤り。2：弦脈は肝胆病、痛証、痰飲でみられるため、誤り。3：洪脈は浮位で触れ、脈幅が大きいもので拍動が勢いよく触れ、去る時に勢いが衰えるもので、熱盛でみられるため、これが正しい。4：緩脈は湿証、脾虚でみられるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "東洋医学の特色",
+    "category_question_number": 1,
+    "round": 32,
+    "round_question_number": 91,
+    "question": "未病の概念について適切なのはどれか。",
+    "options": [
+      "人体と自然は相応している。",
+      "心と体は一体である。",
+      "人体は有機体として機能する。",
+      "健康と疾病は連続している。"
+    ],
+    "answer": 3,
+    "explanation": "未病に関する設問である。\n未病とは疾病でなければ健康、健康でなければ疾病ではなく、健康の程度には高い状態、低い状態があり、それが低下すると疾病の状態に至るという連続的な見方をするものである。したがって4が正しい。1：人体の形と機能が天地自然と相応している思想を天人合一思想という。2：心と体は一体であるという考え方は心身一如である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_089",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "陰陽論",
+    "category_question_number": 2,
+    "round": 24,
+    "round_question_number": 89,
+    "question": "陰陽学説で同じ属性の組合せはどれか。",
+    "options": [
+      "内部 ― 上部",
+      "奇数 ― 老年",
+      "左側 ― 衛気",
+      "静止 ― 急性"
+    ],
+    "answer": 2,
+    "explanation": "陰陽学説に関する設問である。1の内部は陰、上部は陽、2の奇数は陽、老年は陰、3の左側は陽、衛気は陽、4の静止は陰、急性は陽である。したがって、3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "陰陽論",
+    "category_question_number": 3,
+    "round": 29,
+    "round_question_number": 91,
+    "question": "陰陽の属性が同じ組合せはどれか。",
+    "options": [
+      "温 ― 西",
+      "遅 ― 凸",
+      "魄 ― 腹",
+      "左 ― 偶数"
+    ],
+    "answer": 2,
+    "explanation": "陰陽学説に関する設問である。1：温は陽、西は陰、2：遅は陰、凸は陽、3：魄は陰、腹は陰、4：左は陽、偶数は陰である。したがって3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_089",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "陰陽論",
+    "category_question_number": 4,
+    "round": 23,
+    "round_question_number": 89,
+    "question": "生体リズムに関する陰陽学説で最も適切なのはどれか。",
+    "options": [
+      "陰陽消長",
+      "陰陽対立",
+      "陰陽制約",
+      "陰陽互根"
+    ],
+    "answer": 0,
+    "explanation": "陰陽に関する設問である。「リズム」とは周期的に反復循環する動きのことである。1：「陰陽消長」は陰陽の盛衰変化を表し、これで四季の変化に応じた生体の変化（生体リズム）などを説明するため、正しい。2：「陰陽対立」は反対の性質を表し、上下・内外などを説明するため、誤り。3：「陰陽制約」は反対の性質により相互に制約することを表し、例えば寒熱は生体を冷え過ぎないよう、熱くなり過ぎないように制限していると説明するため、誤り。4：「陰陽互根」は相互に依存し、片方だけでは存在できないことを表す。例えば気（陽）と血（陰）は気が血を動かし、血が気を養い、相互がうまく影響してはじめて機能を発揮できるなどと説明するため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "陰陽論",
+    "category_question_number": 5,
+    "round": 30,
+    "round_question_number": 91,
+    "question": "陰陽の関係で「寒い日には活動して冷えすぎないようにする」のはどれか。",
+    "options": [
+      "陰陽互根",
+      "陰陽消長",
+      "陰陽制約",
+      "陰陽転化"
+    ],
+    "answer": 2,
+    "explanation": "陰陽に関する設問である。陰陽制約とは、陰は陽を制約することによって平衡（バランス）を取ることができることである。暑い日は静かにすることで、熱くなりすぎないようにし、寒い日には活動して冷えすぎないようにする。したがって3が正しい。1：陰陽互根とは陰と陽は相反する属性で成り立ち、どちらか一方だけでは成立しないことを表すため、誤り。2：陰陽消長は陰陽の量が増えたり減ったりすることであり、誤り。4：陰陽転化は、ある一定のところで増加は減少に、減少は増加に転化することであり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_100",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 6,
+    "round": 32,
+    "round_question_number": 100,
+    "question": "五行色体で相剋関係にある組合せはどれか。",
+    "options": [
+      "噫 ― 羽",
+      "収 ― 肌肉",
+      "麦 ― 羊",
+      "石 ― 色"
+    ],
+    "answer": 0,
+    "explanation": "五行説に関する設問である。\n1：噫（火）― 羽（水）、2：収（金）― 肌肉（土）、3：麦（木）― 羊（火）、4：石（水）― 色（木）である。したがって1が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 7,
+    "round": 31,
+    "round_question_number": 91,
+    "question": "五行色体における五臓と五労の組合せで誤っているのはどれか。",
+    "options": [
+      "肝 ― 久視",
+      "脾 ― 久坐",
+      "肺 ― 久臥",
+      "腎 ― 久立"
+    ],
+    "answer": 0,
+    "explanation": "五行説に関する設問である。肝は久行（長時間の歩行や運動で筋を傷つける）であり、久視（長時間の視覚使用で血を傷つける）は心である。したがって1が誤っている。\n2：脾は久坐（長時間の坐位で肉を傷つける）、肺は久臥（長時間の臥床で気を傷つける）、腎は久立（長時間の立位で骨を傷つける）である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_090",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 8,
+    "round": 28,
+    "round_question_number": 90,
+    "question": "五行色体における五脈と五病の組合せで正しいのはどれか。",
+    "options": [
+      "弦 ― 呑",
+      "代 ― 咳",
+      "毛 ― 語",
+      "石 ― 欠"
+    ],
+    "answer": 3,
+    "explanation": "五行説に関する設問である。1：弦（肝）―呑（脾）、2：代（脾）―咳（肺）、3：毛（肺）―語（肝）、4：石（腎）―欠（腎）である。したがって4が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_090",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 9,
+    "round": 24,
+    "round_question_number": 90,
+    "question": "五行色体の組合せで正しいのはどれか。",
+    "options": [
+      "唾 ― 呻",
+      "香 ― 鼻",
+      "辛 ― 思",
+      "爪 ― 神"
+    ],
+    "answer": 0,
+    "explanation": "五行説に関する設問である。1は「唾（腎）―呻（腎）」、2は「香（脾）―鼻（肺）」、3は「辛（肺）―思（脾）」、4は「爪（肝）―神（心）」である。したがって、1が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_090",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 10,
+    "round": 25,
+    "round_question_number": 90,
+    "question": "五行色体で相剋関係にある組合せはどれか。",
+    "options": [
+      "筋 ― 唾",
+      "血脈 ― 涎",
+      "肌肉 ― 涕",
+      "皮毛 ― 汗"
+    ],
+    "answer": 3,
+    "explanation": "五行説に関する設問である。1：「筋―唾」は筋が木、唾が水に属し、誤り。2：「血脈―涎」は血脈が火、涎は土に属し、誤り。3：「肌肉―涕」は肌肉が土、涕が金に属し、誤り。4：「皮毛―汗」は皮毛が金、汗が火に属し、火剋金の関係となり、これが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_26_089",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 11,
+    "round": 26,
+    "round_question_number": 89,
+    "question": "五行色体で相生関係にある組合せはどれか。",
+    "options": [
+      "鈎 ― 毛",
+      "蔵 ― 生",
+      "志 ― 神",
+      "語 ― 呑"
+    ],
+    "answer": 1,
+    "explanation": "五行説に関する設問である。相生関係は母子関係でもあり、木が火を生むような関係をいう。1：「鈎―毛」は五脈で、鈎が火、毛が金に属し、誤り。2：「蔵―生」は五能で、蔵が水、生は木に属して水生木の関係となり、これが正しい。3：「志―神」は五神で、志が水、神が火に属し、誤り。4：「語―呑」は五病で、語が木、呑が土に属し、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_27_090",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 12,
+    "round": 27,
+    "round_question_number": 90,
+    "question": "五行色体で相剋関係にある組合せはどれか。",
+    "options": [
+      "酸 ― 鹹",
+      "面色 ― 毛",
+      "汗 ― 涎",
+      "久坐 ― 久臥"
+    ],
+    "answer": 1,
+    "explanation": "五行色体と五行関係に関する複合問題である。\n相剋関係は相勝関係ともいい、「木は土を剋す」などがある。1：「酸―鹹」は酸が木、鹹はしおからいで水に属すので誤り。2：「面色―毛」は面色が火、毛は金に属し、火は金を剋すとなるので、これが正しい。3：「汗―涎」は汗が火、涎は土に属すので誤り。4：「久坐―久臥」は久坐が土、久臥は金に属すので誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_091",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 13,
+    "round": 23,
+    "round_question_number": 91,
+    "question": "臓腑の働きと五華の組合せで正しいのはどれか。",
+    "options": [
+      "精を蔵する ― 爪",
+      "神を蔵する ― 毛",
+      "血を蔵する ― 面色",
+      "営を蔵する ― 唇"
+    ],
+    "answer": 3,
+    "explanation": "五行説と蔵象に関する設問である。1：「精を蔵する」のは腎、「爪」は肝であるため、誤り。2：「神を蔵する」のは心、「毛」は肺であるため、誤り。3：「血を蔵する」のは肝、「面色」は心であるため、誤り。4：「営を蔵する」のは脾、「唇」も脾であるため、正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_089",
+    "subject": "oriental_intro",
+    "category": "oriental_basis",
+    "sub_category": "五行論",
+    "category_question_number": 14,
+    "round": 25,
+    "round_question_number": 89,
+    "question": "相剋関係にある経脈の絡穴の組合せはどれか。",
+    "options": [
+      "外関 ― 通里",
+      "蠡溝 ― 大鍾",
+      "公孫 ― 偏歴",
+      "飛揚 ― 内関"
+    ],
+    "answer": 3,
+    "explanation": "五行説の相剋と経穴に関する設問である。\n1：外関は手少陽三焦経、通里は手少陰心経であり、火と火の同属で誤り。2：蠡溝は足厥陰肝経、大鍾は足少陰腎経であり、木と水の相生関係で誤り。3：公孫は足太陰脾経、偏歴は手陽明大腸経であり、金と土の相生関係で誤り。4：飛揚は足太陽膀胱経、内関は手厥陰心包経で火に属し、水と火の相剋関係でこれが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_092",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "精",
+    "category_question_number": 1,
+    "round": 31,
+    "round_question_number": 92,
+    "question": "成長や生殖活動を行うもととなる基本的な物質の生理作用で最も適切なのはどれか。",
+    "options": [
+      "神を維持する。",
+      "血脈を満たす。",
+      "呼吸を推動する。",
+      "体温を一定に保つ。"
+    ],
+    "answer": 0,
+    "explanation": "精気血津液に関する設問である。成長や生殖活動を行うもととなる基本的な物質は精であり、生理作用は生殖、滋養、血への化生、気への化生、神の維持である。したがって1が正しい。2：血脈を満たす、滋潤・濡養するのは、津液の作用である。3：呼吸を推動する、血の運行を促進するのは、宗気である。4：外邪の侵襲を防ぐ、腠理を開闔する、全身を温め養う作用で体温を一定に保つのは、衛気である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_092",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 2,
+    "round": 23,
+    "round_question_number": 92,
+    "question": "元気の説明で正しいのはどれか。",
+    "options": [
+      "血とともに脈中を行く。",
+      "清気とも言う。",
+      "夜間に人体の陰の部を二十五周する。",
+      "先天の精が変化生成したものである。"
+    ],
+    "answer": 3,
+    "explanation": "気血津液に関する設問である。1：「血とともに脈中を行く」のは営気であるため、誤り。2：「清気とも言う」のは天の陽気であるため、誤り。3：「夜間に人体の陰の部を二十五周する」のは衛気であるため、誤り。4：「先天の精が変化生成したものである」は元気の説明であり、正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_091",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 3,
+    "round": 24,
+    "round_question_number": 91,
+    "question": "肺に作用して発声・呼吸を推動するのはどれか。",
+    "options": [
+      "営気",
+      "衛気",
+      "宗気",
+      "元気"
+    ],
+    "answer": 2,
+    "explanation": "蔵象の気血津液に関する設問である。営気は栄養を供給し、衛気は体表を温め、防御し、開闔を主る。宗気は血の推動、発声、呼吸を推進し、元気は生命活動の原動力となる。したがって、3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_094",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 4,
+    "round": 29,
+    "round_question_number": 94,
+    "question": "胸中に集まる気について正しいのはどれか。",
+    "options": [
+      "発育を促す。",
+      "発声に関わる。",
+      "発汗を調整する。",
+      "栄養分をもつ。"
+    ],
+    "answer": 1,
+    "explanation": "気の種類に関する設問である。胸中に集まる気は宗気であり、呼吸や発声に関係するため、2：発声に関わるが正しい。1：発育を促すのは、原気であるため、誤り。3：発汗を調整するのは、衛気であるため、誤り。4：栄養分をもつのは、営気であるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_23_090",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 5,
+    "round": 23,
+    "round_question_number": 90,
+    "question": "後天の精から得られた水穀の悍気はどれか。",
+    "options": [
+      "胃気",
+      "営気",
+      "衛気",
+      "宗気"
+    ],
+    "answer": 2,
+    "explanation": "気血津液に関する設問である。飲食物から得られた「後天の精」は、水穀の精ともいう。「後天の精」は「水穀の悍気」（陽性の気）と「水穀の精気」（陰性の気）を含む。1：胃気は胃を働かせる気、および胃の働きによって得られた後天の気、つまり後天の精が気に変化したものを指すため、誤り。2：営気は後天の精から得られる陰性の気（水穀の精気）であるため、誤り。3：衛気は後天の精から得られる陽性の気（水穀の悍気）であるため、正しい。4：宗気は後天の精と天の気が交わってできる気であるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_091",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 6,
+    "round": 28,
+    "round_question_number": 91,
+    "question": "脈中を行き、血をめぐらすのはどれか。",
+    "options": [
+      "原気",
+      "宗気",
+      "営気",
+      "衛気"
+    ],
+    "answer": 2,
+    "explanation": "気と血に関する設問である。3：営気は豊かな栄養分を持ち、血の一部として脈中に入り全身をめぐるので、これが正しい。1：原気は人体の最も根本的な気であり、三焦を通って全身に分布するため、誤り。2：宗気は胸中に集まり、心肺の活動を支える働きを持つため、誤り。4：衛気は血脈内に拘束されることなく、外は皮膚・肌肉から、内は臓腑に至るまで全身に分布するため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_093",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 7,
+    "round": 31,
+    "round_question_number": 93,
+    "question": "三焦を通って臓腑の気になるのはどれか。",
+    "options": [
+      "宗気",
+      "衛気",
+      "営気",
+      "原気"
+    ],
+    "answer": 3,
+    "explanation": "気血津液に関する設問である。三焦を通って臓腑の気になるのは原気である。人の成長や発育を促し、臓腑の生理活動を始動させ、生命活動の原動力となる。したがって4が正しい。1：宗気は胸中に集まり、心肺の活動を支える働きを持つ。2：衛気は血脈内に拘束されることなく、外は皮膚・肌肉から、内は臓腑に至るまで全身にくまなく分布する。3：営気は豊かな栄養分を持ち、血の一部として脈中に入り、全身をめぐり、組織・器官の活動を支える。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_091",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 8,
+    "round": 25,
+    "round_question_number": 91,
+    "question": "三焦を通って全身に分布する気はどれか。",
+    "options": [
+      "原気",
+      "宗気",
+      "営気",
+      "衛気"
+    ],
+    "answer": 0,
+    "explanation": "気の分布に関する設問である。\n1：原気は臍下丹田に集まり、三焦を通って全身をめぐるため、これが正しい。2：宗気は胸中に集まるため、誤り。3：営気は脈の中をめぐるため、誤り。4：衛気は脈外をめぐるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_27_089",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "気",
+    "category_question_number": 9,
+    "round": 27,
+    "round_question_number": 89,
+    "question": "気について正しいのはどれか。",
+    "options": [
+      "宗気は臍下丹田に集まる。",
+      "原気は津液を血に変化させる。",
+      "衛気は臓腑を温める。",
+      "営気は呼吸を推動する。"
+    ],
+    "answer": 2,
+    "explanation": "気の種類に関する設問である。\n1：宗気は呼吸を推動するので、誤り。2：原気は臍下丹田に集まるので、誤り。3：衛気は臓腑を温めるので、これが正しい。4：営気は津液を血に変化させるので、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_092",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "血",
+    "category_question_number": 10,
+    "round": 30,
+    "round_question_number": 92,
+    "question": "血瘀の症状はどれか。",
+    "options": [
+      "筋けいれん",
+      "顔面蒼白",
+      "視力減退",
+      "色素沈着"
+    ],
+    "answer": 3,
+    "explanation": "血の症状に関する設問である。血瘀の症状は、固定痛・刺痛、腫脹・腫塊、紫舌・暗紅舌・瘀斑・瘀点・皮下出血斑、シミ・色素沈着、肌膚甲錯、月経痛・血塊が多いなどである。したがって、4が正しい。1：筋けいれん、2：顔面蒼白、3：視力減退は血虚の症状であり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_095",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "水（津液）",
+    "category_question_number": 11,
+    "round": 29,
+    "round_question_number": 95,
+    "question": "津液の停滞による症状はどれか。",
+    "options": [
+      "盗汗",
+      "口渇",
+      "しびれ",
+      "下痢"
+    ],
+    "answer": 3,
+    "explanation": "津液に関する設問である。津液が停滞すると、身体のだるさ、浮腫、4：下痢などの症状が起こる。したがって4が正しい。1：盗汗は陰虚によって起こるものが多く、誤り。2：口渇は実熱に伴う津液の損傷によるものが多く、誤り。3：しびれは、肝血が不足し、組織・器官を滋養できなくなるものであり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_092",
+    "subject": "oriental_intro",
+    "category": "essence_qi_blood_fluid_spirit",
+    "sub_category": "神",
+    "category_question_number": 12,
+    "round": 32,
+    "round_question_number": 92,
+    "question": "狭義の神の働きでないのはどれか。",
+    "options": [
+      "思惟活動の維持",
+      "精神活動の制御",
+      "生命活動の維持",
+      "外界刺激に対する情動反応"
+    ],
+    "answer": 2,
+    "explanation": "神に関する設問である。\n狭義の神は精神・意識・思惟活動を指し、神志・心神と呼ばれ、心の機能に属する。臓腑や生理物質に直接影響を与えるとともに、それらに対して主導的な役割を担う。\n広義の神は生命活動の総称であり、臓腑・生理物質・精神活動の機能が統合された情報として外に現れたものである。したがって3が答えである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_25_099",
+    "subject": "oriental_intro",
+    "category": "治療法",
+    "sub_category": "鍼灸治療の法則",
+    "category_question_number": 7,
+    "round": 25,
+    "round_question_number": 99,
+    "question": "難経六十九難により腎虚の補法を行う選穴部位はどれか。",
+    "options": [
+      "上腕二頭筋腱外方の陥凹部、肘窩横紋上",
+      "手関節前面横紋上で、橈骨動脈拍動部",
+      "足内側、舟状骨粗面の下方、赤白肉際",
+      "太渓の上方2寸で、アキレス腱と長指屈筋との間"
+    ],
+    "answer": 3,
+    "explanation": "【解説】難経六十九難による選穴に関する複合問題である。腎虚（水の虚）の場合は、「虚すれば則ちその母を補う」という原則により母経（金経）の母穴（金穴）である経渠、自経（水経）の母穴（金穴）である復溜を選穴する。1：尺沢（金経の水穴）で誤り。2：太淵（金経の土穴）で誤り。3：然谷（水経の火穴）で誤り。4：復溜（水経の金穴）でこれが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_27_098",
+    "subject": "oriental_intro",
+    "category": "治療法",
+    "sub_category": "鍼灸治療の法則",
+    "category_question_number": 8,
+    "round": 27,
+    "round_question_number": 98,
+    "question": "六部定位脈診で左手尺中の沈の部が虚している場合、難経六十九難に基づく治療穴の部位はどれか。",
+    "options": [
+      "足の第1指、末節骨外側、爪甲角の近位外方1分",
+      "足内側、第1中足指節関節内側の近位陥凹部、赤白肉際",
+      "膝後内側、半腱様筋腱の外縁、膝窩横紋上",
+      "下腿後内側、アキレス腱の前縁、内果尖の上方2寸"
+    ],
+    "answer": 3,
+    "explanation": "【解説】脈診と選穴、経穴に関する複合問題である。\n六部定位で、左手尺中の沈は腎の部位であり、腎虚を示す。六十九難では「虚すればその母を補う」ことから、腎は水であるため、水経の金穴（復溜）と金経の金穴（経渠）を選ぶ。\n1の部位は大敦であり、誤り。2の部位は太白であり、誤り。3の部位は陰谷であり、誤り。4の部位が復溜なので、これが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_27_099",
+    "subject": "oriental_intro",
+    "category": "治療法",
+    "sub_category": "鍼灸治療の法則",
+    "category_question_number": 9,
+    "round": 27,
+    "round_question_number": 99,
+    "question": "大腸の病変に用いる下合穴はどれか。",
+    "options": [
+      "陽陵泉",
+      "足三里",
+      "上巨虚",
+      "委陽"
+    ],
+    "answer": 2,
+    "explanation": "【解説】選穴に関する問題である。\n下合穴は、六腑の病証の反応が現れやすい穴である。1：陽陵泉は胆の下合穴であるため、誤り。2：足三里は胃の下合穴であるため、誤り。3：上巨虚は大腸の下合穴であるため、これが正しい。4：委陽は三焦の下合穴であるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_100",
+    "subject": "oriental_intro",
+    "category": "治療法",
+    "sub_category": "鍼灸治療の法則",
+    "category_question_number": 10,
+    "round": 28,
+    "round_question_number": 100,
+    "question": "難経六十九難の治療法則で原穴を選穴するのはどれか。",
+    "options": [
+      "肝虚証",
+      "脾虚証",
+      "肺虚証",
+      "腎虚証"
+    ],
+    "answer": 2,
+    "explanation": "【解説】難経六十九難に関する設問である。難経六十九難で、3：肺虚証は肺経の兪土穴（太淵）と脾経の兪土穴（太白）であり、原穴を選穴するため、これが正しい。1：肝虚証の選穴は曲泉・陰谷であり、誤り。2：脾虚証の選穴は大都・少府・労宮であり、誤り。4：腎虚証の選穴は復溜・経渠であり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_29_106",
+    "subject": "oriental_intro",
+    "category": "治療法",
+    "sub_category": "鍼灸治療の法則",
+    "category_question_number": 11,
+    "round": 29,
+    "round_question_number": 106,
+    "question": "腰殿部外側と大腿外側の脹痛に対して、侠渓を取穴した治療の法則はどれか。",
+    "options": [
+      "局所取穴",
+      "循経取穴",
+      "分刺による取穴",
+      "難経六十九難の取穴"
+    ],
+    "answer": 1,
+    "explanation": "【解説】選穴の原則に関する設問である。2：循経取穴は愁訴がどの経絡と関連するかを判断し、その経絡の経穴を取穴することである。腰殿部外側と大腿外側は足の少陽胆経であり、侠渓を取穴するため、これが正しい。1：局所取穴は、愁訴のある局所とその近辺に取穴することである。3：分刺は毫鍼・員鍼で分肉の間を刺すものである。4：難経六十九難の取穴は、五行学説の相生関係に従って、選択すべき経絡・経穴を決定するものである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_32_105",
+    "subject": "oriental_intro",
+    "category": "治療法",
+    "sub_category": "鍼灸の補瀉",
+    "category_question_number": 12,
+    "round": 32,
+    "round_question_number": 105,
+    "question": "次の文で示す病証に対する鍼の補瀉手技で適切なのはどれか。\n「21歳の男性。昨日、薄着で外出したところ、今朝から悪寒と頭痛を自覚した。咳、痰はみられない。脈は浮緊を認める。」",
+    "options": [
+      "刺入後、押手を揺るがせる。",
+      "刺入後、細かく鍼を回転させる。",
+      "呼気時に刺入し、吸気時に抜鍼する。",
+      "浅く刺入し、後に深くする。"
+    ],
+    "answer": 0,
+    "explanation": "【解説】鍼の補瀉手技に関する設問である。\n今朝から悪寒と頭痛があり、咳、痰はみられない、脈は浮緊を認めることから風寒表証である。したがって、瀉法の手技である1：刺入後、押手を揺るがせるが正しい。2：刺入後、細かく鍼を回転させる、3：呼気時に刺入し、吸気時に抜鍼する、4：浅く刺入し、後に深くする手技は補法である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_26_101",
+    "subject": "oriental_intro",
+    "category": "治療法",
+    "sub_category": "鍼灸の補瀉",
+    "category_question_number": 13,
+    "round": 26,
+    "round_question_number": 101,
+    "question": "肘関節に向けて刺入すると補法になる経穴の部位はどれか。",
+    "options": [
+      "尺骨内縁と尺側手根屈筋の間、手関節背側横紋の上方5寸",
+      "長掌筋腱と橈側手根屈筋腱の間、手関節掌側横紋の上方5寸",
+      "肘頭と肩峰角を結ぶ線上、肘頭の上方2寸",
+      "肘後外側、上腕骨外側上顆の上縁、外側顆上稜の前縁"
+    ],
+    "answer": 0,
+    "explanation": "【解説】鍼灸の補瀉と経穴に関する複合問題である。肘関節に向けるという操作は迎随の補瀉を示し、補法は経脈の流注の方向に沿わせる方法である。1：支正は手太陽小腸経で、手から胸に向かい、沿うことになるため、これが正しい。2：郄門は手厥陰心包経で、胸から手に向かい、逆らうことになるため、誤り。3：清冷淵は手少陽三焦経で、手から頭に向かい、逆らうことになるため、誤り。4：肘髎は手陽明大腸経で手から頭に向かい、逆らうことになるため、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_30_106",
+    "subject": "oriental_intro",
+    "category": "治療法",
+    "sub_category": "古代刺法の概要",
+    "category_question_number": 14,
+    "round": 30,
+    "round_question_number": 106,
+    "question": "十二刺の偶刺に基づいた治療穴の組合せで正しいのはどれか。",
+    "options": [
+      "太淵 ― 列欠",
+      "太淵 ― 肺兪",
+      "中府 ― 列欠",
+      "中府 ― 肺兪"
+    ],
+    "answer": 3,
+    "explanation": "【解説】十二刺に関する設問である。偶刺は心痺のとき、背部と胸部の圧痛・反応点を探り、前後から1鍼ずつ刺す。背部と胸部の経穴の組合せは4：中府―肺兪となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_28_101",
+    "subject": "oriental_intro",
+    "category": "治療法",
+    "sub_category": "古代刺法の概要",
+    "category_question_number": 15,
+    "round": 28,
+    "round_question_number": 101,
+    "question": "痺証と十二刺の組合せで正しいのはどれか。",
+    "options": [
+      "筋痺 ― 恢刺",
+      "心痺 ― 陰刺",
+      "寒痺 ― 輸刺",
+      "骨痺 ― 直鍼刺"
+    ],
+    "answer": 0,
+    "explanation": "【解説】十二刺に関する設問である。1：恢刺は筋痺を刺す刺法であり、これが正しい。2：陰刺は陰証に刺す刺法であり、誤り。3：輸刺は、気の働きが盛んで熱のある時、真っすぐに深く刺し、真っすぐに抜いて熱を瀉す刺法であり、誤り。4：直鍼刺は、寒気が浅い時、皮膚をつまんで刺す刺法であり、誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_24_101",
+    "subject": "oriental_intro",
+    "category": "治療法",
+    "sub_category": "古代刺法の概要",
+    "category_question_number": 16,
+    "round": 24,
+    "round_question_number": 101,
+    "question": "次の文で示す症状に用いる刺法はどれか。\n「足から膝にかけて冷えがあり、水様便が出る。」",
+    "options": [
+      "短刺",
+      "偶刺",
+      "陰刺",
+      "報刺"
+    ],
+    "answer": 2,
+    "explanation": "【解説】刺法に関する設問である。1は骨痺（骨が痛み、身体が重い）、2は心痺（胸痛、動悸）、3は寒厥（足の冷え、下痢）、4は遊走痛にそれぞれ用いるもので、3が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_intro_31_100",
+    "subject": "oriental_intro",
+    "category": "治療法",
+    "sub_category": "湯液（和漢薬）の特徴",
+    "category_question_number": 17,
+    "round": 31,
+    "round_question_number": 100,
+    "question": "湯液療法（和漢薬）について正しいのはどれか。",
+    "options": [
+      "鉱物を用いる。",
+      "副作用がない。",
+      "証をたてる必要はない。",
+      "多くは単味で用いる。"
+    ],
+    "answer": 0,
+    "explanation": "【解説】湯液療法に関する設問である。湯液療法（和漢薬）は1：植物、動物、鉱物などの自然素材から作られる様々な薬効を持った生薬を病態に応じて組み合わせた方剤（漢方薬）として服用、あるいは塗布することによって治療する方法である。したがって1が正しい。\n2：副作用があり、3：証に合わせて処方を決定する。4：薬物を組み合わせて処方する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  }
+]
