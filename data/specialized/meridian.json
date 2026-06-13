@@ -1,0 +1,3065 @@
+[
+  {
+    "id": "meridian_27_103",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "正経十二経脈",
+    "category_question_number": 1,
+    "round": 27,
+    "round_question_number": 103,
+    "question": "正経十二経脈の説明で正しいのはどれか。",
+    "options": [
+      "陽経は臓に属して腑に絡する。",
+      "手の三陽経は顔面部から手部に流れる。",
+      "経脈は上焦に起こり足の厥陰経で一巡する。",
+      "経脈は各々が独立しながらも連絡している。"
+    ],
+    "answer": 3,
+    "explanation": "正経十二経の走行には、一定の法則がある。①手の三陰経（肺経、心経、心包経）は、胸部から手部。手の三陽経（大腸経、小腸経、三焦経）は、手部から顔面、頭部。足の三陽経（胃経、膀胱経、胆経）は、顔面部、頭部から足部。足の三陰経（脾経、腎経、肝経）は、足部から胸部に流れている。②胸部から手部→手部から顔面、頭部→顔面部、頭部から足部→足部から胸部に循環している。③経脈は、中焦に起こる肺経から始まり、正経十二経を順に連絡し、足の厥陰肝経で一巡し、循環する環を形成して再び中焦に戻る。④陰経は臓に属して腑を絡し、陽経は腑に属して臓を絡う。ゆえに4：「経脈は各々が独立しながらも連絡している」が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_107",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "正経十二経脈",
+    "category_question_number": 2,
+    "round": 31,
+    "round_question_number": 107,
+    "question": "胸中で接続する経脈の井穴の組合せで正しいのはどれか。",
+    "options": [
+      "商陽 ― 厲兌",
+      "隠白 ― 少衝",
+      "少沢 ― 至陰",
+      "湧泉 ― 中衝"
+    ],
+    "answer": 3,
+    "explanation": "それぞれの井穴の経脈と接続部は、1：商陽（手の陽明大腸経）と厲兌（足の陽明胃経）の接続部は鼻翼外方、2：隠白（足の太陰脾経）と少衝（手の少陰心経）の接続部は心中、3：少沢（手の太陽小腸経）と至陰（足の太陽膀胱経）の接続部は内眼角、4：湧泉（足の少陰腎経）と中衝（手の厥陰心包経）の接続部は胸中となる（図1参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_107",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "正経十二経脈",
+    "category_question_number": 3,
+    "round": 29,
+    "round_question_number": 107,
+    "question": "外眼角で接続する経脈の井穴の組合せで正しいのはどれか。",
+    "options": [
+      "少商 ― 商陽",
+      "少沢 ― 至陰",
+      "湧泉 ― 中衝",
+      "関衝 ― 足竅陰"
+    ],
+    "answer": 3,
+    "explanation": "井穴の経穴より経絡名を理解していることが前提。\n1：少商は手の太陰肺経、商陽は手の陽明大腸経で接続部は「手示指端」。2：少沢は手の太陽小腸経、至陰は足の太陽膀胱経で接続は「内眼角」。3：湧泉は足の少陰腎経、中衝は手の厥陰心包経で接続は「胸中」、4：関衝は手の少陽三焦経、足竅陰は、足の少陽胆経で「外眼角」で接続している（図1参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_27_104",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "正経十二経脈",
+    "category_question_number": 4,
+    "round": 27,
+    "round_question_number": 104,
+    "question": "経脈間の接続とその部位の組合せで正しいのはどれか。",
+    "options": [
+      "手の陽明経から足の陽明経 ― 内眼角",
+      "足の太陰経から手の少陰経 ― 側胸部",
+      "足の少陰経から手の厥陰経 ― 胸中",
+      "手の太陽経から足の太陽経 ― 外眼角"
+    ],
+    "answer": 2,
+    "explanation": "経脈間の接続とその部位との組み合わせで、正しいのは、3：「足の少陰経から手の厥陰経―胸中」である（図1参照）。その他の選択肢の接続とその部位については、手の陽明経から足の陽明経は、鼻翼外方。足の太陰経から手の少陰経は、心中。手の太陽経から足の太陽経は、内眼角。選択肢2、3は「心中」と「胸中」で間違えやすいので注意したい（図1参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_25_102",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "正経十二経脈",
+    "category_question_number": 5,
+    "round": 25,
+    "round_question_number": 102,
+    "question": "内眼角で接続する経脈の井穴の組合せで正しいのはどれか。",
+    "options": [
+      "隠白 ― 少衝",
+      "商陽 ― 厲兌",
+      "関衝 ― 足竅陰",
+      "少沢 ― 至陰"
+    ],
+    "answer": 3,
+    "explanation": "内眼角で接続する経脈の井穴の組合せで正しいのは、4：「少沢―至陰」である。内眼角で接続する経脈は、小腸経と膀胱経である。小腸経の井穴は少沢、膀胱経の井穴は至陰である（図1参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_23_102",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "正経十二経脈",
+    "category_question_number": 6,
+    "round": 23,
+    "round_question_number": 102,
+    "question": "腎経と心包経の接続部はどれか。",
+    "options": [
+      "舌根",
+      "胸中",
+      "心中",
+      "中焦"
+    ],
+    "answer": 1,
+    "explanation": "腎経と心包経の接続部は、2：胸中である。足の少陰腎経は、胸部で分かれた支脈は心につらなり、胸中で手の厥陰心包経につながる（図1参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_119",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "正経十二経脈",
+    "category_question_number": 7,
+    "round": 30,
+    "round_question_number": 119,
+    "question": "所属経脈が表裏関係にあるのはどれか。",
+    "options": [
+      "頭竅陰と足竅陰",
+      "手五里と足五里",
+      "腰陽関と膝陽関",
+      "腹通谷と足通谷"
+    ],
+    "answer": 3,
+    "explanation": "1：頭竅陰と足竅陰はともに足の少陽胆経。2：手五里は手の陽明大腸経、足五里は足の厥陰肝経で表裏関係にない。3：腰陽関は督脈、膝陽関は足の少陽胆経で表裏関係にない。4：腹通谷は足の少陰腎経で足通谷は足の太陽膀胱経となり表裏関係にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_26_102",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "正経十二経脈",
+    "category_question_number": 8,
+    "round": 26,
+    "round_question_number": 102,
+    "question": "経脈の走行について正しいのはどれか。",
+    "options": [
+      "頸部では胃経と小腸経の間を大腸経が上行する。",
+      "腹部では腎経と胃経の間を脾経が上行する。",
+      "前腕後面では大腸経と三焦経の間を小腸経が上行する。",
+      "下腿内側では肝経と脾経の間を腎経が上行する。"
+    ],
+    "answer": 0,
+    "explanation": "経脈の走行に関する問題。1：「頸部では胃経と小腸経の間を大腸経が上行する」が、正しい。その他の選択肢における正しい走行は次の通りである。2：腹部は腎経と脾経の間に胃経が下行する。3：前腕後面では大腸経と小腸経の間を三焦経が上行する。4：下腿内側では、肝経と腎経の間を脾経が上行する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_107",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "正経十二経脈",
+    "category_question_number": 9,
+    "round": 30,
+    "round_question_number": 107,
+    "question": "経脈の流注で生殖器をめぐるのはどれか。",
+    "options": [
+      "足の陽明経",
+      "足の太陰経",
+      "足の少陰経",
+      "足の厥陰経"
+    ],
+    "answer": 3,
+    "explanation": "それぞれに対応する臓腑は、1は足の陽明胃経、2は足の太陰脾経、3は足の少陰腎経、4は足の厥陰肝経となる。この中で生殖器をめぐるのは、足の厥陰肝経である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_107",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "正経十二経脈",
+    "category_question_number": 10,
+    "round": 32,
+    "round_question_number": 107,
+    "question": "経脈の流注で横隔膜を貫かないのはどれか。",
+    "options": [
+      "手の太陰肺経",
+      "足の太陰脾経",
+      "足の太陽膀胱経",
+      "手の少陽三焦経"
+    ],
+    "answer": 2,
+    "explanation": "1：手の太陰肺経は、中焦に起こり、下って大腸を絡い、横隔膜を貫いて肺に属する。2：足の太陰脾経は、脾に属し、胃を絡い、横隔膜を貫いて胸部に向かう。3：足の太陽膀胱経は、腰部から腎を絡い、膀胱に属し、腰から下るため横隔膜は貫かない。4：手の少陽三焦経は、胸中より心包を絡い、横隔膜を貫いて三焦に属する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_28_102",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "正経十二経脈",
+    "category_question_number": 11,
+    "round": 28,
+    "round_question_number": 102,
+    "question": "経脈の流注で横隔膜を貫かないのはどれか。",
+    "options": [
+      "手の太陰経",
+      "手の陽明経",
+      "足の少陰経",
+      "足の太陽経"
+    ],
+    "answer": 3,
+    "explanation": "手足の陰陽経の名称から臓腑を理解していることが前提。1：手の太陰経は肺経、流注は大腸から横隔膜を貫いて肺につながる。2：手の陽明経は大腸経で、肺から横隔膜を貫いて大腸へつながる。3：足の少陰経は腎経で腎より肝、横隔膜を貫いて肺に入る。4：足の太陽経は膀胱経、横隔膜は貫かず脊柱起立筋を通り、腎を絡い、膀胱に属する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_108",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "奇経八脈",
+    "category_question_number": 12,
+    "round": 32,
+    "round_question_number": 108,
+    "question": "小腸経の脈気を受けて内眼角に起こる経脈の別絡はどれか。",
+    "options": [
+      "衝脈",
+      "督脈",
+      "陽蹻脈",
+      "陽維脈"
+    ],
+    "answer": 2,
+    "explanation": "小腸経の脈気を受けて内眼角に起こる経脈は膀胱経である。奇経八脈のうち陽蹻脈が膀胱経の別脈と呼ばれている。陰蹻脈は腎経の別脈である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_109",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "奇経八脈",
+    "category_question_number": 13,
+    "round": 31,
+    "round_question_number": 109,
+    "question": "奇経で子宮から起こるのはどれか。",
+    "options": [
+      "陽蹻脈",
+      "陽維脈",
+      "任脈",
+      "帯脈"
+    ],
+    "answer": 2,
+    "explanation": "1：陽蹻脈は踵から起こる。2：陽維脈は膀胱経の金門穴から起こる。3：任脈および衝脈は子宮から起こる。4：帯脈は側腹部の胆経の帯脈穴から起こる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_108",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "奇経八脈",
+    "category_question_number": 14,
+    "round": 29,
+    "round_question_number": 108,
+    "question": "すべての陽経脈と連絡している奇経の郄穴はどれか。",
+    "options": [
+      "跗陽",
+      "交信",
+      "陽交",
+      "築賓"
+    ],
+    "answer": 2,
+    "explanation": "1：跗陽は陽蹻脈の郄穴。2：交信は陰蹻脈の郄穴。3：陽交は陽維脈の郄穴ですべての陽経脈と連絡している。4：築賓は陰維脈の郄穴ですべての陰経脈と連絡している。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_27_105",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "奇経八脈",
+    "category_question_number": 15,
+    "round": 27,
+    "round_question_number": 105,
+    "question": "陰維脈の郄穴の部位はどれか。",
+    "options": [
+      "下腿前内側、脛骨内側面の中央、内果尖の上方5寸",
+      "下腿後内側、アキレス腱の前縁、内果尖の上方2寸",
+      "下腿後内側、ヒラメ筋とアキレス腱の間、内果尖の上方5寸",
+      "下腿内側、脛骨内縁の後方の陥凹部、内果尖の上方2寸"
+    ],
+    "answer": 2,
+    "explanation": "陰維脈の郄穴は、築賓である。選択肢のうち、築賓なのは、3：「下腿後内側、ヒラメ筋とアキレス腱の間、内果尖の上方5寸」である。その他の選択肢は、1：蠡溝、2：復溜、4：交信で、陰蹻脈の郄穴である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_26_103",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "奇経八脈",
+    "category_question_number": 16,
+    "round": 26,
+    "round_question_number": 103,
+    "question": "奇経と関係する経穴の組合せで正しいのはどれか。",
+    "options": [
+      "陽蹻脈 ― 金門",
+      "陰蹻脈 ― 築賓",
+      "陽維脈 ― 居髎",
+      "陰維脈 ― 府舎"
+    ],
+    "answer": 3,
+    "explanation": "奇経と経穴の組合せの問題。奇経と関係する経穴の組合せで正しいのは、4：「陰維脈―府舎」である。陰維脈は腎経の築賓から起こり、大腿内側を上って下腹部に入り、脾経の府舎、大横、腹哀を経て期門に交わり、胸部に上って頸部に行き、咽喉を左右にはさんで、天突、廉泉に終わる。その他の選択肢における奇経と関係する経穴は、1：陽蹻脈は申脈、僕参、跗陽、居髎、臑兪、肩髃、巨骨、地倉、巨髎、承泣、睛明（風池を加える説もある）。2：陰蹻脈は然谷、照海、交信、睛明。3：陽維脈は金門、陽交、肩井、陽白、本神、頭臨泣、正営、脳空、風池、臑兪、天髎、瘂門、風府である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_24_111",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "奇経八脈",
+    "category_question_number": 17,
+    "round": 24,
+    "round_question_number": 111,
+    "question": "絡穴が八脈交会穴である経脈はどれか。",
+    "options": [
+      "手の太陽経",
+      "足の太陽経",
+      "手の少陽経",
+      "足の少陽経"
+    ],
+    "answer": 2,
+    "explanation": "八脈交会穴は、十二経脈と奇経八脈の経気がお互いに通じ合っている8つの経穴のことをいい、八総穴ともいわれる。選択肢の絡穴は、「手の太陽経―支正」「足の太陽経―飛揚」「手の少陽経―外関」「足の少陽経―光明」である(表1参照)。そのうち八総穴であるのは、外関である（表2参照）。外関は、手の少陽経に属すので、3：手の少陽経が正解である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_25_105",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "奇経八脈",
+    "category_question_number": 18,
+    "round": 25,
+    "round_question_number": 105,
+    "question": "陽蹻脈の八脈交会穴の部位で正しいのはどれか。",
+    "options": [
+      "第4・第5中足骨底接合部の遠位、第5指の長指伸筋腱外側の陥凹部",
+      "内果尖の下方1寸、内果下方の陥凹部",
+      "内果後下方、踵骨上方、アキレス腱付着部内側前方の陥凹部",
+      "外果尖の直下、外果下縁と踵骨の間の陥凹部"
+    ],
+    "answer": 3,
+    "explanation": "陽蹻脈の八脈交会穴は、申脈である（表2参照）。申脈の部位は4：「外果尖の直下、外果下縁と踵骨の間の陥凹部」である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_27_106",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "奇経八脈",
+    "category_question_number": 19,
+    "round": 27,
+    "round_question_number": 106,
+    "question": "八脈交会穴の部位はどれか。",
+    "options": [
+      "足内側、太渓の下方1寸、踵骨隆起前方の陥凹部",
+      "足内側、内果尖の下方1寸、内果下方の陥凹部",
+      "下腿外側、腓骨の前方、外果尖の上方7寸",
+      "下腿外側、腓骨の前方、外果尖の上方5寸"
+    ],
+    "answer": 1,
+    "explanation": "八脈交会穴は、公孫、内関、足臨泣、外関、申脈、後渓、列欠、照海である。選択肢のうち当てはまるのは、2：「足内側、内果尖の下方1寸、内果下方の陥凹部」の照海である。その他の選択肢は、1：水泉、3：外丘、4：光明である（問題17の解説および表2参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_108",
+    "subject": "meridian",
+    "category": "meridian_significance",
+    "sub_category": "絡脈・経筋・皮部",
+    "category_question_number": 20,
+    "round": 31,
+    "round_question_number": 108,
+    "question": "経絡の概要について正しいのはどれか。",
+    "options": [
+      "十二経筋は四肢末端から始まる。",
+      "奇経八脈は奇経同士が表裏関係にある。",
+      "十二経別は正経とは合しない経脈である。",
+      "正経十二経脈は上焦から始まる。"
+    ],
+    "answer": 0,
+    "explanation": "1：十二経筋は四肢末端から始まり頭部や体幹に終わる。2：奇経八脈は正経とは別の道を行く経脈で、奇経同士に表裏関係はない。3：十二経別は別行の正経といい、正経十二経脈から分かれて出て、またその正経十二経脈に合す。4：正経十二経脈は中焦に起こる手の太陰肺経から始まり、正経十二経脈が順に連絡しあい、足の厥陰肝経で一巡りし、循環する環を形成して再び中焦に戻る。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_110",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "経穴の概要",
+    "category_question_number": 1,
+    "round": 31,
+    "round_question_number": 110,
+    "question": "腧穴の概要について正しいのはどれか。",
+    "options": [
+      "WHO/WPROで経穴が365穴となる。",
+      "奇穴は奇経に所属する。",
+      "新穴は奇穴に含まれる。",
+      "阿是穴は部位が定まっている。"
+    ],
+    "answer": 2,
+    "explanation": "1：WHO/WPRO標準経穴部位として経穴は361穴と定められた。2：奇穴は十四経脈や奇経に属さない。3：奇穴は名称、部位、主治症が定められていて、1901年以降に定められた奇穴である新穴も含まれる。4：阿是穴は名称や部位は定められておらず、病態と深く関わって出現したり、治療点となる部位をいう。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_115",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "取穴法",
+    "category_question_number": 2,
+    "round": 32,
+    "round_question_number": 115,
+    "question": "左右の第12肋骨先端を結ぶ線と後正中線の交点で、棘突起下方陥凹部にあるのはどれか。",
+    "options": [
+      "懸枢",
+      "命門",
+      "腰陽関",
+      "下極兪"
+    ],
+    "answer": 1,
+    "explanation": "左右の第12肋骨先端を結ぶ線と後正中線の交点は、第2腰椎棘突起下方陥凹部である。1：懸枢は、第1腰椎棘突起下方陥凹部。2：命門は、第2腰椎棘突起下方陥凹部。3：腰陽関は、第4腰椎棘突起下方陥凹部。4：下極兪は、第3腰椎棘突起下方陥凹部である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_112",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "取穴法",
+    "category_question_number": 3,
+    "round": 31,
+    "round_question_number": 112,
+    "question": "骨度で左右の乳様突起の間と同じ長さなのはどれか。",
+    "options": [
+      "外果尖の高さから承山",
+      "膝蓋骨尖の高さから漏谷",
+      "肘窩横紋から内関",
+      "手関節背側横紋から四瀆"
+    ],
+    "answer": 0,
+    "explanation": "骨度で左右の乳様突起の間は9寸。1：膝窩から外果尖まで1尺6寸で、外果尖の高さから承山は8寸となる。2：膝蓋骨尖から内果尖までが1尺5寸で、膝蓋骨尖の高さから漏谷までが9寸となる。3：肘窩から手関節横紋までが1尺2寸で、肘窩横紋から内関は1尺となる。4：手関節背側横紋から肘頭までが1尺2寸で、手関節背側横紋から四瀆は7寸となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_109",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "取穴法",
+    "category_question_number": 4,
+    "round": 30,
+    "round_question_number": 109,
+    "question": "骨度で胸骨体下端から臍中央と同じ寸法はどれか。",
+    "options": [
+      "内果尖から肝経の絡穴",
+      "外果尖から胃経の絡穴",
+      "手関節掌側横紋から肺経の郄穴",
+      "手関節背側横紋から大腸経の郄穴"
+    ],
+    "answer": 1,
+    "explanation": "胸骨体下端から臍中央までの骨度法は8寸である。\n1の肝経の絡穴は蠡溝、内果尖からは5寸、2の胃経の絡穴は豊隆、外果尖から8寸、3の肺経の郄穴は孔最、手関節掌側横紋からは7寸、4の大腸経の郄穴は温溜、手関節背側横紋からは5寸である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_109",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "取穴法",
+    "category_question_number": 5,
+    "round": 29,
+    "round_question_number": 109,
+    "question": "骨度で脛骨内側顆下縁から膝蓋骨尖までと同じなのはどれか。",
+    "options": [
+      "臍中央から小腸の募穴",
+      "前正中線から肝の募穴",
+      "胸骨体下端から心の募穴",
+      "恥骨結合上縁から三焦の募穴"
+    ],
+    "answer": 2,
+    "explanation": "問題の脛骨内側顆下縁から膝蓋骨尖の骨度は、2寸。選択肢の募穴の部位の理解が必要。1：小腸の募穴は関元で臍中央から3寸。2：肝の募穴は期門で前正中線から外方4寸。3：心の募穴は巨闕で胸骨体下端から2寸。4：三焦の募穴は石門で恥骨結合上縁から3寸。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_24_102",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "取穴法",
+    "category_question_number": 6,
+    "round": 24,
+    "round_question_number": 102,
+    "question": "少海から神門までと同じ骨度はどれか。",
+    "options": [
+      "脛骨内側顆下縁から内果尖",
+      "胸骨体下端から恥骨結合上縁",
+      "足指尖から踵",
+      "足三里から解渓"
+    ],
+    "answer": 2,
+    "explanation": "少海から神門までの長さは、1尺2寸である。選択肢の中で長さが1尺2寸なのは、3：「足指尖から踵（足底）」である。その他の選択肢は、1：「脛骨内側顆下縁から内果尖」は1尺3寸、2：「胸骨体下端から恥骨結合上際（胸骨体下端から臍中央、臍中央から恥骨結合上際までの合計）」は1尺3寸、4：「足三里から解渓」までは1尺3寸である。\n上記以外で1尺2寸なのは、「前髪際中点から後髪際中点まで」、「肘窩から手関節横紋まで」である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_25_103",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "取穴法",
+    "category_question_number": 7,
+    "round": 25,
+    "round_question_number": 103,
+    "question": "骨度で頄鼻から下巨虚までと同じなのはどれか。",
+    "options": [
+      "前髪際中点から後髪際中点",
+      "胸骨体下端から臍中央",
+      "腋窩横紋前端から肘窩",
+      "中指尖から手関節横紋"
+    ],
+    "answer": 2,
+    "explanation": "骨度で頄鼻から下巨虚までと同じなのは、3：「腋窩横紋前端から肘窩まで」である。下巨虚は、頄鼻の下9寸にある。1：「前髪際中点から後髪際中点」までは1尺2寸、2：「胸骨体下端から臍中央」までは8寸、4：「中指尖から手関節横紋」までは8寸5分である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_27_102",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "取穴法",
+    "category_question_number": 8,
+    "round": 27,
+    "round_question_number": 102,
+    "question": "骨度法で最も短いのはどれか。",
+    "options": [
+      "前髪際中点から後髪際中点",
+      "胸骨体下端から臍中央",
+      "腋窩横紋前端から肘窩",
+      "中指尖から手関節横紋"
+    ],
+    "answer": 1,
+    "explanation": "骨度法で最も短いのは、2：「胸骨体下端から臍中央」である。選択肢1〜4の骨度寸法は、1：前髪際中点から後髪際中点までは、1尺2寸。2：胸骨体下端から臍中央までは、8寸。3：腋窩横紋前端から肘窩まで9寸。4：中指尖から手関節横紋8寸5分。ゆえに2：「胸骨体下端から臍中央」が最も短い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_23_104",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "取穴法",
+    "category_question_number": 9,
+    "round": 23,
+    "round_question_number": 104,
+    "question": "経穴間の組合せで最も長いのはどれか。",
+    "options": [
+      "大腸経の下合穴 ― 条口",
+      "脾経の郄穴 ― 漏谷",
+      "大腸経の土穴 ― 手三里",
+      "三焦の募穴 ― 建里"
+    ],
+    "answer": 3,
+    "explanation": "1：大腸経の下合穴は上巨虚。上巨虚と1：条口間の距離は2寸。脾経の郄穴は地機。地機と2：漏谷間の距離は4寸である。大腸経の土穴は曲池。曲池と3：手三里間の距離は2寸。三焦の募穴は石門。石門と4：建里間の距離は5寸。ゆえに、経穴間の組合せで最も長いのは、4：「三焦の募穴―建里」である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_28_103",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "取穴法",
+    "category_question_number": 10,
+    "round": 28,
+    "round_question_number": 103,
+    "question": "骨度で最も長いのはどれか。",
+    "options": [
+      "委中から承山",
+      "曲泉から中都",
+      "陰谷から復溜",
+      "陰陵泉から三陰交"
+    ],
+    "answer": 2,
+    "explanation": "承山は委中の下8寸。中都は内果の上7寸、内果から曲泉まで15寸で曲泉から中都は8寸。復溜は内果の上2寸、内果から陰谷は15寸。陰谷から復溜は13寸と最も長い。三陰交は内果の上3寸、内果から陰陵泉は13寸。陰陵泉から三陰交は10寸となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_23_103",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "取穴法",
+    "category_question_number": 11,
+    "round": 23,
+    "round_question_number": 103,
+    "question": "肩関節を90度外転したとき、天井から臑会の長さはどれか。",
+    "options": [
+      "5寸",
+      "6寸",
+      "7寸",
+      "8寸"
+    ],
+    "answer": 1,
+    "explanation": "肩関節を90度外転したとき、天井から臑会までの長さは、2：6寸である。天井は肘頭の上方1寸、臑会は肩峰角の下方3寸にある。肩関節を90度外転したとき、肘頭から肩峰角までの長さを便宜上1尺とすることから6寸となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_25_104",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "取穴法",
+    "category_question_number": 12,
+    "round": 25,
+    "round_question_number": 104,
+    "question": "骨度で大腸経の郄穴から臂臑までと同じなのはどれか。",
+    "options": [
+      "陽維脈の郄穴から中瀆",
+      "膀胱経の合土穴から承扶",
+      "胃経の郄穴から気衝",
+      "陽蹻脈の郄穴から委陽"
+    ],
+    "answer": 1,
+    "explanation": "骨度で大腸経の郄穴から臂臑までと同じなのは、2：「膀胱経の合土穴から承扶」である。大腸経の郄穴は温溜で、温溜から曲池までは7寸。曲池から臂臑までは7寸。合計1尺4寸である。骨度法の寸法が1尺4寸なのは、膀胱経の合土穴（委中）から承扶である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_26_104",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "取穴法",
+    "category_question_number": 13,
+    "round": 26,
+    "round_question_number": 104,
+    "question": "心包経の経金穴と合水穴の間と同じ骨度はどれか。",
+    "options": [
+      "両乳頭間",
+      "両乳様突起間",
+      "眉間から前髪際中点",
+      "臍中央から恥骨結合上縁"
+    ],
+    "answer": 1,
+    "explanation": "骨度法の問題。心包経の経金穴は間使、合水穴は曲沢で、両穴の間は9寸である。選択肢のうち9寸なのは、2：両乳様突起間である。その他の選択肢だが、1：両乳頭間は8寸。3：眉間から前髪際中点は3寸。4：臍中央から恥骨結合上縁までは5寸である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_111",
+    "subject": "meridian",
+    "category": "acupoint_overview",
+    "sub_category": "取穴法",
+    "category_question_number": 14,
+    "round": 30,
+    "round_question_number": 111,
+    "question": "胸骨角を基準に取るのはどれか。",
+    "options": [
+      "幽門",
+      "鳩尾",
+      "玉堂",
+      "気舎"
+    ],
+    "answer": 1,
+    "explanation": "1：幽門は上腹部の巨闕（胸骨体下端の下2寸）の外方5分に取る。2：鳩尾は上腹部で胸骨体下端の下1寸に取る。3：玉堂は前胸部の正中線上で第3肋間の高さに取る。第3肋間を取るのに第2肋骨の高さにある胸骨角を基準とする。4：気舎は、前頸部で小鎖骨上窩に取る。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_113",
+    "subject": "meridian",
+    "category": "extraordinary_vessel_acupoint",
+    "sub_category": "任脈",
+    "category_question_number": 15,
+    "round": 32,
+    "round_question_number": 113,
+    "question": "陰都と同じ高さに位置する任脈の経穴について正しいのはどれか。",
+    "options": [
+      "臍中央の上方3寸にある。",
+      "八会穴の腑会である。",
+      "任脈の絡穴である。",
+      "上方3寸には中庭がある。"
+    ],
+    "answer": 0,
+    "explanation": "陰都は腎経で、臍の中央の上方4寸、前正中線の外方5分にある。これと同じ高さに位置する任脈の経穴は中脘。1：臍中央の上方3寸にあるのは建里。2：八会穴の腑会は中脘である。3：任脈の絡穴は鳩尾である。4：中脘の上方3寸には鳩尾がある。中庭は上方4寸。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_114",
+    "subject": "meridian",
+    "category": "extraordinary_vessel_acupoint",
+    "sub_category": "任脈",
+    "category_question_number": 16,
+    "round": 32,
+    "round_question_number": 114,
+    "question": "膻中について正しいのはどれか。",
+    "options": [
+      "心の募穴である。",
+      "八脈交会穴の一つである。",
+      "胸骨上窩を基準に取穴する。",
+      "外方6寸は天渓である。"
+    ],
+    "answer": 2,
+    "explanation": "膻中は任脈で、1：心包の募穴である。心の募穴は巨闕。2：八脈交会穴（八総穴）は、衝脈（公孫）、陰維脈（内関）、帯脈（足臨泣）、陽維脈（外関）、督脈（後渓）、陽蹻脈（申脈）、任脈（列欠）、陰蹻脈（照海）で膻中はない。3：膻中は胸骨角（第2肋骨の高さ）を基準に取穴する。4：膻中の外方6寸は天渓である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_114",
+    "subject": "meridian",
+    "category": "extraordinary_vessel_acupoint",
+    "sub_category": "督脈",
+    "category_question_number": 17,
+    "round": 31,
+    "round_question_number": 114,
+    "question": "督脈の経穴がある部位はどれか。",
+    "options": [
+      "第2胸椎棘突起下方の陥凹部",
+      "第4胸椎棘突起下方の陥凹部",
+      "第6胸椎棘突起下方の陥凹部",
+      "第8胸椎棘突起下方の陥凹部"
+    ],
+    "answer": 1,
+    "explanation": "胸椎棘突起下方の陥凹部にある督脈の経穴は第1（陶道）、第3（身柱）、第5（神道）、第6（霊台）、第7（至陽）、第9（筋縮）、第10（中枢）、第11（脊中）である。したがって督脈の経穴があるのは第6胸椎棘突起下方の陥凹部（霊台）である。なお、奇穴として第4胸椎棘突起下方の陥凹部には巨闕兪、第12胸椎棘突起下方の陥凹部には接脊がある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_115",
+    "subject": "meridian",
+    "category": "extraordinary_vessel_acupoint",
+    "sub_category": "督脈",
+    "category_question_number": 18,
+    "round": 31,
+    "round_question_number": 115,
+    "question": "顖会について正しいのはどれか。",
+    "options": [
+      "所属する経脈の21番目の経穴である。",
+      "小児では小泉門部にあたる。",
+      "眼神経の支配領域にある。",
+      "目窓と横に並ぶ。"
+    ],
+    "answer": 1,
+    "explanation": "顖会は督脈で頭部、前正中線上、前髪際の後方2寸にある。1：経脈では22番目の経穴である。2：小児では大泉門部にあたる。小泉門部にあたるのは強間。3：眼神経（三叉神経第1枝）の支配領域にある。4：目窓（足の少陽胆経）は、前髪際の後方1寸5分にあるため横に並ばない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_112",
+    "subject": "meridian",
+    "category": "extraordinary_vessel_acupoint",
+    "sub_category": "督脈",
+    "category_question_number": 19,
+    "round": 30,
+    "round_question_number": 112,
+    "question": "督脈の経穴で、外方3寸に膀胱経の経穴がないのはどれか。",
+    "options": [
+      "陶道",
+      "霊台",
+      "懸枢",
+      "腰兪"
+    ],
+    "answer": 0,
+    "explanation": "1：陶道は第1胸椎棘突起下方の陥凹部で外方3寸は肩外兪、2：霊台は第6胸椎棘突起下方の陥凹部で外方3寸は譩譆、3：懸枢は第1腰椎棘突起下方の陥凹部で外方3寸は肓門、4：腰兪は仙骨裂孔で外方3寸は秩辺となる。肩外兪は手の太陽小腸経に属するので、正解は1となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_26_107",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の陽明胃経",
+    "category_question_number": 1,
+    "round": 26,
+    "round_question_number": 107,
+    "question": "経穴と体表指標の組合せで同じ高さにあるのはどれか。",
+    "options": [
+      "天鼎 ― 甲状軟骨上縁",
+      "天柱 ― 外後頭隆起",
+      "胞肓 ― 仙骨裂孔",
+      "髀関 ― 大転子頂点"
+    ],
+    "answer": 3,
+    "explanation": "経穴と体表指標の組合せの問題。体表指標は、取穴するときに指標となる部位のこと。経穴と体表指標の組合せで同じ高さにあるのは、4：「髀関―大転子頂点」である。髀関は上前腸骨棘と膝蓋骨底外端を結んだ線上で、大転子の頂点に取る。その他の選択肢では、1：天鼎は輪状軟骨、2：天柱は第2頸椎棘突起上縁で、3：「胞肓―第2後仙骨孔」と同じ高さに当たる。\n選択肢2の外後頭隆起上縁と同じ高さなのは、脳戸、玉枕、脳空。後正中線上で3：仙骨裂孔に取るのは、腰兪である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_24_108",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の陽明胃経",
+    "category_question_number": 2,
+    "round": 24,
+    "round_question_number": 108,
+    "question": "気衝との位置関係で正しいのはどれか。",
+    "options": [
+      "下方3寸に足五里がある。",
+      "上方1寸に水道がある。",
+      "外方2寸に衝門がある。",
+      "内方5分に急脈がある。"
+    ],
+    "answer": 0,
+    "explanation": "気衝との位置関係で正しいのは、1：足五里。他の経穴との位置関係は、2：水道は気衝の上方2寸。3：衝門は鼠径溝、大腿動脈拍動部の外方で府舎の内下方に当たるため、前正中線外方4寸より内側になる。4：急脈は、恥骨結合上縁と同じ高さ、前正中線の外方2寸5分（図2参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_113",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の太陰脾経",
+    "category_question_number": 3,
+    "round": 29,
+    "round_question_number": 113,
+    "question": "腹哀の高さで正しいのはどれか。",
+    "options": [
+      "臍中央の上方2寸",
+      "臍中央の上方3寸",
+      "臍中央の上方4寸",
+      "臍中央の上方5寸"
+    ],
+    "answer": 1,
+    "explanation": "腹哀は足の太陰脾経で、臍の中央の上方3寸、前正中線の外方4寸。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_23_107",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の太陰脾経",
+    "category_question_number": 4,
+    "round": 23,
+    "round_question_number": 107,
+    "question": "足の太陰経の絡穴の取穴で正しいのはどれか。",
+    "options": [
+      "第1中足指節関節内側の遠位陥凹部",
+      "第1中足指節関節内側の近位陥凹部",
+      "第1中足骨底内側の前下方",
+      "舟状骨粗面と内果尖の中央陥凹部"
+    ],
+    "answer": 1,
+    "explanation": "足の太陰脾経の絡穴は公孫である。公孫の部位は、3：第1中足骨底内側の前下方である。なお1：第1中足指節関節内側の遠位陥凹部は、大都。2：第1中足指節関節内側の近位陥凹部は、太白。4：舟状骨粗面と内果尖の中央陥凹部は、商丘である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_26_108",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の太陰脾経",
+    "category_question_number": 5,
+    "round": 26,
+    "round_question_number": 108,
+    "question": "部位と経穴の組合せで正しいのはどれか。",
+    "options": [
+      "大腿二頭筋と半腱様筋の間 ― 膝陽関",
+      "外側広筋と大腿直筋腱の間 ― 血海",
+      "薄筋と縫工筋の間 ― 足五里",
+      "縫工筋と長内転筋の間 ― 箕門"
+    ],
+    "answer": 3,
+    "explanation": "部位と経穴の組合せの問題。部位と経穴の組合せで正しいのは、「4：縫工筋と長内転筋の間―箕門」である。その他の選択肢で正しい組合せは、1：膝陽関は大腿二頭筋（腱）と腸脛靭帯の間、1：大腿二頭筋と半腱様筋の間は殷門、2：血海は内側広筋の隆起部、2：外側広筋と大腿直筋腱の間は梁丘、3：薄筋と縫工筋の間は陰包、足五里は気衝の下方3寸に取る。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_118",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "手の少陰心経",
+    "category_question_number": 6,
+    "round": 29,
+    "round_question_number": 118,
+    "question": "尺側手根屈筋腱の橈側縁、手関節掌側横紋の上方1寸にある経穴はどれか。",
+    "options": [
+      "間使",
+      "養老",
+      "経渠",
+      "通里"
+    ],
+    "answer": 3,
+    "explanation": "1：間使は長掌筋腱と橈側手根屈筋腱の間、手関節掌側横紋の上方3寸。2：養老は手関節背側横紋の上方1寸。3：経渠は橈骨下端の橈側、手関節掌側横紋の上方1寸。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_117",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "手の少陰心経",
+    "category_question_number": 7,
+    "round": 30,
+    "round_question_number": 117,
+    "question": "第4・第5中手骨の間にあるのはどれか。",
+    "options": [
+      "労宮",
+      "少府",
+      "腕骨",
+      "落枕"
+    ],
+    "answer": 1,
+    "explanation": "1：労宮は、手掌、第2・第3中手骨の間、2：少府は、手掌、第4・第5中手骨の間、3：腕骨は、手関節後内側、第5中手骨と三角骨の間、4：落枕は、手背、第2・第3中手骨の間となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_118",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "手の太陽小腸経",
+    "category_question_number": 8,
+    "round": 30,
+    "round_question_number": 118,
+    "question": "経穴と取り方の指標の組合せで正しいのはどれか。",
+    "options": [
+      "顴髎 ― 外眼角を通る垂線上",
+      "地倉 ― 瞳孔を通る垂線上",
+      "四白 ― 耳垂下縁を通る水平線",
+      "下関 ― 頬骨弓中央の上際"
+    ],
+    "answer": 0,
+    "explanation": "1：顴髎は、外眼角を通る垂線上、2：地倉は、口角の外方4分で鼻唇溝あるいは鼻唇溝の延長線上、3：四白は、瞳孔を通る垂線上、4：下関は、頬骨弓中央の下際となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_115",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "手の太陽小腸経",
+    "category_question_number": 9,
+    "round": 29,
+    "round_question_number": 115,
+    "question": "経穴と解剖学的部位の組合せで正しいのはどれか。",
+    "options": [
+      "曲垣 ― 棘上窩",
+      "天府 ― 鎖骨下窩",
+      "欠盆 ― 小鎖骨上窩",
+      "気舎 ― 大鎖骨上窩"
+    ],
+    "answer": 0,
+    "explanation": "1：曲垣は肩甲棘内端の上方陥凹部で棘上窩の内側の隅の陥凹中に取る。2：天府は上腕前外側、上腕二頭筋外側縁。3：欠盆は大鎖骨上窩、4：気舎は小鎖骨上窩。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_28_109",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "手の太陽小腸経",
+    "category_question_number": 10,
+    "round": 28,
+    "round_question_number": 109,
+    "question": "取穴法で正しいのはどれか。",
+    "options": [
+      "聴会は耳珠の前上方で頬骨弓の後端に取る。",
+      "聴宮は耳珠と下顎骨との間にある陥凹部で、下顎骨関節突起の後縁に取る。",
+      "耳門は珠間切痕の直前陥凹中で、口を開くと深くくぼむところに取る。",
+      "翳風は後頭骨の下方で、胸鎖乳突筋と僧帽筋の間の陥凹中に取る。"
+    ],
+    "answer": 1,
+    "explanation": "取穴法で正しいのは2：「聴宮は耳珠と下顎骨との間にある陥凹部で、下顎骨関節突起の後縁に取る」で手の太陽小腸経に属する。1：聴会は、足の少陽胆経に属し、珠間切痕と下顎骨関節突起の間、陥凹部に取る。3：耳門は手の少陽三焦経に属し、耳珠の前上方で頬骨弓の後端に取る。4：翳風は手の少陽三焦経に属し、乳様突起下端と下顎枝の間の陥凹部に取る。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_118",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の太陽膀胱経",
+    "category_question_number": 11,
+    "round": 31,
+    "round_question_number": 118,
+    "question": "同じ高さに並ぶ経穴はどれか。",
+    "options": [
+      "膏肓と心兪",
+      "肓門と胃兪",
+      "胞肓と膀胱兪",
+      "秩辺と中膂兪"
+    ],
+    "answer": 2,
+    "explanation": "1：膏肓は、第4胸椎棘突起下縁の高さで、心兪は第5胸椎棘突起下縁の高さ。2：肓門は、第1腰椎棘突起下縁の高さで、胃兪は第12胸椎棘突起下縁の高さ。3：胞肓と膀胱兪は、第2後仙骨孔と同じ高さ。4：秩辺は、第4後仙骨孔の高さで、中膂兪は、第3後仙骨孔の高さ。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_117",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の少陰腎経",
+    "category_question_number": 12,
+    "round": 32,
+    "round_question_number": 117,
+    "question": "膝窩横紋上で半腱様筋腱の外縁にあるのはどれか。",
+    "options": [
+      "膝関",
+      "委陽",
+      "陰谷",
+      "曲泉"
+    ],
+    "answer": 2,
+    "explanation": "1：膝関は肝経で、脛骨内側顆の下方、陰陵泉の後方1寸にある。2：委陽は膀胱経で、大腿二頭筋腱の内縁、膝窩横紋上にある。3：陰谷は腎経で、膝窩横紋上で半腱様筋腱の外縁にある。4：曲泉は肝経で、半腱・半膜様筋腱内側の陥凹部、膝窩横紋の内側端にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_113",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の少陰腎経",
+    "category_question_number": 13,
+    "round": 31,
+    "round_question_number": 113,
+    "question": "腹部において、腎経、胃経ともに同じ高さに経穴がないのはどれか。",
+    "options": [
+      "臍中央の上方7寸",
+      "臍中央の上方3寸",
+      "臍中央の上方1寸",
+      "臍中央の下方4寸"
+    ],
+    "answer": 0,
+    "explanation": "腎経、胃経ともに同じ高さに経穴があるのは臍中央の上方6寸までで、臍中央の下方は5寸までである。なお、臍中央の上方1寸は、胃経は滑肉門があるが腎経はない。したがって両経ともにないのは臍中央の上方7寸である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_26_109",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の少陰腎経",
+    "category_question_number": 14,
+    "round": 26,
+    "round_question_number": 109,
+    "question": "取穴法で正しいのはどれか。",
+    "options": [
+      "丘墟は、長指伸筋腱内側の陥凹部、外果尖の前下方に取る。",
+      "太衝は、第1・第2中足骨間、中足骨底接合部近位の陥凹部に取る。",
+      "水泉は、太渓の下1寸、踵骨隆起前方の陥凹部に取る。",
+      "申脈は、外果尖の直下、外果下縁と距骨の間の陥凹部に取る。"
+    ],
+    "answer": 2,
+    "explanation": "取穴法の問題。取穴法で正しいのは、3：「水泉は、太渓の下1寸、踵骨隆起前方の陥凹部」である。その他の選択肢の正しい取穴法だが、1：丘墟は長指伸筋腱外側の陥凹部、外果尖の前下方に取る、2：太衝は第1・第2中足骨間、中足骨底接合部遠位の陥凹部、4：申脈は外果尖の直下、外果下縁と踵骨の間の陥凹部である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_118",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "手の厥陰心包経",
+    "category_question_number": 15,
+    "round": 32,
+    "round_question_number": 118,
+    "question": "上腕二頭筋長頭と短頭の間、腋窩横紋前端の下方2寸にあるのはどれか。",
+    "options": [
+      "天府",
+      "臂臑",
+      "天泉",
+      "消濼"
+    ],
+    "answer": 2,
+    "explanation": "1：天府は肺経で、上腕二頭筋外側縁、腋窩横紋前端の下方3寸にある。2：臂臑は大腸経で、三角筋前縁、曲池の上7寸にある。3：天泉は心包経で、上腕二頭筋長頭と短頭の間、腋窩横紋前端の下方2寸にある。4：消濼は三焦経で、肘頭と肩峰角を結ぶ線上、肘頭の上方5寸にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_112",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "手の少陽三焦経",
+    "category_question_number": 16,
+    "round": 32,
+    "round_question_number": 112,
+    "question": "経穴の部位で正しいのはどれか。",
+    "options": [
+      "天衝は、耳尖の直上、髪際の上方1寸5分にある。",
+      "天牖は、下顎角と同じ高さ、胸鎖乳突筋後方の陥凹部にある。",
+      "天容は、胸鎖乳突筋の後縁、甲状軟骨上縁と同じ高さにある。",
+      "天鼎は、輪状軟骨と同じ高さ、胸鎖乳突筋の前縁にある。"
+    ],
+    "answer": 1,
+    "explanation": "1：天衝（胆経）は、耳介の付け根の後縁の直上、髪際の上方2寸にある。耳尖の直上、髪際の上方1寸5分にあるのは率谷（胆経）。\n2：天牖（三焦経）は、下顎角と同じ高さ、胸鎖乳突筋後方の陥凹部にある。\n3：天容（小腸経）は、下顎角の後方、胸鎖乳突筋の前方陥凹部にある。胸鎖乳突筋の後縁、甲状軟骨上縁と同じ高さにあるのは天窓（小腸経）。\n4：天鼎は、輪状軟骨と同じ高さ、胸鎖乳突筋の後縁にある。輪状軟骨と同じ高さ、胸鎖乳突筋の前縁にあるのは水突（胃経）である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_116",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "手の少陽三焦経",
+    "category_question_number": 17,
+    "round": 31,
+    "round_question_number": 116,
+    "question": "経穴の部位で正しいのはどれか。",
+    "options": [
+      "青霊は、上腕二頭筋長頭と短頭の間、腋窩横紋前端の下方2寸にある。",
+      "消濼は、肘頭と肩峰角を結ぶ線上、肘頭の上方5寸にある。",
+      "侠白は、上腕二頭筋外側縁、腋窩横紋前端の下方3寸にある。",
+      "手五里は、肘窩横紋外端の上方7寸にある。"
+    ],
+    "answer": 1,
+    "explanation": "1：青霊は上腕二頭筋の内側縁、肘窩横紋の上方3寸にある。2：消濼は肘頭と肩峰角を結ぶ線上、肘頭の上方5寸にある。3：侠白は上腕二頭筋外側縁、腋窩横紋前端の下方4寸にある。4：手五里は、曲池と肩髃を結ぶ線上、肘窩横紋の上方3寸にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_120",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の少陽胆経",
+    "category_question_number": 18,
+    "round": 30,
+    "round_question_number": 120,
+    "question": "腓骨の後方に取る経穴はどれか。",
+    "options": [
+      "陽維脈の郄穴",
+      "胆経の郄穴",
+      "胆経の絡穴",
+      "八会穴の髄会"
+    ],
+    "answer": 0,
+    "explanation": "1：陽維脈の郄穴は陽交で腓骨の後方に取る。2：胆経の郄穴は外丘で腓骨の前方に取る。3：胆経の絡穴は光明で腓骨の前方に取る。4：八会穴の髄会は懸鍾で腓骨の前方に取る。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_24_109",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の少陽胆経",
+    "category_question_number": 19,
+    "round": 24,
+    "round_question_number": 109,
+    "question": "取穴法で正しいのはどれか。",
+    "options": [
+      "豊隆は前脛骨筋の外縁、外果尖の上方6寸に取る。",
+      "光明は腓骨の前縁、外果尖の上方5寸に取る。",
+      "復溜はアキレス腱の前縁、内果尖の上方4寸に取る。",
+      "中都は脛骨内側面の中央、内果尖の上方8寸に取る。"
+    ],
+    "answer": 1,
+    "explanation": "取穴法で正しい記述は、2：「光明は腓骨の前縁、外果尖の上方5寸に取る」である。他の経穴の正しい取穴法は、1：豊隆は前脛骨筋の外縁、外果尖の上方8寸、3：復溜はアキレス腱の前縁、内果尖の上方2寸、4：中都は脛骨内側面の中央、内果尖の上方7寸となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_111",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の厥陰肝経",
+    "category_question_number": 20,
+    "round": 32,
+    "round_question_number": 111,
+    "question": "膝蓋骨尖と内果尖とを結ぶ線を3等分し、内果尖から3分の1にあるのはどれか。",
+    "options": [
+      "肝経の絡穴",
+      "腎経の絡穴",
+      "脾経の郄穴",
+      "陰蹻脈の郄穴"
+    ],
+    "answer": 0,
+    "explanation": "膝蓋骨尖と内果尖とを結ぶ線を3等分し、内果尖から3分の1にあるのは蠡溝。1：肝経の絡穴は、蠡溝。2：腎経の絡穴は、大鍾。3：脾経の郄穴は、地機。4：陰蹻脈の郄穴は、交信（腎経）である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_114",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の厥陰肝経",
+    "category_question_number": 21,
+    "round": 30,
+    "round_question_number": 114,
+    "question": "経穴の部位で正しいのはどれか。",
+    "options": [
+      "伏兎は、大腿前外側、大腿直筋腱の外側で膝蓋骨底の上方3寸にある。",
+      "承扶は、大腿部後面、大腿二頭筋と半腱様筋の間、殿溝の下方6寸にある。",
+      "風市は、大腿部外側、腸脛靭帯の後方で、膝窩横紋の上方7寸にある。",
+      "陰包は、大腿部内側、薄筋と縫工筋の間、膝蓋骨底の上方4寸にある。"
+    ],
+    "answer": 3,
+    "explanation": "1：伏兎は、膝蓋骨底の上方6寸にある。2：承扶は、殿溝の中点にある。3：風市は、直立して上肢を下垂したとき、大腿外側に中指頭があたるところにある。4：陰包は、膝蓋骨底の上方4寸にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_122",
+    "subject": "meridian",
+    "category": "twelve_regular_meridian",
+    "sub_category": "足の厥陰肝経",
+    "category_question_number": 22,
+    "round": 29,
+    "round_question_number": 122,
+    "question": "経穴の部位で正しいのはどれか。",
+    "options": [
+      "秩辺は、第2後仙骨孔と同じ高さ、正中仙骨稜の外方3寸にある。",
+      "三陽絡は、橈骨と尺骨の骨間の中点、肘頭の下方5寸にある。",
+      "蠡溝は、脛骨内側面の中央、内果尖の上方5寸にある。",
+      "本神は、前髪際から入ること5分、瞳孔線上にある。"
+    ],
+    "answer": 2,
+    "explanation": "1：秩辺は第4後仙骨孔と同じ高さ、2：三陽絡は手関節背側横紋の上方4寸、4：本神は前髪際から入ること5分で前正中線の外方3寸で瞳孔線上は「頭臨泣」となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_120",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 1,
+    "round": 32,
+    "round_question_number": 120,
+    "question": "足陽明経の経火穴と足太陰経の経金穴の間にあるのはどれか。",
+    "options": [
+      "衝陽",
+      "太衝",
+      "中封",
+      "丘墟"
+    ],
+    "answer": 2,
+    "explanation": "【解説】足陽明経は胃経で経火穴は解渓。足太陰経は脾経で経金穴は商丘である（表3参照）。解渓は、足関節前面中央の陥凹部、長母指伸筋腱と長指伸筋腱の間にあり、商丘は、内果の前下方、舟状骨粗面と内果尖の中央陥凹部にある。その間にあるのは、前脛骨筋腱内側の陥凹部、内果尖の前方にある肝経の中封である。1：衝陽は、胃経で第2中足骨底と中間楔状骨の間にある。2：太衝は、肝経で第1・第2中足骨間、中足骨底接合部遠位の陥凹部にある。4：丘墟は、胆経で長指伸筋腱外側の陥凹部、外果尖の前下方にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_121",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 2,
+    "round": 32,
+    "round_question_number": 121,
+    "question": "足少陽経の経火穴の部位はどれか。",
+    "options": [
+      "下腿外側、腓骨の前方、外果尖の上方4寸",
+      "下腿前面、膝蓋靱帯外方の陥凹部の下方9寸",
+      "下腿内側、脛骨内縁の後方の陥凹部、内果尖の上方2寸",
+      "下腿後外側、外果尖とアキレス腱の間の陥凹部から上方3寸"
+    ],
+    "answer": 0,
+    "explanation": "【解説】足少陽経は胆経で経火穴は陽輔である（表3参照）。1：下腿外側、腓骨の前方、外果尖の上方4寸は陽輔。2：下腿前面、膝蓋靱帯外方の陥凹部の下方9寸は、胃経の下巨虚（小腸の下合穴）。3：下腿内側、脛骨内縁の後方の陥凹部、内果尖の上方2寸は、腎経の交信（陰蹻脈の郄穴）。4：下腿後外側、外果尖とアキレス腱の間の陥凹部から上方3寸は、膀胱経の跗陽（陽蹻脈の郄穴）である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_122",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 3,
+    "round": 31,
+    "round_question_number": 122,
+    "question": "足の太陰経にある経金穴の部位はどれか。",
+    "options": [
+      "足関節後内側、内果尖とアキレス腱の間の陥凹部",
+      "足内側、内果の前下方、舟状骨粗面と内果尖の中央陥凹部",
+      "足関節前外側、長指伸筋腱外側の陥凹部、外果尖の前下方",
+      "足関節前面中央の陥凹部、長母指伸筋腱と長指伸筋腱の間"
+    ],
+    "answer": 1,
+    "explanation": "【解説】足の太陰経は脾経で、経金穴は商丘である。1：足関節後内側、内果尖とアキレス腱の間の陥凹部は太渓、2：足内側、内果の前下方、舟状骨粗面と内果尖の中央陥凹部は商丘、3：足関節前外側、長指伸筋腱外側の陥凹部、外果尖の前下方は丘墟、4：足関節前面中央の陥凹部、長母指伸筋腱と長指伸筋腱の間は解渓である（表3参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_25_110",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 4,
+    "round": 25,
+    "round_question_number": 110,
+    "question": "体重節痛の際に用いる経穴部位で正しいのはどれか。",
+    "options": [
+      "第4・第5中足骨底接合部の遠位、第5指の長指伸筋腱外側の陥凹部",
+      "内果後下方、踵骨上方、アキレス腱付着部内側前方の陥凹部",
+      "足外側、第5中足骨粗面の遠位、赤白肉際",
+      "足関節前内側、前脛骨筋腱内側の陥凹部、内果尖の前方"
+    ],
+    "answer": 0,
+    "explanation": "【解説】体重節痛の際に用いる経穴は、兪穴である（表3参照）。選択肢のうち兪穴に当たるのは、胆経の兪穴の足臨泣であり、足臨泣の経穴部位で正しいのは、1：「第4・第5中足骨底接合部の遠位、第5指の長指伸筋腱外側の陥凹部」である。それ以外の選択肢は、2は大鍾で絡穴、3は京骨で原穴、4は中封で経穴である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_109",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 5,
+    "round": 32,
+    "round_question_number": 109,
+    "question": "五兪穴について正しいのはどれか。",
+    "options": [
+      "足の少陰経の井木穴は爪甲の際にある。",
+      "足の陽明経の滎水穴は経脈の末端穴から2番目にある。",
+      "手の太陽経の兪木穴は原穴と一致する。",
+      "手の厥陰経の経金穴は手関節横紋にある。"
+    ],
+    "answer": 1,
+    "explanation": "【解説】1：足の少陰経は腎経で、井木穴は湧泉で足底にある。2：足の陽明経は胃経。滎水穴は内庭で、経脈の末端穴（厲兌）から2番目にある。3：手の太陽経は小腸経。兪木穴は後渓である。原穴は腕骨で一致しない。4：手の厥陰経は心包経。経金穴は間使で手関節掌側横紋の上3寸にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_121",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 6,
+    "round": 30,
+    "round_question_number": 121,
+    "question": "五兪穴で咳嗽と発熱に用いるのはどれか。",
+    "options": [
+      "陰谷",
+      "復溜",
+      "太渓",
+      "然谷"
+    ],
+    "answer": 1,
+    "explanation": "【解説】五兪穴で咳嗽と発熱に用いるのは経穴となる。\n1：陰谷は合穴で逆気而泄に用いる。2：復溜は経穴で喘咳寒熱に用いる。3：太渓は兪穴で体重節痛に用いる。4：然谷は滎穴で身熱に用いる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_123",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 7,
+    "round": 29,
+    "round_question_number": 123,
+    "question": "経金穴の部位はどれか。",
+    "options": [
+      "長掌筋腱と橈側手根屈筋腱の間、手関節掌側横紋の上方3寸",
+      "長母指外転筋腱と短母指伸筋腱の間、手関節掌側横紋の上方1寸5分",
+      "橈骨と尺骨の骨間の中点、手関節背側横紋の上方3寸",
+      "尺骨内縁と尺側手根屈筋の間、手関節背側横紋の上方5寸"
+    ],
+    "answer": 0,
+    "explanation": "【解説】経金穴は、中封、霊道、商丘、経渠、復溜、間使である（表3参照）。1は「間使」、2は「列欠」、3は「支溝」、4は「支正」。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_123",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 8,
+    "round": 31,
+    "round_question_number": 123,
+    "question": "五要穴について正しいのはどれか。",
+    "options": [
+      "同じ高さで並ぶ郄穴がある。",
+      "手関節横紋上には6穴の原穴がある。",
+      "前腕の外側と内側で対応する絡穴がある。",
+      "募穴のうち4穴は自経にある。"
+    ],
+    "answer": 0,
+    "explanation": "【解説】五要穴（原穴、郄穴、絡穴、募穴、兪穴）は、1：同じ高さで並ぶ郄穴は温溜と郄門が手関節横紋の上方5寸にある。2：手関節横紋上には4穴の原穴（太淵、神門、大陵、陽池）がある。3：前腕には外側と内側での対応はなく、後面と前面で対応する絡穴（外関、内関）がある。4：募穴のうち3穴（期門、中府、日月）は自経にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_27_110",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 9,
+    "round": 27,
+    "round_question_number": 110,
+    "question": "五要穴で急性症状に用いるのに適した経穴の部位はどれか。",
+    "options": [
+      "大腿前外側、外側広筋と大腿直筋腱外縁の間、膝蓋骨底の上方2寸",
+      "下腿外側、腓骨の前方、外果尖の上方5寸",
+      "下腿前外側、前脛骨筋の外縁、外果尖の上方8寸",
+      "足背、第2中足骨底部と中間楔状骨の間、足背動脈拍動部"
+    ],
+    "answer": 0,
+    "explanation": "【解説】五要穴で急性症状に用いるのは、郄穴である。選択肢のうち郄穴なのは、1：「膝蓋骨底の上方2寸」の梁丘を用いる。その他の選択肢は、2は光明で、胆経の絡穴。3は豊隆で、胃経の絡穴。4は衝陽で、胃の原穴（後出の問題15の解説参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_28_111",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 10,
+    "round": 28,
+    "round_question_number": 111,
+    "question": "五要穴で急性症状に用いる経穴の部位はどれか。",
+    "options": [
+      "前脛骨筋の外縁、外果尖の上方8寸",
+      "内果尖の下方1寸の陥凹部",
+      "腓骨の前方、外果尖の上方7寸",
+      "側胸部、第6肋間、中腋窩線上"
+    ],
+    "answer": 2,
+    "explanation": "【解説】五要穴で急性症状に用いるのは郄穴。1は豊隆（胃経）で絡穴（慢性症状）。2は照海（腎経）で八脈交会穴、3は外丘（胆経）で郄穴。4は大包（脾経）で脾の大絡の絡穴となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_26_110",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 11,
+    "round": 26,
+    "round_question_number": 110,
+    "question": "五要穴で慢性症状に用いるのに適した経穴の部位はどれか。",
+    "options": [
+      "脛骨内側面の中央、内果尖の上方5寸",
+      "内果尖とアキレス腱の間の陥凹部",
+      "腓骨の前方、外果尖の上方7寸",
+      "大腿二頭筋腱の内縁、膝窩横紋上"
+    ],
+    "answer": 0,
+    "explanation": "【解説】要穴の問題。五要穴は、原穴、郄穴、絡穴、募穴、兪穴（背部兪穴）の5種類の経穴のことである。慢性病に用いるのは絡穴である。選択肢のうち絡穴は、1：「脛骨内側面の中央、内果尖の上方5寸」の蠡溝がそれに当たる。2：「内果尖とアキレス腱の間の陥凹部」は太渓で腎の原穴、3：「腓骨の前方、外果尖の上方7寸」は外丘で胆の郄穴、4：「大腿二頭筋の内縁、膝窩横紋上」は委陽で三焦の下合穴である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_116",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 12,
+    "round": 32,
+    "round_question_number": 116,
+    "question": "絡穴が郄穴より末梢にある経脈はどれか。",
+    "options": [
+      "手の太陽経",
+      "手の少陰経",
+      "足の太陽経",
+      "足の太陰経"
+    ],
+    "answer": 3,
+    "explanation": "【解説】1：手の太陽経は小腸経で、絡穴は支正、郄穴は養老で、郄穴が末梢にある。2：手の少陰経は心経で、絡穴は通里、郄穴は陰郄で、郄穴が末梢にある。3：足の太陽経は膀胱経で、絡穴は飛揚、郄穴は金門で、郄穴が末梢にある。4：足の太陰経は脾経で、絡穴は公孫、郄穴は地機で、絡穴が末梢にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_124",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 13,
+    "round": 32,
+    "round_question_number": 124,
+    "question": "手関節横紋から最も遠いのはどれか。",
+    "options": [
+      "肺経の郄穴",
+      "大腸経の絡穴",
+      "心包経の経金穴",
+      "三焦経の経火穴"
+    ],
+    "answer": 0,
+    "explanation": "【解説】1：肺経の郄穴は孔最で、手関節掌側横紋の上方7寸にある。2：大腸経の絡穴は偏歴で、手関節背側横紋の上方3寸にある。3：心包経の経金穴は間使で、手関節掌側横紋の上方3寸にある。4：三焦経の経火穴は支溝で、手関節背側横紋の上方3寸にある。手関節横紋から最も遠いのは孔最である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_114",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 14,
+    "round": 29,
+    "round_question_number": 114,
+    "question": "郄穴の部位はどれか。",
+    "options": [
+      "膝蓋骨底外端の上方2寸",
+      "腓骨の前方、外果尖の上方5寸",
+      "腓腹筋外側頭下縁とアキレス腱の間",
+      "内果後下方、踵骨上方、アキレス腱の前陥凹部"
+    ],
+    "answer": 0,
+    "explanation": "【解説】1：梁丘で足の陽明胃経の郄穴。2：光明で足の少陽胆経の絡穴。3：飛揚で足の太陽膀胱経の絡穴。4：大鍾で足の少陰腎経の絡穴。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_23_113",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 15,
+    "round": 23,
+    "round_question_number": 113,
+    "question": "大腿部にある郄穴への刺鍼部位はどれか。",
+    "options": [
+      "外側広筋と大腿直筋腱外縁の間、膝蓋骨底の上方2寸",
+      "腸脛靭帯の後方、膝窩横紋の上方7寸",
+      "大腿二頭筋腱の内縁、膝窩横紋の上方1寸",
+      "薄筋と縫工筋の間、膝蓋骨底の上方4寸"
+    ],
+    "answer": 0,
+    "explanation": "【解説】大腿部に位置する郄穴は、足の陽明胃経の梁丘であり、同部位は大腿前外側、膝蓋骨底の上方2寸、外側広筋と大腿直筋腱外縁の間にある。したがって、大腿部にある郄穴への刺鍼部位は、1：「外側広筋と大腿直筋腱外縁の間、膝蓋骨底の上方2寸」である。2：「腸脛靭帯の後方、膝窩横紋の上方7寸」に該当するのは中瀆。3：「大腿二頭筋腱の内縁、膝窩横紋の上方1寸」に該当するのは浮郄。4：「薄筋と縫工筋の間、膝蓋骨底の上方4寸」に該当するのは陰包である。大腿部にある要穴は、梁丘のみである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_25_111",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 16,
+    "round": 25,
+    "round_question_number": 111,
+    "question": "下肢にある郄穴の部位はどれか。",
+    "options": [
+      "内側広筋隆起部、膝蓋骨底内端の上方2寸",
+      "脛骨内側面の中央、内果尖の上方5寸",
+      "腓骨の前方、外果尖の上方7寸",
+      "外果尖の直下、外果下縁と踵骨の間の陥凹部"
+    ],
+    "answer": 2,
+    "explanation": "【解説】下肢にある郄穴の部位は、3：「腓骨の前方、外果尖の上方7寸」の外丘である。1は血海で、要穴ではない。2は蠡溝で、肝経の絡穴に当たる。4は申脈で、八脈交会穴（陽蹻脈）である（問題15の解説参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_23_109",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 17,
+    "round": 23,
+    "round_question_number": 109,
+    "question": "陰蹻脈の郄穴はどれか。",
+    "options": [
+      "跗陽",
+      "築賓",
+      "交信",
+      "陽交"
+    ],
+    "answer": 2,
+    "explanation": "【解説】陰蹻脈の郄穴は、3：交信である。1：跗陽は陽蹻脈の郄穴。2：築賓は陰維脈の郄穴。4：陽交は陽維脈の郄穴である（表4参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_28_112",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 18,
+    "round": 28,
+    "round_question_number": 112,
+    "question": "陽蹻脈の郄穴の部位はどれか。",
+    "options": [
+      "下腿外側、腓骨の前方、外果尖の上方7寸",
+      "下腿内側、脛骨内縁の後際、陰陵泉の下方3寸",
+      "下腿前内側、脛骨内側面の中央、内果尖の上方7寸",
+      "下腿後外側、腓骨とアキレス腱の間、崑崙の上方3寸"
+    ],
+    "answer": 3,
+    "explanation": "【解説】陽蹻脈の郄穴は4の跗陽である。1は外丘で胆経の郄穴。2は地機で脾経の郄穴、3は中都で肝経の郄穴となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_24_110",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 19,
+    "round": 24,
+    "round_question_number": 110,
+    "question": "前腕部にある絡穴の部位はどれか。",
+    "options": [
+      "尺側手根屈筋腱の橈側縁、手関節掌側横紋の上方1寸",
+      "尺骨頭橈側の陥凹部、手関節背側横紋の上方1寸",
+      "尺骨の橈側縁、手関節背側横紋の上方3寸",
+      "長掌筋腱と橈側手根屈筋腱の間、手関節掌側横紋の上方3寸"
+    ],
+    "answer": 0,
+    "explanation": "【解説】前腕部にある絡穴は、表5の通りである。そのうち、選択肢で該当するのは、1：通里である（表5参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_111",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 20,
+    "round": 29,
+    "round_question_number": 111,
+    "question": "任脈上に募穴がある臓腑の所属経脈の原穴はどれか。",
+    "options": [
+      "合谷",
+      "太渓",
+      "陽池",
+      "太衝"
+    ],
+    "answer": 2,
+    "explanation": "【解説】任脈上にある募穴は、手の少陰心経（巨闕）、手の厥陰心包経（膻中）、手の太陽小腸経（関元）、足の陽明胃経（中脘）、足の太陽膀胱経（中極）、手の少陽三焦経（石門）の6経である。1：手の陽明大腸経、2：足の少陰腎経、3：手の少陽三焦経、4：足の厥陰肝経となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_123",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 21,
+    "round": 32,
+    "round_question_number": 123,
+    "question": "八会穴で、所属する経脈が異なる組合せはどれか。",
+    "options": [
+      "気会 ― 腑会",
+      "筋会 ― 髄会",
+      "血会 ― 骨会",
+      "脈会 ― 臓会"
+    ],
+    "answer": 3,
+    "explanation": "【解説】1：気会は膻中、腑会は中脘で所属する経脈はいずれも任脈。2：筋会は陽陵泉、髄会は懸鍾で所属する経脈はいずれも胆経。3：血会は膈兪、骨会は大杼で所属する経脈はいずれも膀胱経。4：脈会は太淵、臓会は章門で、所属する経脈は肺経と肝経で異なる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_108",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 22,
+    "round": 30,
+    "round_question_number": 108,
+    "question": "八会穴で募穴でもある経穴が所属する経脈はどれか。",
+    "options": [
+      "足の太陰経",
+      "足の厥陰経",
+      "足の太陽経",
+      "足の少陽経"
+    ],
+    "answer": 1,
+    "explanation": "【解説】八会穴は、腑会（中脘）、臓会（章門）、筋会（陽陵泉）、髄会（懸鍾）、血会（膈兪）、骨会（大杼）、脈会（太淵）、気会（膻中）である。この中で募穴は中脘（任脈・胃の募穴）、章門（肝経・脾の募穴）、膻中（任脈・心包の募穴）である。\n1は足の太陰脾経、2は足の厥陰肝経、3は足の太陽膀胱経、4は足の少陽胆経。よって八会穴、募穴の経穴が所属する経脈は、章門の足の厥陰肝経である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_28_104",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 23,
+    "round": 28,
+    "round_question_number": 104,
+    "question": "八会穴の気会と同じ高さにある経穴はどれか。",
+    "options": [
+      "梁門",
+      "大包",
+      "食竇",
+      "神封"
+    ],
+    "answer": 3,
+    "explanation": "【解説】八会穴の気会穴は膻中。第4肋間の高さになる。したがって神封となる。梁門は胃経で臍の上4寸の高さ、大包は脾経で第6肋間の高さ、食竇は脾経で第5肋間の高さとなる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_23_110",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 24,
+    "round": 23,
+    "round_question_number": 110,
+    "question": "八会穴と下合穴の両方に属する経穴はどれか。",
+    "options": [
+      "陽陵泉",
+      "懸鍾",
+      "足三里",
+      "下巨虚"
+    ],
+    "answer": 0,
+    "explanation": "【解説】八会穴と下合穴の両方に属する経穴は、1：陽陵泉である。陽陵泉は、筋会、胆の下合穴。2：懸鍾（懸鐘）は髄会。3：足三里は胃の下合穴。4：下巨虚は小腸の下合穴（表6参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_26_106",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 25,
+    "round": 26,
+    "round_question_number": 106,
+    "question": "八会穴の腑会の部位はどれか。",
+    "options": [
+      "前正中線上、胸骨体下端の下方1寸",
+      "前正中線上、第4肋間と同じ高さ",
+      "前正中線上、臍中央の上方4寸",
+      "前正中線上、臍中央の上方6寸"
+    ],
+    "answer": 2,
+    "explanation": "要穴の問題。八会穴のうち腑会は、中脘である。選択肢の部位のうち中脘は、3：「前正中線上、臍中央の上方4寸」である。その他の選択肢は、1：「胸骨体下端の下方1寸」は鳩尾で、任脈の絡穴に当たる。2：「前正中線上、第4肋間と同じ高さ」は膻中で、八会穴の気会、心包の募穴に当たる。4：「臍中央の上方6寸」は巨闕で、心の募穴である（表6参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_27_111",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 26,
+    "round": 27,
+    "round_question_number": 111,
+    "question": "次の文で示す症状に対して八会穴を用いる場合に最も適切な経穴はどれか。\n「20歳の女性。月経時に腹部にさし込む痛みがあり、血塊を伴う。」",
+    "options": [
+      "大杼",
+      "膈兪",
+      "陽陵泉",
+      "懸鍾"
+    ],
+    "answer": 1,
+    "explanation": "八会穴は、腑、臓、筋、髄、血、骨、脈、気の、それぞれ気の集るところで、臓の病には臓会、筋の病には筋会を用いれば効果が期待できる。設問では、月経時など血に関係するため、血会が適当である。選択肢のうち血会は、2：膈兪である。その他の選択肢では、1：大杼が骨会、3：陽陵泉が筋会、4：懸鍾が髄会である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_110",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 27,
+    "round": 29,
+    "round_question_number": 110,
+    "question": "八脈交会穴が関係する奇経の組合せで正しいのはどれか。",
+    "options": [
+      "陰維脈 ── 帯脈",
+      "陽維脈 ── 督脈",
+      "陽蹻脈 ── 衝脈",
+      "陰蹻脈 ── 任脈"
+    ],
+    "answer": 3,
+    "explanation": "八脈交会穴は、衝脈と陰維脈、帯脈と陽維脈、督脈と陽蹻脈、任脈と陰蹻脈である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_25_112",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 28,
+    "round": 25,
+    "round_question_number": 112,
+    "question": "八総穴で督脈の主治穴の部位はどれか。",
+    "options": [
+      "第5中手指節関節尺側の近位陥凹部、赤白肉際",
+      "橈骨と尺骨の骨間の中点、手関節背側横紋の上方2寸",
+      "長掌筋腱と橈側手根屈筋腱の間、手関節掌側横紋の上方2寸",
+      "長母指外転筋腱と短母指伸筋腱の間、手関節掌側横紋の上方1寸5分"
+    ],
+    "answer": 0,
+    "explanation": "八総穴で督脈の主治穴は、後渓である。選択肢のうち後渓の部位を表しているのは、「1：第5中手指節関節尺側の近位陥凹部、赤白肉際」である（p.298の「1. 経絡の意義 B. 奇経八脈」表2参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_110",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 29,
+    "round": 32,
+    "round_question_number": 110,
+    "question": "要穴で、所属するすべての経穴が足の三陽経のいずれかにあてはまるのはどれか。",
+    "options": [
+      "下合穴",
+      "四総穴",
+      "八総穴",
+      "八会穴"
+    ],
+    "answer": 0,
+    "explanation": "足の三陽経は、胃経、膀胱経、胆経である。1：下合穴は、胆（陽陵泉）・小腸（下巨虚）・胃（足三里）・大腸（上巨虚）・膀胱（委中）・三焦（委陽）ですべての経穴が足の三陽経にあてはまる。2：四総穴は、胃（足三里）・膀胱（委中）・肺（列欠）・大腸（合谷）。3：八総穴は、衝脈（公孫）−陰維脈（内関）、帯脈（足臨泣）−陽維脈（外関）、督脈（後渓）−陽蹻脈（申脈）、任脈（列欠）−陰蹻脈（照海）、4：八会穴は、腑（中脘）、臓（章門）、筋（陽陵泉）、髄（懸鍾）、血（膈兪）、骨（大杼）、脈（太淵）、気（膻中）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_111",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 30,
+    "round": 31,
+    "round_question_number": 111,
+    "question": "手の三陽経、足の三陽経が交わる交会穴はどれか。",
+    "options": [
+      "百会",
+      "大椎",
+      "陽交",
+      "三陽絡"
+    ],
+    "answer": 1,
+    "explanation": "1：百会は督脈と足の太陽膀胱経、手の少陽三焦経、足の少陽胆経、足の厥陰肝経が交わる。2：大椎は督脈と手の陽明大腸経、手の太陽小腸経、手の少陽三焦経、足の陽明胃経、足の太陽膀胱経、足の少陽胆経と手の三陽経、足の三陽経が交わる。3：陽交は足の少陽胆経と陽維脈が交わる。4：三陽絡は、手の陽明大腸経、手の太陽小腸経、手の少陽三焦経と手の三陽経が交わる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_27_107",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 31,
+    "round": 27,
+    "round_question_number": 107,
+    "question": "要穴で横に並ぶ組合せはどれか。",
+    "options": [
+      "小腸経の絡穴 ── 大腸経の絡穴",
+      "心の募穴 ── 肝の募穴",
+      "任脈の絡穴 ── 胆の募穴",
+      "心包の募穴 ── 脾の大絡の絡穴"
+    ],
+    "answer": 1,
+    "explanation": "要穴で横に並ぶ組み合わせで正しいのは、2：「心の募穴−肝の募穴」である。心の募穴は巨闕、肝の募穴は期門である。巨闕は、臍の中央上6寸。期門は、第6肋間、前正中線から外方4寸。巨闕の外方4寸に当たる。その他の選択肢は、1：「支正−偏歴」、3：「鳩尾−日月」、4：「膻中−大包」で、同じ高さにはない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_123",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 32,
+    "round": 30,
+    "round_question_number": 123,
+    "question": "大腸の下合穴が所属する経脈の経火穴はどれか。",
+    "options": [
+      "陥谷",
+      "陽渓",
+      "解渓",
+      "崑崙"
+    ],
+    "answer": 2,
+    "explanation": "大腸の下合穴の経穴は上巨虚で所属経脈は足の陽明胃経で、経火穴は解渓である。1：陥谷は足の陽明胃経の兪木穴、2：陽渓は手の陽明大腸経の経火穴、3：解渓は足の陽明胃経の経火穴、4：崑崙は足の太陽膀胱経の経火穴となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_125",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 33,
+    "round": 32,
+    "round_question_number": 125,
+    "question": "脚気八処の穴に含まれないのはどれか。",
+    "options": [
+      "伏兎",
+      "外膝眼",
+      "下巨虚",
+      "条口"
+    ],
+    "answer": 3,
+    "explanation": "脚気八処の穴は、風市・伏兎・犢鼻・外膝眼・足三里・上巨虚・下巨虚・懸鍾の8穴である。含まれないのは条口。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_124",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 34,
+    "round": 31,
+    "round_question_number": 124,
+    "question": "組合せで用いる経穴で八会穴を含まないのはどれか。",
+    "options": [
+      "脚気八処の穴",
+      "小児斜差の灸",
+      "中風七穴",
+      "六つ灸"
+    ],
+    "answer": 1,
+    "explanation": "1：脚気八処の穴は、風市、伏兎、犢鼻、外膝眼、足三里、上巨虚、下巨虚、懸鍾の8穴。2：小児斜差の灸は、男児は左肝兪、右脾兪、女児は右肝兪、左脾兪の各2穴、3：中風七穴は、1説：百会、曲鬢、肩井、曲池、風市、足三里、懸鍾、2説：百会、風池、肩井、大椎、曲池、間使、足三里の各7穴、4：六つ灸は、膈兪、肝兪、脾兪の左右6穴。\n八会穴は、腑会（中脘）、臓会（章門）、筋会（陽陵泉）、髄会（懸鍾）、血会（膈兪）、骨会（大杼）、脈会（太淵）、気会（膻中）である。よって、八会穴を含まないのは小児斜差の灸。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_122",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 35,
+    "round": 30,
+    "round_question_number": 122,
+    "question": "六つ灸で用いる経穴と同じ高さにあるのはどれか。",
+    "options": [
+      "至陽",
+      "接脊",
+      "中枢",
+      "陽綱"
+    ],
+    "answer": 0,
+    "explanation": "六つ灸で用いる経穴は膈兪（第7胸椎棘突起下縁の高さ）、肝兪（第9胸椎棘突起下縁の高さ）、脾兪（第11胸椎棘突起下縁の高さ）である。\n1：至陽は第7胸椎棘突起下縁の高さ、2：接脊は第12胸椎棘突起下縁の高さ、3：中枢は第10胸椎棘突起下縁、4：陽綱は第10胸椎棘突起下縁の高さとなる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_126",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 36,
+    "round": 29,
+    "round_question_number": 126,
+    "question": "関元兪と同じ高さにある奇穴の主治はどれか。",
+    "options": [
+      "咳嗽",
+      "動悸",
+      "不眠",
+      "月経痛"
+    ],
+    "answer": 3,
+    "explanation": "関元兪は、足の太陽膀胱経で第5腰椎棘突起下縁と同じ高さ、後正中線の外方1寸5分である。この同じ高さにある奇穴は「十七椎（上仙）」で第5腰椎棘突起下方の陥凹部であり、この穴の主治は、月経痛、腰痛、妊娠による排尿困難、痔疾、下肢の麻痺である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_125",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 37,
+    "round": 31,
+    "round_question_number": 125,
+    "question": "肓門穴の外方5分にある奇穴の主治はどれか。",
+    "options": [
+      "喘息",
+      "動悸",
+      "痞塊",
+      "痔疾"
+    ],
+    "answer": 2,
+    "explanation": "肓門穴は、第1腰椎棘突起下縁と同じ高さ、後正中線の外方3寸にある。その肓門穴の外方5分にある奇穴は、痞根。その主治は、痞塊（肝臓・脾臓・膵臓などの肥大）、胃炎、腸炎、鼓腸、腰痛である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_25_109",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 38,
+    "round": 25,
+    "round_question_number": 109,
+    "question": "奇穴の子宮と同じ高さにある経穴はどれか。",
+    "options": [
+      "急脈",
+      "大赫",
+      "水道",
+      "府舎"
+    ],
+    "answer": 1,
+    "explanation": "奇穴の子宮と同じ高さにある経穴は、2：大赫である。子宮の部位は、臍下4寸、中極の外方3寸である。1：急脈は恥骨結合上縁と同じ高さ、3：水道は臍中央下方3寸、4：府舎は臍中央下方4寸3分の高さにある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_25_113",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 39,
+    "round": 25,
+    "round_question_number": 113,
+    "question": "奇穴と経穴が同じ高さにある組合せはどれか。",
+    "options": [
+      "定喘 ── 肩外兪",
+      "接脊 ── 胃兪",
+      "痞根 ── 腎兪",
+      "腰眼 ── 関元兪"
+    ],
+    "answer": 1,
+    "explanation": "奇穴と経穴が同じ高さにある組合せは、2：「接脊−胃兪」である。両経穴とも第12胸椎、第1腰椎棘突起間で同じ高さに当たる。1：定喘は第7頸椎・第1胸椎棘突起間、肩外兪は第1胸椎棘突起下縁、3：痞根は第1・第2腰椎棘突起間、腎兪は第2腰椎棘突起下縁、4：腰眼は第4・第5腰椎棘突起間、関元兪は第5腰椎棘突起下縁である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_26_112",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 40,
+    "round": 26,
+    "round_question_number": 112,
+    "question": "奇穴とその主治の組合せで正しいのはどれか。",
+    "options": [
+      "八邪 ── 頭痛",
+      "四縫 ── 足の痛み",
+      "十宣 ── 歯の痛み",
+      "八風 ── 手の痛み"
+    ],
+    "answer": 0,
+    "explanation": "奇穴の主治についての問題。奇穴とその主治の組合せで正しいのは、1：「八邪−頭痛」である。八邪は歯痛、頭痛、手の痛みなど、2：四縫は小児疳虫症、手指の関節炎など、3：十宣は手指の知覚異常、発熱、救急的な症状（失神、昏迷、ヒステリー、癲癇、卒中など）、4：八風は足の痛み（脚気、足背痛、足指の発赤、腫脹、関節リウマチなど）を、それぞれ主治とする奇穴である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_24_112",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 41,
+    "round": 24,
+    "round_question_number": 112,
+    "question": "奇穴の取穴と主治の組合せで正しいのはどれか。",
+    "options": [
+      "百会の前後左右の各1寸 ── 胃炎",
+      "翳風の後方約1寸 ── 歯根炎",
+      "足三里の下方約2寸 ── 胆嚢炎",
+      "中極の外方3寸 ── 膀胱炎"
+    ],
+    "answer": 3,
+    "explanation": "奇穴の取穴法と主治の組合せで正しいのは、4：中極の外方3寸で、ここは子宮に当たる。主治は、婦人科系疾患（月経不順、月経痛、不妊症、子宮下垂）、膀胱炎である。その他の選択肢だが、1：「百会の前後左右の各1寸」は四神聡。主治は頭痛、眩暈、中風。2：「翳風の後方約1寸」は翳明。主治は老視、近視、耳鳴、眩暈。3：「足三里の下方約2寸」は闌尾で、主治は急性虫垂炎である。\n3：胆嚢点は陽陵泉の下約1寸で、主治は胆嚢炎、胆石症、胸脇痛、下肢痛、下肢運動麻痺である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_28_113",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 42,
+    "round": 28,
+    "round_question_number": 113,
+    "question": "奇穴で顔面神経麻痺が主治でないのはどれか。",
+    "options": [
+      "太陽",
+      "夾承漿",
+      "牽正",
+      "翳明"
+    ],
+    "answer": 3,
+    "explanation": "1：太陽は眉毛外端と外眼角との中央から後方1寸に取り、2：夾承漿は承漿（任脈）の外方1寸。3：牽正は下関（胃経）の下垂線と耳垂下縁を通る水平線との交点に取り、いずれも顔面神経麻痺の治療穴である。4：翳明は乳様突起の下縁、翳風（三焦経）の後方約1寸に取り、主治は老視、近視、耳下腺炎、耳鳴、眩暈、不眠症である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_126",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 43,
+    "round": 31,
+    "round_question_number": 126,
+    "question": "奇穴とその部位の組合せで正しいのはどれか。",
+    "options": [
+      "魚腰 ── 眉間中央陥凹部",
+      "接脊 ── 第11胸椎棘突起下方の陥凹部",
+      "十宣 ── 各中手指節関節の間の背側",
+      "胆嚢点 ── 陽陵泉の下約1寸"
+    ],
+    "answer": 3,
+    "explanation": "1：魚腰は、眉毛の中央の陥中で、眉間中央陥凹部は奇穴の印堂。2：接脊は、第12胸椎棘突起下方の陥凹部で、第11胸椎棘突起下方の陥凹部は督脈の脊中穴。3：十宣は、両手十指の各先端中央にとる。各中手指節関節の間の背側は奇穴の八邪。4：胆嚢点は、陽陵泉の下約1寸にとる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_23_111",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 44,
+    "round": 23,
+    "round_question_number": 111,
+    "question": "腰眼の取穴法で正しいのはどれか。",
+    "options": [
+      "第2腰椎棘突起下縁、外方3寸5分",
+      "第3腰椎棘突起下縁、外方3寸5分",
+      "第4腰椎棘突起下縁、外方3寸5分",
+      "第5腰椎棘突起下縁、外方3寸5分"
+    ],
+    "answer": 2,
+    "explanation": "腰眼の取穴法で正しいのは、3：「第4腰椎棘突起下縁、外方3寸5分」である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_24_113",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 45,
+    "round": 24,
+    "round_question_number": 113,
+    "question": "奇穴の取り方で正しいのはどれか。",
+    "options": [
+      "内膝眼は膝関節部、膝蓋骨底上際中央の陥凹部に取る。",
+      "痞根は第1腰椎棘突起下縁と同じ高さ、後正中線の外方3寸に取る。",
+      "十七椎は後正中線上、第5腰椎棘突起下方の陥凹部に取る。",
+      "腰痛点は手背、第2・第3および第3・第4中手骨底間の陥凹部の2点に取る。"
+    ],
+    "answer": 2,
+    "explanation": "奇穴の取り方で正しいのは、3：十七椎である。他の選択肢の奇穴の正しい取穴法は、1：内膝眼は膝前面、膝蓋靭帯内方の陥凹部、2：痞根は第1腰椎棘突起下縁と同じ高さ、後正中線の外方3寸5分、4：腰痛点は第2・第3および第4・第5中手骨底間の陥凹部の2点である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_26_113",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 46,
+    "round": 26,
+    "round_question_number": 113,
+    "question": "奇穴とその部位の組合せで正しいのはどれか。",
+    "options": [
+      "鶴頂 ── 膝蓋骨底上際中央の上約1寸",
+      "胆嚢点 ── 陽陵泉の下約1寸",
+      "闌尾 ── 足三里の下約1寸",
+      "失眠 ── 足底部の中央"
+    ],
+    "answer": 1,
+    "explanation": "奇穴と部位の組合せ問題。奇穴とその部位の正しい組合せは、2：「胆嚢点—陽陵泉の下約1寸」である。その他の選択肢における正しい組み合わせは、1：鶴頂は膝蓋骨底上際の中央、3：闌尾（蘭尾）は足三里の下約2寸、4：失眠は、足底部、踵の中央に取る。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_124",
+    "subject": "meridian",
+    "category": "acupoint_application",
+    "category_question_number": 47,
+    "round": 30,
+    "round_question_number": 124,
+    "question": "腓骨頭直下と脛骨粗面下端の中間に取る経穴が所属するのはどれか。",
+    "options": [
+      "八総穴",
+      "八会穴",
+      "中風七穴",
+      "五要穴"
+    ],
+    "answer": 2,
+    "explanation": "腓骨頭直下と脛骨粗面下端の中間に取る経穴は足三里となる。\n八総穴、八会穴、中風七穴、五要穴のうち足三里が所属するのは中風七穴。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_126",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 1,
+    "round": 32,
+    "round_question_number": 126,
+    "question": "循経感伝現象と関係しないのはどれか。",
+    "options": [
+      "丘疹",
+      "索状硬結",
+      "腫脹",
+      "色素沈着"
+    ],
+    "answer": 1,
+    "explanation": "「経絡現象」として、経脈の流注にそって出現する痛みやしびれ、腫脹、熱感といった感覚に加え、発赤、丘疹、あざ、色素沈着などの様々な反応が出現することがある。これらの現象は長濱善夫と丸山昌朗によって見いだされ、その後中国語に翻訳されて「循経感伝現象」として詳細が調べられている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_122",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 2,
+    "round": 32,
+    "round_question_number": 122,
+    "question": "腋窩壁を構成する筋上にあるのはどれか。",
+    "options": [
+      "魂門",
+      "風門",
+      "幽門",
+      "雲門"
+    ],
+    "answer": 0,
+    "explanation": "腋窩壁は、前壁の大胸筋、小胸筋、後壁を大円筋、広背筋、肩甲下筋、外壁の上腕二頭筋、烏口腕筋、内壁を前鋸筋で構成される。1：魂門は、第9胸椎棘突起下縁と同じ高さ、後正中線の外方3寸にあり、広背筋にある。2：風門は第2胸椎棘突起下縁と同じ高さ、後正中線の外方1寸5分にあり、僧帽筋にある。3：幽門は臍中央の上方6寸、前正中線の外方5分にあり腹直筋にある。4：雲門は鎖骨下窩の陥凹部、烏口突起の内方、前正中線の外方6寸にあり筋は該当しない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_117",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 3,
+    "round": 31,
+    "round_question_number": 117,
+    "question": "取穴部位が後頸三角の領域にあるのはどれか。",
+    "options": [
+      "人迎",
+      "天窓",
+      "天容",
+      "扶突"
+    ],
+    "answer": 1,
+    "explanation": "後頸三角は、胸鎖乳突筋後縁、僧帽筋外側縁、鎖骨上縁で囲まれた三角部をいう。1：人迎は甲状軟骨上縁と同じ高さで胸鎖乳突筋の前縁、総頚動脈上にある。2：天窓は、胸鎖乳突筋の後縁、甲状軟骨上縁と同じ高さにあり、後頸三角の領域にある。3：天容は下顎角の後方、胸鎖乳突筋の前方陥凹部にある。4：扶突は、甲状軟骨上縁と同じ高さで胸鎖乳突筋の前縁と後縁の間にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_119",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 4,
+    "round": 31,
+    "round_question_number": 119,
+    "question": "鎖骨下縁に取るのはどれか。",
+    "options": [
+      "欠盆",
+      "中府",
+      "天突",
+      "兪府"
+    ],
+    "answer": 3,
+    "explanation": "1：欠盆は、大鎖骨上窩、前正中線の外方4寸、鎖骨上方の陥凹部にある。2：中府は、鎖骨下窩の外側、前正中線の外方6寸にある。3：天突は、前正中線上、頸静脈切痕（胸骨上窩）の中央にある。4：兪府は、鎖骨下縁、前正中線の外方2寸にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_119",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 5,
+    "round": 29,
+    "round_question_number": 119,
+    "question": "肩関節の外旋に作用する筋上の経穴はどれか。",
+    "options": [
+      "臂臑",
+      "天宗",
+      "臑会",
+      "肩髎"
+    ],
+    "answer": 1,
+    "explanation": "肩関節の外旋に作用する筋肉は棘下筋、小円筋である。1：臂臑は三角筋、2：天宗は棘下筋、3：臑会は三角筋、4：肩髎は三角筋。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_23_108",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 6,
+    "round": 23,
+    "round_question_number": 108,
+    "question": "聴診三角にあたる経穴はどれか。",
+    "options": [
+      "魄戸",
+      "膏肓",
+      "譩譆",
+      "魂門"
+    ],
+    "answer": 2,
+    "explanation": "聴診三角は、僧帽筋、広背筋、肩甲骨内側縁で囲まれた三角形の領域である。聴診三角にある経穴は、3：譩譆である。譩譆は、第6胸椎棘突起下縁と同じ高さ、後正中線の外方3寸。1：魄戸は、第3胸椎棘突起下縁と同じ高さ、後正中線の外方3寸。2：膏肓は、第4胸椎棘突起下縁と同じ高さ、後正中線の外方3寸。4：魂門は、第9胸椎棘突起下縁と同じ高さ、後正中線の外方3寸。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_112",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 7,
+    "round": 29,
+    "round_question_number": 112,
+    "question": "甲状軟骨上縁の高さにないのはどれか。",
+    "options": [
+      "扶突",
+      "人迎",
+      "天窓",
+      "天牖"
+    ],
+    "answer": 3,
+    "explanation": "甲状軟骨の高さにある経穴は正中より、人迎、扶突、天窓である。4の天牖は下顎角と同じ高さとなる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_23_106",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 8,
+    "round": 23,
+    "round_question_number": 106,
+    "question": "耳珠と下顎骨関節突起の間の陥凹部で縦に並ぶ経穴が属さない経脈はどれか。",
+    "options": [
+      "胃経",
+      "胆経",
+      "三焦経",
+      "小腸経"
+    ],
+    "answer": 0,
+    "explanation": "耳珠と下顎骨関節突起の間の陥凹部で、縦に並ぶ経穴が属さない経脈は、1：胃経である。耳珠と下顎骨関節突起の間の陥凹部に縦に並ぶ経穴は、上から耳門（3：三焦経）、聴宮（4：小腸経）、聴会（2：胆経）である。\nそれぞれの部位は、耳門は耳珠上の切痕と下顎骨の関節突起の間、聴宮は耳珠中央の前縁と下顎骨関節突起の間、聴会は珠間切痕と下顎骨関節突起の間である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_116",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 9,
+    "round": 29,
+    "round_question_number": 116,
+    "question": "鵞足を構成する筋上にないのはどれか。",
+    "options": [
+      "陰陵泉",
+      "血海",
+      "陰包",
+      "陰谷"
+    ],
+    "answer": 1,
+    "explanation": "鵞足を構成する筋肉は、1）薄筋、2）半腱様筋、3）縫工筋。1：陰陵泉は半腱様筋、2：血海は内側広筋、3：陰包は縫工筋、4：陰谷は半腱様筋。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_125",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 10,
+    "round": 29,
+    "round_question_number": 125,
+    "question": "少陽経の郄穴が位置する筋はどれか。",
+    "options": [
+      "前脛骨筋",
+      "長腓骨筋",
+      "ヒラメ筋",
+      "長指伸筋"
+    ],
+    "answer": 1,
+    "explanation": "少陽経は、手の少陽三焦経、足の少陽胆経である。選択肢が下肢の筋となっていることから、足の少陽胆経の郄穴の「外丘」で、長腓骨筋に該当する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_27_108",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 11,
+    "round": 27,
+    "round_question_number": 108,
+    "question": "筋と筋の間に取穴しないのはどれか。",
+    "options": [
+      "殷門",
+      "箕門",
+      "風市",
+      "陰包"
+    ],
+    "answer": 2,
+    "explanation": "1：殷門は、大腿二頭筋と半腱様筋の間。2：箕門は、縫工筋と長内転筋の間。3：風市は、腸脛靭帯と大腿二頭筋の間。4：陰包は、縫工筋と薄筋の間。ゆえに筋と筋の間にないのは、3：風市である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_24_106",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 12,
+    "round": 24,
+    "round_question_number": 106,
+    "question": "直刺して円回内筋にあたる経穴はどれか。",
+    "options": [
+      "四瀆",
+      "少海",
+      "郄門",
+      "尺沢"
+    ],
+    "answer": 1,
+    "explanation": "円回内筋は、上腕骨内側上顆から橈骨に向かい、斜め走行する筋である。2：少海は、上腕骨内側上顆と肘窩横紋の間にあるため、直刺して円回内筋に当たる。その他の選択肢の経穴部位においては、1：四瀆は前腕後面、肘頭の下方5寸、3：郄門は手関節掌側横紋の上方から5寸、4：尺沢は肘窩横紋上で上腕二頭筋腱の橈側なので、円回内筋を直刺できない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_120",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 13,
+    "round": 31,
+    "round_question_number": 120,
+    "question": "橈側手根屈筋腱の橈側に位置する経穴はどれか。",
+    "options": [
+      "列欠",
+      "霊道",
+      "内関",
+      "支正"
+    ],
+    "answer": 0,
+    "explanation": "1：列欠は、前腕橈側、長母指外転筋腱と短母指伸筋腱の間で橈側手根屈筋腱の橈側に位置する。2：霊道は、前腕前内側、尺側手根屈筋腱の橈側縁（外側）にある。3：内関は、前腕前面、長掌筋腱と橈側手根屈筋腱の間で、橈側手根屈筋腱の尺側に位置する。4：支正は、前腕後内側、尺骨内縁と尺側手根伸筋の間に位置する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_120",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 14,
+    "round": 29,
+    "round_question_number": 120,
+    "question": "前腕後面の経穴で小指伸筋腱と尺側手根伸筋の間に取るのはどれか。",
+    "options": [
+      "三焦経の経火穴",
+      "三焦経の郄穴",
+      "小腸経の経火穴",
+      "小腸経の絡穴"
+    ],
+    "answer": 1,
+    "explanation": "1：三焦経の経火穴は「支溝」で総指伸筋と小指伸筋との間、2：三焦経の郄穴は「会宗」で小指伸筋腱と尺側手根伸筋の間、3：小腸経の経火穴は「陽谷」で尺側手根伸筋腱の内側、4：小腸経の絡穴は「支正」で尺骨内縁と尺側手根伸筋の間である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_24_104",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 15,
+    "round": 24,
+    "round_question_number": 104,
+    "question": "長母指外転筋腱と短母指伸筋腱の間にとる経穴はどれか。",
+    "options": [
+      "太淵",
+      "偏歴",
+      "陽渓",
+      "列欠"
+    ],
+    "answer": 3,
+    "explanation": "長母指外転筋腱と短母指伸筋腱の間にあるのは、4：列欠である。3：陽渓は、長母指伸筋腱と短母指伸筋腱の間、2：偏歴は、長母指外転筋上にある。1：太淵は、長母指外転筋腱の尺側陥凹部にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_115",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 16,
+    "round": 30,
+    "round_question_number": 115,
+    "question": "長母指外転筋腱と短母指伸筋腱の間にある経穴について正しいのはどれか。",
+    "options": [
+      "主に急性症状の治療で用いる。",
+      "督脈との交会穴である。",
+      "脈気が溜るところにあたる。",
+      "頭項の病に用いる。"
+    ],
+    "answer": 3,
+    "explanation": "長母指外転筋腱と短母指伸筋腱の間にある経穴は列欠（絡穴）である。\n1：急性症状の治療で用いるのは郄穴。2：督脈との交会穴は八脈交会穴では後渓。また、交会穴は経脈が2つ以上交わるところをいい、督脈と列欠（手の太陰肺経）は交会していない。3：脈気が溜るところにあたるのは栄穴。4：頭項の病に用いるのは四総穴で列欠となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_28_106",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 17,
+    "round": 28,
+    "round_question_number": 106,
+    "question": "長母指外転筋腱と短母指伸筋腱の間に取るのはどれか。",
+    "options": [
+      "温溜",
+      "外関",
+      "郄門",
+      "列欠"
+    ],
+    "answer": 3,
+    "explanation": "長母指外転筋腱と短母指伸筋腱の間にあるのは4：列欠である。1：温溜は長橈側手根伸筋と短橈側手根伸筋との間、2：外関は総指伸筋と小指伸筋との間、3：郄門は橈側手根屈筋腱と長掌筋腱との間に取る。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_25_108",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 18,
+    "round": 25,
+    "round_question_number": 108,
+    "question": "経穴と腱の位置関係で正しいのはどれか。",
+    "options": [
+      "通里は尺側手根屈筋腱の尺側にある。",
+      "陽渓は長母指外転筋腱と短母指伸筋腱の間にある。",
+      "中封は後脛骨筋腱の前縁にある。",
+      "陰谷は半腱様筋腱の外縁にある。"
+    ],
+    "answer": 3,
+    "explanation": "経穴と腱の位置関係で正しいのは、4：「陰谷は半腱様筋の外縁にある」である。他の選択肢については、1：通里ならば尺側手根屈筋腱の橈側、2：陽渓ならば長母指伸筋、短母指伸筋の間、3：中封ならば前脛骨筋腱内側が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_24_107",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 19,
+    "round": 24,
+    "round_question_number": 107,
+    "question": "経穴と筋・腱の位置関係で正しいのはどれか。",
+    "options": [
+      "霊道は尺側手根屈筋腱の尺側にある。",
+      "支正は尺側手根伸筋と小指伸筋の間にある。",
+      "曲沢は上腕二頭筋腱の橈側にある。",
+      "間使は長掌筋腱と橈側手根屈筋腱の間にある。"
+    ],
+    "answer": 3,
+    "explanation": "経穴と筋・腱の位置関係で正しいのは、4：「間使は長掌筋腱と橈側手根屈筋腱の間」である。他の経穴と筋・腱の位置関係は、霊道は尺側手根屈筋腱の橈側、支正は尺骨内縁と尺側手根伸筋の間、曲沢は上腕二頭筋腱の尺側である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_27_109",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 20,
+    "round": 27,
+    "round_question_number": 109,
+    "question": "部位と経穴の組合せで正しいのはどれか。",
+    "options": [
+      "総指伸筋腱の内側 ── 陽池",
+      "尺側手根屈筋腱の内側 ── 通里",
+      "大腿二頭筋腱の外側 ── 委陽",
+      "長指伸筋腱の外側 ── 解渓"
+    ],
+    "answer": 0,
+    "explanation": "部位と経穴の正しい組み合わせは、1：「総指伸筋腱の内側—陽池」である。陽池は、総指伸筋腱と小指伸筋腱の間にある。解剖学的基本姿位では、前腕は内側（尺側）、外側（橈側）であるので正しい。その他の選択肢では、2：通里は尺側手根屈筋腱の外側（橈側）。3：委陽は、大腿二頭筋腱の内側。4：解渓は、長母指伸筋腱と長指伸筋腱の間。両筋の位置関係は、長指伸筋腱が外側、その内側が長母指伸筋腱になる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_24_103",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 21,
+    "round": 24,
+    "round_question_number": 103,
+    "question": "経穴の部位と動脈の組合せで正しいのはどれか。",
+    "options": [
+      "人迎 ── 顔面動脈",
+      "曲沢 ── 尺骨動脈",
+      "申脈 ── 後脛骨動脈",
+      "太衝 ── 足背動脈"
+    ],
+    "answer": 3,
+    "explanation": "経穴部位と動脈の正しい組合せは、4：「太衝—足背動脈」である。太衝は、第1・第2中足骨底接合部遠位の陥凹部にあり、足背動脈拍動部に当たる。その他の選択肢においては、1：「人迎—総頚動脈」、2：「曲沢—上腕動脈」、3：「申脈—外果動脈網（外側足根動脈の枝）」である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_121",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 22,
+    "round": 29,
+    "round_question_number": 121,
+    "question": "顔面神経支配の筋にある経穴の部位はどれか。",
+    "options": [
+      "頬骨弓中央の上際の陥凹部",
+      "外眼角の直下、頬骨下方の陥凹部",
+      "珠間切痕と下顎骨関節突起の間の陥凹部",
+      "耳珠上の切痕と下顎骨関節突起の間の陥凹部"
+    ],
+    "answer": 1,
+    "explanation": "1：「上関」で側頭筋で下顎神経が支配する、2：「顴髎」で大・小頬骨筋で顔面神経が支配する。3：「聴会」、4：「耳門」で三叉神経支配となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_124",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 23,
+    "round": 29,
+    "round_question_number": 124,
+    "question": "五兪穴の榮穴が深腓骨神経の分布領域にあるのはどれか。",
+    "options": [
+      "肝経",
+      "脾経",
+      "腎経",
+      "胆経"
+    ],
+    "answer": 0,
+    "explanation": "五兪穴の榮穴と神経は、1：肝経は「行間」で深腓骨神経、2：脾経は「大都」で浅腓骨神経、3：腎経は「然谷」で脛骨神経、4：胆経は「侠渓」浅腓骨神経である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_23_112",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 24,
+    "round": 23,
+    "round_question_number": 112,
+    "question": "経穴とその部にある筋の支配神経の組合せで正しいのはどれか。",
+    "options": [
+      "温溜 ── 尺骨神経",
+      "外関 ── 正中神経",
+      "三陰交 ── 脛骨神経",
+      "足三里 ── 浅腓骨神経"
+    ],
+    "answer": 2,
+    "explanation": "経穴とその部にある筋の支配神経の組合せで正しいのは、3：「三陰交−脛骨神経」である。三陰交は、内果尖の上方3寸、脛骨の内側縁と後脛骨筋の間に取る。後脛骨筋は、脛骨神経の支配を受ける。その他の選択肢では、1：温溜は長橈側手根伸筋と短橈側手根伸筋、2：外関は総指伸筋と小指伸筋が該当し、それぞれ橈骨神経の支配を受ける。4：足三里は前脛骨筋が該当し、支配神経は深腓骨神経の支配を受ける。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_27_112",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 25,
+    "round": 27,
+    "round_question_number": 112,
+    "question": "経穴とその部位にある筋の支配神経の組合せで正しいのはどれか。",
+    "options": [
+      "偏歴 ── 尺骨神経",
+      "会宗 ── 正中神経",
+      "合陽 ── 脛骨神経",
+      "足三里 ── 浅腓骨神経"
+    ],
+    "answer": 2,
+    "explanation": "経穴とその部位にある筋の支配神経の組み合わせで正しいのは、3：「合陽—脛骨神経」である。合陽は、膝窩横紋の下2寸、腓腹筋外側頭と内側頭の間に取る。腓腹筋は、脛骨神経の支配を受ける。その他の選択肢の、1：偏歴は長母指外転筋で、橈骨神経支配。2：会宗は小指伸筋と尺側手根伸筋が該当し、それぞれ橈骨神経の支配を受ける。4：足三里は前脛骨筋が該当し、深腓骨神経の支配を受ける。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_28_108",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 26,
+    "round": 28,
+    "round_question_number": 108,
+    "question": "経穴とその部位にある筋の支配神経の組合せで正しいのはどれか。",
+    "options": [
+      "孔最 ── 尺骨神経",
+      "支正 ── 正中神経",
+      "三陰交 ── 脛骨神経",
+      "陽陵泉 ── 深腓骨神経"
+    ],
+    "answer": 2,
+    "explanation": "経穴とその部位にある筋の支配神経の組合せで正しいのは3：「三陰交—脛骨神経」である。三陰交は後脛骨筋・長指屈筋で脛骨神経の支配を受ける。1：孔最は腕橈骨筋で橈骨神経支配と、円回内筋の正中神経支配となる。2：支正は尺側手根伸筋で尺骨神経。4：陽陵泉は長腓骨筋で浅腓骨神経の支配となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_26_105",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 27,
+    "round": 26,
+    "round_question_number": 105,
+    "question": "経穴とその部位を支配している神経の組合せで正しいのはどれか。",
+    "options": [
+      "天牖 ── 大後頭神経",
+      "天窓 ── 大耳介神経",
+      "天突 ── 頸横神経",
+      "欠盆 ── 鎖骨下神経"
+    ],
+    "answer": 2,
+    "explanation": "経穴と神経の組合せ問題。経穴とその部位を支配している神経の組合せで正しいのは、3：「天突—頸横神経」である。その他の選択肢における正しい組合せは、1：「天牖—小後頭神経」、2：「天窓—頸横神経」、4：「欠盆—鎖骨上神経」である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_24_105",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 28,
+    "round": 24,
+    "round_question_number": 105,
+    "question": "伏在神経の支配領域にある経穴はどれか。",
+    "options": [
+      "梁丘",
+      "犢鼻",
+      "足三里",
+      "豊隆"
+    ],
+    "answer": 1,
+    "explanation": "伏在神経は、下腿内側に分布する神経である。2：犢鼻は、足の陽明胃経に属し、膝蓋靭帯外方の陥凹部にあるが、伏在神経膝蓋下枝の領域に当たる。その他の選択肢の経穴部位も足の陽明胃経に属している。1：梁丘は、足の陽明胃経に属し、膝蓋骨底の上方2寸にある。梁丘は、大腿前外側部にあり、大腿神経の支配領域である。3：足三里は、犢鼻の下方3寸に、豊隆は前脛骨筋の外縁で、外果の上8寸にある。足三里、豊隆は下腿外側部にあり、深腓骨神経の領域にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_110",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 29,
+    "round": 30,
+    "round_question_number": 110,
+    "question": "デルマトームのTh7からTh10領域に位置する募穴の臓腑はどれか。",
+    "options": [
+      "胃",
+      "小腸",
+      "心包",
+      "三焦"
+    ],
+    "answer": 0,
+    "explanation": "1：胃の募穴は中脘、2：小腸の募穴は関元、3：心包の募穴は膻中、4：三焦の募穴は石門である。それぞれの経穴の位置は、1は上腹部、2と4は下腹部、3は胸部になる。デルマトームのTh7からTh10領域に相当するのは中脘である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_25_107",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 30,
+    "round": 25,
+    "round_question_number": 107,
+    "question": "デルマトームでC6領域上に位置する経穴はどれか。",
+    "options": [
+      "後渓",
+      "中渚",
+      "液門",
+      "魚際"
+    ],
+    "answer": 3,
+    "explanation": "デルマトームでC6領域は、母指、示指から前腕外側の領域である。選択肢のうち、デルマトームでC6領域上に位置する経穴は4：魚際である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_27_113",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 31,
+    "round": 27,
+    "round_question_number": 113,
+    "question": "経穴とデルマトームの組合せで正しいのはどれか。",
+    "options": [
+      "魚際 ── C8",
+      "温溜 ── Th1",
+      "丘墟 ── L4",
+      "至陰 ── S1"
+    ],
+    "answer": 3,
+    "explanation": "経穴とデルマトーム組み合わせで正しいのは、4：「至陰—S1」である。C6領域は、母指、示指から前腕外側の領域である。選択肢のうち1：魚際、2：温溜がC6領域に当たる。また、S1領域は、第5指から外果周囲、下腿後面外側、大腿後面外側の領域となる。そのため、3：丘墟もS1領域に当たる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_116",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 32,
+    "round": 30,
+    "round_question_number": 116,
+    "question": "正中神経の分布領域にある経穴はどれか。",
+    "options": [
+      "商陽",
+      "関衝",
+      "少衝",
+      "少沢"
+    ],
+    "answer": 0,
+    "explanation": "1：商陽は、示指、末節骨橈側で正中神経、2：関衝は薬指、末節骨尺側で尺骨神経、3：少衝は、小指、末節骨橈側で尺骨神経、4：少沢は、小指、末節骨尺側で尺骨神経となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_23_105",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 33,
+    "round": 23,
+    "round_question_number": 105,
+    "question": "尺骨神経溝部にある経穴はどれか。",
+    "options": [
+      "支正",
+      "臂臑",
+      "少海",
+      "小海"
+    ],
+    "answer": 3,
+    "explanation": "尺骨神経溝にある経穴は、4：小海である。小海は手の太陽小腸経に属し、肘後内側、肘頭と上腕骨内側上顆の間の陥凹部、尺骨神経溝中に取る。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_25_106",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 34,
+    "round": 25,
+    "round_question_number": 106,
+    "question": "三叉神経第1枝の領域にある経穴はどれか。",
+    "options": [
+      "四白",
+      "迎香",
+      "素髎",
+      "下関"
+    ],
+    "answer": 2,
+    "explanation": "三叉神経第1枝の領域にある経穴は、3：素髎である。1：四白、2：迎香は三叉神経第2枝領域、4：下関は三叉神経第3枝領域にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_28_105",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 35,
+    "round": 28,
+    "round_question_number": 105,
+    "question": "三叉神経第2枝の領域にある経穴はどれか。",
+    "options": [
+      "素髎",
+      "兌端",
+      "承漿",
+      "下関"
+    ],
+    "answer": 1,
+    "explanation": "三叉神経第2枝の領域にある経穴は、2：兌端である。1：素髎は第1枝の領域、3：承漿、4：下関は第3枝領域にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_28_107",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 36,
+    "round": 28,
+    "round_question_number": 107,
+    "question": "胸背部の打診法で清音が聴取される部位に位置する経穴はどれか。",
+    "options": [
+      "膻中",
+      "屋翳",
+      "中府",
+      "章門"
+    ],
+    "answer": 1,
+    "explanation": "打診で清音が聴取できる部位は肺野になる。濁音は心臓・肝臓、鼓音はガスが貯留した腸管。肺野にある経穴は胃経の第2肋間、正中より外方4寸にある2：屋翳となる。1：膻中は第4肋間の高さで正中部、3：中府は第1肋間の高さで正中より外方6寸。4：章門は第11肋骨端下端となるので肺野から外れる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_23_114",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 37,
+    "round": 23,
+    "round_question_number": 114,
+    "question": "トリガーポイントの特徴を示す反応はどれか。",
+    "options": [
+      "関連痛の出現",
+      "皮膚の知覚過敏",
+      "皮膚温の上昇",
+      "皮膚通電抵抗の上昇"
+    ],
+    "answer": 0,
+    "explanation": "トリガーポイントは圧痛、硬結、関連痛現象出現、単収縮反応などの特徴がある。今回の設問では、1：「関連痛の出現」が該当する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_28_114",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 38,
+    "round": 28,
+    "round_question_number": 114,
+    "question": "トリガーポイントの特徴でないのはどれか。",
+    "options": [
+      "発汗量の低下",
+      "関連痛の出現",
+      "痛覚閾値の低下",
+      "索状硬結の触知"
+    ],
+    "answer": 0,
+    "explanation": "トリガーポイントの特徴は、圧痛（痛覚閾値の低下）、硬結、単収縮反応、関連痛現象の出現である。特徴でないのは1：発汗量の低下である（問題37の解説参照）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_26_114",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 39,
+    "round": 26,
+    "round_question_number": 114,
+    "question": "圧痛部を押すと特定のパターンの関連痛を示し、索状硬結を認めた。最も適切な反応点はどれか。",
+    "options": [
+      "トリガーポイント",
+      "撮診点",
+      "圧診点",
+      "丘疹点"
+    ],
+    "answer": 0,
+    "explanation": "経穴現象の問題。設問文に当てはまるのは、1：トリガーポイントである。トリガーポイントの特徴は圧痛、索状硬結、短収縮反応、関連痛現象の出現などである。2：撮診点は、皮膚の知覚過敏を指標とする。3：圧診点は、内臓体壁反射として現われるもので、身体を診察する際、指などで圧迫したときに強く痛みが出る点をいう。疾患によって特定の部位に痛みを感じる。4：丘疹点は、圧痛に引き続き体表面に出現する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_24_114",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 40,
+    "round": 24,
+    "round_question_number": 114,
+    "question": "肩甲挙筋のトリガーポイント好発部位に当たるのはどれか。",
+    "options": [
+      "肩井",
+      "肩髃",
+      "天髎",
+      "肩外兪"
+    ],
+    "answer": 3,
+    "explanation": "肩甲挙筋のトリガーポイント好発部位に当たるのは、4：肩外兪である。肩甲挙筋は、上位頸椎から肩甲骨上角を走行する筋である。肩外兪は、第1胸椎棘突起下縁と同じ高さの外方3寸で肩甲挙筋上に当たる。その他の選択肢は、1：肩井は第7頸椎棘突起と肩峰を結ぶ線の中点。天髎は肩井と曲垣の中点。肩井、3：天髎は僧帽筋。2：肩髃は肩峰外端の前縁と上腕骨大結節の間の陥凹部にある。三角筋のトリガーポイント好発部位に当たる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_25_114",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 41,
+    "round": 25,
+    "round_question_number": 114,
+    "question": "小円筋のトリガーポイント好発部位に当たるのはどれか。",
+    "options": [
+      "天宗",
+      "肩貞",
+      "秉風",
+      "肩外兪"
+    ],
+    "answer": 1,
+    "explanation": "小円筋のトリガーポイント好発部位に当たるのは、2：肩貞である。小円筋は、肩甲骨後面外側縁から上腕骨大結節までを走行する筋である。小円筋の関連痛は、肩外側に出現する痛み、上腕の後面外側の痛みなどがある。肩貞は肩関節後下方、腋窩横紋後端の上方1寸で、小円筋のトリガーポイント好発部位に当たる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_125",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 42,
+    "round": 30,
+    "round_question_number": 125,
+    "question": "生体において皮膚温の変化を示すのはどれか。",
+    "options": [
+      "丘疹点",
+      "ヘッド帯",
+      "ボアス点",
+      "エアポケット現象"
+    ],
+    "answer": 3,
+    "explanation": "1：丘疹点は圧痛に引き続き体表面に丘疹が出現する。2：ヘッド帯は内臓のそれぞれの臓器に関連した背部・腰部の皮膚領域に感覚過敏が起こる。3：ボアス点は、胃潰瘍の時に第10〜12胸椎の左側約3cmに位置するところに圧痛点が出現する。4：エアポケット現象は内臓の異常に伴い皮膚温低下などの変化が起こるものである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_27_114",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 43,
+    "round": 27,
+    "round_question_number": 114,
+    "question": "皮下組織をつまみ上げて軽く圧迫すると、その部位にピリピリした異常な知覚が発生する反応点はどれか。",
+    "options": [
+      "撮診点",
+      "丘疹点",
+      "良導点",
+      "トリガーポイント"
+    ],
+    "answer": 0,
+    "explanation": "皮膚の知覚過敏を指標にしているのは、1：撮診点である。その他の選択肢の特徴は、2：丘疹点は、圧痛に引き続き体表面に出現する。3：良導点は、皮膚の電気抵抗の低下による現象が、交感神経を介した反応により出現する。4：トリガーポイントは、圧痛、硬結、関連痛現象出現などがある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_32_119",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 44,
+    "round": 32,
+    "round_question_number": 119,
+    "question": "経脈の流注の方向に沿った斜刺で深刺をした場合、肺を損傷するリスクが最も高い募穴はどれか。",
+    "options": [
+      "中府",
+      "章門",
+      "京門",
+      "日月"
+    ],
+    "answer": 3,
+    "explanation": "1：中府は肺経の募穴で、肋間と同じ高さ、鎖骨下窩の外側、前正中線の外方6寸にあり、流注の方向に沿った斜刺では雲門（鎖骨下窩）に向かうため肺から外れる。2：章門（肝経）は脾経の募穴で、第11肋骨端下縁にあり、流注は期門（第6肋間）に向かうも第11肋骨端下縁は肺から外れている。3：京門は腎経の募穴で、第12肋骨端下縁にあり、流注の方向に沿った斜刺では、帯脈（第11肋骨の下方）に向かうため肺から外れる。4：日月（胆経）は胆経の募穴で、第7肋間、前正中線の外方4寸の肺底近くにあり、流注は京門（第12肋骨端下縁）で背部に向かうため肺を損傷するリスクが最も高い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_31_121",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 45,
+    "round": 31,
+    "round_question_number": 121,
+    "question": "深刺すると、前鋸筋と肋間筋を貫き肺を損傷するのはどれか。",
+    "options": [
+      "輒筋",
+      "膺窓",
+      "期門",
+      "胸郷"
+    ],
+    "answer": 0,
+    "explanation": "1：輒筋は、側胸部、第4肋間、中腋窩線の前方1寸で、前鋸筋と肋間筋がある。2：膺窓は、前胸部、第3肋間、前正中線の外方4寸で、大胸筋、小胸筋がある。3：期門は、前胸部、第6肋間、前正中線の外方4寸で、大胸筋がある。4：胸郷は、前胸部、第3肋間、前正中線の外方6寸で、大胸筋、小胸筋がある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_113",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 46,
+    "round": 30,
+    "round_question_number": 113,
+    "question": "深刺の際に最も注意すべき腧穴はどれか。",
+    "options": [
+      "八風",
+      "秉風",
+      "風市",
+      "風池"
+    ],
+    "answer": 3,
+    "explanation": "1：八風は、足背、各中足指節関節の間に取る。2：秉風は、肩甲棘中点の上方に取る。3：風市は、大腿外側の腸脛靭帯と大腿二頭筋の間に取る。4：風池は、後頭骨の下方で胸鎖乳突筋と僧帽筋の起始部の間に取る。風池の胸鎖乳突筋と僧帽筋の起始部の間の深部には椎骨動脈が通るため注意すべき腧穴となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_28_110",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 47,
+    "round": 28,
+    "round_question_number": 110,
+    "question": "深刺すると椎骨動脈を損傷するリスクが最も高い経穴はどれか。",
+    "options": [
+      "風府",
+      "風池",
+      "秉風",
+      "翳風"
+    ],
+    "answer": 1,
+    "explanation": "深刺すると椎骨動脈を損傷するリスクが最も高いのは、後頭骨の下方、胸鎖乳突筋と僧帽筋との間にある2：風池である。後頭骨の下方、胸鎖乳突筋と僧帽筋との間にあり、深部に椎骨動脈が通る。1：風府は外後頭隆起の直下に取り、3：秉風は棘上窩、肩甲棘中点の上方に取る。4：翳風は耳垂後方、乳様突起下端前方の陥凹部に取る。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_29_117",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 48,
+    "round": 29,
+    "round_question_number": 117,
+    "question": "標準体型の男性において直刺で刺鍼した場合、肺を損傷するリスクが最も高いのはどれか。",
+    "options": [
+      "肺の募穴",
+      "任脈の絡穴",
+      "胃の背部兪穴",
+      "脾の大絡の絡穴"
+    ],
+    "answer": 3,
+    "explanation": "1：肺の募穴は中府、2：任脈の絡穴は鳩尾、3：胃の背部兪穴は胃兪、4：脾の大絡の絡穴は大包で、肺の上部にくるのは大包の第6肋間の部位。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_26_111",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 49,
+    "round": 26,
+    "round_question_number": 111,
+    "question": "鍼の深刺により気胸発生の危険性が最も高いのはどれか。",
+    "options": [
+      "臓会",
+      "血会",
+      "肺の募穴",
+      "心の募穴"
+    ],
+    "answer": 1,
+    "explanation": "鍼の深刺により気胸発生の危険性が最も高いのは、2：血会である。血会は、膈兪で第7胸椎棘突起下縁と同じ高さで、後正中線の外方1寸5分。1：臓会は章門で、第11肋骨端下縁。4：心の募穴は巨闕で、前正中線上、臍中央の上方6寸。3：肺の募穴は中府で、第1肋間と同じ高さ、前正中線の外方6寸。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "meridian_30_126",
+    "subject": "meridian",
+    "category": "modern_research_meridian_acupoint",
+    "category_question_number": 50,
+    "round": 30,
+    "round_question_number": 126,
+    "question": "透熱灸を避けるべき経穴はどれか。",
+    "options": [
+      "百会",
+      "巨髎",
+      "天柱",
+      "角孫"
+    ],
+    "answer": 1,
+    "explanation": "経穴の位置する部位は、1：百会は頭部、2：巨髎は顔面部、3：天柱は後頸部、4：角孫は側頭部に位置する。顔面部の透熱灸は避けるべきである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  }
+]
