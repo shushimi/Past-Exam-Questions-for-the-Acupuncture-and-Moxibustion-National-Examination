@@ -1,0 +1,1906 @@
+[
+  {
+    "id": "clinical_special_26_064",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "感染と病態",
+    "category_question_number": 1,
+    "round": 26,
+    "round_question_number": 64,
+    "question": "感染症に罹患しやすいのはどれか。",
+    "options": [
+      "血友病",
+      "悪性リンパ腫",
+      "鉄欠乏性貧血",
+      "遺伝性球状赤血球症"
+    ],
+    "answer": 1,
+    "explanation": "2：悪性リンパ腫の原因は明らかではないが、特定のウイルスや細菌などの病原体との関連性が示されている。また、免疫不全者に多いとの報告もあり、日和見感染症の危険性が高いと考えられる。1：血友病は、主に遺伝によって生じる血液凝固異常症であり、3：鉄欠乏性貧血は、消化管出血や月経異常などが原因となる。また、4：遺伝性球状赤血球症は、赤血球の遺伝的異常により貧血をきたす疾患である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_069",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "感染と病態",
+    "category_question_number": 2,
+    "round": 27,
+    "round_question_number": 69,
+    "question": "感染症について正しいのはどれか。",
+    "options": [
+      "ムンプスウイルスは空気感染する。",
+      "MRSAは院内感染の原因となる。",
+      "ボツリヌス菌による食中毒の主たる症状は血便である。",
+      "風疹は精巣炎を合併する。"
+    ],
+    "answer": 1,
+    "explanation": "1：ムンプスウイルスは、飛沫感染と接触感染である。2：メチシリン耐性黄色ブドウ球菌は、院内感染の代表的な原因菌である。3：ボツリヌス菌食中毒の主な症状は、運動麻痺症状である。思春期以降の男性が流行性耳下腺炎を発症すると、25%の確率で4：精巣炎を合併する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_069",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "感染と病態",
+    "category_question_number": 3,
+    "round": 28,
+    "round_question_number": 69,
+    "question": "潜伏期間が最も長いのはどれか。",
+    "options": [
+      "流行性耳下腺炎",
+      "エイズ",
+      "ジフテリア",
+      "破傷風"
+    ],
+    "answer": 1,
+    "explanation": "1：流行性耳下腺炎はムンプスウイルスが病原体であり、潜伏期間は2〜3週間とされている。2：エイズはヒト免疫不全ウイルス（HIV）を病原体として、潜伏期間は6ヵ月〜15年以上と幅広い。3：ジフテリアはジフテリア菌が病原体であり、潜伏期間は2〜5日である。4：破傷風は嫌気性グラム陰性桿菌を病原体として、潜伏期間は3日〜3週間である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_065",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "感染と病態",
+    "category_question_number": 4,
+    "round": 29,
+    "round_question_number": 65,
+    "question": "院内感染と関連が深いのはどれか。",
+    "options": [
+      "破傷風菌",
+      "MRSA",
+      "肺炎球菌",
+      "ボツリヌス菌"
+    ],
+    "answer": 1,
+    "explanation": "2：MRSAは、メチシリンを含むほとんどのβ-ラクタム系薬（抗菌薬）に対して耐性を獲得した黄色ブドウ球菌であり、代表的な院内感染の病原細菌の1つである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_065",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "感染と病態",
+    "category_question_number": 5,
+    "round": 30,
+    "round_question_number": 65,
+    "question": "感染症と媒介生物の組合せで正しいのはどれか。",
+    "options": [
+      "発疹チフス ― ダニ",
+      "トキソプラズマ症 ― シラミ",
+      "デング熱 ― 蚊",
+      "日本脳炎 ― ネズミ"
+    ],
+    "answer": 2,
+    "explanation": "1：発疹チフスはコロモジラミを媒介昆虫とするリケッチアによる感染症である。2：トキソプラズマ症はトキソプラズマ原虫の経口感染であり、昆虫媒介感染症ではない。3：デング熱はネッタイシマカやヒトスジシマカによって媒介されるデングウイルスによる感染症である。4：日本脳炎はコガタアカイエカによって媒介される日本脳炎ウイルスによる感染症である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_066",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "細菌感染症",
+    "category_question_number": 6,
+    "round": 29,
+    "round_question_number": 66,
+    "question": "細菌感染症はどれか。",
+    "options": [
+      "帯状疱疹",
+      "流行性角結膜炎",
+      "百日咳",
+      "手足口病"
+    ],
+    "answer": 2,
+    "explanation": "1：帯状疱疹は水痘・帯状疱疹ウイルスによる感染症である。2：流行性角結膜炎はアデノウイルスによる感染症である。3：百日咳は百日咳菌による感染症である。4：手足口病はエンテロウイルスやコクサッキーウイルスによる感染症である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_067",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "細菌感染症",
+    "category_question_number": 7,
+    "round": 30,
+    "round_question_number": 67,
+    "question": "予防接種が有効な感染症はどれか。",
+    "options": [
+      "百日咳",
+      "腸チフス",
+      "C型肝炎",
+      "猩紅熱"
+    ],
+    "answer": 0,
+    "explanation": "1：百日咳は三種混合ワクチン（百日咳・ジフテリア・破傷風）が有効な感染症である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_053",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "細菌感染症",
+    "category_question_number": 8,
+    "round": 31,
+    "round_question_number": 53,
+    "question": "細菌感染症はどれか。",
+    "options": [
+      "デング熱",
+      "破傷風",
+      "日本脳炎",
+      "手足口病"
+    ],
+    "answer": 1,
+    "explanation": "1：デング熱はデングウイルスによるウイルス感染症である。2：破傷風は破傷風菌による細菌感染症である。3：日本脳炎は日本脳炎ウイルスによるウイルス感染症である。4：手足口病はコクサッキーウイルス、エンテロウイルスによるウイルス感染症である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_054",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "細菌感染症",
+    "category_question_number": 9,
+    "round": 31,
+    "round_question_number": 54,
+    "question": "細菌性腸炎の原因菌と食品の組合せで誤っているのはどれか。",
+    "options": [
+      "サルモネラ属 ― ハチミツ",
+      "腸炎ビブリオ ― 生鮮魚介類",
+      "ブドウ球菌 ― にぎりめし",
+      "カンピロバクター ― 鶏肉"
+    ],
+    "answer": 0,
+    "explanation": "1：サルモネラ属－鶏卵や生肉、ボツリヌス菌－ハチミツの組合せが正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_069",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "ウイルス感染症",
+    "category_question_number": 10,
+    "round": 23,
+    "round_question_number": 69,
+    "question": "帯状疱疹の治療に用いられるのはどれか。",
+    "options": [
+      "抗菌薬",
+      "抗真菌薬",
+      "抗ウイルス薬",
+      "抗寄生虫薬"
+    ],
+    "answer": 2,
+    "explanation": "帯状疱疹は三叉神経節や脊髄後根神経節などに潜伏感染した水痘・帯状ヘルペスウイルスによって発症し、免疫能が低下したときなどに再活性されると、神経節の支配領域の皮膚に、神経走行と一致した帯状の水疱を作り、発疹の発現とともに当該神経の神経痛を伴う疾患である。西洋医学的な治療に関してはアシクロビルなどの3：抗ウイルス薬などを投与する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_065",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "ウイルス感染症",
+    "category_question_number": 11,
+    "round": 26,
+    "round_question_number": 65,
+    "question": "感染症について正しいのはどれか。",
+    "options": [
+      "インフルエンザウイルス感染は迅速な検査が可能である。",
+      "麻疹は「三日ばしか」と言われている。",
+      "帯状疱疹は単純ヘルペスウイルスによる感染である。",
+      "梅毒はクラミジアによる感染である。"
+    ],
+    "answer": 0,
+    "explanation": "1：インフルエンザウイルス感染は、免疫法による迅速検査が可能である。風疹は、2：麻疹に似た発疹が出ることから「三日ばしか」といわれる。3：帯状疱疹は、水痘・帯状疱疹ウイルスの感染によって起こる。4：梅毒は、梅毒トレポネーマが病原体である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_068",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "ウイルス感染症",
+    "category_question_number": 12,
+    "round": 28,
+    "round_question_number": 68,
+    "question": "帯状疱疹について正しいのはどれか。",
+    "options": [
+      "抗ウイルス薬が有効である。",
+      "発疹は両下肢に好発する。",
+      "コプリック斑が出現する。",
+      "小児期に発症する。"
+    ],
+    "answer": 0,
+    "explanation": "帯状疱疹は水痘帯状疱疹ウイルスを原因として、皮膚の痛み、発赤、斑点、帯状の水疱が出現する。2：上半身に好発し、軽症の場合は抗ヘルペス薬の外用が行われるが、原則的には1：抗ウイルス薬の全身投与が選択される。小児期の初感染は水痘として発症し、その後は潜伏感染するため、4：加齢や免疫力の低下により再発したものが帯状疱疹とされる。3：コプリック斑は麻しんウイルスの感染後、病初期に頬粘膜に出現する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_067",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "ウイルス感染症",
+    "category_question_number": 13,
+    "round": 29,
+    "round_question_number": 67,
+    "question": "感染症について正しいのはどれか。",
+    "options": [
+      "風疹は「三日ばしか」と言われる。",
+      "日本脳炎はネズミの媒介によって感染する。",
+      "水痘は精巣炎を合併しやすい。",
+      "流行性耳下腺炎は空気感染する。"
+    ],
+    "answer": 0,
+    "explanation": "1：麻疹は「はしか」、風疹は「三日ばしか」と言われる。2：日本脳炎はコガタアカイエカなどの蚊の媒介によってヒトに感染する。3：水痘の合併症として、細菌感染症、血小板減少性紫斑病、脳炎、脊髄炎、関節炎、肺炎などがみられる。4：流行性耳下腺炎はムンプスウイルスの飛沫感染により生じる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_068",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "ウイルス感染症",
+    "category_question_number": 14,
+    "round": 30,
+    "round_question_number": 68,
+    "question": "アデノウイルス感染症はどれか。",
+    "options": [
+      "流行性耳下腺炎",
+      "流行性角結膜炎",
+      "伝染性単核球症",
+      "手足口病"
+    ],
+    "answer": 1,
+    "explanation": "1：流行性耳下腺炎はムンプスウイルス、2：流行性角結膜炎はアデノウイルス、3：伝染性単核球症はEBウイルス、4：手足口病はエンテロウイルスによる感染症である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_049",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "ウイルス感染症",
+    "category_question_number": 15,
+    "round": 32,
+    "round_question_number": 49,
+    "question": "介護保険施設でノロウイルス感染症が発生した。感染を拡大させないための対応として適切なのはどれか。",
+    "options": [
+      "感染者の居室は次亜塩素酸ナトリウムで清拭する。",
+      "感染者の吐物は乾燥してから処理する。",
+      "感染者が使用したリネンは60℃の加熱処理を行う。",
+      "感染者が使用した食器はアルコールで消毒する。"
+    ],
+    "answer": 0,
+    "explanation": "1、4：ノロウイルスはアルコールに対して抵抗力があるため、次亜塩素酸ナトリウムを用いた消毒を行う。2：乾燥すると空中に漂うことで感染リスクとなるため、感染者の吐物は乾燥する前に拭き取り、次亜塩素酸ナトリウムで消毒を行う。3：嘔吐物や排泄物が付着したリネン等は塩素系消毒液に浸すか、85℃以上で1分以上の加熱処理（熱水消毒）を行い、他のものと分けて最後に洗濯する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_052",
+    "subject": "clinical_special",
+    "category": "infectious_special",
+    "sub_category": "ウイルス感染症",
+    "category_question_number": 16,
+    "round": 32,
+    "round_question_number": 52,
+    "question": "水痘の症状はどれか。",
+    "options": [
+      "耳下腺の腫脹",
+      "両頬部のびまん性紅斑",
+      "水疱へと進行する紅斑",
+      "解熱前後の斑状丘疹性発疹"
+    ],
+    "answer": 2,
+    "explanation": "1：耳下腺の腫脹がみられる代表疾患は流行性耳下腺炎である。2：両頬部のびまん性紅斑がみられる代表的疾患は全身性エリテマトーデスである。3：水痘の皮疹の典型的な進行は紅斑→丘疹→水疱→膿疱→痂皮→治癒である。4：解熱とともに（解熱前後）斑状丘疹性発疹が生じる代表的疾患は突発性発疹である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_074",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "脳血管疾患と頭部外傷",
+    "category_question_number": 1,
+    "round": 23,
+    "round_question_number": 74,
+    "question": "半側空間無視の評価に用いる検査項目で正しいのはどれか。",
+    "options": [
+      "100から7を順番に引かせる。",
+      "今日の日付を答えさせる。",
+      "直線の中点に印をつけさせる。",
+      "検者の母指と示指で輪をつくり模倣させる。"
+    ],
+    "answer": 2,
+    "explanation": "半側空間無視とは、大脳半球が障害されて半側のあらゆる刺激を認知できなくなる症状を指し、3：直線の中点に印をつける線分二等分検査と呼ばれる検査で判断する。1：100から7を順番に引かせるものや、2：今日の日付を答えさせる検査は、長谷川式簡易知能評価スケールと呼ばれ、認知症の重症度を調べる検査である。なお、4：検者の母指と示指で輪を作り模倣させる検査はパーフェクトO試験と呼ばれ、正中神経の枝である前骨間神経麻痺の鑑別に用いられる検査である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_055",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "脳血管疾患と頭部外傷",
+    "category_question_number": 2,
+    "round": 27,
+    "round_question_number": 55,
+    "question": "脳血管性パーキンソニズムの特徴について正しいのはどれか。",
+    "options": [
+      "手指振戦",
+      "前傾前屈姿勢",
+      "歯車様筋強剛",
+      "歩行障害"
+    ],
+    "answer": 3,
+    "explanation": "パーキンソン病は、脳の黒質にある神経細胞が消失して発症する原因不明の病気で、神経変性疾患ではアルツハイマー病の次に多いとされている。脳血管障害でもよく似た症状が現れることがあり、脳血管性パーキンソニズムと呼ばれる。パーキンソン病の代表的な症状としては、1：安静時振戦、3：筋固縮、無動、姿勢保持障害が挙げられるが、多発性脳梗塞に伴って、4：歩行障害を主体としたパーキンソニズムを認めると、脳血管性パーキンソニズムと診断される。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_055",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "脳血管疾患と頭部外傷",
+    "category_question_number": 3,
+    "round": 30,
+    "round_question_number": 55,
+    "question": "高血圧性脳出血が最も好発する部位はどれか。",
+    "options": [
+      "被殻",
+      "視床",
+      "橋",
+      "前頭葉"
+    ],
+    "answer": 0,
+    "explanation": "高血圧性脳出血の部位別頻度は①被殻、②視床、③脳幹（橋）、④皮質下、⑤小脳、⑥尾状核、その他である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_083",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "脳血管疾患と頭部外傷",
+    "category_question_number": 4,
+    "round": 30,
+    "round_question_number": 83,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「65歳の男性。左片麻痺と意識障害を生じた。頭部CT検査にて右被殻出血と診断され、保存的治療を受けた。リハビリテーションの評価において視覚の見落としが著明であった。」\n\n本患者の高次脳機能障害はどれか。",
+    "options": [
+      "失行",
+      "注意障害",
+      "記憶障害",
+      "遂行機能障害"
+    ],
+    "answer": 1,
+    "explanation": "症例文より左片麻痺で劣位半球に病巣があるため、半側空間無視を疑うが、視覚の見落としに左右の記載がない（半側空間無視の多くは左側の無視）ため、注意障害を疑うのが最も妥当である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_084",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "脳血管疾患と頭部外傷",
+    "category_question_number": 5,
+    "round": 30,
+    "round_question_number": 84,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「65歳の男性。左片麻痺と意識障害を生じた。頭部CT検査にて右被殻出血と診断され、保存的治療を受けた。リハビリテーションの評価において視覚の見落としが著明であった。」\n\n適切な対応はどれか。",
+    "options": [
+      "メモをとるように勧める。",
+      "周囲の人が動作を促す。",
+      "段差に気を付けるように指導する。",
+      "同時に複数の課題をさせない。"
+    ],
+    "answer": 2,
+    "explanation": "注意障害は危険回避能力の低下もみられるため、片麻痺患者の段差での転倒回避を目的として3：段差に気を付けるように指導する。が最も妥当である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_083",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "脳血管疾患と頭部外傷",
+    "category_question_number": 6,
+    "round": 31,
+    "round_question_number": 83,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「68歳の女性。右利き。右片麻痺を生じ病院に救急搬送された。MRI検査にて左中大脳動脈領域の脳梗塞と診断され、保存的治療を受けた。」\n\n本患者の症状で最もみられるのはどれか。",
+    "options": [
+      "失調症",
+      "失語症",
+      "左半側空間無視",
+      "注意障害"
+    ],
+    "answer": 1,
+    "explanation": "症例は左脳梗塞によって右片麻痺を呈した疾患である。1：失調症（小脳失調）は脳底動脈領域の梗塞でみられる。2：言語中枢は左脳にあるため失語症がみられる。3：左半側空間無視は右脳梗塞でみられる。4：注意障害は前頭連合野の障害で生じるが機能局在に左右差はない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_084",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "脳血管疾患と頭部外傷",
+    "category_question_number": 7,
+    "round": 31,
+    "round_question_number": 84,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「68歳の女性。右利き。右片麻痺を生じ病院に救急搬送された。MRI検査にて左中大脳動脈領域の脳梗塞と診断され、保存的治療を受けた。」\n\n重度の片麻痺が続いた場合に行うADL訓練として最も適切なのはどれか。",
+    "options": [
+      "箸を使った食事動作",
+      "両上肢での更衣",
+      "両手での洗顔",
+      "利き手交換"
+    ],
+    "answer": 3,
+    "explanation": "右手に重度の片麻痺が続いた場合の訓練と捉えるため、4：利き手交換が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_079",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "感染性疾患",
+    "category_question_number": 8,
+    "round": 28,
+    "round_question_number": 79,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「60歳の男性。高血圧にて内服加療中。2日前から38℃の発熱、昨日から嘔吐と頭部全体の痛みがある。意識レベルはJCSでⅠ-1、血圧は178/90mmHgである。」\n\n最も考えられる疾患はどれか。",
+    "options": [
+      "高血圧性脳症",
+      "髄膜炎",
+      "群発頭痛",
+      "小脳出血"
+    ],
+    "answer": 1,
+    "explanation": "症例は発熱、嘔吐、頭痛、意識レベルの若干の低下、収縮期血圧の上昇から2：髄膜炎が最も疑われる。1：高血圧脳症では一般的に180/110mmHg以上の異常高血圧を呈する。3：群発頭痛は周期的で激烈な頭痛が特徴である。4：小脳出血は頭痛の他、嘔気や眩暈、身体バランス・歩行機能の低下などが見られ、重度の意識障害を呈する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_080",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "感染性疾患",
+    "category_question_number": 9,
+    "round": 28,
+    "round_question_number": 80,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「60歳の男性。高血圧にて内服加療中。2日前から38℃の発熱、昨日から嘔吐と頭部全体の痛みがある。意識レベルはJCSでⅠ-1、血圧は178/90mmHgである。」\n\n本症例で確認すべき所見はどれか。",
+    "options": [
+      "ケルニッヒ徴候",
+      "ホルネル徴候",
+      "バレー徴候",
+      "ロンベルグ徴候"
+    ],
+    "answer": 0,
+    "explanation": "前問から、本症では1：ケルニッヒ徴候が陽性となる。2：ホルネル徴候は交感神経遠心路の障害、3：バレー徴候は錐体路障害、4：ロンベルグ徴候は脊髄後索の障害で陽性となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_077",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "変性疾患",
+    "category_question_number": 10,
+    "round": 25,
+    "round_question_number": 77,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「78歳の男性。手がふるえ、動作が緩慢で、表情がなく、前かがみになりやすく、筋肉がこわばる。」\n\n本症例でみられる症状と所見の組合せで正しいのはどれか。",
+    "options": [
+      "手がふるえる ― 企図振戦",
+      "表情がない ― 満月様顔貌",
+      "前かがみになる ― 起坐位",
+      "筋肉がこわばる ― 固縮"
+    ],
+    "answer": 3,
+    "explanation": "本症例はパーキンソン病を示唆しており、安静時振戦、4：筋固縮、無動、寡動（動作緩慢）、姿勢反射障害（前傾姿勢、小刻み歩行）がみられ、仮面様顔貌となる。1：企図振戦は脊髄小脳変性症でみられ、2：満月様顔貌は、クッシング症候群やステロイドの長期、大量使用によって起こる。3：起坐位は、慢性閉塞性肺疾患（COPD）などの呼吸器疾患でみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_078",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "変性疾患",
+    "category_question_number": 11,
+    "round": 25,
+    "round_question_number": 78,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「78歳の男性。手がふるえ、動作が緩慢で、表情がなく、前かがみになりやすく、筋肉がこわばる。」\n\n本症例の原因で適切なのはどれか。",
+    "options": [
+      "錐体路障害",
+      "炎症性脱髄",
+      "ドパミン欠乏",
+      "アセチルコリン受容体障害"
+    ],
+    "answer": 2,
+    "explanation": "パーキンソン病では、神経伝達物質の一つである3：ドパミンが減少し、アセチルコリンが増加する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_056",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "変性疾患",
+    "category_question_number": 12,
+    "round": 28,
+    "round_question_number": 56,
+    "question": "次の文で示す症例に対する歩行介助で最も適切なのはどれか。\n「58歳の男性。2年前から右手の振戦が出現、後に動作が緩慢になってきた。急に狭くなる場所では足が前に出ない。」",
+    "options": [
+      "静かに見守る。",
+      "積極的に会話する。",
+      "速いテンポの音楽を流す。",
+      "メトロノームでリズムをとる。"
+    ],
+    "answer": 3,
+    "explanation": "手指の振戦、動作緩慢、狭い場所での歩行困難を呈することからパーキンソン病が疑われる。運動症状としてはこの他、筋強剛、無動・寡動、姿勢反射障害などが見られる。これらに起因して歩行障害を呈し、狭い場所での移動や方向転換が難しくなるため、付き添いや4：メトロノームでリズムをとる、歩行リズムの声掛け、目印の設定、杖などの道具を使っての介助が適切である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_054",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "変性疾患",
+    "category_question_number": 13,
+    "round": 30,
+    "round_question_number": 54,
+    "question": "パーキンソン病で振戦が最も起こりやすいのはどれか。",
+    "options": [
+      "字を書くとき",
+      "じっとしているとき",
+      "何か物を取ろうとするとき",
+      "からだの前で手を保持するとき"
+    ],
+    "answer": 1,
+    "explanation": "パーキンソン病で特徴的な振戦は安静時振戦（2：じっとしているとき）である。1：字を書くとき、3：何か物を取ろうとするときに生じるのは企図振戦で、主に小脳疾患で生じる。4：からだの前で手を保持するときに生じるのは姿勢時振戦で、代表的なものは生理的振戦、本態性振戦である。アルコール多飲者にもみられることがある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_085",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "変性疾患",
+    "category_question_number": 14,
+    "round": 32,
+    "round_question_number": 85,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「60歳の女性。数年前から左手の振戦を生じ、次第にすくみ足、寡動を認めるようになり、近医にて診断を受け、投薬が開始された。」\n\n最もよくみられる症候はどれか。",
+    "options": [
+      "仮面様顔貌",
+      "測定障害",
+      "眼瞼下垂",
+      "痙縮"
+    ],
+    "answer": 0,
+    "explanation": "振戦、すくみ足、寡動、年齢及び性別などからパーキンソン病を疑う症例である。パーキンソン病に最もよくみられる症候は1：仮面様顔貌である。2：測定障害は小脳障害や深部感覚障害などでみられる。3：眼瞼下垂は動眼神経障害やホルネル症候群、重症筋無力症などでみられる。4：痙縮は錐体路系の障害でみられる。パーキンソン病は代表的な錐体外路系の疾患で固縮（筋強剛）がみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_086",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "変性疾患",
+    "category_question_number": 15,
+    "round": 32,
+    "round_question_number": 86,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「60歳の女性。数年前から左手の振戦を生じ、次第にすくみ足、寡動を認めるようになり、近医にて診断を受け、投薬が開始された。」\n\n歩行障害に対するリハビリテーションとして最も適切なのはどれか。",
+    "options": [
+      "歩行速度を上げるように指示する。",
+      "メトロノームを用いた訓練を行う。",
+      "継ぎ足歩行をさせる。",
+      "坂道での訓練を行う。"
+    ],
+    "answer": 1,
+    "explanation": "パーキンソン病の歩行障害に対して外発性の合図（リズム音や棒またぎ）を用いた訓練が有用とされているため、2：メトロノームを用いた訓練（リズム音）を行うのが適切である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_055",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "認知症",
+    "category_question_number": 16,
+    "round": 24,
+    "round_question_number": 55,
+    "question": "まだら認知症がよくみられるのはどれか。",
+    "options": [
+      "パーキンソン病",
+      "アルツハイマー型老年認知症",
+      "ピック病",
+      "脳血管性認知症"
+    ],
+    "answer": 3,
+    "explanation": "まだら認知症とは、同じことでもできるときとできないときがあり、これが繰り返し起きる症状のことで、4：脳血管性認知症で発生する。脳梗塞、脳出血、あるいは、クモ膜下出血などの脳血管の病変により、病変領域の神経細胞が壊死し、認知症が出現する。\n2：アルツハイマー型認知症は、最も多い認知症で、徐々に進行するのに対し、4：脳血管性認知症は、脳血流の状態により、よいときと悪いときを繰り返し進行する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_072",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "認知症",
+    "category_question_number": 17,
+    "round": 27,
+    "round_question_number": 72,
+    "question": "認知症の症状とその原因となる病態の組合せで正しいのはどれか。",
+    "options": [
+      "トイレ以外で放尿する ― 失行",
+      "テレビのリモコンが使えない ― 失認",
+      "「財布がない」と大騒ぎをする ― 記銘力障害",
+      "料理ができない ― 見当識障害"
+    ],
+    "answer": 2,
+    "explanation": "1：失行とは、運動可能であるにもかかわらず合目的な運動ができない状態をいう。2：失認とは、視力、聴力、感覚、記憶に問題がないのに見た物、聞いた物、触った物が何であるか分からない状態をいう。3：記銘力障害とは、新しく体験したことを覚える能力、過去に体験したことを保持する能力の障害をいう。見当識とは自分が置かれている状況を認識する能力をいい、4：見当識障害はこの能力が障害された状態である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_077",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "認知症",
+    "category_question_number": 18,
+    "round": 27,
+    "round_question_number": 77,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「80歳の男性。1年前から夜間に人や子どもが見え、本当に人がいるように話しかけることもある。半年前から次第に動作が鈍くなってきた。最近は物忘れも出現している。」\n\n本症例で動作が鈍くなってきた原因として正しいのはどれか。",
+    "options": [
+      "下肢筋力の低下",
+      "歩行失行",
+      "パーキンソニズム",
+      "深部感覚障害"
+    ],
+    "answer": 2,
+    "explanation": "本症例は性別、症状とその出現様式などから、認知症のなかでもレビー小体型認知症が疑われる。レビー小体型認知症は認知症症状に加えて、幻視、レム睡眠行動異常症、パーキンソニズムなどが現れる。\n3：パーキンソニズムは、動作緩慢、筋強剛、振戦、姿勢保持障害が挙げられる。本症例の動作が鈍くなってきた原因として、3：パーキンソニズムが考えられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_078",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "認知症",
+    "category_question_number": 19,
+    "round": 27,
+    "round_question_number": 78,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「80歳の男性。1年前から夜間に人や子どもが見え、本当に人がいるように話しかけることもある。半年前から次第に動作が鈍くなってきた。最近は物忘れも出現している。」\n\n本症例でさらに確認すべき症状はどれか。",
+    "options": [
+      "物盗られ妄想",
+      "認知機能の日内変動",
+      "症状の階段状の悪化",
+      "欲動的な行動"
+    ],
+    "answer": 1,
+    "explanation": "レビー小体型認知症は、「2：認知機能の日内変動」「繰り返される具体的な幻視」「認知機能低下に先行するレム睡眠行動異常」「パーキンソニズム」の4つの症状が中核的特徴である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_054",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "認知症",
+    "category_question_number": 20,
+    "round": 29,
+    "round_question_number": 54,
+    "question": "症状の階段状悪化がよくみられるのはどれか。",
+    "options": [
+      "前頭側頭型認知症",
+      "レビー小体型認知症",
+      "血管性認知症",
+      "アルツハイマー型認知症"
+    ],
+    "answer": 2,
+    "explanation": "3：血管性認知症は階段状の増悪が特徴的である。1：前頭側頭型認知症、2：レビー小体型認知症、4：アルツハイマー型認知症は緩徐に進行する疾患である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_062",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "認知症",
+    "category_question_number": 21,
+    "round": 31,
+    "round_question_number": 62,
+    "question": "アルツハイマー病の症状で正しいのはどれか。",
+    "options": [
+      "まだら認知症",
+      "物盗られ妄想",
+      "はぐらかし対応",
+      "パーキンソン症状"
+    ],
+    "answer": 1,
+    "explanation": "1：まだら認知症は脳血管性認知症に特徴的な症状である。2：物盗られ妄想はアルツハイマー病に特徴的な症状である。3：はぐらかし対応はピック病に特徴的な症状である。4：パーキンソン症状はレビー小体型認知症に特徴的な症状である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_050",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "認知症",
+    "category_question_number": 22,
+    "round": 32,
+    "round_question_number": 50,
+    "question": "アルツハイマー病で正しいのはどれか。",
+    "options": [
+      "ラクナ梗塞の多発により発症する。",
+      "アミロイドβ蛋白質が蓄積する。",
+      "初期には記銘力障害はみられない。",
+      "MRI検査では前頭葉の萎縮が特徴的である。"
+    ],
+    "answer": 1,
+    "explanation": "1：ラクナ梗塞の多発で発症するのは血管性認知症である。2：大脳皮質にアミロイドβタンパクが蓄積した老人斑が認められる。3：初期から記憶（記銘力含む）障害がみられる。4：MRI検査では海馬や側頭葉を中心とした大脳皮質の萎縮が特徴的である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_062",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "神経筋接合部疾患・筋疾患",
+    "category_question_number": 23,
+    "round": 23,
+    "round_question_number": 62,
+    "question": "筋・腱疾患と運動機能検査の組合せで正しいのはどれか。",
+    "options": [
+      "胸郭出口症候群 ― ドロップアームサイン",
+      "腱板損傷 ― ヤーガソンテスト",
+      "進行性筋ジストロフィー ― ガワーズサイン",
+      "上腕骨外側上顆炎 ― ファレンテスト"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "1：胸郭出口症候群の運動機能検査はアドソンテスト（斜角筋症候群）、アレンテスト（斜角筋症候群）、ライトテスト（過外転症候群）である。2：腱板損傷の検査は、ドロップアームサインやペインフルアークサインで、ヤーガソンテストは上腕二頭筋長頭腱炎の検査である。なお、近年、ヤーガソンテストは上腕二頭筋長頭炎と腱板損傷の両方に有用な検査との報告もある。そのため財団解答とは異なるが、選択肢2も正解となりうる。3：進行性筋ジストロフィーでは、腰帯部が障害され、登はん性起立（ガワーズサイン）と呼ばれる徴候が認められる。4：上腕骨外側上顆炎の検査はチェアテストであり、ファレンテストは手根管症候群の検査である。\n正解 2、3\n財団解答 3",
+    "is_irregular": true,
+    "irregular_reason": "正解が複数（2と3）あり、財団解答と異なるため"
+  },
+  {
+    "id": "clinical_special_29_052",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "神経筋接合部疾患・筋疾患",
+    "category_question_number": 24,
+    "round": 29,
+    "round_question_number": 52,
+    "question": "デュシェンヌ型筋ジストロフィーについて正しいのはどれか。",
+    "options": [
+      "女性に多い。",
+      "腓腹筋の仮性肥大がみられる。",
+      "血清CK値は正常である。",
+      "関節拘縮のため踵足になる。"
+    ],
+    "answer": 1,
+    "explanation": "デュシェンヌ型筋ジストロフィーは、伴性劣性遺伝性疾患で、1：男性に多く、2：腓腹筋の仮性肥大がみられる。3：筋線維の壊死と再生を主病変とするため、血清CKは高値となる。4：腓腹筋の筋原性筋萎縮に伴う尖足がみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_053",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "運動ニューロン疾患",
+    "category_question_number": 25,
+    "round": 29,
+    "round_question_number": 53,
+    "question": "筋萎縮性側索硬化症に特徴的なのはどれか。",
+    "options": [
+      "膀胱直腸障害",
+      "褥瘡",
+      "嚥下障害",
+      "眼球運動障害"
+    ],
+    "answer": 2,
+    "explanation": "筋萎縮性側索硬化症では下位運動ニューロン障害と上位運動ニューロン障害がみられる。四大陰性症状（みられない症状）として1：膀胱直腸障害、2：褥瘡、4：眼球運動障害、感覚障害が挙げられる。3：嚥下障害は球麻痺・仮性球麻痺症状としてみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_053",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "運動ニューロン疾患",
+    "category_question_number": 26,
+    "round": 30,
+    "round_question_number": 53,
+    "question": "筋萎縮性側索硬化症によくみられるのはどれか。",
+    "options": [
+      "感覚障害",
+      "眼球運動障害",
+      "膀胱直腸障害",
+      "筋線維束性れん縮"
+    ],
+    "answer": 3,
+    "explanation": "筋萎縮性側索硬化症では4：筋線維束性れん縮がみられる。1：感覚障害、2：眼球運動障害、3：膀胱直腸障害、褥瘡は四大陰性症状であり、筋萎縮性側索硬化症ではみられない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_056",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "末梢神経疾患",
+    "category_question_number": 27,
+    "round": 27,
+    "round_question_number": 56,
+    "question": "ラムゼイ ハント症候群の治療薬はどれか。",
+    "options": [
+      "免疫抑制薬",
+      "抗菌薬",
+      "抗ウイルス薬",
+      "非ステロイド性抗炎症薬"
+    ],
+    "answer": 2,
+    "explanation": "ラムゼイ ハント症候群とは、水痘帯状疱疹ウイルスを原因として、顔面神経麻痺に難聴、めまい、耳鳴り、外耳炎を合併した疾患である。治療としては、ステロイドホルモン剤と3：抗ウイルス薬による薬物治療を行う。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_055",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "末梢神経疾患",
+    "category_question_number": 28,
+    "round": 28,
+    "round_question_number": 55,
+    "question": "次の文で示す症例の確定診断のために最も重要な検査はどれか。\n「25歳の男性。10日前に上気道炎に罹患、3日前から両下肢の粗大筋力が低下、後に両上肢へと進展した。」",
+    "options": [
+      "頸椎MRI検査",
+      "末梢神経伝導速度検査",
+      "血中CK値測定",
+      "遺伝子検査"
+    ],
+    "answer": 1,
+    "explanation": "上気道炎後に起こる四肢筋力低下は、ギラン・バレー症候群による末梢神経障害が疑われることから、2：末梢神経伝導速度検査や髄液検査、血中抗ガングリオシド抗体の測定などが確定診断のために重要となる。本症では、対称性の四肢筋力低下の他、四肢の感覚障害が出現することもあり、重症例では嚥下障害や呼吸障害を呈するケースもあり、顔面神経麻痺や眼球運動障害などの脳神経障害を合併することもある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_051",
+    "subject": "clinical_special",
+    "category": "neuro_muscular_disease",
+    "sub_category": "末梢神経疾患",
+    "category_question_number": 29,
+    "round": 32,
+    "round_question_number": 51,
+    "question": "ギラン・バレー症候群について正しいのはどれか。",
+    "options": [
+      "中年女性に多い。",
+      "遺伝性疾患である。",
+      "骨格筋に病因がある。",
+      "先行感染を認めることが多い。"
+    ],
+    "answer": 3,
+    "explanation": "ギラン・バレー症候群は4：先行感染を契機として生じる2：自己免疫疾患で、3：末梢神経に病因がある疾患である。1：性差はない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_066",
+    "subject": "clinical_special",
+    "category": "",
+    "sub_category": "該当項目なし",
+    "category_question_number": 30,
+    "round": 24,
+    "round_question_number": 66,
+    "question": "硬膜外麻酔について正しいのはどれか。",
+    "options": [
+      "局所麻酔薬をくも膜下腔に注入する。",
+      "出血性素因のある患者でも安全に行える。",
+      "頸部に用いることができる。",
+      "効果発現は脊椎麻酔よりも早い。"
+    ],
+    "answer": 2,
+    "explanation": "硬膜外麻酔は、手術中の痛みを除去し、術後の痛みを緩和させるために行う。脊髄を包んでいる硬膜の外側（硬膜外腔）にカテーテルを留置し、そこから局所麻酔薬を注入する。脊髄クモ膜下麻酔（4：脊椎麻酔）は、1：クモ膜下腔に局所麻酔薬を注入し、麻酔薬が直接、脊髄に作用するので、4：効果発現が硬膜外麻酔よりも早く、強力である。2：出血性素因のある患者に対しては、原則として、脊椎麻酔や硬膜外麻酔は禁忌である。硬膜外麻酔は3：頸部に行うことが可能である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_067",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "感染性肺疾患",
+    "category_question_number": 1,
+    "round": 24,
+    "round_question_number": 67,
+    "question": "肺炎について正しいのはどれか。",
+    "options": [
+      "原因はウイルス感染が多い。",
+      "若年者は高齢者と比較して死亡する危険性が高い。",
+      "肺炎球菌ワクチンの接種が推奨されている。",
+      "マイコプラズマ肺炎では湿性咳嗽が多い。"
+    ],
+    "answer": 2,
+    "explanation": "肺炎は、肺胞性肺炎と間質性肺炎に大別され、原因となる病原体（病因微生物）などの種類により、細菌性肺炎、1：ウイルス性肺炎、マイコプラズマ肺炎、クラミジア肺炎、真菌性肺炎、寄生虫肺炎などに分類される。細菌性肺炎は最も頻度が高い。肺炎で死亡する人の多くは65歳以上の2：高齢者である。4：マイコプラズマ肺炎は、乾性咳嗽と全身症状としての発熱が主な症状である。現在、3：肺炎球菌ワクチンの接種が推奨されている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_065",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "感染性肺疾患",
+    "category_question_number": 2,
+    "round": 25,
+    "round_question_number": 65,
+    "question": "肺抗酸菌症について正しいのはどれか。",
+    "options": [
+      "結核患者は届け出る必要はない。",
+      "咳が4週間以上持続している場合は肺結核を考慮する。",
+      "抗結核薬は1剤を投与する。",
+      "非結核性抗酸菌症も結核と同様に隔離する必要がある。"
+    ],
+    "answer": 1,
+    "explanation": "肺抗酸菌症は、結核と非結核性抗酸菌症の鑑別を要する。1：結核の場合には保健所への届出が必要である。2：咳が長期間持続する場合は、肺結核を考慮する。3：抗結核薬は、3剤の投与を基本とする。4：非結核性抗酸菌症は感染しないため、隔離の必要はない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_066",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "感染性肺疾患",
+    "category_question_number": 3,
+    "round": 26,
+    "round_question_number": 66,
+    "question": "呼吸器感染症について正しいのはどれか。",
+    "options": [
+      "上気道炎の治療は主に抗菌薬である。",
+      "65歳以上の高齢者には肺炎球菌ワクチンが推奨されている。",
+      "インターフェロンγ遊離試験は非結核性抗酸菌症で陽性となる。",
+      "日本の結核患者数は先進国の中では少ない。"
+    ],
+    "answer": 1,
+    "explanation": "1：上気道炎の多くはウイルス感染症であり、自然治癒することも多く、むやみに抗菌薬を使用するべきではない。2：肺炎球菌ワクチンは、肺炎球菌による肺炎などの感染症を予防し、重症化を防ぐことから、65歳以上の高齢者や心疾患、呼吸器疾患などの基礎疾患を持つ者は接種が推奨されている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_066",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "感染性肺疾患",
+    "category_question_number": 4,
+    "round": 28,
+    "round_question_number": 66,
+    "question": "呼吸器感染症について正しいのはどれか。",
+    "options": [
+      "非結核性抗酸菌は人から人へ感染する。",
+      "感冒の原因は主に細菌感染である。",
+      "肺結核の治療は抗菌薬の単剤治療である。",
+      "肺炎治療で菌の耐性化が問題となっている。"
+    ],
+    "answer": 3,
+    "explanation": "1：非結核性抗酸菌症は結核とは異なり、人から人への感染はない。2：感冒は上気道のウイルス感染が原因である。3：肺結核の治療は、薬剤機序の異なる治療薬を組み合わせた方法が選択される。4：肺炎治療では、菌の耐性化が問題となっている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_059",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "感染性肺疾患",
+    "category_question_number": 5,
+    "round": 30,
+    "round_question_number": 59,
+    "question": "非結核性抗酸菌症について正しいのはどれか。",
+    "options": [
+      "男性に多い。",
+      "人から人へ感染する。",
+      "難治性である。",
+      "肺切除の対象とはならない。"
+    ],
+    "answer": 2,
+    "explanation": "非結核性抗酸菌による感染症で病原菌は土中、水中、塵埃などに生息する環境常在菌である。2：一般的に人から人への感染はみられない。1：女性に多く、治療への反応が十分ではなく再燃しやすいため、3：難治性である。4：主病巣を摘出する手術療法（肺切除）は重要な併用療法である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_055",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "感染性肺疾患",
+    "category_question_number": 6,
+    "round": 31,
+    "round_question_number": 55,
+    "question": "肺結核について正しいのはどれか。",
+    "options": [
+      "主な感染経路は飛沫感染である。",
+      "抗結核薬は単剤で用いる。",
+      "結核と診断したら直ちに届け出る。",
+      "医療者はサージカルマスク着用が推奨される。"
+    ],
+    "answer": 2,
+    "explanation": "1：主な感染経路は空気感染である。2：治療は多剤併用療法が用いられる。結核は2類感染症であり、3：結核と診断したら直ちに届け出が必要である。4：医療者はN95マスク着用、患者はサージカルマスク着用が推奨される。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_070",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "感染性肺疾患",
+    "category_question_number": 7,
+    "round": 31,
+    "round_question_number": 70,
+    "question": "かぜ症候群について正しいのはどれか。",
+    "options": [
+      "ほとんどがウイルス感染である。",
+      "初期から呼吸音に異常がみられる。",
+      "主な感染経路は空気感染である。",
+      "抗菌薬を主に用いる。"
+    ],
+    "answer": 0,
+    "explanation": "1：ほとんどがウイルス感染である（80%以上）。2：上気道粘膜の急性炎症であるため、初期には呼吸音に異常はみられない。3：主な感染経路は飛沫感染や接触感染である。4：ウイルス感染のため、抗菌薬は無効である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_055",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "感染性肺疾患",
+    "category_question_number": 8,
+    "round": 32,
+    "round_question_number": 55,
+    "question": "肺結核について正しいのはどれか。",
+    "options": [
+      "空気感染する。",
+      "治療薬は単剤を用いる。",
+      "感染すると半数が発病する。",
+      "我が国の2021年の新規発症患者数は1,000人以下である。"
+    ],
+    "answer": 0,
+    "explanation": "結核菌の感染経路は主に1：空気感染である。2：治療は多剤併用化学療法である。3：感染者の10%前後が発病する。4：我が国の2021年の新規発症患者数（新規登録結核患者数）は11,519人である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_072",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "気道閉塞性疾患",
+    "category_question_number": 9,
+    "round": 24,
+    "round_question_number": 72,
+    "question": "肺気腫について正しいのはどれか。",
+    "options": [
+      "漏斗胸がみられる。",
+      "呼吸音が減弱する。",
+      "吸気が延長する。",
+      "残気量が減少する。"
+    ],
+    "answer": 1,
+    "explanation": "肺気腫は、閉塞性肺疾患の一種で、肺胞壁が破壊され、いくつもの肺胞が弾力を失った一つの袋（気腫性嚢胞）になり、含気区域が異常に拡大した状態をいう。咳、痰、喘鳴、運動時の息切れ、動悸、浮腫等がみられ、身体所見では、呼気性の困難（3：呼気の延長）によるチアノーゼ、2：呼吸音の減弱、1：ビア樽状胸郭を呈する。呼吸機能検査では、1秒量・1秒率が低下（3：呼気の延長）し、4：残気量の増加などがみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_065",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "気道閉塞性疾患",
+    "category_question_number": 10,
+    "round": 27,
+    "round_question_number": 65,
+    "question": "COPDで正しいのはどれか。",
+    "options": [
+      "喫煙は関与しない。",
+      "安静時の呼吸困難が特徴である。",
+      "肺機能検査では閉塞性障害が特徴である。",
+      "発作時に気管支狭窄音を伴う。"
+    ],
+    "answer": 2,
+    "explanation": "慢性閉塞性肺疾患は、1：喫煙などにより肺が持続的な炎症（肺胞の破壊と気管支の炎症・狭窄）を起こし、呼吸機能の低下をきたした状態である。症状として咳、痰、2：労作性呼吸困難が挙げられ、肺機能検査では3：閉塞性障害が特徴である。また、呼気の延長、4：呼吸音の減弱がみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_067",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "気道閉塞性疾患",
+    "category_question_number": 11,
+    "round": 28,
+    "round_question_number": 67,
+    "question": "COPDについて正しいのはどれか。",
+    "options": [
+      "女性に多い。",
+      "拘束性換気障害を呈する。",
+      "安静時の呼吸困難が特徴である。",
+      "増悪予防にはインフルエンザワクチン接種は有効である。"
+    ],
+    "answer": 3,
+    "explanation": "慢性閉塞性肺疾患（COPD：chronic obstructive pulmonary disease）とは、喫煙などにより有害物質を長期に吸入暴露することで生じる肺の炎症性疾患の総称である。日本では男女比5:2と1：男性に多く、2：閉塞性換気障害を呈し、3：労作性の呼吸困難が特徴である。原因のほとんどは喫煙とされており、禁煙と合わせて呼吸器リハビリテーションや運動療法が行われる。4：増悪を避けるために、インフルエンザワクチンや肺炎球菌ワクチンの接種が勧められる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_056",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "気道閉塞性疾患",
+    "category_question_number": 12,
+    "round": 31,
+    "round_question_number": 56,
+    "question": "COPDについて正しいのはどれか。",
+    "options": [
+      "肺拡散能（DLCO）は正常である。",
+      "労作時の呼吸困難が特徴である。",
+      "発作時に気管支狭窄音を伴う。",
+      "肺機能検査では拘束性換気障害が特徴である。"
+    ],
+    "answer": 1,
+    "explanation": "COPDでは肺胞壁組織と肺毛細血管網の破壊が起こるため1：肺拡散能は減少する。2：労作時の呼吸困難、咳嗽、喀痰が主症状である。3：発作時に気管支狭窄音を伴うのは気管支喘息である。COPDにおいても気管支狭窄音が聴取されるが、COPDには発作という考え方はない。4：肺機能検査では閉塞性換気障害が特徴である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_064",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "アレルギー性疾患",
+    "category_question_number": 13,
+    "round": 25,
+    "round_question_number": 64,
+    "question": "成人の気管支喘息について正しいのはどれか。",
+    "options": [
+      "患者数は減少傾向にある。",
+      "症状は昼間に起こりやすい。",
+      "治療は吸入ステロイド薬が中心である。",
+      "治癒率は50%である。"
+    ],
+    "answer": 2,
+    "explanation": "気管支喘息は近年、小児、成人共に1：患者数は増加傾向にある。症状は2：深夜から明け方にかけて発作が起こるのが特徴で、治療は長期管理としては、3：吸入ステロイド薬が主に用いられる。小児の治癒率が約70%とされる一方、4：成人の治癒率は10%以下とされている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_067",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "アレルギー性疾患",
+    "category_question_number": 14,
+    "round": 31,
+    "round_question_number": 67,
+    "question": "成人の気管支喘息について正しいのはどれか。",
+    "options": [
+      "拘束性換気障害をきたす。",
+      "発作は昼間に起こりやすい。",
+      "血液検査では好塩基球が増加する。",
+      "吸入ステロイド薬が治療の中心である。"
+    ],
+    "answer": 3,
+    "explanation": "1：閉塞性換気障害をきたす。2：発作は夜間から早朝に起こりやすい。3：血液検査では好酸球が増加する。4：吸入ステロイド薬が治療の中心である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_061",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "腫瘍性疾患",
+    "category_question_number": 15,
+    "round": 25,
+    "round_question_number": 61,
+    "question": "肺癌患者にみられる所見と浸潤部位の組合せで正しいのはどれか。",
+    "options": [
+      "嗄声 ― 交感神経",
+      "顔面浮腫 ― 上大静脈",
+      "縮瞳 ― 反回神経",
+      "腰痛 ― 横隔神経"
+    ],
+    "answer": 1,
+    "explanation": "肺癌患者にみられる1：嗄声は、縦隔リンパ節転移による反回神経の障害によって起こる。腫瘍が2：上大静脈を圧迫することにより、顔面、頸部および上肢の浮腫が出現する。肺尖部への浸潤により頸部交感神経節が障害されると、ホルネル症候群（3：縮瞳、眼瞼下垂、眼球陥凹）を生じる。進行すると、他臓器、脳、骨へ転移し、骨転移による4：腰痛などもみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_062",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "腫瘍性疾患",
+    "category_question_number": 16,
+    "round": 26,
+    "round_question_number": 62,
+    "question": "肺癌について正しいのはどれか。",
+    "options": [
+      "死亡数は女性が多い。",
+      "骨転移はまれである。",
+      "小細胞癌が最も多い。",
+      "受動喫煙は危険因子である。"
+    ],
+    "answer": 3,
+    "explanation": "肺癌は1：男性に多く、進行すると、2：骨、リンパ節、脳、肝臓、副腎などへの転移が好発する。組織型により非小細胞肺癌と3：小細胞肺癌に大別され、非小細胞肺癌のなかでも腺癌が最も多い。喫煙との関連性が非常に高く、4：受動喫煙も含めて、喫煙により発症する危険性が高まるとされている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_061",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "腫瘍性疾患",
+    "category_question_number": 17,
+    "round": 26,
+    "round_question_number": 61,
+    "question": "中皮腫と関連するのはどれか。",
+    "options": [
+      "塩蔵食品",
+      "アルコール",
+      "アスベスト",
+      "アセトアルデヒド"
+    ],
+    "answer": 2,
+    "explanation": "中皮細胞から発生した腫瘍を中皮腫といい、その発生部位によって胸膜中皮腫、心膜中皮腫、腹膜中皮腫などに分けられる。胸膜中皮腫は悪性腫瘍の一つであり、悪性胸膜中皮腫と呼ばれ、その発症には3：アスベストが関与していることが知られている。悪性胸膜中皮腫の症状としては、胸痛、咳、呼吸困難や胸部圧迫感がみられる。\nなお、胸膜中皮腫は現在、孤在性線維性腫瘍に名前が変わっており、中皮腫のカテゴリーから外れている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_079",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "腫瘍性疾患",
+    "category_question_number": 18,
+    "round": 27,
+    "round_question_number": 79,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「67歳の女性。胸部エックス線写真で右上肺野の末梢側に2cm大の結節影があり、気管支内視鏡検査で肺癌と診断された。」\n\n最も可能性が高い組織型はどれか。",
+    "options": [
+      "腺癌",
+      "小細胞癌",
+      "大細胞癌",
+      "扁平上皮癌"
+    ],
+    "answer": 0,
+    "explanation": "肺癌は組織型として、非小細胞癌と2：小細胞癌に大別でき、非小細胞癌は1：腺癌、4：扁平上皮癌、3：大細胞癌に分類できる。なかでも1：腺癌は最も発生頻度が高い。1：腺癌は末梢型（肺野部）への発生頻度が高く、女性に多いという特徴を持つ。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_080",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "腫瘍性疾患",
+    "category_question_number": 19,
+    "round": 27,
+    "round_question_number": 80,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「67歳の女性。胸部エックス線写真で右上肺野の末梢側に2cm大の結節影があり、気管支内視鏡検査で肺癌と診断された。」\n\n遠隔転移を調べる上で必要な検査はどれか。",
+    "options": [
+      "呼吸機能",
+      "冠動脈造影",
+      "脳造影MRI",
+      "心エコー"
+    ],
+    "answer": 2,
+    "explanation": "肺癌は、脳、骨、肝臓、副腎に転移する可能性が高い。したがって、遠隔転移の有無を調べるうえで、3：脳造影MRIは必要な検査となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_057",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "腫瘍性疾患",
+    "category_question_number": 20,
+    "round": 31,
+    "round_question_number": 57,
+    "question": "肺癌患者にみられる所見と浸潤部位の組合せで正しいのはどれか。",
+    "options": [
+      "縮瞳 ― 上大静脈",
+      "顔面浮腫 ― 交感神経",
+      "嗄声 ― 反回神経",
+      "腰痛 ― 横隔神経"
+    ],
+    "answer": 2,
+    "explanation": "問題15の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_058",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "腫瘍性疾患",
+    "category_question_number": 21,
+    "round": 31,
+    "round_question_number": 58,
+    "question": "胸膜中皮腫と関連するのはどれか。",
+    "options": [
+      "塩蔵食品",
+      "アスベスト",
+      "アセトアルデヒド",
+      "ジクロロプロパン"
+    ],
+    "answer": 1,
+    "explanation": "問題17の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_071",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "その他",
+    "category_question_number": 22,
+    "round": 23,
+    "round_question_number": 71,
+    "question": "自然気胸について正しいのはどれか。",
+    "options": [
+      "女性に多い。",
+      "肥満者が多い。",
+      "胸痛をきたすことが多い。",
+      "緊張性気胸となることはない。"
+    ],
+    "answer": 2,
+    "explanation": "自然気胸は、若く（10〜30歳）、背の高い痩せ形の男性が多く、喫煙者はさらに頻度が高い。症状は安静時に突然出現する病側の3：胸痛と空咳が特徴で、発症時間を明確に覚えているほど、突然に強い痛みを自覚することが多い。なお、4：緊張性気胸とは胸腔内圧が異常に上昇した結果、肺虚脱や心拍出量の低下などをきたしている状態で、放置すると血圧低下、閉塞性ショックなどの重篤な状態を招き、自然気胸でもなり得る。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_061",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "その他",
+    "category_question_number": 23,
+    "round": 29,
+    "round_question_number": 61,
+    "question": "呼吸器疾患について正しいのはどれか。",
+    "options": [
+      "自然気胸は胸痛を伴う。",
+      "肺線維症は閉塞性換気障害をきたす。",
+      "気管支喘息による死亡者数は増加している。",
+      "COPDは安静時の呼吸困難が特徴的である。"
+    ],
+    "answer": 0,
+    "explanation": "1：自然気胸は突然の胸痛、呼吸困難、息切れ、発作的な咳などが主な症状である。2：肺線維症は線維化による肺コンプライアンス（肺の膨らみやすさ）低下により拘束性換気障害をきたす。3：気管支喘息による死亡者数は吸入ステロイドの改善と普及によって減少している。4：COPDは労作時呼吸困難が特徴的である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_054",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "その他",
+    "category_question_number": 24,
+    "round": 32,
+    "round_question_number": 54,
+    "question": "気管支拡張症について正しいのはどれか。",
+    "options": [
+      "気道の変化は不可逆性である。",
+      "小児喘息の既往をもつことが多い。",
+      "喀血をきたすことはない。",
+      "治療は抗菌薬を短期投与する。"
+    ],
+    "answer": 0,
+    "explanation": "気管支拡張症は気管支壁の破壊を伴う1：不可逆性拡張であり、続発性のものは2：副鼻腔炎やびまん性汎細気管支炎の既往を持つことが多い。3：咳嗽、喀痰、血痰、喀血などが症状としてみられる。4：治療は抗菌薬を長期投与する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_089",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "その他",
+    "category_question_number": 25,
+    "round": 32,
+    "round_question_number": 89,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「18歳の男性。背が高く痩せている。突然、右胸の痛みと息切れを感じた。」\n\n最初に行う検査はどれか。",
+    "options": [
+      "血液生化学検査",
+      "呼吸機能検査",
+      "胸部単純エックス線検査",
+      "胸部単純CT検査"
+    ],
+    "answer": 2,
+    "explanation": "若年男性、高身長、痩せ型で突然の胸痛と息切れ（呼吸困難）がみられるため、原発性自然気胸（単純性気胸）を疑う。原発性自然気胸で最初に行う検査は3：胸部単純X線検査であり、X線検査で明らかにできない場合は4：胸部単純CT検査を行う。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_090",
+    "subject": "clinical_special",
+    "category": "respiratory_disease",
+    "sub_category": "その他",
+    "category_question_number": 26,
+    "round": 32,
+    "round_question_number": 90,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「18歳の男性。背が高く痩せている。突然、右胸の痛みと息切れを感じた。」\n\n血圧が下がり息切れが増した。最も適切な対応はどれか。",
+    "options": [
+      "経過観察",
+      "鎮痛剤の投与",
+      "生理食塩水点滴",
+      "胸腔ドレナージ"
+    ],
+    "answer": 3,
+    "explanation": "呼吸症状の増悪にショック状態（血圧低下）を呈しているため、緊張性気胸を疑う。緊張性気胸の場合は迅速に4：胸腔ドレナージによる脱気を行う。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_068",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "不整脈",
+    "category_question_number": 1,
+    "round": 24,
+    "round_question_number": 68,
+    "question": "心房細動について正しいのはどれか。",
+    "options": [
+      "若年者で罹患率が高い。",
+      "僧帽弁狭窄症は原因となる。",
+      "くも膜下出血の発症リスクとなる。",
+      "心電図では異常Q波の出現が特徴である。"
+    ],
+    "answer": 1,
+    "explanation": "心房細動は、心房が1分間に450〜600回の頻度で不規則に興奮し、その興奮波が房室結節へ無秩序に伝わるために、心室興奮が不規則になる不整脈である。心房細動は、2：僧帽弁狭窄症などの心臓弁膜症、高血圧性心疾患、虚血性心疾患、拡張型心筋症や肥大型心筋症などの心筋疾患、呼吸器疾患、甲状腺疾患などが基礎疾患となるほか、明らかな基礎疾患がない場合もある。心房細動は1：加齢と共に発生率が高くなり、また女性よりも男性に多く発生する。心房細動中は心房の収縮が速く不規則なため、血栓ができやすく、3：脳梗塞を起こすリスクが高まる。心電図検査による4：異常Q波は、心房細動ではみられず、心筋梗塞や心筋症などの強い心筋障害により出現する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_061",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "不整脈",
+    "category_question_number": 2,
+    "round": 30,
+    "round_question_number": 61,
+    "question": "不整脈で予後が最も良いのはどれか。",
+    "options": [
+      "心室細動",
+      "心房細動",
+      "上室性期外収縮",
+      "Ⅲ度房室ブロック"
+    ],
+    "answer": 2,
+    "explanation": "1：心室細動は心室が無秩序に興奮し、心室収縮がなく血液駆出が停止するので、直ちに処置しないと致死的となる。2：心房細動は左房内で血栓が生じやすく、心原性脳塞栓症のリスクとして重要である。3：上室性期外収縮は臨床上多くみられる不整脈で通常は無症状で良性である。4：心房から心室への興奮伝導が遅延ないし途絶した状態の房室ブロックのうち、興奮伝導が完全に途絶したもので徐脈や心停止の原因となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_060",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "不整脈",
+    "category_question_number": 3,
+    "round": 32,
+    "round_question_number": 60,
+    "question": "AEDによる除細動の適応となる不整脈はどれか。",
+    "options": [
+      "心室細動",
+      "心房細動",
+      "心室性期外収縮",
+      "上室性期外収縮"
+    ],
+    "answer": 0,
+    "explanation": "AEDに関わらず、除細動の適応となるのは1：心室細動である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_075",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "心不全",
+    "category_question_number": 4,
+    "round": 23,
+    "round_question_number": 75,
+    "question": "次の文で示す症例について下記の2問に答えよ。\n「20歳の女性。呼吸困難、全身倦怠感の精査のため受診。胸部レントゲン写真で心拡大と肺うっ血を認めた。心エコー検査では左室内腔は著明に拡大し、心室中隔と左室後壁は薄くなっていた。」\n\n本疾患の所見で適切なのはどれか。",
+    "options": [
+      "尿量増加",
+      "頸静脈怒張",
+      "左房径縮小",
+      "肺動脈圧低下"
+    ],
+    "answer": 1,
+    "explanation": "本症例は呼吸困難と全身倦怠感に加え、胸部レントゲン写真で心拡大と肺うっ血を認め、心エコーでは左室内腔の拡大と心室中隔と左室後壁が薄くなっていることなどから、心不全が疑われる。心不全では、起坐呼吸、喘鳴、食欲不振などの症状に加え、2：頸静脈の怒張、浮腫、肝腫大、ピンク色の泡沫状の痰などが認められるのが特徴である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_076",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "心不全",
+    "category_question_number": 5,
+    "round": 23,
+    "round_question_number": 76,
+    "question": "次の文で示す症例について下記の2問に答えよ。\n「20歳の女性。呼吸困難、全身倦怠感の精査のため受診。胸部レントゲン写真で心拡大と肺うっ血を認めた。心エコー検査では左室内腔は著明に拡大し、心室中隔と左室後壁は薄くなっていた。」\n\n本疾患に最も有用な血液検査項目はどれか。",
+    "options": [
+      "ヒト脳性ナトリウム利尿ペプチド",
+      "アルカリフォスファターゼ",
+      "ロイシンアミノペプチダーゼ",
+      "リパーゼ"
+    ],
+    "answer": 0,
+    "explanation": "心不全は、循環血液量の増加や心室壁へのストレスなどで心負荷が増大するため、1：脳性ナトリウム利尿ペプチド（BNP）の前駆体が産生され、これが蛋白質分解酵素により心臓中でBNPとNT-pro BNPに分解されて血中に放出される。そのため、血液検査ではBNP値が高値となる。2：アルカリフォスファターゼ（ALP）は肝胆疾患、骨疾患、副甲状腺機能亢進症などで高値になる。3：ロイシンアミノペプチダーゼ（LAP）は閉鎖性黄疸、肝炎、悪性リンパ腫、悪性腫瘍などで高値になる。4：リパーゼ（LIP）は、急性・慢性膵炎、膵癌、イレウス、腎不全などで高値になる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_066",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "心不全",
+    "category_question_number": 6,
+    "round": 25,
+    "round_question_number": 66,
+    "question": "心不全について正しいのはどれか。",
+    "options": [
+      "左心不全では下肢の浮腫は顕著である。",
+      "左心不全では臥位で症状が軽快する。",
+      "心拍出量が低下する。",
+      "血中ヒト脳性ナトリウム利尿ペプチド（BNP）値が低下する。"
+    ],
+    "answer": 2,
+    "explanation": "1：右心不全では身体全体、特に下腿の浮腫が顕著である。2：左心不全では呼吸困難、咳嗽などの症状をきたす。座位で軽減するため、起座呼吸となる。心不全では3：心拍出量は低下し、4：血中ヒト脳性ナトリウム利尿ペプチド（BNP）値は上昇する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_059",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "心不全",
+    "category_question_number": 7,
+    "round": 31,
+    "round_question_number": 59,
+    "question": "右心不全によくみられる身体所見はどれか。",
+    "options": [
+      "肺うっ血",
+      "頻呼吸",
+      "下肢の浮腫",
+      "四肢チアノーゼ"
+    ],
+    "answer": 2,
+    "explanation": "問題6の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_061",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "心不全",
+    "category_question_number": 8,
+    "round": 32,
+    "round_question_number": 61,
+    "question": "左心不全の身体所見はどれか。",
+    "options": [
+      "腹水",
+      "下肢の浮腫",
+      "肝腫大",
+      "起坐呼吸"
+    ],
+    "answer": 3,
+    "explanation": "左心不全は肺静脈、肺毛細血管内圧の上昇やうっ血が生じ、初期には安静時の息切れ、重症化すると安静時呼吸困難や4：起坐呼吸などをきたす。右心不全は体静脈系にうっ血が生じ、1：腹水、2：下肢に強い全身の浮腫、3：肝腫大などをきたす。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_067",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "心臓弁膜症",
+    "category_question_number": 9,
+    "round": 23,
+    "round_question_number": 67,
+    "question": "僧帽弁狭窄症について正しいのはどれか。",
+    "options": [
+      "先天性が多い。",
+      "心拍出量は増加する。",
+      "左房圧は低下する。",
+      "心房細動の合併が多い。"
+    ],
+    "answer": 3,
+    "explanation": "僧帽弁狭窄症は、僧帽弁口が何らかの原因で狭窄し、拡張期に左房から左室への血液流入が障害される状態をいう。原因としてはリウマチ熱感染後の心内膜炎が多く、左房圧の上昇と左房の拡大を認めると共に、心房細動をきたしやすい。また、左房内に血液がうっ滞するため、左房内で血栓が生じやすく、塞栓症をきたしやすい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_068",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "心臓弁膜症",
+    "category_question_number": 10,
+    "round": 26,
+    "round_question_number": 68,
+    "question": "僧帽弁狭窄症について正しいのはどれか。",
+    "options": [
+      "男性に多い。",
+      "先天性が多い。",
+      "心拍出量が増加する。",
+      "心房細動の合併が多い。"
+    ],
+    "answer": 3,
+    "explanation": "僧帽弁狭窄症のほとんどは2：小児期のリウマチ熱によって起こり、女性の場合、重症化すると妊娠によって心不全に至る。進行すると、3：心拍出量が低下する。4：心房細動のほか、肺高血圧症や血栓塞栓症の合併が多い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_068",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "虚血性心疾患",
+    "category_question_number": 11,
+    "round": 23,
+    "round_question_number": 68,
+    "question": "狭心症について正しいのはどれか。",
+    "options": [
+      "心電図ではP波の変化が特徴である。",
+      "発作時にはニトログリセリンが有効である。",
+      "冠攣縮型による狭心症は日中に起こりやすい。",
+      "不安定狭心症は心筋梗塞へ移行しにくい。"
+    ],
+    "answer": 1,
+    "explanation": "心筋へ酸素を供給する冠動脈が動脈硬化などで血管内腔の狭窄をきたした結果、酸素供給ができなくなり、心筋虚血により胸痛が生じることを狭心症と呼ぶ。心電図所見ではST部分の異常を示し、発作時の治療としては、安静または2：ニトログリセリンの舌下投与やスプレー噴射が効果的である。3：血管攣縮による狭心症は、夜中から明け方にかけて胸痛が出現する。また4：不安定狭心症は急性心筋梗塞に移行する危険性のある狭心症であるのに対し、安定狭心症はいつも同じ程度の運動で狭心症が出現することから、安定した狭心症ともいえる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_067",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "虚血性心疾患",
+    "category_question_number": 12,
+    "round": 26,
+    "round_question_number": 67,
+    "question": "狭心症について正しいのはどれか。",
+    "options": [
+      "異型狭心症は日中に起こりやすい。",
+      "狭心痛は大動脈壁の内膜に生じた亀裂に血液が流入することで生じる。",
+      "心エコー検査で心臓の動きは正常である。",
+      "発作時の治療に抗血小板薬が用いられる。"
+    ],
+    "answer": 2,
+    "explanation": "1：異型狭心症は、朝方に起こりやすい。2：狭心痛は、冠動脈の狭窄が生じて心筋の血液供給が不足し、虚血状態に陥ることにより起こる。3：狭心症は、心エコー検査では異常がみられない。4：狭心症の発作時の治療にニトログリセリンが用いられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_068",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "虚血性心疾患",
+    "category_question_number": 13,
+    "round": 31,
+    "round_question_number": 68,
+    "question": "労作性狭心症と急性心筋梗塞で、最も違いが明確なのはどれか。",
+    "options": [
+      "胸痛の持続時間",
+      "呼吸困難の程度",
+      "放散痛の部位",
+      "症状出現の時刻"
+    ],
+    "answer": 0,
+    "explanation": "最も違いが明確なのは1：胸痛の持続時間である。労作性狭心症の胸痛持続時間は通常数分程度であり、急性心筋梗塞では30分以上持続する。2：呼吸困難の程度、3：放散痛の部位、4：症状出現の時刻（労作性狭心症8時〜10時、急性心筋梗塞6時〜10時、20時〜22時）については胸痛の持続時間に比べると明確といえる程の違いはみられない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_062",
+    "subject": "clinical_special",
+    "category": "cardiovascular_disease",
+    "sub_category": "虚血性心疾患",
+    "category_question_number": 14,
+    "round": 32,
+    "round_question_number": 62,
+    "question": "急性心筋梗塞で上昇する血液検査項目として最も適切なのはどれか。",
+    "options": [
+      "γ-GTP",
+      "ALP",
+      "ALT",
+      "AST"
+    ],
+    "answer": 3,
+    "explanation": "1：γ-GTPは肝疾患や胆道系疾患で上昇する項目である。2：ALPは肝胆道系疾患、骨代謝性疾患で上昇する項目である。3：ALTは肝胆道疾患、特に肝疾患で上昇する項目である。4：ASTは心疾患、肝疾患、骨格筋疾患で上昇する項目である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_062",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "口腔疾患",
+    "category_question_number": 1,
+    "round": 25,
+    "round_question_number": 62,
+    "question": "歯周病の増悪因子でないのはどれか。",
+    "options": [
+      "喫煙",
+      "舌炎",
+      "妊娠",
+      "糖尿病"
+    ],
+    "answer": 1,
+    "explanation": "歯周病の要因には口腔内環境のほか、全身性因子として1：喫煙、ホルモンバランスの変化（3：妊娠、閉経など）、4：糖尿病、免疫異常、ストレス、加齢などが挙げられる。2：舌炎は、物理刺激を原因とするものと細菌やウイルス感染によるものがある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_079",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "食道疾患",
+    "category_question_number": 2,
+    "round": 23,
+    "round_question_number": 79,
+    "question": "次の文で示す症例について下記の2問に答えよ。\n「70歳の男性。嚥下障害と体重減少で来院し、食道癌と診断された。さらに右眼瞼下垂と縮瞳が認められた。」\n\n本疾患について適切なのはどれか。",
+    "options": [
+      "腺癌が多い。",
+      "中部食道に多い。",
+      "化学療法は用いられない。",
+      "予後は良い。"
+    ],
+    "answer": 1,
+    "explanation": "食道癌は食道粘膜上皮から発生する悪性腫瘍で、60歳以上の高齢男性に多く、組織学的には90%以上が扁平上皮癌である。成因は明確ではないがアルコールや喫煙、熱い食べ物などが危険因子とされており、2：部位的には中部、下部の順で多い。早期癌では内視鏡下粘膜切除術が行われるが、進行したものでは外科的手術が行われ、手術が難しい症例では、放射線治療や3：化学療法が行われる。なお、5年生存率は20%前後と4：予後は悪い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_080",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "食道疾患",
+    "category_question_number": 3,
+    "round": 23,
+    "round_question_number": 80,
+    "question": "次の文で示す症例について下記の2問に答えよ。\n「70歳の男性。嚥下障害と体重減少で来院し、食道癌と診断された。さらに右眼瞼下垂と縮瞳が認められた。」\n\n本症例にみられる合併症はどれか。",
+    "options": [
+      "上大静脈症候群",
+      "反回神経麻痺",
+      "顔面神経麻痺",
+      "ホルネル症候群"
+    ],
+    "answer": 3,
+    "explanation": "食道癌では食道・気管支瘻を形成すると誤嚥性肺炎を併発し、大動脈に浸潤すると大出血を起こす。一方、上大静脈を圧迫した場合は顔面に著明な浮腫をきたす1：上大静脈症候群となる。また、反回枝系を巻き込むと声帯が動かなくなるために2：反回神経麻痺となり嗄声が認められるとともに、交感神経を巻き込むと同側の眼瞼下垂、縮瞳に代表される4：ホルネル症候群に、さらに迷走神経を圧迫すると徐脈がみられる。本症例は眼瞼下垂と縮瞳が認められることから、4：ホルネル症候群が正解である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_069",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "食道疾患",
+    "category_question_number": 4,
+    "round": 26,
+    "round_question_number": 69,
+    "question": "ホルネル症候群がみられやすいのはどれか。",
+    "options": [
+      "食道癌",
+      "胃癌",
+      "大腸癌",
+      "肝臓癌"
+    ],
+    "answer": 0,
+    "explanation": "ホルネル症候群とは、交感神経遠心路の障害によって生じる縮瞳、眼瞼下垂、眼球陥凹を三大徴候とする症候群である。脳腫瘍や脊髄空洞症のほか、1：食道癌やパンコースト腫瘍などで頸部交感神経が圧迫されることにより起こる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_072",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "食道疾患",
+    "category_question_number": 5,
+    "round": 28,
+    "round_question_number": 72,
+    "question": "食道癌について正しいのはどれか。",
+    "options": [
+      "腺癌が多い。",
+      "若年者に多い。",
+      "女性に多い。",
+      "アルコールは危険因子である。"
+    ],
+    "answer": 3,
+    "explanation": "食道癌は1：扁平上皮癌が90%以上を占め、腺癌は5%以下である。2：50歳代から増加傾向にあり、3：男性に多い。重複癌の割合が約20%であり、発生要因として、喫煙、4：飲酒（アルコール）が挙げられ、特に扁平上皮癌は強い関連性があると考えられている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_065",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "食道疾患",
+    "category_question_number": 6,
+    "round": 32,
+    "round_question_number": 65,
+    "question": "胃食道逆流症について正しいのはどれか。",
+    "options": [
+      "るいそう患者に好発する。",
+      "近年減少傾向である。",
+      "一過性下部食道括約筋弛緩が関与する。",
+      "生命予後は不良である。"
+    ],
+    "answer": 2,
+    "explanation": "胃食道逆流症の原因として1：肥満、喫煙、飲酒、高齢、脂質の過剰摂取、食道裂孔ヘルニアなどが挙げられ、2：近年増加傾向にある。3：逆流の多くは一過性下部食道括約筋弛緩によるものと考えられている。4：生命予後は良好であるが、長期罹患ではバレット食道となり、腺癌発生のリスクが高くなる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_079",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "胃疾患",
+    "category_question_number": 7,
+    "round": 25,
+    "round_question_number": 79,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「45歳の男性。最近、心窩部から背中の皮膚にかけて痛みが起きる。胸やけ、食欲不振もある。上部消化管内視鏡検査では、胃角部に潰瘍を認め、ヘリコバクター・ピロリの感染を疑った。」\n\n本症例の背中の皮膚の痛みで最も適切なのはどれか。",
+    "options": [
+      "空腹時に起こる。",
+      "関連痛である。",
+      "体性痛である。",
+      "内臓痛である。"
+    ],
+    "answer": 1,
+    "explanation": "胃潰瘍は小弯部に好発し、特に胃角部に発生することが多い。心窩部から背部にかけて2：関連痛がある。胃潰瘍では食後に痛みが出現することが多く、十二指腸潰瘍では1：空腹時に激しい痛みが起こるのが特徴である。3：体性痛は皮膚や骨、筋などの体性組織への機械的刺激によるもので、4：内臓痛は胸腹部内臓器への圧迫や伸展などが原因で発生する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_080",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "胃疾患",
+    "category_question_number": 8,
+    "round": 25,
+    "round_question_number": 80,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「45歳の男性。最近、心窩部から背中の皮膚にかけて痛みが起きる。胸やけ、食欲不振もある。上部消化管内視鏡検査では、胃角部に潰瘍を認め、ヘリコバクター・ピロリの感染を疑った。」\n\nヘリコバクター・ピロリの検査はどれか。",
+    "options": [
+      "尿素呼気検査",
+      "胃液測定",
+      "尿沈渣検査",
+      "血清ペプシノーゲン測定"
+    ],
+    "answer": 0,
+    "explanation": "1：尿素呼気検査は、非侵襲的にヘリコバクター・ピロリ菌感染の有無を確認できる検査法である。2：胃液測定は胃疾患（潰瘍、癌）、3：尿沈渣検査は腎、尿路疾患の診断に用いられる。4：血清ペプシノーゲン測定は胃疾患のスクリーニングとして有用であり、ヘリコバクター・ピロリ菌感染時には高値を示す。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_070",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "腸疾患",
+    "category_question_number": 9,
+    "round": 24,
+    "round_question_number": 70,
+    "question": "過敏性腸症候群でよくみられるのはどれか。",
+    "options": [
+      "発熱",
+      "嘔吐",
+      "下痢",
+      "血便"
+    ],
+    "answer": 2,
+    "explanation": "過敏性腸症候群は、腸の検査や血液検査で明らかな異常所見が認められないにもかかわらず、腹痛や腹部の不快感、便秘や3：下痢が長く続く疾患である。便通の状態により、便秘型、下痢型、そして便秘と下痢を繰り返す交代型に分けられる。その他の症状として、抑うつ、不安感、頭痛、疲労感、集中力の欠如など、消化器以外の症状も認めることがある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  
+]
