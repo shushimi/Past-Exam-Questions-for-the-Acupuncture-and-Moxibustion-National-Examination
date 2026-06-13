@@ -4579,5 +4579,1292 @@
     "is_irregular": false,
     "irregular_reason": ""
   },
-  
+  {
+    "id": "oriental_clinical_28_127",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "神経・筋疾患",
+    "category_question_number": 90,
+    "round": 28,
+    "round_question_number": 127,
+    "question": "次の文で示す症状に対して罹患神経近傍へ施術する場合、最も適切な経穴はどれか。\n「手の骨間筋の萎縮がみられ、フローマン徴候陽性である。」",
+    "options": [
+      "尺沢",
+      "手五里",
+      "小海",
+      "内関"
+    ],
+    "answer": 2,
+    "explanation": "【解説】背側骨間筋、掌側骨間筋は共に尺骨神経支配である。フローマン徴候は母指内転筋の麻痺の所見であり、母指内転筋は尺骨神経支配なので、陽性所見で尺骨神経麻痺を疑う。小海は尺骨神経溝中に取る。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_29_128",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "神経・筋疾患",
+    "category_question_number": 91,
+    "round": 29,
+    "round_question_number": 128,
+    "question": "次の文で示す異常歩行に対して筋萎縮の予防を目的に低周波鍼通電療法を行う場合、治療穴の組合せとして適切なのはどれか。\n「つま先が上がりにくく、膝を高く上げた後、つま先から接地するように歩く。」",
+    "options": [
+      "伏兎 ── 陰市",
+      "委中 ── 承山",
+      "地機 ── 三陰交",
+      "足三里 ── 下巨虚"
+    ],
+    "answer": 3,
+    "explanation": "【解説】症例は深腓骨神経麻痺が考えられる。深腓骨神経は前脛骨筋、長母趾伸筋、長趾伸筋を支配し、足関節・足趾の背屈に働く。4の足三里－下巨虚は前脛骨筋上にある。足先が上がりにくいという症例なので4が適当である。\n1：伏兎－陰市は外側広筋上、2：委中は膝窩で承山は腓腹筋上、3：地機－三陰交は長趾屈筋上で足先を上げる作用はもたない筋の部位である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_26_131",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "神経・筋疾患",
+    "category_question_number": 92,
+    "round": 26,
+    "round_question_number": 131,
+    "question": "末梢神経麻痺と罹患筋への低周波鍼通電療法で用いる経穴との組合せで最も適切なのはどれか。",
+    "options": [
+      "橈骨神経麻痺 ── 手五里・温溜",
+      "正中神経麻痺 ── 尺沢・通里",
+      "深腓骨神経麻痺 ── 陽輔・懸鍾",
+      "脛骨神経麻痺 ── 条口・解渓"
+    ],
+    "answer": 0,
+    "explanation": "【解説】橈骨神経麻痺では長橈側手根伸筋や上腕三頭筋などが障害を受けるので、1：手五里・温溜の組合せが正解となる。2：正中神経麻痺では主に手関節屈筋群が障害を受けるが、尺沢は上腕二頭筋、通里は尺側手根屈筋（尺骨神経支配）なので誤り。3：深腓骨神経麻痺では前脛骨筋など下腿前方区画の筋が障害を受けるが、陽輔および懸鍾は短腓骨筋（浅腓骨神経支配）なので誤り。4：脛骨神経麻痺では下腿浅後方区画および深後方区画の筋が障害を受けるが、条口は前脛骨筋（深腓骨神経支配）、解渓は長母趾伸筋（深腓骨神経支配）なので誤り。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_23_119",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "神経・筋疾患",
+    "category_question_number": 93,
+    "round": 23,
+    "round_question_number": 119,
+    "question": "神経痛と局所治療穴の組合せで正しいのはどれか。",
+    "options": [
+      "大後頭神経痛 ── 天柱",
+      "小後頭神経痛 ── 脳戸",
+      "大耳介神経痛 ── 聴会",
+      "眼神経痛 ── 四白"
+    ],
+    "answer": 0,
+    "explanation": "【解説】1：大後頭神経は頸神経後枝で、頭半棘筋、僧帽筋などを貫き、後頭部から頭頂部の知覚を支配しており、周辺組織の絞扼などにより支配領域の痛みやしびれをきたす場合がある（大後頭神経痛）。天柱は僧帽筋起始部の外縁にあり、この部への施術は同症状の緩和につながる。2：小後頭神経支配領域は大後頭神経より外側であり、正中にある脳戸からは離れている。3：大耳介神経は側頸部、下顎、耳介外側の皮膚支配で、耳介前部にある聴会への施術の効果は期待しにくい。4：眼神経は三叉神経第1枝で眼窩上部を通り、前額、鼻部の知覚を支配している。四白は眼窩下部で、支配領域が異なる。よって正解は1。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_30_134",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "神経・筋疾患",
+    "category_question_number": 94,
+    "round": 30,
+    "round_question_number": 134,
+    "question": "頭部の神経痛と局所治療穴の組合せで正しいのはどれか。",
+    "options": [
+      "三叉神経痛（第1枝） ── 太陽",
+      "大後頭神経痛 ── 完骨",
+      "小後頭神経痛 ── 天柱",
+      "大耳介神経痛 ── 瘈脈"
+    ],
+    "answer": 3,
+    "explanation": "【解説】1：太陽は三叉神経第3枝領域、2：完骨は小後頭神経領域、3：天柱は大後頭神経領域、4：瘈脈は大耳介神経領域である。従って、大耳介神経痛の場合に瘈脈をとるのが正しい組合せとなる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_29_130",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "神経・筋疾患",
+    "category_question_number": 95,
+    "round": 29,
+    "round_question_number": 130,
+    "question": "特発性三叉神経痛の好発部位に対する局所治療穴として最も適切なのはどれか。",
+    "options": [
+      "陽白",
+      "四白",
+      "印堂",
+      "魚腰"
+    ],
+    "answer": 1,
+    "explanation": "【解説】三叉神経痛のうち痛みの原因が不明な特発性については血管圧迫によるものとの説があり原因不明とは言えないため、現在では突発性三叉神経痛とも呼ばれる。好発部位は第2枝領域が最も多く、次いで第3領域にみられる。第1枝領域は少ない。第2枝が出る眼窩下孔部の経穴は四白である。陽白、印堂、魚腰は第1枝領域となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_32_142",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "神経・筋疾患",
+    "category_question_number": 96,
+    "round": 32,
+    "round_question_number": 142,
+    "question": "三叉神経第2枝の神経痛に対する局所治療穴として適切なのはどれか。",
+    "options": [
+      "曲差",
+      "陽白",
+      "四白",
+      "大迎"
+    ],
+    "answer": 2,
+    "explanation": "【解説】1：曲差、2：陽白は三叉神経第1枝領域、4：大迎は三叉神経第3枝領域、3：四白は三叉神経第2枝領域に存在する経穴である。よって三叉神経第2枝の神経痛の局所治療穴としては3：四白を用いる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_25_135",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "呼吸器疾患",
+    "category_question_number": 97,
+    "round": 25,
+    "round_question_number": 135,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「68歳の男性。主訴は呼吸困難。体を動かすと呼吸が苦しくなる。樽状胸を呈し、痩せている。呼吸機能検査で1秒率の低下および胸部エックス線写真で肺野の透過性亢進を認めた。ブリンクマン指数は960。」\n\n本症例の疾患で最も考えられるのはどれか。",
+    "options": [
+      "気管支拡張症",
+      "肺癌",
+      "COPD",
+      "間質性肺炎"
+    ],
+    "answer": 2,
+    "explanation": "【解説】本症例の症状、所見、検査所見のすべてがCOPD（慢性閉塞性肺疾患）を疑うものである。\n1では慢性の咳嗽、大量の喀痰が特徴的な所見となる。2と4では3と同様の症状、所見が認められるが、胸部エックス線写真で透過性の低下（陰影）を認めることが多い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_25_136",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "呼吸器疾患",
+    "category_question_number": 98,
+    "round": 25,
+    "round_question_number": 136,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「68歳の男性。主訴は呼吸困難。体を動かすと呼吸が苦しくなる。樽状胸を呈し、痩せている。呼吸機能検査で1秒率の低下および胸部エックス線写真で肺野の透過性亢進を認めた。ブリンクマン指数は960。」\n\n本症例の呼吸機能を改善することを目的とした鍼治療で、最も適切な対象となる筋はどれか。",
+    "options": [
+      "大胸筋",
+      "棘上筋",
+      "菱形筋",
+      "前鋸筋"
+    ],
+    "answer": 0,
+    "explanation": "【解説】選択肢のうち、呼吸機能に最も関連が深いのは1：大胸筋で、両腕を広げて深呼吸する際に肋骨を引き上げて呼吸を補助する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_32_157",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "呼吸器疾患",
+    "category_question_number": 99,
+    "round": 32,
+    "round_question_number": 157,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「52歳の男性。3週間前に風邪を引き、現在も咳と軽度な息切れが残っている。近医で喘息と言われ気管支拡張剤を処方された。」\n\n気管支拡張剤が作用する受容体はどれか。",
+    "options": [
+      "ニコチン受容体",
+      "ムスカリン受容体",
+      "α受容体",
+      "β受容体"
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "explanation": "【解説】気管支拡張剤は主に抗コリン薬とβ₂刺激薬がある。抗コリン薬は気管支平滑筋のムスカリン受容体を競合的に阻害（アセチルコリンがムスカリン受容体に結合し、気管支平滑筋が収縮するのを阻害）することにより作用する。一方、β₂刺激薬は文字通り気管支平滑筋のβ₂受容体を介して作用する。したがって、本問は2：ムスカリン受容体と4：β₂受容体が答えとなる。",
+    "is_irregular": true,
+    "irregular_reason": "複数解答"
+  },
+  {
+    "id": "oriental_clinical_32_158",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "呼吸器疾患",
+    "category_question_number": 100,
+    "round": 32,
+    "round_question_number": 158,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「52歳の男性。3週間前に風邪を引き、現在も咳と軽度な息切れが残っている。近医で喘息と言われ気管支拡張剤を処方された。」\n\n本症例に対して奇穴を取穴する際、仮点を求めるために委中を用いるのはどれか。",
+    "options": [
+      "四華",
+      "患門",
+      "定喘",
+      "夾脊"
+    ],
+    "answer": 1,
+    "explanation": "【解説】仮点を求めるために委中を用いるのは2：患門で主治は呼吸器疾患や心臓疾患である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_23_137",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "循環器疾患",
+    "category_question_number": 101,
+    "round": 23,
+    "round_question_number": 137,
+    "question": "次の文で示す症例について下記の2問に答えよ。\n「65歳の男性。1か月前から右足の冷えと歩行中の痛みが出るようになった。休むと痛みが軽減し、再び歩くことができる。ただし、前屈み姿勢により痛みは変化しなかった。痛みの部位はふくらはぎと足底。動脈の触診では膝窩動脈の拍動を確認できたが、右側下腿の動脈拍動は減弱。」\n\n歩行中の痛みを起こす原因はどれか。",
+    "options": [
+      "L₅神経根の刺激",
+      "筋肉の虚血",
+      "末梢神経の炎症",
+      "筋肉の内圧上昇"
+    ],
+    "answer": 1,
+    "explanation": "【解説】歩行中に下肢の冷えと痛みが発現し、休憩によって回復する状態（間欠跛行）は、脊柱管狭窄症あるいは閉塞性動脈硬化症にみられる。本例の「前屈みにより痛みは変化しなかった」ことは、脊柱管狭窄による症状を否定する情報の一つとなる。さらに動脈の触診で下腿の動脈が減弱していることや冷えを伴うことから、循環障害である閉塞性動脈硬化症を疑うのが妥当であると考えられる。この場合は虚血が主な原因となる。よって正解は2。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_23_138",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "循環器疾患",
+    "category_question_number": 102,
+    "round": 23,
+    "round_question_number": 138,
+    "question": "次の文で示す症例について下記の2問に答えよ。\n「65歳の男性。1か月前から右足の冷えと歩行中の痛みが出るようになった。休むと痛みが軽減し、再び歩くことができる。ただし、前屈み姿勢により痛みは変化しなかった。痛みの部位はふくらはぎと足底。動脈の触診では膝窩動脈の拍動を確認できたが、右側下腿の動脈拍動は減弱。」\n\n拍動の減弱を呈する動脈に向けた刺鍼で、足の冷えと痛みを治療するのに適切な経穴はどれか。",
+    "options": [
+      "衝門",
+      "委中",
+      "太渓",
+      "太衝"
+    ],
+    "answer": 2,
+    "explanation": "【解説】下腿の動脈で閉塞性動脈硬化症の診断に際して触知する部位は、後脛骨動脈あるいは足背動脈である。これらの触知部付近にある経穴は3：太渓（後脛骨動脈）と4：太衝（足背動脈）の2つであるが、本例の症状は「ふくらはぎと足底」なので、動脈へのアプローチは、いずれかを選ぶ場合、中枢側に近いほうが、より適していると考えられる。よって3：太渓が適切である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_28_135",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "循環器疾患",
+    "category_question_number": 103,
+    "round": 28,
+    "round_question_number": 135,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「71歳の男性。100mの歩行で左下腿後面に絞扼痛が出現、休息で軽快。仰臥位で両下肢を挙上させ30秒足趾を屈伸させると患側足底部が白くなる。SLRテスト陰性。」\n\n身体診察で患側下肢にみられる所見はどれか。",
+    "options": [
+      "ケンプ徴候陽性",
+      "足底部の触覚鈍麻",
+      "アキレス腱反射減弱",
+      "足背動脈拍動減弱"
+    ],
+    "answer": 3,
+    "explanation": "【解説】ケンプ徴候は立位で患側に側屈した状態で背屈させた時、坐骨神経の走行に沿って疼痛が生じれば腰椎椎間孔圧迫、椎間板ヘルニア、腰部脊柱管狭窄が示唆され、屈側の腰部に限局した疼痛の場合は椎間関節性腰痛が疑われる。SLR陰性から、下位腰椎神経根に関連する症状は除外して考える。選択肢2と3の触覚鈍麻と腱反射減弱も神経根症状である例は多い。\n閉塞性動脈硬化症（arteriosclerosis obliterans: ASO）は、50歳以上の高齢男性に好発し、理学的所見として患側肢の皮膚温低下、皮膚は虚血によって蒼白からチアノーゼを呈し、閉塞・狭窄部位より末梢では動脈拍動は消失・減弱する。\n設問にあるのは挙上試験で、仰臥位で両下肢を挙上し、30〜60秒間足趾を屈伸させて足底部の色調を観察するものである。健側では色調の変化はないが、虚血側では蒼白になる。\nよって設問に該当するのは4の足背動脈拍動減弱である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_28_136",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "循環器疾患",
+    "category_question_number": 104,
+    "round": 28,
+    "round_question_number": 136,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「71歳の男性。100mの歩行で左下腿後面に絞扼痛が出現、休息で軽快。仰臥位で両下肢を挙上させ30秒足趾を屈伸させると患側足底部が白くなる。SLRテスト陰性。」\n\n本症例で、症状のある筋の支配神経近傍に刺鍼し、低周波鍼通電療法を行う場合、最も適切な経穴はどれか。",
+    "options": [
+      "陰廉",
+      "委中",
+      "足三里",
+      "陽陵泉"
+    ],
+    "answer": 1,
+    "explanation": "【解説】膝窩動脈は膝下部で下腿の3本の動脈（前脛骨動脈、後脛骨動脈、腓骨動脈）に分枝し、足部に血液を送る。下腿後面に絞扼痛があることから、下腿三頭筋の支配神経である脛骨神経への刺激が考えられ、2：委中は深部に脛骨神経が通るため、鍼通電点として適切である。1：陰廉は大腿神経、3：足三里は深腓骨神経、4：陽陵泉は浅腓骨神経支配の部位となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_24_123",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "腎・泌尿器疾患",
+    "category_question_number": 105,
+    "round": 24,
+    "round_question_number": 123,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「74歳の男性。農業に従事。主訴は頻尿と会陰部の不快感。10年前から尿が出始めるまでに時間がかかるようになった。就寝後、排尿のため2回は覚醒する。PSA値は正常範囲内である。会陰部の不快感が増強している。血尿、尿混濁は認めず、排尿痛はない。」\n\n本症例の疾患で最も適切なのはどれか。",
+    "options": [
+      "膀胱炎",
+      "膀胱結石",
+      "前立腺肥大症",
+      "前立腺癌の進行期"
+    ],
+    "answer": 2,
+    "explanation": "【解説】血尿や尿混濁がないことから、膀胱炎と膀胱結石は考えにくい。またPSAが正常範囲内であることから、前立腺癌が進行期にあることも考えにくい。よって前立腺肥大症が最も疑わしい。よって、正解は3。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_24_124",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "腎・泌尿器疾患",
+    "category_question_number": 106,
+    "round": 24,
+    "round_question_number": 124,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「74歳の男性。農業に従事。主訴は頻尿と会陰部の不快感。10年前から尿が出始めるまでに時間がかかるようになった。就寝後、排尿のため2回は覚醒する。PSA値は正常範囲内である。会陰部の不快感が増強している。血尿、尿混濁は認めず、排尿痛はない。」\n\n会陰部の症状緩和を目的に陰部神経への鍼施術を行う場合、刺鍼部位の目安となる体表点で最も適切なのはどれか。",
+    "options": [
+      "上後腸骨棘と坐骨結節下端内側を結ぶ線上の中点",
+      "大転子と上後腸骨棘を結ぶ線の中点から直角下方3cmの点",
+      "大転子と坐骨結節を結ぶ線上の内側3分の1の点",
+      "大転子と仙尾関節を結ぶ線上の外側3分の1の点"
+    ],
+    "answer": 0,
+    "explanation": "【解説】陰部神経への鍼施術における刺鍼部位は、1：上後腸骨棘と坐骨結節下端内側を結ぶ線上の中点である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_29_153",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "腎・泌尿器疾患",
+    "category_question_number": 107,
+    "round": 29,
+    "round_question_number": 153,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「72歳の男性。主訴は頻尿。難聴がある。トイレは我慢できるが、夜間に少量の尿失禁があり、前立腺肥大症と診断された。以前から腰が冷えてだるい。舌は淡、脈は弱を認める。」\n\n病態として最も適切なのはどれか。",
+    "options": [
+      "溢流性尿失禁",
+      "切迫性尿失禁",
+      "反射性尿失禁",
+      "腹圧性尿失禁"
+    ],
+    "answer": 0,
+    "explanation": "【解説】尿失禁とは、「尿の不随意の漏れがあって、他覚的に認められ、社会的にまたは衛生的にこれが問題となる状態」であり、主に4つに分類される。\n1：溢流性尿失禁は、膀胱に尿が充満した状態で、排出されないよう括約筋が調節する限界を越えて膀胱内へ加わる尿量の分が少しずつ溢れ出るもので、前立腺肥大が原因で起きることがある。よって正解は1である。\n2：切迫性尿失禁は強い尿意が突然起こり、トイレに間に合わずに失禁してしまうもので、膀胱炎などで生じる神経性と脳血流障害で生じる運動性がある。\n3：反射性尿失禁は、仙髄より上位の中枢障害により上位の抑制が利かず、少しの尿の貯留やわずかな刺激ですぐに排尿反射が起きるもので、脊髄損傷などによる。\n4：腹圧性尿失禁は、腹圧がかかることにより、くしゃみ、重い物を持ち上げた時などに起きる。中高年女性に多い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_29_154",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "腎・泌尿器疾患",
+    "category_question_number": 108,
+    "round": 29,
+    "round_question_number": 154,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「72歳の男性。主訴は頻尿。難聴がある。トイレは我慢できるが、夜間に少量の尿失禁があり、前立腺肥大症と診断された。以前から腰が冷えてだるい。舌は淡、脈は弱を認める。」\n\n治療方針として最も適切なのはどれか。",
+    "options": [
+      "陰液を補う。",
+      "陽気を補う。",
+      "精の漏出を防ぐ。",
+      "痰を取り除く。"
+    ],
+    "answer": 1,
+    "explanation": "【解説】難聴、腰の症状、冷えから腎陽虚と考えられ。腎の作用に固摂作用がある。腎気虚では腎気不固で頻尿・遺尿となり、腎気虚が進行すると腎陽虚となる。よって、2：「陽気を補う」が適切である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_31_134",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "代謝・内分泌疾患",
+    "category_question_number": 109,
+    "round": 31,
+    "round_question_number": 134,
+    "question": "糖尿病性末梢神経障害に特徴的な所見はどれか。",
+    "options": [
+      "両側内果の振動覚低下",
+      "宙吊り型の解離性感覚障害",
+      "下肢から上行性に広がる弛緩性麻痺",
+      "しびれより筋力低下が顕著な上肢の神経障害"
+    ],
+    "answer": 0,
+    "explanation": "【解説】糖尿病性末梢神経障害は左右対称性の足部から始まるしびれ、感覚低下や感覚異常が特徴的である。典型的な感覚障害（しびれ、感覚低下など）は手袋靴下型を呈する。また検査所見ではアキレス腱反射の減弱または消失、1：両側内果の振動覚低下を認める。2：宙吊り型の解離性感覚障害の所見は脊髄空洞症、3：下肢から上行性に広がる弛緩性麻痺はギラン・バレー症候群、4：しびれより筋力低下が顕著な上肢の神経障害は頸椎症性筋萎縮症でみられる所見である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_28_118",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "自己免疫疾患",
+    "category_question_number": 110,
+    "round": 28,
+    "round_question_number": 118,
+    "question": "次の文で示す症例の治療方針として調整すべき経絡で最も適切なのはどれか。\n「33歳の女性。主訴は全身の痛み。3年前から全身の疼痛に悩まされ、最近になって線維筋痛症と診断された。食欲がなく、雨天時には特に調子が悪く、起き上がることもできない。」",
+    "options": [
+      "陰維脈",
+      "陰蹻脈",
+      "脾の大絡",
+      "胃の大絡"
+    ],
+    "answer": 2,
+    "explanation": "【解説】脾の大絡は大包であり、霊枢経脈篇の十五絡の記述には、「脾之大絡名曰大包（中略）実則身尽痛（脾の大絡は名付けて大包という。実すれば則ち身尽く痛む）」とあり、「実すると全身が痛む」の意である。これは線維筋痛症の症状でもあり、3年前からとの設問の記述から、病が内に入った所生病と考えられる。食欲がなく、動けないという設問後半の記述は霊枢経脈篇の脾の所生病の項にある。湿が停滞するために起きる症状であり、雨天時は悪化する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_23_126",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "運動器疾患",
+    "category_question_number": 111,
+    "round": 23,
+    "round_question_number": 126,
+    "question": "次の文で示す症例について、施術対象となる椎間関節部位で最も適切なのはどれか。\n「19歳の男性。体操競技選手。体幹のひねり動作時に腰部に違和感を訴え、近医にて分離すべり症と診断された。母趾の背屈力が弱い。」",
+    "options": [
+      "L₂−L₃間",
+      "L₃−L₄間",
+      "L₄−L₅間",
+      "L₅−S₁間"
+    ],
+    "answer": 3,
+    "explanation": "【解説】母趾の背屈は長母趾伸筋（EHL）の動作であり、L5レベルの障害を判定するのに有用である。脊椎分離症は、脊椎の椎弓を構成する上・下関節突起間で骨の連続性が断たれた（分離した）状態で、これが両側に起こると椎体が前方に滑る（すべり症）場合がある。腰椎分離すべり症はスポーツなど腰椎の過度の負荷によって起こることが多く、第5腰椎によくみられ、L5−S1レベルの症状を引き起こす。症例の発症機転と所見および近医の診断結果から、第5腰椎分離すべり症が最も疑わしい。正解は4。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_31_135",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "運動器疾患",
+    "category_question_number": 112,
+    "round": 31,
+    "round_question_number": 135,
+    "question": "次の文で示す症例で将来起こりうる徴候はどれか。\n「生後6か月の乳児。仰臥位で寝かせたときに右の大腿皮膚溝が左と比べて数が多く、深く、長い。右股関節の開排制限もある。」",
+    "options": [
+      "アリス徴候",
+      "ガワーズ徴候",
+      "レルミット徴候",
+      "ロンベルグ徴候"
+    ],
+    "answer": 0,
+    "explanation": "【解説】発育性股関節形成不全が考えられる症例である。本症例で起こりうる徴候は1：アリス徴候である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_32_155",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "（産）婦人科疾患",
+    "category_question_number": 113,
+    "round": 32,
+    "round_question_number": 155,
+    "question": "次の文で示す病証について、下記の2問に答えよ。\n「34歳の女性。不妊症で来院。月経量は少なく、経遅がある。少し動いただけで短気が生じ、四肢厥冷もある。最近は腰膝酸軟を伴う。舌は淡で胖大、脈は沈遅を認める。」\n\n本病証に最も随伴しやすいのはどれか。",
+    "options": [
+      "五更泄瀉",
+      "消穀善飢",
+      "項背強",
+      "目渋"
+    ],
+    "answer": 0,
+    "explanation": "【解説】腎陽虚の症例である。1：五更泄瀉は夜明け前にみられる下痢で、腎陽虚や脾腎陽虚にみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_32_156",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "（産）婦人科疾患",
+    "category_question_number": 114,
+    "round": 32,
+    "round_question_number": 156,
+    "question": "次の文で示す病証について、下記の2問に答えよ。\n「34歳の女性。不妊症で来院。月経量は少なく、経遅がある。少し動いただけで短気が生じ、四肢厥冷もある。最近は腰膝酸軟を伴う。舌は淡で胖大、脈は沈遅を認める。」\n\n本病証の治療穴として最も適切な背部兪穴の高さはどれか。",
+    "options": [
+      "第3胸椎棘突起下縁",
+      "第9胸椎棘突起下縁",
+      "第12胸椎棘突起下縁",
+      "第2腰椎棘突起下縁"
+    ],
+    "answer": 3,
+    "explanation": "【解説】腎陽虚の症例のため4：第2腰椎棘突起下縁の高さにある腎兪を治療穴として用いる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_24_129",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "小児疾患",
+    "category_question_number": 115,
+    "round": 24,
+    "round_question_number": 129,
+    "question": "次の文で示す患者の仙骨部に施灸する場合、最も適切なのはどれか。\n「5歳の男児。夜間の遺尿が続いている。鍼灸治療は初めて。」",
+    "options": [
+      "焦灼灸",
+      "打膿灸",
+      "知熱灸",
+      "透熱灸"
+    ],
+    "answer": 2,
+    "explanation": "【解説】対象とする患者が小児なので、基本的に刺激量は少ないほうが適切である。選択肢のうち、最も刺激量が少ないのは3：知熱灸である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_26_119",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "皮膚疾患",
+    "category_question_number": 116,
+    "round": 26,
+    "round_question_number": 119,
+    "question": "次の文で示す患者の病証に対する治療方針で最も適切なのはどれか。\n「24歳の男性。主訴は頸から上の痒み。以前からアトピー性皮膚炎による痒みがあったが、症状の変化が激しくなってきた。悪化すると滲出性になる。普段から甘いものを好み、過食すると悪化する。舌苔は白膩、脈は滑。」",
+    "options": [
+      "風寒の邪を除く。",
+      "運化作用を高め、湿を化す。",
+      "血を養い、燥を潤す。",
+      "血熱を除く。"
+    ],
+    "answer": 1,
+    "explanation": "【解説】本症例の病証は、普段から甘いものが好みであり、過食すると悪化すること、悪化すると滲出性になること、白膩苔、脈滑であることから、風湿によるものと考えられる。治療方針としては、健脾化湿となるので2が正解。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_25_132",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "口腔・歯の疾患",
+    "category_question_number": 117,
+    "round": 25,
+    "round_question_number": 132,
+    "question": "下顎を挙上し後方移動すると顎関節が痛む場合、主動作筋への局所治療穴として最も適切なのはどれか。",
+    "options": [
+      "下関",
+      "曲鬢",
+      "顴髎",
+      "頬車"
+    ],
+    "answer": 1,
+    "explanation": "【解説】下顎の挙上および後方移動（引き戻し）を行う主動作筋は、側頭筋である。側頭筋上にある経穴は、2：曲鬢となる。1は咬筋および外側翼突筋、3は小頬骨筋および大頬骨筋、4は咬筋に該当する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_30_131",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "口腔・歯の疾患",
+    "category_question_number": 118,
+    "round": 30,
+    "round_question_number": 131,
+    "question": "顎関節症患者に対して下顎骨の前方移動の作用がある筋を刺激する場合、最も適切なのはどれか。",
+    "options": [
+      "下関",
+      "牽正",
+      "大迎",
+      "太陽"
+    ],
+    "answer": 0,
+    "explanation": "【解説】下関は外側翼突筋、牽正と大迎は咬筋、太陽は側頭筋に関与し、いずれも咀嚼筋であり下顎骨の運動に関わる。下顎の前方移動は外側翼突筋の作用であり、下関は外側翼突筋上にあるのでこれが正解となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_32_139",
+    "subject": "oriental_clinical",
+    "category": "acupuncture_moxibustion_diseases",
+    "sub_category": "口腔・歯の疾患",
+    "category_question_number": 119,
+    "round": 32,
+    "round_question_number": 139,
+    "question": "顎関節症に対する局所治療穴とその対象となる筋の組合せで最も適切なのはどれか。",
+    "options": [
+      "禾髎 ── 咬筋",
+      "瘈脈 ── 側頭筋",
+      "下関 ── 外側翼突筋",
+      "懸顱 ── 内側翼突筋"
+    ],
+    "answer": 2,
+    "explanation": "【解説】顎関節症に対する局所治療として対象となる筋は咀嚼筋（咬筋・側頭筋・外側翼突筋・内側翼突筋）で、治療穴と筋の組み合わせで適切なのは3：下関ー外側翼突筋である。なお、下関の直下には咬筋があり更にその深部に外側翼突筋がある。禾髎は口輪筋、瘈脈は後耳介筋、懸顱は側頭筋上にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_23_122",
+    "subject": "oriental_clinical",
+    "category": "知っておく疾患",
+    "sub_category": "自己免疫疾患",
+    "category_question_number": 120,
+    "round": 23,
+    "round_question_number": 122,
+    "question": "シェーグレン症候群のドライマウスに対する低周波鍼通電療法の刺鍼部位で最も適切なのはどれか。",
+    "options": [
+      "翳風と下関",
+      "陽白と瞳子髎",
+      "頷厭と率谷",
+      "完骨と天柱"
+    ],
+    "answer": 0,
+    "explanation": "【解説】シェーグレン症候群では唾液分泌が低下し、ドライマウスとなる場合がある。最大の唾液分泌腺である耳下腺は耳介部から頬にかけて存在し、この部分への刺激は唾液分泌を促進する可能性がある。選択肢のうち、上記部位に最も近いのは1である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_31_136",
+    "subject": "oriental_clinical",
+    "category": "知っておく疾患",
+    "sub_category": "耳鼻咽喉科疾患",
+    "category_question_number": 121,
+    "round": 31,
+    "round_question_number": 136,
+    "question": "次の文で示す症例で最も適切な所見はどれか。\n「40歳の女性。半年前から回転性のめまい発作に苦しむ。耳鳴り、難聴、耳閉塞感が生じる。悪心・嘔吐を伴うこともある。カロリックテスト陰性。」",
+    "options": [
+      "失調性歩行がみられる。",
+      "難聴は感音性である。",
+      "グリセロール検査は陰性である。",
+      "特定の頭位でめまい発作が生じる。"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "【解説】文中のカロリックテストとは左右それぞれの外耳道に冷水と温水を交互に注入することで内耳（外側半規管）を刺激し、眼振を誘発する検査である。末梢の前庭機能、特に外側半規管由来の前庭動眼反射の機能を検査する。評価は誘発された眼振の持続時間を記録して行う。したがって文中の「カロリックテスト陰性」との表現は誤りで、設問そのものが不適切と言える。したがって、全選択肢が正解となる。なお本症例をメニエール病として考えた場合、メニエール病の難聴は2：感音性である。また、メニエール病では3：グリセロール検査は陽性となる。",
+    "is_irregular": true,
+    "irregular_reason": "複数解答"
+  },
+  {
+    "id": "oriental_clinical_27_126",
+    "subject": "oriental_clinical",
+    "category": "知っておく疾患",
+    "sub_category": "その他",
+    "category_question_number": 122,
+    "round": 27,
+    "round_question_number": 126,
+    "question": "レイノー現象を呈する患者の局所へ低周波鍼通電療法を行う場合、最も適切なのはどれか。",
+    "options": [
+      "八邪",
+      "四華",
+      "闌尾",
+      "四神聡"
+    ],
+    "answer": 0,
+    "explanation": "【解説】レイノー現象は、血管攣縮により手指などに皮膚の色調変化がみられるものをいう。手指末端に多くみれるが、足部末端、耳、鼻、舌、口唇にもみられる。\n寒冷刺激や精神的緊張により手指の血管攣縮となり、手指が蒼白となり、指のしびれ、冷感、疼痛、知覚低下などを伴う。数分後にはチアノーゼで色調は紫となり、その後低酸素によって血管が拡張するため、皮膚の色は赤となり、正常に復する。\n1：八邪は中手指節関節の間であるので、これが正しい。2：四華は背部、3：闌尾は下腿、4：四神聡は頭頂部であるため、レイノー現象の起きる部位として適当ではない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_27_139",
+    "subject": "oriental_clinical",
+    "category": "高齢者に対する鍼灸施術",
+    "sub_category": "高齢者疾患に対する鍼灸治療",
+    "category_question_number": 1,
+    "round": 27,
+    "round_question_number": 139,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「78歳の女性。主訴は疲労感。最近、疲れやすく、動くのが面倒になった。意欲が低下し、食欲も減退している。病院ではサルコペニアと言われた。」\n\n本症例の診断に用いないのはどれか。",
+    "options": [
+      "握力",
+      "歩行速度",
+      "骨格筋量",
+      "酸素飽和度"
+    ],
+    "answer": 3,
+    "explanation": "【解説】サルコペニアは加齢により3：骨格筋量が減少し、筋力低下と身体機能の低下がみられる。選択肢3の骨格筋量が減ることで、1：握力と2：歩行速度も低下することになる。したがって、関連しないのは4：酸素飽和度である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_27_140",
+    "subject": "oriental_clinical",
+    "category": "高齢者に対する鍼灸施術",
+    "sub_category": "高齢者疾患に対する鍼灸治療",
+    "category_question_number": 2,
+    "round": 27,
+    "round_question_number": 140,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「78歳の女性。主訴は疲労感。最近、疲れやすく、動くのが面倒になった。意欲が低下し、食欲も減退している。病院ではサルコペニアと言われた。」\n\n本症例の病証で最もみられる脈状はどれか。",
+    "options": [
+      "滑脈",
+      "結脈",
+      "緩脈",
+      "弦脈"
+    ],
+    "answer": 2,
+    "explanation": "【解説】3：緩脈は緩やかだが一息に4拍程度で、遅脈（一息3拍以下）よりは速いものをいう。湿証や脾胃虚弱でみられる。脾胃虚弱、脾気虚により運化が失調し、生理物質の化生ができなくなる。気虚のため倦怠感、無気力などの症状もみられる。また食欲不振により後天の精が減少すると、筋の減少にもつながる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_30_135",
+    "subject": "oriental_clinical",
+    "category": "高齢者に対する鍼灸施術",
+    "sub_category": "高齢者疾患に対する鍼灸治療",
+    "category_question_number": 3,
+    "round": 30,
+    "round_question_number": 135,
+    "question": "サルコペニアの症状はどれか。",
+    "options": [
+      "知人の名前が思い出せなくなってきた。",
+      "油っこいものを食べることが減ってきた。",
+      "歩くスピードが遅くなってきた。",
+      "夜間のトイレの回数が多くなってきた。"
+    ],
+    "answer": 2,
+    "explanation": "【解説】サルコペニアは加齢によって骨格筋量が減少し、筋力低下と身体機能低下となるものである。よって歩行速度低下が当てはまる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_25_117",
+    "subject": "oriental_clinical",
+    "category": "高齢者に対する鍼灸施術",
+    "sub_category": "高齢者疾患に対する鍼灸治療",
+    "category_question_number": 4,
+    "round": 25,
+    "round_question_number": 117,
+    "question": "次の文で示す患者の病証で最も適切なのはどれか。\n「82歳の女性。主訴は腰痛。頻尿があり、くしゃみなどで失禁することがある。」",
+    "options": [
+      "腎陽虚",
+      "腎精不足",
+      "腎不納気",
+      "腎気不固"
+    ],
+    "answer": 3,
+    "explanation": "【解説】主訴は腰痛であるが、これを随伴症状としてとらえ、頻尿を中心に考える。82歳の高齢者であること、失禁（腹圧性尿失禁）があること、そして腰痛を伴うことから、4：腎気不固による腰痛および頻尿と考える。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_26_127",
+    "subject": "oriental_clinical",
+    "category": "高齢者に対する鍼灸施術",
+    "sub_category": "高齢者疾患に対する鍼灸治療",
+    "category_question_number": 5,
+    "round": 26,
+    "round_question_number": 127,
+    "question": "次の文で示す症例に対する鍼灸の効果を評価するのに最も適切なのはどれか。\n「62歳の女性。主訴は肩こり。半年ほど前から興味や喜びがわかなくなり、食欲が減退し、よく眠れず朝早く目が覚める。疲れやすく思考力が低下している。幻覚や記憶の障害はなく、動悸、めまいもない。」",
+    "options": [
+      "改訂長谷川式簡易知能評価スケール",
+      "ハミルトン評価尺度",
+      "タイムドアップアンドゴーテスト",
+      "ロコモ度テスト"
+    ],
+    "answer": 1,
+    "explanation": "【解説】患者の訴えからうつ病の可能性が考えられるので、2：ハミルトン評価尺度（ハミルトンうつ病評価スケール）が正解。1：改訂長谷川式簡易知能評価スケール（HDS-R）は、認知症の評価スケール。3：タイムドアップアンドゴーテスト（Timed up and go test : TUG）は、歩行能力や動的バランスを統合した機能的移動能力の評価スケール。4：ロコモ度テストは、ロコモティブシンドローム（運動器症候群）の評価スケール。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_32_140",
+    "subject": "oriental_clinical",
+    "category": "高齢者に対する鍼灸施術",
+    "sub_category": "高齢者疾患に対する鍼灸治療",
+    "category_question_number": 6,
+    "round": 32,
+    "round_question_number": 140,
+    "question": "改訂長谷川式簡易知能評価スケール（HDS-R）にはなく、MMSEにある評価項目はどれか。",
+    "options": [
+      "計算",
+      "図形模写",
+      "時間の見当識",
+      "単語の直後再生"
+    ],
+    "answer": 1,
+    "explanation": "【解説】改訂版長谷川式簡易知能評価スケールは見当識・記憶・計算・言語能力を評価し、MMSEは見当識・記憶・計算・言語能力・図形能力を評価する。したがって、図形能力（図形模写）がMMSEにのみある評価項目である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_24_130",
+    "subject": "oriental_clinical",
+    "category": "高齢者に対する鍼灸施術",
+    "sub_category": "高齢者疾患に対する鍼灸治療",
+    "category_question_number": 7,
+    "round": 24,
+    "round_question_number": 130,
+    "question": "高齢者の運動器の機能評価に用いるのはどれか。",
+    "options": [
+      "PGCモラールスケール",
+      "MMSE",
+      "バーセルインデックス",
+      "ロコモ度テスト"
+    ],
+    "answer": 3,
+    "explanation": "【解説】選択肢のうち、1：PGCモラールスケールは、高齢者のQOL評価に用いられる。2：MMSEは、認知症の診断用に用いられる質問法である。3：バーセルインデックスは日常機能（ADL）評価に用いられるものであり、4：ロコモ度テストは、①下肢筋力、②歩幅、③身体状態・生活状況を評価する3つのテストを行い、これらのテスト結果を年齢平均値と比較することによって、年齢相応の移動能力を維持しているかを判定するものであり、幅広い年齢層に用いられる。したがって、正解は4。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_25_129",
+    "subject": "oriental_clinical",
+    "category": "高齢者に対する鍼灸施術",
+    "sub_category": "高齢者疾患に対する鍼灸治療",
+    "category_question_number": 8,
+    "round": 25,
+    "round_question_number": 129,
+    "question": "次の文で示す高齢者の機能評価はどれか。\n「椅子から立ち上がり、3m先の目印を回って、再び椅子に座るまでの歩行時間を測定する。」",
+    "options": [
+      "PCGモラールスケール",
+      "ロコモ度テスト",
+      "タイムドアップアンドゴーテスト",
+      "バーセルインデックス"
+    ],
+    "answer": 2,
+    "explanation": "【解説】問題文にある手順で行う検査は3のタイムドアップアンドゴーテスト（TUG）で、歩行能力や動的バランスなどを評価する。高齢者の歩行機能の評価のみならず、歩行障害を呈する他の疾患の歩行機能評価にも用いられる。1は、高齢者の人生に対する満足感や楽天的思考などを評価する自己記入式の尺度。2は、日本整形外科学会によるロコモティブシンドロームのリスクを判定する尺度。4は、基本的生活動作を評価する尺度である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_27_127",
+    "subject": "oriental_clinical",
+    "category": "高齢者に対する鍼灸施術",
+    "sub_category": "高齢者疾患に対する鍼灸治療",
+    "category_question_number": 9,
+    "round": 27,
+    "round_question_number": 127,
+    "question": "高齢者の歩行能力に対する鍼治療の効果を評価するのに最も適切なのはどれか。",
+    "options": [
+      "RDQ",
+      "改訂PGCモラールスケール",
+      "ハミルトン評価尺度",
+      "タイムドアップアンドゴーテスト"
+    ],
+    "answer": 3,
+    "explanation": "【解説】1：RDQ（Roland-Morris Disability Questionnaire）は、腰痛による日常生活での障害を患者自身で評価する尺度である。\n2：改訂PGCモラールスケールでは心理的動揺、老いに対する態度、孤独感・不満足感を測定し、主観的QOLを評価する。モラール（morale）とは気力、士気のことであり、高齢者の研究に導入され、満足感や自らの居場所があることを感じているかなどの概念となった。\n3：ハミルトン評価尺度は不安評価尺度およびうつ病評価尺度があり、不安神経症、うつ病のさまざまな症状を評価するものである。\n4：タイムドアップアンドゴーテストは、椅子から立ち上がり、3メートル先にある目印（ポールなど）を回り、再度、椅子に座るまでの時間を測定するもので、立ち上がり→歩く力→方向転換→座るの一連の動作を評価する。\nよって、正解は4である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_27_134",
+    "subject": "oriental_clinical",
+    "category": "高齢者に対する鍼灸施術",
+    "sub_category": "高齢者疾患に対する鍼灸治療",
+    "category_question_number": 10,
+    "round": 27,
+    "round_question_number": 134,
+    "question": "より高次な生活能力を評価する指標（老研式活動能力指標）に含まれる項目はどれか。",
+    "options": [
+      "髪を整える",
+      "衣服の着脱",
+      "階段の昇降",
+      "銀行預金の出し入れ"
+    ],
+    "answer": 3,
+    "explanation": "【解説】日常生活活動度（ADL）とは、人が生活するための活動能力のことで、手段的日常生活動作能力検査（Instrumental ADL : IADL）の評価である老研式活動能力指標は13項目からなり、手段的ADLスコア（5点満点）、知的ADLスコア（4点満点）、社会的ADLスコア（4点満点）でそれぞれのADLの評価を行う。\n4：「銀行預金、郵便貯金の出し入れが自分でできますか」といった質問は、手段的ADLに含まれる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_28_132",
+    "subject": "oriental_clinical",
+    "category": "高齢者に対する鍼灸施術",
+    "sub_category": "高齢者疾患に対する鍼灸治療",
+    "category_question_number": 11,
+    "round": 28,
+    "round_question_number": 132,
+    "question": "高齢者に対する評価法とその目的との組合せで正しいのはどれか。",
+    "options": [
+      "バーセルインデックス ── 認知症の評価",
+      "改訂PGCモラールスケール ── 歩行機能の評価",
+      "MMSE ── ADLの評価",
+      "ハミルトン評価尺度 ── 抑うつ状態の評価"
+    ],
+    "answer": 3,
+    "explanation": "【解説】1：バーセルインデックスは、基本的ADLの評価である。食事、車椅子からベッドへの移動、整容などの10項目からなり、自立度に応じて15・10・5・0点で採点する。2：改訂PGCモラールスケールは問題9参照。3：MMSE（Mini-Mental State Examination）、精神状態短時間検査は、認知症スクリーニング検査であり、実施が容易で臨床的有用性が高いことから、広く使用される。4：ハミルトン評価尺度には不安神経症を評価する不安評価尺度（HAM-A）・うつ病を評価するうつ病評価尺度（HAM-D）があり、HAM-Dは17項目または21項目の質問によって、うつ病の重症度を客観的に評価するものである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_30_136",
+    "subject": "oriental_clinical",
+    "category": "高齢者に対する鍼灸施術",
+    "sub_category": "高齢者疾患に対する鍼灸治療",
+    "category_question_number": 12,
+    "round": 30,
+    "round_question_number": 136,
+    "question": "次の文で示す症例で、鍼灸治療の効果を評価するのに最も適切なのはどれか。\n「65歳の女性。1年前から生活に充実感がなく、気持ちが沈む。倦怠感、食欲不振を伴う。幻覚や記憶障害はない。」",
+    "options": [
+      "改訂長谷川式簡易知能評価スケール",
+      "タイムドアップアンドゴーテスト",
+      "バーセル・インデックス",
+      "ハミルトン評価尺度"
+    ],
+    "answer": 3,
+    "explanation": "【解説】1：改訂長谷川式簡易知能評価スケールは、年齢、日時の見当識、場所の見当識、3つの言葉の記銘、計算、数字の逆唱、3つの言葉の想起、5つの物品記銘、野菜の名前という9項目の質問で構成され、最高得点は30点である。動作性検査が含まれていないので検査の負担が少なくて済む。\n2：タイムドアップアンドゴーテストは、問題9を参照。\n3：バーセル・インデックスと4：ハミルトン評価尺度は問題11を参照。\n気持ちが沈む、記憶障害はないという症例から、ハミルトン評価尺度が適切である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_31_137",
+    "subject": "oriental_clinical",
+    "category": "高齢者に対する鍼灸施術",
+    "sub_category": "高齢者疾患に対する鍼灸治療",
+    "category_question_number": 13,
+    "round": 31,
+    "round_question_number": 137,
+    "question": "高齢者に対する評価法とその内容の組合せで最も適切なのはどれか。",
+    "options": [
+      "タイムドアップアンドゴーテスト ── 主観的QOL",
+      "ファンクショナルリーチテスト ── ADL",
+      "バーセル・インデックス ── 立位動的バランスの状態",
+      "ロコモ度テスト ── 年齢相応の移動能力"
+    ],
+    "answer": 3,
+    "explanation": "【解説】4：ロコモ度テストは同年代の平均と比較して、移動能力を評価するテストである。2：ファンクショナルリーチテストはバランス能力を評価するテストである。問題9、11の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_25_137",
+    "subject": "oriental_clinical",
+    "category": "スポーツ領域における鍼灸治療",
+    "sub_category": "スポーツ障害の一般",
+    "category_question_number": 1,
+    "round": 25,
+    "round_question_number": 137,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「23歳の女性。体操の選手で運動性無月経がみられる。東洋医学的所見では顔色は白く、肌につやがない。舌は淡白、脈は細。」\n\n本症例の無月経の原因で適切なのはどれか。",
+    "options": [
+      "貧血",
+      "利用できるエネルギー不足",
+      "プロゲステロン不足",
+      "高プロラクチン血症"
+    ],
+    "answer": 1,
+    "explanation": "【解説】運動性無月経は続発性無月経に分類され、その原因は2：利用可能なエネルギーの不足（Low energy availability）のほか、精神的・身体的ストレスや体重・体脂肪の減少、ホルモン環境の変化などが挙げられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_25_138",
+    "subject": "oriental_clinical",
+    "category": "スポーツ領域における鍼灸治療",
+    "sub_category": "スポーツ障害の一般",
+    "category_question_number": 2,
+    "round": 25,
+    "round_question_number": 138,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「23歳の女性。体操の選手で運動性無月経がみられる。東洋医学的所見では顔色は白く、肌につやがない。舌は淡白、脈は細。」\n\n本症例の病証で最も適切なのはどれか。",
+    "options": [
+      "陽虚証",
+      "表虚証",
+      "血虚証",
+      "陰虚証"
+    ],
+    "answer": 2,
+    "explanation": "【解説】顔色白、肌のつやがない、舌淡白、脈細などの所見は3：血虚証の所見である。また、血が不足することにより女子胞（胞宮）に供給される血量が減少し、無月経をきたしていると考えられる。陽虚証では寒がり、四肢の冷え、倦怠感、食欲不振など、表虚証では悪寒・発熱、頭痛、背部のこわばりなど、陰虚証では五心煩熱、盗汗（寝汗）、消痩などの症状が現れる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_31_157",
+    "subject": "oriental_clinical",
+    "category": "スポーツ領域における鍼灸治療",
+    "sub_category": "スポーツ障害の一般",
+    "category_question_number": 3,
+    "round": 31,
+    "round_question_number": 157,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「18歳の女性。新体操の選手で毎日の激しい練習と無理なダイエットをしていたら月経が止まった。近医で、利用できるエネルギー不足が原因の運動性無月経と言われた。」\n\n同じ原因で起こる合併症として最も考えられるのはどれか。",
+    "options": [
+      "子宮筋腫",
+      "骨粗鬆症",
+      "円形脱毛症",
+      "過敏性腸症候群"
+    ],
+    "answer": 1,
+    "explanation": "【解説】運動性無月経（視床下部性無月経）は摂取エネルギーと消費エネルギーのアンバランスから生体の機能維持に利用できるエネルギーの相対的な不足が原因となって発症する。また視床下部性無月経ではエストロゲンの分泌が減少するため、骨吸収が増加し2：骨粗鬆症をきたす。利用可能エネルギー不足・視床下部性無月経・骨粗鬆症の3つを女性アスリートの3主徴と呼ぶ。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_31_158",
+    "subject": "oriental_clinical",
+    "category": "スポーツ領域における鍼灸治療",
+    "sub_category": "スポーツ障害の一般",
+    "category_question_number": 4,
+    "round": 31,
+    "round_question_number": 158,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「18歳の女性。新体操の選手で毎日の激しい練習と無理なダイエットをしていたら月経が止まった。近医で、利用できるエネルギー不足が原因の運動性無月経と言われた。」\n\n無月経に対し、胞宮から起こる経脈に治療する場合、最も適切な奇経はどれか。",
+    "options": [
+      "衝脈",
+      "帯脈",
+      "陰維脈",
+      "陰蹻脈"
+    ],
+    "answer": 0,
+    "explanation": "【解説】胞宮から起こる経脈は1：衝脈である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_25_128",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 5,
+    "round": 25,
+    "round_question_number": 128,
+    "question": "次の文で示す症例で罹患筋を対象に施術する場合、最も適切なのはどれか。\n「32歳の男性。野球チームでピッチャーをしている。最近、投球動作でフォロースルー期に肩後方の痛みを感じるようになった。」",
+    "options": [
+      "前鋸筋",
+      "小胸筋",
+      "肩甲下筋",
+      "小円筋"
+    ],
+    "answer": 3,
+    "explanation": "【解説】フォロースルー期に肩・上肢にかかる負荷として、上腕三頭筋の収縮と肩外転・外旋に働く筋への牽引力がある。特に肩外転・外旋に働く筋は、リリース期からフォロースルー期にかけて収縮状態から急激に遠心力による牽引負荷がかかる。選択肢中で肩外転・外旋に関与する筋は、4の小円筋なので正解となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_29_136",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 6,
+    "round": 29,
+    "round_question_number": 136,
+    "question": "次の文で示す症例の罹患筋に対する刺鍼部位として最も適切なのはどれか。\n「20歳の男性。右利き投手。オーバースロー投球時のコッキング期に右肩峰の前下方に痛みが出る。インピンジメントテスト陽性。」",
+    "options": [
+      "秉風",
+      "肩貞",
+      "天宗",
+      "肩外兪"
+    ],
+    "answer": 0,
+    "explanation": "【解説】野球肩は投球動作により起こる肩関節傷害の総称で、インピンジメント症候群はその代表である。他に滑液包炎、棘上筋腱炎、上腕二頭筋腱炎、リトルリーグ肩などが含まれる。投球時のコッキング期には腕は体の後ろに位置し、肩は外転・外旋位である。インピンジメント症候群は、肩関節が90度以上の外転位で外旋から内旋へ移行すると、上腕骨頭が肩峰、肩鎖関節、烏口突起などに衝突して、肩峰下滑液包、上腕二頭筋長頭腱炎、棘上筋腱損傷が起きるもので、腱板断裂の原因ともなる。\n経穴と筋の関係は、1：秉風は棘上筋、2：肩貞は三角筋・小円筋・上腕三頭筋・大円筋、3：天宗は棘下筋、4：肩外兪は肩甲挙筋上にあり、この設問に最も関連するのは棘上筋であり、1：秉風が正解となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_30_137",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 7,
+    "round": 30,
+    "round_question_number": 137,
+    "question": "次の文で示す症例の治療対象となる筋で最も適切なのはどれか。\n「40歳の女性。運動不足解消のためテニスを始めたところ、バックハンドストロークの際に肘の痛みを自覚するようになった。」",
+    "options": [
+      "短橈側手根伸筋",
+      "尺側手根屈筋",
+      "腕橈骨筋",
+      "円回内筋"
+    ],
+    "answer": 0,
+    "explanation": "【解説】バックハンドテニス肘の設問である。バックハンドストロークでの痛みなので伸筋群がつく外側上顆の痛みと考えられる。1：短橈側手根伸筋は手関節の伸展を行い外側上顆につく。\n2：尺側手根屈筋、4：円回内筋は内側上顆につく屈筋である。3：腕橈骨筋は上腕骨下部外側に起始し、外側面のため伸筋群に分類されるが作用は肘関節の屈曲である。\n選択肢の中でバックハンドストローク時の伸展に関与するのは短橈側手根伸筋である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_27_122",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 8,
+    "round": 27,
+    "round_question_number": 122,
+    "question": "次の文で示す患者の病態に対し、罹患局所への施術対象となる経穴で最も適切なのはどれか。\n「28歳の女性。テニスを10年続けて上級者となってきた。2週間ほど前から肘の内側に痛みを感じるようになった。熱感や腫脹はない。」",
+    "options": [
+      "肺経の絡穴",
+      "心包経の郄穴",
+      "大腸経の絡穴",
+      "三焦経の郄穴"
+    ],
+    "answer": 1,
+    "explanation": "【解説】テニスなどラケットスポーツで発生する肘の痛みは、上腕骨外・内側上顆炎で、肘の外側を傷めるバックハンドタイプと、肘の内側を傷めるフォアハンドタイプがある。\nこの設問は内側であり、上腕骨内側上顆につく屈筋群には尺側手根屈筋、長掌筋、橈側手根屈筋、浅指屈筋、円回内筋がある。\n2：心包経の郄穴である郄門は、長掌筋、橈骨手根屈筋、浅指屈筋上にあり、屈筋群へのアプローチとして適切である。\n1：肺経の絡穴である列欠は上腕骨外側に起始する腕橈骨筋、他に前腕からの長母指外転筋、短母指伸筋上にあり、3：大腸経の絡穴である偏歴は長母指外転筋上であり、共に内側上顆へのアプローチとはならない。4：三焦経の郄穴である会宗は小指伸筋、尺側手根伸筋上にあるので、外側上顆炎の治療には適切である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_26_132",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 9,
+    "round": 26,
+    "round_question_number": 132,
+    "question": "次の文で示す症例に対し、局所治療穴を定めるための徒手検査で陽性になる可能性が最も高いのはどれか。\n「21歳の男性。大学で水泳部に所属し、専門はフリースタイル。肩の外転、屈曲時に肩前外側に痛みを呈する。」",
+    "options": [
+      "イートンテスト",
+      "エデンテスト",
+      "インピンジメントテスト",
+      "リフトオフテスト"
+    ],
+    "answer": 2,
+    "explanation": "【解説】本症例は水泳部でフリースタイルを専門としていることから、普段から肩関節への強いストレスがかかっていることが考えられる。特に肩の外転および屈曲時に肩前面外側に痛みを訴えているので、肩峰と上腕骨大結節部の衝突が発生していることが予想され、3：インピンジメントテストに陽性が出現する可能性が最も高いと考えられる。1：イートンテストは頸椎部での神経根障害を疑う検査、2：エデンテストは肋鎖症候群を疑う検査、4：リフトオフテストは腱板、特に肩甲下筋断裂を疑う検査である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_29_137",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 10,
+    "round": 29,
+    "round_question_number": 137,
+    "question": "次の文で示す症例の原因となる筋への治療穴として最も適切なのはどれか。\n「13歳の男子。サッカーをしており、最近になり膝前下部の運動時痛と腫脹が認められた。」",
+    "options": [
+      "脾関",
+      "箕門",
+      "豊隆",
+      "三陰交"
+    ],
+    "answer": 0,
+    "explanation": "【解説】症例はオスグッド病と考えられ、原因筋は大腿直筋である。経穴と筋の関係は、1：脾関は縫工筋・大腿直筋・大腿筋膜張筋、2：箕門は縫工筋・長内転筋、3：豊隆は前脛骨筋・長指伸筋、4：三陰交は後脛骨筋・長指屈筋上にあるので、該当するのは脾関である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_26_122",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 11,
+    "round": 26,
+    "round_question_number": 122,
+    "question": "次の文で示す症例に対して障害部位を走行する経脈の同名経の治療穴で最も適切なのはどれか。\n「52歳の男性。主訴は膝外側の痛み。最近、趣味である朝のジョギング時に膝外側の痛みを自覚したことから来院。徒手検査でグラスピングサインが陽性であった。」",
+    "options": [
+      "下廉",
+      "大陵",
+      "会宗",
+      "少府"
+    ],
+    "answer": 2,
+    "explanation": "【解説】本症例の病態はジョギング時に痛むこと、痛みの部位が膝外側であること、グラスピングサインが陽性であることから、いわゆるランナー膝（腸脛靱帯炎）が疑われる。腸脛靱帯と大腿骨外側上顆部の摩擦による障害なので、同部位を走行する経脈としては足の少陽胆経が考えられる。設問にある同名経の治療穴となると、同名経としては手の少陽三焦経、選択肢中では3の会宗が本経脈に属しているので、3が正解。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_23_127",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 12,
+    "round": 23,
+    "round_question_number": 127,
+    "question": "次の文で示す症例に対する鍼施術で治療対象となる筋はどれか。\n「17歳の女子。陸上部の長距離選手。練習開始時、脛骨内側縁の中1/3と下1/3の境界付近に軽い痛みを覚えるようになったが、日常生活に支障はない。エックス線像に異常は認めない。」",
+    "options": [
+      "長母指伸筋",
+      "前脛骨筋",
+      "ヒラメ筋",
+      "長腓骨筋"
+    ],
+    "answer": 2,
+    "explanation": "【解説】スポーツ（特に陸上のトラック競技や幅跳びなど）により下腿中央〜遠位1/3部の脛骨後内方、前脛骨筋部などに疼痛が生じ、安静により軽快する疼痛性症候群を、シンスプリント（過労性骨膜炎）と呼ぶ。特に脛骨内側部に沿う圧痛と軽度の腫脹を伴う場合、3：ヒラメ筋や後脛骨筋、長母趾屈筋、長趾屈筋などの強い収縮等が原因であることが多い。本例の症状と発症機転からシンスプリントが疑われ、痛みの部位に対応する選択肢は3である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_24_131",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 13,
+    "round": 24,
+    "round_question_number": 131,
+    "question": "承山への刺鍼が最も有効なスポーツ外傷で陽性となる徒手検査はどれか。",
+    "options": [
+      "ラックマンテスト",
+      "トンプソンテスト",
+      "コーゼンテスト",
+      "グラスピングテスト"
+    ],
+    "answer": 1,
+    "explanation": "【解説】選択肢のうち、1：ラックマンテストは、膝関節を屈曲した状態で脛骨を前方に引き出すテストであり、前十字靱帯（ACL）の損傷を判定する。2：トンプソンテストは、アキレス腱断裂を確認するための徒手検査方法であり、承山が存在する下腿三頭筋への施術と関連する。3：コーゼンテストは手関節を背屈させることによって、テニス肘（上腕骨外側上顆炎）の存在を確認するテストである。4：グラスピングテストは、腸脛靱帯の炎症を確認するためのテストである。したがって、正解は2。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_27_133",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 14,
+    "round": 27,
+    "round_question_number": 133,
+    "question": "次の文で示す症例の圧痛点に対する局所治療穴として最も適切なのはどれか。\n「20歳の女性。高校時代にバレーボール部の活動で前距腓靱帯損傷を繰り返し起こしていた。罹患靱帯のやや下方に圧痛と歩行時痛があり、近医で足根洞症候群と診断された。」",
+    "options": [
+      "解渓",
+      "照海",
+      "申脈",
+      "丘墟"
+    ],
+    "answer": 3,
+    "explanation": "【解説】外果の斜め前下方、距骨と踵骨の間が足根洞で、4：丘墟の位置に相当する。前距腓靱帯損傷の後遺症として、慢性の足関節捻挫ではこの部位に痛みが発生する。よって、正解は4となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_29_138",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 15,
+    "round": 29,
+    "round_question_number": 138,
+    "question": "スポーツ障害と罹患筋に対する局所治療穴の組合せで適切なのはどれか。",
+    "options": [
+      "シンスプリント ── 三陰交",
+      "ジャンパー膝 ── 足三里",
+      "フォアハンドテニス肘 ── 曲池",
+      "野球肩 ── 雲門"
+    ],
+    "answer": 0,
+    "explanation": "【解説】1：シンスプリントは脛骨過労性骨膜炎で脛骨の下方1/3に痛みが発生する。三陰交は局所治療穴として適当である。2：ジャンパー膝は膝蓋腱炎、大腿四頭筋腱付着部炎で、足三里は該当しない。3：フォアハンドテニス肘は上腕骨内側上顆炎でゴルフ肘ともいい、曲池は肘外側なので該当しない。4：野球肩はインピンジメント症候群・腱板損傷・上腕骨骨端線障害などが含まれる。雲門は鎖骨下窩であるので、障害部位の局所には該当しない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_30_138",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 16,
+    "round": 30,
+    "round_question_number": 138,
+    "question": "スポーツ障害と罹患筋に対する治療穴の組合せで最も適切なのはどれか。",
+    "options": [
+      "上腕二頭筋長頭腱炎 ── 肩髎",
+      "肩インピンジメント症候群 ── 肩外兪",
+      "ジャンパー膝 ── 鶴頂",
+      "シンスプリント ── 闌尾"
+    ],
+    "answer": 2,
+    "explanation": "【解説】1：肩髎は肩峰角と上腕骨大結節の間の陥凹部で、二頭筋長頭腱は大結節と小結節の間の結節間溝を走るので罹患筋への治療穴とはならない。\n2：肩外兪は肩甲骨上角内方で僧帽筋と肩甲挙筋の部位であり、肩のインピンジメント症候群への罹患筋への治療穴とはならない。問題6参照。\n3：ジャンパー膝は、繰り返しのジャンプや、走る・蹴る動作の競技などで起き、膝蓋骨下端に、自発痛・圧痛をみとめ、痛み・腫れを繰り返す。運動による疲労で大腿四頭筋の柔軟性が低下することが原因となり、大腿四頭筋の柔軟性を改善し、膝蓋骨の上下端へのストレス集中を緩和することが重要となる。よって膝蓋骨底上際の鶴頂は治療穴として適切である。\n4：シンスプリントは脛骨過労性骨膜炎であり、脛骨の下1/3に痛みが生じる。闌尾は足三里の下2寸なので該当しない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_30_139",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 17,
+    "round": 30,
+    "round_question_number": 139,
+    "question": "次の文で示す病態により生じたスポーツ外傷・障害に対する検査法はどれか。\n「膝関節の屈伸動作時に、ある組織が大腿骨外側上顆で繰り返し摩擦を生じる一種の使い過ぎ症候群である。」",
+    "options": [
+      "エリーテスト",
+      "グラスピングテスト",
+      "マクマレーテスト",
+      "膝内反ストレステスト"
+    ],
+    "answer": 1,
+    "explanation": "【解説】1：エリーテストは腹臥位で検査側の膝を徐々に屈曲した際、大腿直筋に短縮が生じていると、患側骨盤が持ち上がるものである。\n2：グラスピングテストは、腸脛靱帯炎のテストであり、膝の少し上、外側の腸脛靱帯部位を指で圧迫し、膝関節を曲げ伸ばしした際に疼痛が生じると陽性である。問題文の動作に一致する。\n3：マクマレーテストは、半月板後節・中節の損傷を示唆し、仰臥位で膝と股関節を最大屈曲させ、下腿を内旋し伸展させた際、疼痛・弾発の触知があれば外側半月板の損傷を疑い、外旋し伸展させた際、疼痛・弾発の触知があれば内側半月板損傷を疑う。\n4：膝内反ストレステストは、内側側副靱帯部に手を当て膝関節伸展位もしくは軽度屈曲位で内反を強制し、外側に痛みがあれば外側側副靱帯の損傷、内側に痛みがあれば内側半月板の損傷を疑う。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "oriental_clinical_30_140",
+    "subject": "oriental_clinical",
+    "category": "sports_acupoint_therapy",
+    "sub_category": "主なスポーツ障害に対する鍼灸治療",
+    "category_question_number": 18,
+    "round": 30,
+    "round_question_number": 140,
+    "question": "次の文で示す症例に対する罹患筋への局所治療穴として適切なのはどれか。\n「17歳の男子。陸上部で長距離走をしている。ランニングを開始すると下腿前方に痛みと腫れが出るが、数十分の安静で症状が消失する。近医で前方コンパートメント症候群と言われた。」",
+    "options": [
+      "小腸の下合穴",
+      "膀胱の下合穴",
+      "三焦の下合穴",
+      "胆の下合穴"
+    ],
+    "answer": 0,
+    "explanation": "【解説】下腿のコンパートメントは4つの区画に分類される。前方コンパートメントは前脛骨筋、長趾伸筋、長母趾伸筋が、外側コンパートメントには長・短腓骨筋が、浅後方コンパートメントには腓腹筋、ヒラメ筋、足底筋が、深後方コンパートメントには後脛骨筋、長母趾屈筋、長趾屈筋が属する。打撲や骨折などにより腫れが生じコンパートメント内の圧力が非常に高くなると、神経や血管を圧迫し、症状として疼痛、腫脹、圧痛、硬結、運動時痛、区画内を通る神経麻痺による知覚鈍麻、所属筋の筋力低下などが生じる。筋内細動脈の血行障害となり、筋腱神経組織の壊死にもつながる。\n1：小腸の下合穴は下巨虚で前脛骨筋上にあり、前方コンパートメントに一致するのでこれが正解となる。\n2：膀胱の下合穴は委中で深部に脛骨神経が通り、脛骨神経は深後方コンパートメントに属し、この区画障害では脛骨神経領域での感覚障害となる。\n3：三焦の下合穴は委陽で大腿二頭筋・腓腹筋に関連し、腓腹筋は浅後方コンパートメントに属する。\n4：胆の下合穴は陽陵泉で長腓骨筋の前縁にあり、長腓骨筋は外側コンパートメントに属する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  }
 ]
