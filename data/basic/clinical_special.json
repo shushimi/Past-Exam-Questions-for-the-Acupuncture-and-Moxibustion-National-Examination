@@ -2401,6 +2401,2790 @@
     "explanation": "【解説】ネフローゼ症候群では、低蛋白血症に伴う2：血漿膠質浸透圧の低下により、浮腫、循環血漿量の減少、尿量低下をきたしやすい。",
     "is_irregular": false,
     "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_050",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "",
+    "category_question_number": 3,
+    "round": 31,
+    "round_question_number": 50,
+    "question": "急性糸球体腎炎について正しいのはどれか。",
+    "options": [
+      "予後は良好である。",
+      "高齢者に多い。",
+      "血清補体価は上昇する。",
+      "細菌尿がみられる。"
+    ],
+    "answer": 0,
+    "explanation": "急性糸球体腎炎はA群溶血性連鎖球菌感染後（1〜3週間後）に生じる疾患で2：小児に多い。Ⅲ型アレルギー機序を介して生じる疾患であるため、3：血清補体価は低下し、4：細菌尿はみられない。一般的に1：予後は良好で、3か月以内に完全寛解となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_060",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "",
+    "category_question_number": 4,
+    "round": 31,
+    "round_question_number": 60,
+    "question": "ネフローゼ症候群の診断基準に含まれるのはどれか。",
+    "options": [
+      "排尿痛",
+      "高LDLコレステロール血症",
+      "尿糖",
+      "高蛋白血症"
+    ],
+    "answer": 1,
+    "explanation": "ネフローゼ症候群の診断基準は①高度蛋白尿（3.5g/日以上）、②低アルブミン血症（血清総蛋白<6.0g/dLまたは血清アルブミン<3.0g/dL）、③浮腫、④脂質異常症（2：高LDLコレステロール血症）である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_058",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "",
+    "category_question_number": 5,
+    "round": 32,
+    "round_question_number": 58,
+    "question": "ネフローゼ症候群について正しいのはどれか。",
+    "options": [
+      "血清コレステロールが低値となる。",
+      "低蛋白血症を認める。",
+      "尿蛋白は陰性である。",
+      "小児では予後不良である。"
+    ],
+    "answer": 1,
+    "explanation": "ネフローゼ症候群は3：高度な蛋白尿による2：低蛋白血症、浮腫、1：脂質異常症（高コレステロール血症）を呈した臨床病態である。小児ではステロイド治療によく反応して予後は良好である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_072",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "腎不全",
+    "category_question_number": 6,
+    "round": 23,
+    "round_question_number": 72,
+    "question": "慢性腎不全でみられるのはどれか。",
+    "options": [
+      "低カリウム血症",
+      "高ナトリウム血症",
+      "高リン血症",
+      "高カルシウム血症"
+    ],
+    "answer": 2,
+    "explanation": "慢性腎不全とは、腎機能障害が進行し、体液の恒常性が維持できなくなって、高窒素血症、3：高リン血症、高カリウム血症などをきたし、やがて腎不全（尿毒症）に陥る一連の病態で、その原因疾患としては慢性糸球体腎炎、糖尿病、腎硬化症、慢性腎盂腎炎などの頻度が高い。\nちなみに、1：低カリウム血症はアルドステロン症やクッシング症候群、2：高ナトリウム血症は尿崩症、4：高カルシウム血症は副甲状腺機能亢進症、悪性腫瘍などの疾患と関連がある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_072",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "腎不全",
+    "category_question_number": 7,
+    "round": 25,
+    "round_question_number": 72,
+    "question": "慢性腎不全の検査所見で誤っているのはどれか。",
+    "options": [
+      "糸球体ろ過値（GFR）の上昇",
+      "血清クレアチニン値の上昇",
+      "高カリウム血症",
+      "正球性正色素性貧血"
+    ],
+    "answer": 0,
+    "explanation": "慢性腎不全の原因には、慢性糸球体腎炎や糖尿病性腎症、間質性腎炎、高血圧などが挙げられる。1：糸球体ろ過値（GFR）は低下し、2：血清クレアチニン値は上昇する。腎機能の低下に伴い、血清カリウム値の上昇（3：高カリウム血症）を発現する。腎性貧血の特徴は、4：正球性正色素性貧血、または大球性正色素性である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_060",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "腎不全",
+    "category_question_number": 8,
+    "round": 27,
+    "round_question_number": 60,
+    "question": "腎前性急性腎不全の病因はどれか。",
+    "options": [
+      "広範囲熱傷",
+      "前立腺癌",
+      "急性糸球体腎炎",
+      "ミオグロビン尿症"
+    ],
+    "answer": 0,
+    "explanation": "腎不全は、その原因により腎前性、腎性、腎後性に分類され、腎前性急性腎不全とは、腎血流量の減少が原因となる。1：広範囲の熱傷は脱水を引き起こし、腎血流量が低下することから、腎前性急性腎不全となる可能性が考えられる。3：急性糸球体腎炎、4：ミオグロビン尿症は腎性急性腎不全になる可能性があり、2：前立腺癌は腎後性急性腎不全になる可能性がある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_057",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "腎不全",
+    "category_question_number": 9,
+    "round": 29,
+    "round_question_number": 57,
+    "question": "腎疾患と所見の組合せで正しいのはどれか。",
+    "options": [
+      "急性糸球体腎炎 ―― 低血圧",
+      "慢性腎不全 ―― 高リン血症",
+      "急性腎不全 ―― 代謝性アルカローシス",
+      "ネフローゼ症候群 ―― 低コレステロール血症"
+    ],
+    "answer": 1,
+    "explanation": "1：急性糸球体腎炎では糸球体濾過量の低下、水やナトリウムの貯留による循環血液量の増加により高血圧となる。2：慢性腎不全では尿細管障害によるリン排泄が低下し、高リン血症となる。3：急性腎不全では腎機能低下によるH+排泄低下により代謝性アシドーシスをきたす。4：ネフローゼ症候群では低アルブミン血症となり、肝臓での蛋白質合成亢進により高コレステロール血症となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_060",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "腎不全",
+    "category_question_number": 10,
+    "round": 30,
+    "round_question_number": 60,
+    "question": "腎前性腎不全の病因はどれか。",
+    "options": [
+      "出血性ショック",
+      "前立腺癌",
+      "後腹膜腫瘍",
+      "急性腎炎症候群"
+    ],
+    "answer": 0,
+    "explanation": "腎前性腎不全は循環血液量・細胞外液量の減少（1：出血、嘔吐、熱傷、下痢など）、心拍出量の減少などにより、腎血流量が減少することで生じる。腎性腎不全は尿細管間質の障害や糸球体の障害（4：急性腎炎症候群など）、などにより、腎実質が障害されることで生じる。腎後性腎不全は尿管の閉塞（3：後腹膜腫瘍など）、膀胱・尿道の閉塞などを原因とする尿路の通過障害により、尿がうっ滞することで生じる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_056",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "感染症",
+    "category_question_number": 11,
+    "round": 29,
+    "round_question_number": 56,
+    "question": "急性膀胱炎について正しいのはどれか。",
+    "options": [
+      "男性に多い。",
+      "排尿後の痛みが多い。",
+      "原因菌は黄色ブドウ球菌が多い。",
+      "水分はあまり摂らない方がよい。"
+    ],
+    "answer": 1,
+    "explanation": "急性膀胱炎は尿道の短さなどの理由から、1：女性に多く、3：原因菌は大腸菌が多く、通常は上行感染により生じる。2：排尿終末時の強い痛み、頻尿、尿混濁が主にみられる。4：治療として抗菌薬の投与や水分摂取により利尿を促進する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_060",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "結石症・尿路閉塞疾患",
+    "category_question_number": 12,
+    "round": 28,
+    "round_question_number": 60,
+    "question": "尿路結石の再発予防に有用なのはどれか。",
+    "options": [
+      "水分摂取",
+      "尿酸排泄促進薬内服",
+      "柑橘類摂取",
+      "ホウレンソウ摂取"
+    ],
+    "answer": 0,
+    "explanation": "尿路結石の再発予防には1：水分摂取と合わせて、食事指導として動物性たんぱく質、シュウ酸、塩分、糖分、脂肪の過剰摂取の制限、カルシウム、炭水化物、クエン酸の適量摂取が有用である。4：ホウレンソウはシュウ酸を多く含むため、過剰摂取は再発の原因となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_089",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "排尿機能障害",
+    "category_question_number": 13,
+    "round": 31,
+    "round_question_number": 89,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「72歳の女性。頻尿と尿意切迫感を主訴に来院した。尿一般検査と尿細菌検査に異常はなかった。腹部超音波検査で残尿はみられなかった。」\n考えられる疾患はどれか。",
+    "options": [
+      "急性膀胱炎",
+      "腎盂腎炎",
+      "過活動膀胱",
+      "腎結石"
+    ],
+    "answer": 2,
+    "explanation": "症例が示すのは3：過活動膀胱である。\n1：急性膀胱炎、2：腎盂腎炎では尿検査で細菌尿と膿尿がみられる。4：腎結石は疼痛や血尿がみられるものの、頻尿と尿意切迫感は主訴になりにくい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_090",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "排尿機能障害",
+    "category_question_number": 14,
+    "round": 31,
+    "round_question_number": 90,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「72歳の女性。頻尿と尿意切迫感を主訴に来院した。尿一般検査と尿細菌検査に異常はなかった。腹部超音波検査で残尿はみられなかった。」\n生活指導について適切なのはどれか。",
+    "options": [
+      "坐位時間を長くする。",
+      "骨盤底筋訓練を行う。",
+      "水分摂取を控える。",
+      "尿意を感じたらすぐに排尿する。"
+    ],
+    "answer": 1,
+    "explanation": "過活動膀胱に対する治療は大きく分けて行動療法と薬物療法に分けられる。行動療法はさらに膀胱訓練、生活管理（生活指導）、理学療法に分けられる。2：骨盤底筋訓練は理学療法として行われ、生活指導として自宅でも行わせる。1：坐位時間は長くせず、体重減少や運動療法を生活指導として行う。3：水分摂取や塩分摂取が過剰である場合には控えるように指導する。4：尿意を感じたら排尿を我慢して膀胱容量を増やす（膀胱訓練）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_060",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "男性生殖器疾患",
+    "category_question_number": 15,
+    "round": 24,
+    "round_question_number": 60,
+    "question": "前立腺肥大症について正しいのはどれか。",
+    "options": [
+      "若年者に多い。",
+      "夜間頻尿がみられる。",
+      "蛋白尿がみられる。",
+      "下腹痛を伴うことが多い。"
+    ],
+    "answer": 1,
+    "explanation": "前立腺は男性だけが持つ臓器で、前立腺肥大症は前立腺の内側の部分が腫大し、尿道や膀胱が圧迫され、さまざまな排尿障害をきたす疾患である。1：若年者にはほとんどみられず、60歳以上に多い。主な症状は、頻尿、2：夜間頻尿、排尿遅延、残尿感、尿勢の低下である。3：蛋白尿は、生理的蛋白尿以外では腎臓の疾患や尿路感染などが疑われる。前立腺肥大では、一般的に4：下腹部痛はみられないが、進行して尿閉が生じた場合には、下腹部の膨満感・痛みが出現することがある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_062",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "男性生殖器疾患",
+    "category_question_number": 16,
+    "round": 27,
+    "round_question_number": 62,
+    "question": "前立腺肥大症について正しいのはどれか。",
+    "options": [
+      "蛋白尿がみられる。",
+      "夜間頻尿がみられる。",
+      "直腸指診では石のように硬く触れる。",
+      "骨転移がみられる。"
+    ],
+    "answer": 1,
+    "explanation": "前立腺肥大症の症状として、排尿困難、頻尿、2：夜間頻尿、尿意切迫感、残尿感、尿失禁などが挙げられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_058",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "女性生殖器疾患",
+    "category_question_number": 17,
+    "round": 24,
+    "round_question_number": 58,
+    "question": "月経異常の原因とならないのはどれか。",
+    "options": [
+      "ネフローゼ症候群",
+      "クッシング症候群",
+      "子宮筋腫",
+      "神経性食思不振症"
+    ],
+    "answer": 0,
+    "explanation": "月経異常とは、月経周期や出血持続時間の長さ、出血量の多少や不快感が正常月経の範囲外に逸脱することの総称である。\n1：ネフローゼ症候群は原因によって一次性と二次性に分類される。一次性は、腎臓や糸球体そのものに病変があって起こるものや原因不明のものを指し、二次性は腎臓以外に原因があり、ネフローゼを引き起こしているものをいう。いずれも、浮腫・蛋白尿・高脂血症・低蛋白血症の4つの症状は、ネフローゼ症候群を診断するうえで重要な所見となる。ネフローゼ症候群そのものは月経異常の原因とはならないが、治療にステロイドを使用した場合に月経異常をきたす場合がある。\n2：クッシング症候群は、血中のコルチゾルまたは関連するコルチコステロイドの慢性高値によって引き起こされた、一群の臨床異常である。典型的な症状には、満月様顔貌および痩せた四肢を伴う体幹肥満がある。女性では通常、月経異常が生じる。\n3：子宮筋腫は、主に子宮筋層内の平滑筋成分から発生し、女性ホルモン（エストロゲン）の働きによって発育する良性腫瘍である。症状として、月経異常、貧血、下腹部痛・膨満感、骨盤内圧の上昇により、排尿障害、水腎症、下肢の浮腫・静脈瘤をきたすこともある。\n4：神経性食思不振症とは、痩せることを強く望み、太ることを恐れるあまり、食事を極端に制限し、痩せてしまった状態をいう。米精神医学会は、その診断基準に「初潮のあった女性が無月経、あるいは3回以上月経がない」ことをその一つに挙げており、これは月経異常の範疇である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_058",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "女性生殖器疾患",
+    "category_question_number": 18,
+    "round": 30,
+    "round_question_number": 58,
+    "question": "子宮筋腫について正しいのはどれか。",
+    "options": [
+      "CA125が上昇する。",
+      "ヒトパピローマウイルス（HPV）感染が関係する。",
+      "不正性器出血をきたしにくい。",
+      "エストロゲン依存性疾患である。"
+    ],
+    "answer": 3,
+    "explanation": "子宮筋腫は子宮筋層内の平滑筋から発生する4：エストロゲン依存性の良性腫瘍である。2：ヒトパピローマウイルス（HPV）感染が関与するのは子宮頸癌である。3：不正性器出血、過多月経、月経困難、鉄欠乏性貧血、不妊などの原因となる。1：CA125は卵巣癌、子宮内膜症、子宮腺筋症、肺癌などで上昇する。子宮筋腫では正常値となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_063",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "赤血球疾患",
+    "category_question_number": 1,
+    "round": 28,
+    "round_question_number": 63,
+    "question": "自己免疫機序が関与しないのはどれか。",
+    "options": [
+      "悪性貧血",
+      "溶血性貧血",
+      "鉄欠乏性貧血",
+      "再生不良性貧血"
+    ],
+    "answer": 2,
+    "explanation": "1：悪性貧血、ビタミンB12や葉酸の欠乏に起因する自己免疫性萎縮性胃炎による。2：溶血性貧血は、自己免疫性溶血性貧血、発作性夜間ヘモグロビン尿症、遺伝性球状赤血球症などが原因とされており、自己免疫性溶血性貧血が最も多い。4：再生不良性貧血は先天性と後天性に分けられ、多くは後天性が占め、大多数は自己免疫機序によるものと考えられている。3：鉄欠乏性貧血は鉄の摂取不足、胃切除後の吸収障害、消化器癌による出血などが原因として挙げられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_056",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "赤血球疾患",
+    "category_question_number": 2,
+    "round": 24,
+    "round_question_number": 56,
+    "question": "悪性貧血について正しいのはどれか。",
+    "options": [
+      "伴性劣性遺伝である。",
+      "抗内因子抗体が陽性となる。",
+      "正球性貧血を呈する。",
+      "ビタミンB1投与が有効である。"
+    ],
+    "answer": 1,
+    "explanation": "悪性貧血（巨赤芽球貧血）とは、ビタミンB12、葉酸の欠乏によって起こる大球性高色素性貧血であり、悪性貧血の患者には2：抗内因子抗体や抗壁細胞抗体が認められることが多い。悪性貧血（巨赤芽球性貧血）の診断は、血液検査、骨髄検査、肝機能検査、便の検査などによりなされ、特に骨髄の検査で巨赤芽球が検出されると確定する。悪性貧血の治療は、基本的に鉄欠乏性貧血と同じ考え方で、不足しているビタミンB12か葉酸を補給する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_063",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "赤血球疾患",
+    "category_question_number": 3,
+    "round": 25,
+    "round_question_number": 63,
+    "question": "汎血球減少症をきたすのはどれか。",
+    "options": [
+      "腎性貧血",
+      "溶血性貧血",
+      "鉄欠乏性貧血",
+      "再生不良性貧血"
+    ],
+    "answer": 3,
+    "explanation": "汎血球減少症とは、血液中の白血球数、赤血球数、血小板数のいずれもが減少した状態をいい、4：再生不良性貧血や急性白血病、骨髄異形成症候群、肝硬変、脾臓機能の亢進のほか、全身性エリテマトーデスなどで発症する。1：腎性貧血、2：溶血性貧血、3：鉄欠乏性貧血では、赤血球数が減少する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_068",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "赤血球疾患",
+    "category_question_number": 4,
+    "round": 25,
+    "round_question_number": 68,
+    "question": "ビタミンB12欠乏症による疾患はどれか。",
+    "options": [
+      "骨軟化症",
+      "ウェルニッケ脳症",
+      "巨赤芽球性貧血",
+      "脂漏性皮膚炎"
+    ],
+    "answer": 2,
+    "explanation": "3：巨赤芽球性貧血は、ビタミンB12や葉酸の欠乏によって起こる。1：骨軟化症の病因には、ビタミンDの欠乏が挙げられる。2：ウェルニッケ脳症は、ビタミンB1の欠乏による。4：脂漏性皮膚炎の原因は、真菌の異常増殖である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_055",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "赤血球疾患",
+    "category_question_number": 5,
+    "round": 29,
+    "round_question_number": 55,
+    "question": "小球性低色素性貧血をきたすのはどれか。",
+    "options": [
+      "溶血性貧血",
+      "鉄欠乏性貧血",
+      "再生不良性貧血",
+      "巨赤芽球性貧血"
+    ],
+    "answer": 1,
+    "explanation": "小球性低色素性貧血をきたすのは、2：鉄欠乏性貧血である。1：溶血性貧血、3：再生不良性貧血は正球性貧血をきたす。4：巨赤芽球性貧血は大球性貧血をきたす。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_089",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "赤血球疾患",
+    "category_question_number": 6,
+    "round": 29,
+    "round_question_number": 89,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「45歳の女性。2か月前から易疲労感、動悸、息切れ、体重減少が出現した。血液検査では、血中ヘモグロビンと平均赤血球容積は低値であった。」\n症状発現の基礎疾患となるのはどれか。",
+    "options": [
+      "心臓弁膜症",
+      "子宮筋腫",
+      "甲状腺機能亢進症",
+      "気管支喘息"
+    ],
+    "answer": 1,
+    "explanation": "症状とは通常、自覚症状の意味で用いる用語であり、第三者が客観的に観察できる所見を他覚的所見という。症例中の全ての「症状」を満たす疾患は3：甲状腺機能亢進症である。血液検査所見は「症状」ではないため、この設問において本来無視されるはずの情報であるが、公式発表の正解より、血液検査所見から小球性貧血を導き出し、鉄欠乏性貧血を考慮し、鉄欠乏性貧血の原因となる過多月経を生じるであろう、2：子宮筋腫を導き出すことが要求される。子宮筋腫で体重減少が生じる機序については全く不明であり、理解し難い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_090",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "赤血球疾患",
+    "category_question_number": 7,
+    "round": 29,
+    "round_question_number": 90,
+    "question": "薬物治療にて症状は改善した。今後食事で特に摂取すべきものはどれか。",
+    "options": [
+      "赤身の肉類",
+      "豆腐",
+      "緑黄色野菜",
+      "海藻"
+    ],
+    "answer": 0,
+    "explanation": "症状は改善したが血液検査所見に触れていないため、小球性貧血は改善されていないと捉える。小球性低色素性貧血＝鉄欠乏性貧血ではなく、血清鉄や血清フェリチンなどの情報に乏しいが、鉄欠乏性貧血に対して鉄を食物から摂取させたい設問である。1：赤身の肉類や赤身魚に多いヘム鉄は、2、3、4、野菜に多い非ヘム鉄より吸収が良い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_056",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "赤血球疾患",
+    "category_question_number": 8,
+    "round": 30,
+    "round_question_number": 56,
+    "question": "汎血球減少症をきたすのはどれか。",
+    "options": [
+      "鉄欠乏性貧血",
+      "腎性貧血",
+      "溶血性貧血",
+      "再生不良性貧血"
+    ],
+    "answer": 3,
+    "explanation": "再生不良性貧血は造血幹細胞が減少することにより汎血球減少（赤血球減少、白血球減少、血小板減少）がみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_061",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "赤血球疾患",
+    "category_question_number": 9,
+    "round": 31,
+    "round_question_number": 61,
+    "question": "鉄欠乏性貧血について正しいのはどれか。",
+    "options": [
+      "葉酸の欠乏が原因となる。",
+      "血清フェリチンは増加する。",
+      "小球性貧血がみられる。",
+      "骨髄は低形成である。"
+    ],
+    "answer": 2,
+    "explanation": "1：鉄の欠乏が原因となる。葉酸・ビタミンB12の欠乏が原因となるのは巨赤芽球性貧血である。2：血清フェリチンは減少する。3：小球性低色素性貧血がみられる。4：骨髄は正常である。骨髄低形成をきたすのは再生不良性貧血である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_056",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "赤血球疾患",
+    "category_question_number": 10,
+    "round": 32,
+    "round_question_number": 56,
+    "question": "鉄欠乏性貧血について正しいのはどれか。",
+    "options": [
+      "大球性貧血である。",
+      "正色素性貧血である。",
+      "総鉄結合能は低下する。",
+      "鉄剤投与によって網状赤血球は増加する。"
+    ],
+    "answer": 3,
+    "explanation": "鉄欠乏性貧血は1、2：末梢血液所見で小球性低色素性貧血を呈する。総鉄結合能は血液中で鉄と結合して運搬されるトランスフェリンが結合可能な鉄の総量を表す。鉄欠乏により鉄と結合しているトランスフェリンが減少するため、鉄と結合可能なトランスフェリンが増加する。よって、3：トランスフェリンが結合可能な鉄の総量は増加する。4：鉄剤の経口投与により網赤血球（網状赤血球）が増加する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_057",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "白血球疾患",
+    "category_question_number": 11,
+    "round": 28,
+    "round_question_number": 57,
+    "question": "白血病についてウイルスが原因で日本の西南地方に多いのはどれか。",
+    "options": [
+      "成人T細胞白血病",
+      "慢性骨髄性白血病",
+      "急性骨髄性白血病",
+      "急性リンパ性白血病"
+    ],
+    "answer": 0,
+    "explanation": "1：成人T細胞白血病は、ヒトT細胞白血病ウイルスI型（HTLV-Iウイルス）の感染により引き起こされる。母乳による母子感染の他、性交渉、輸血が感染経路とされており、世界中で見ても日本の西南部に多い。若年層の発症は稀で、60歳代を発症のピークとする。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_061",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "白血球疾患",
+    "category_question_number": 12,
+    "round": 28,
+    "round_question_number": 61,
+    "question": "血液疾患と症状の組合せで正しいのはどれか。",
+    "options": [
+      "鉄欠乏性貧血 ―― 末梢神経障害",
+      "悪性リンパ腫 ―― 舌炎",
+      "急性白血病 ―― 出血傾向",
+      "再生不良性貧血 ―― リンパ節腫脹"
+    ],
+    "answer": 2,
+    "explanation": "1：鉄欠乏性貧血―舌炎、異食症、2：悪性リンパ腫―リンパ節腫脹、3：急性白血病―出血傾向、貧血、4：再生不良性貧血―出血傾向、が組み合わせとして正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_057",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "白血球疾患",
+    "category_question_number": 13,
+    "round": 30,
+    "round_question_number": 57,
+    "question": "急性骨髄性白血病について正しいのはどれか。",
+    "options": [
+      "末梢血で白血球裂孔がみられる。",
+      "中枢神経障害がみられる。",
+      "小児に多い。",
+      "血液凝固系は保たれる。"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "本問題は選択肢に不備があるため全選択肢が正解とされた問題である。1：急性白血病では末梢血で白血病裂孔を認める。白血球裂孔という用語は通常では用いられることはなく、おそらく白血病裂孔の誤植であると思われる。2：中枢神経への浸潤で中枢神経障害がみられる。3：高齢者に多い。4：正常造血が障害され、汎血球減少に起因する貧血、感染、出血が主な症状となる。",
+    "is_irregular": true,
+    "irregular_reason": "選択肢に不備があるため全選択肢が正解"
+  },
+  {
+    "id": "clinical_special_31_087",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "白血球疾患",
+    "category_question_number": 14,
+    "round": 31,
+    "round_question_number": 87,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「52歳の男性。3週間前から倦怠感と微熱がある。舌炎は認めないが、鼻血や歯茎の出血、皮下出血斑がみられる。」\n\n最も考えられる疾患はどれか。",
+    "options": [
+      "急性白血病",
+      "悪性貧血",
+      "溶血性貧血",
+      "血友病"
+    ],
+    "answer": 0,
+    "explanation": "症例の特徴から1：急性白血病が最も考えられる。2：悪性貧血では舌炎（ハンター舌炎）がみられ、発熱や顕著な出血傾向は示さない。3：溶血性貧血では倦怠感以外に症例に記されているような症状はみられない。4：血友病では皮下出血斑以外に症例に記されているような症状はみられない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_088",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "白血球疾患",
+    "category_question_number": 15,
+    "round": 31,
+    "round_question_number": 88,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「52歳の男性。3週間前から倦怠感と微熱がある。舌炎は認めないが、鼻血や歯茎の出血、皮下出血斑がみられる。」\n\n診断に必要な血液検査項目で最も適切なのはどれか。",
+    "options": [
+      "葉酸",
+      "血液像",
+      "第VIII凝固因子",
+      "ビリルビン"
+    ],
+    "answer": 1,
+    "explanation": "急性白血病の2：血液像で白血病裂孔がみられる。1：葉酸が関係するのは葉酸欠乏による巨赤芽球性貧血である。悪性貧血では葉酸値は正常である。3：第VIII凝固因子が関係するのは血友病である。4：ビリルビン（間接ビリルビン）が関係するのは溶血性貧血である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_053",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "白血球疾患",
+    "category_question_number": 16,
+    "round": 32,
+    "round_question_number": 53,
+    "question": "急性骨髄性白血病について正しいのはどれか。",
+    "options": [
+      "幼若芽球が増殖する。",
+      "小児に多くみられる。",
+      "細菌感染が関係する。",
+      "ミエロペルオキシダーゼ染色は陰性である。"
+    ],
+    "answer": 0,
+    "explanation": "急性骨髄性白血病の1：増殖の主体は芽球（幼若芽球）である。2：成人に多くみられる。3：多くの症例で何らかの染色体異常や遺伝子変異がみられることから、細菌感染は関係しない。4：多くの例ではミエロペルオキシダーゼ染色は陽性である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_061",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "リンパ網内系疾患",
+    "category_question_number": 17,
+    "round": 27,
+    "round_question_number": 61,
+    "question": "悪性リンパ腫について誤っているのはどれか。",
+    "options": [
+      "有痛性のリンパ節腫脹がみられる。",
+      "化学療法が有効である。",
+      "発熱がみられる。",
+      "CRPが陽性となる。"
+    ],
+    "answer": 0,
+    "explanation": "悪性リンパ腫は、腋窩、頸部、鼠径部などリンパ節の多い所に1：痛みのないリンパ節腫脹がみられる。全身的な症状として、3：発熱、盗汗、体重減少を伴う場合がある。血液検査では、血清LDHや4：CRPが病勢の指標となる。治療としては、手術療法が行われることはなく、一般的には2：化学療法と放射線療法が行われる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_057",
+    "subject": "clinical_special",
+    "category": "hematological_disease",
+    "sub_category": "出血性素因",
+    "category_question_number": 18,
+    "round": 32,
+    "round_question_number": 57,
+    "question": "出血性素因について正しいのはどれか。",
+    "options": [
+      "一次血栓はフィブリンで構成される。",
+      "血液凝固反応にはビタミンCが重要である。",
+      "血友病は男性には認められない。",
+      "特発性血小板減少性紫斑病は自己免疫疾患である。"
+    ],
+    "answer": 3,
+    "explanation": "1：一次血栓はフィブリノゲンと血小板で構成される。2：血液凝固反応にはビタミンKが重要である。ビタミンKは第II、VII、IX、X因子産生に必要である。3：血友病はX連鎖潜性遺伝性疾患（伴性劣性遺伝）であり、男性に圧倒的に頻度が高い疾患である。4：特発性血小板減少性紫斑病は抗血小板抗体が関与する自己免疫疾患である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_067",
+    "subject": "clinical_special",
+    "category": "metabolic_nutritional",
+    "sub_category": "糖代謝異常",
+    "category_question_number": 1,
+    "round": 25,
+    "round_question_number": 67,
+    "question": "2型糖尿病について正しいのはどれか。",
+    "options": [
+      "若年者に多い。",
+      "肥満者に多い。",
+      "インスリン療法が必須である。",
+      "1型糖尿病より罹患者数が少ない。"
+    ],
+    "answer": 1,
+    "explanation": "糖尿病は、自己免疫疾患である1型糖尿病と生活習慣や遺伝が原因となる2型糖尿病に分類され、2型が9割以上を占める。1型は1：若年者、痩せ型に多い一方、2型は中高年の2：肥満者に多い。1型は3：インスリン療法が必須である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_075",
+    "subject": "clinical_special",
+    "category": "metabolic_nutritional",
+    "sub_category": "糖代謝異常",
+    "category_question_number": 2,
+    "round": 27,
+    "round_question_number": 75,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「50歳の男性。主訴は体重減少。口渇、下肢の感覚鈍麻を認める。BMI 30。空腹時血糖180mg/dL、HbA1c 8.9%。」\n\n本症例の神経学的所見で正しいのはどれか。",
+    "options": [
+      "感覚障害は左右非対称である。",
+      "振動覚は正常である。",
+      "アキレス腱反射は亢進する。",
+      "発汗異常を認める。"
+    ],
+    "answer": 3,
+    "explanation": "症例の状況から、糖尿病が疑われる。糖尿病性末梢神経障害は1：左右対称性に出現することが多く、末梢神経の障害のため、2：振動覚や3：アキレス腱反射は低下する。末梢神経には自律神経も含まれており、4：発汗異常も認める。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_076",
+    "subject": "clinical_special",
+    "category": "metabolic_nutritional",
+    "sub_category": "糖代謝異常",
+    "category_question_number": 3,
+    "round": 27,
+    "round_question_number": 76,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「50歳の男性。主訴は体重減少。口渇、下肢の感覚鈍麻を認める。BMI 30。空腹時血糖180mg/dL、HbA1c 8.9%。」\n\n本疾患について正しいのはどれか。",
+    "options": [
+      "免疫機能は亢進する。",
+      "HbA1cは過去2週間の平均血糖値を反映する。",
+      "急性合併症には昏睡がある。",
+      "大血管障害には腎症がある。"
+    ],
+    "answer": 2,
+    "explanation": "糖尿病では、糖尿病ケトアシドーシス、高浸透圧高血糖症候群といった急性合併症を引き起こす可能性があり、意識障害、3：昏睡状態に陥ることがある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_059",
+    "subject": "clinical_special",
+    "category": "metabolic_nutritional",
+    "sub_category": "糖代謝異常",
+    "category_question_number": 4,
+    "round": 29,
+    "round_question_number": 59,
+    "question": "失明の原因となるのはどれか。",
+    "options": [
+      "痛風",
+      "骨形成不全症",
+      "糖尿病",
+      "脂質異常症"
+    ],
+    "answer": 2,
+    "explanation": "3：糖尿病の慢性合併症として糖尿病網膜症が進行すると、失明に至る。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_083",
+    "subject": "clinical_special",
+    "category": "metabolic_nutritional",
+    "sub_category": "糖代謝異常",
+    "category_question_number": 5,
+    "round": 29,
+    "round_question_number": 83,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「70歳の男性。約20年前に2型糖尿病と診断され薬物治療を受けている。最近急に複視が出現した。正中視で右眼は外転位をとっている。対光反射は異常なく眼瞼下垂もない。」\n\n障害されている脳神経はどれか。",
+    "options": [
+      "視神経",
+      "動眼神経",
+      "滑車神経",
+      "外転神経"
+    ],
+    "answer": 1,
+    "explanation": "複視および正中視で外転位をとるのは2：動眼神経障害（外方または外下方に偏位）と3：滑車神経障害（外上方に偏位）である。動眼神経は外眼筋を支配する体性運動神経と瞳孔括約筋と毛様体筋を支配する副交感神経に分かれる。動眼神経の完全麻痺では眼瞼下垂、眼球の外転及び内下方以外の全方向への眼球運動麻痺、散瞳、対光反射消失、輻輳反射消失となる。本症例において、対光反射は異常なく、眼瞼下垂もないことから、滑車神経麻痺を疑うが、糖尿病性神経障害では動眼神経と外転神経が障害されやすいため、本症例においては動眼神経の不全麻痺として外眼筋のみの麻痺を呈したと考えなければならない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_084",
+    "subject": "clinical_special",
+    "category": "metabolic_nutritional",
+    "sub_category": "糖代謝異常",
+    "category_question_number": 6,
+    "round": 29,
+    "round_question_number": 84,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「70歳の男性。約20年前に2型糖尿病と診断され薬物治療を受けている。最近急に複視が出現した。正中視で右眼は外転位をとっている。対光反射は異常なく眼瞼下垂もない。」\n\n神経症状発現の病態生理として正しいのはどれか。",
+    "options": [
+      "浮腫",
+      "虚血",
+      "炎症",
+      "圧迫"
+    ],
+    "answer": 1,
+    "explanation": "糖尿病性外眼筋麻痺は神経線維の代謝障害と微小栄養血管の閉塞による虚血が関与すると考えられている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_063",
+    "subject": "clinical_special",
+    "category": "metabolic_nutritional",
+    "sub_category": "糖代謝異常",
+    "category_question_number": 7,
+    "round": 31,
+    "round_question_number": 63,
+    "question": "HbA1cが反映する血糖値の期間はどれか。",
+    "options": [
+      "1～2日間",
+      "1～2週間",
+      "1～2か月間",
+      "1～2年間"
+    ],
+    "answer": 2,
+    "explanation": "HbA1cが反映するのは3：1～2か月間である。糖化アルブミンは約2週間、1,5-AGは約1週間の血糖値を反映する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_065",
+    "subject": "clinical_special",
+    "category": "metabolic_nutritional",
+    "sub_category": "脂質代謝異常",
+    "category_question_number": 8,
+    "round": 28,
+    "round_question_number": 65,
+    "question": "続発性脂質異常症の診断に有用でないのはどれか。",
+    "options": [
+      "肥満度",
+      "血尿の有無",
+      "HbA1c",
+      "甲状腺ホルモン値"
+    ],
+    "answer": 1,
+    "explanation": "続発性脂質異常症は高コレステロール血症と高中性脂肪血症に分けられ、基礎疾患として、甲状腺機能低下症（4：甲状腺ホルモン値）、糖尿病（3：HbA1c）、クッシング症候群、先端巨大症、褐色細胞腫、内臓脂肪型肥満（1：肥満度）などの内分泌疾患や肝疾患が挙げられる他、薬剤や飲酒などによって発症することもある。1：血尿の有無は診断に有用ではない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_069",
+    "subject": "clinical_special",
+    "category": "metabolic_nutritional",
+    "sub_category": "尿酸代謝異常",
+    "category_question_number": 9,
+    "round": 24,
+    "round_question_number": 69,
+    "question": "高尿酸血症について正しいのはどれか。",
+    "options": [
+      "ヒスタミンと関連がある。",
+      "尿管結石の原因となる。",
+      "痛風発作の初発部位は手の指節間関節である。",
+      "自己免疫疾患である。"
+    ],
+    "answer": 1,
+    "explanation": "高尿酸血症は、尿酸の産生が増加することによる産生過剰型と、腎臓や腸管からの尿酸の排泄が減少していることによる排泄低下型に分類される。高尿酸血症の状態が長く続くと、尿酸は結晶になって関節に沈着し、急性関節炎（痛風）を引き起こす。最も頻発する初発部位は、3：母趾MTP関節である。痛風発作は、肥満細胞や好塩基球からの脱顆粒（1：ヒスタミン）による血管透過性の亢進との関係はあるが、高尿酸血症自体は、直接的には1：ヒスタミンとの関係はない。高尿酸血症は代謝性疾患であり、関節リウマチなどの4：自己免疫疾患の範疇には属さない。高尿酸血症が持続すると、尿酸をはじめとする尿中の難溶性物質が尿路に析出し、2：結石を形成する場合がある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_064",
+    "subject": "clinical_special",
+    "category": "metabolic_nutritional",
+    "sub_category": "尿酸代謝異常",
+    "category_question_number": 10,
+    "round": 27,
+    "round_question_number": 64,
+    "question": "続発性高尿酸血症の原因とならないのはどれか。",
+    "options": [
+      "白血病",
+      "腎不全",
+      "狭心症",
+      "多発性骨髄腫"
+    ],
+    "answer": 2,
+    "explanation": "続発性高尿酸血症をきたす疾患は、尿酸過生産型、尿酸排泄低下型、原因不明に大別できる。尿酸過生産型では多血症、1：白血病、4：多発性骨髄腫、糖尿病I型が挙げられ、尿酸排泄低下型として、2：腎不全、慢性腎炎、薬剤性、糖尿病性ケトアシドーシス、脱水などが挙げられる。そのほか、原因不明のものとして、肥満、脂質異常症、高血圧、糖尿病、サルコイドーシス、甲状腺機能低下症などを挙げることができる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_059",
+    "subject": "clinical_special",
+    "category": "metabolic_nutritional",
+    "sub_category": "その他",
+    "category_question_number": 11,
+    "round": 32,
+    "round_question_number": 59,
+    "question": "ビタミンB1欠乏でみられるのはどれか。",
+    "options": [
+      "ペラグラ",
+      "萎縮性胃炎",
+      "巨赤芽球性貧血",
+      "多発性末梢神経障害"
+    ],
+    "answer": 3,
+    "explanation": "1：ペラグラはナイアシン欠乏症でみられる。2：萎縮性胃炎の多くはヘリコバクター・ピロリ感染による慢性胃炎でみられる。ビタミン欠乏症ではみられない。3：巨赤芽球性貧血はビタミンB12や葉酸の欠乏症でみられる。4：多発性神経障害はビタミンB1欠乏症でみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_063",
+    "subject": "clinical_special",
+    "category": "endocrine_disease",
+    "sub_category": "下垂体疾患",
+    "category_question_number": 1,
+    "round": 27,
+    "round_question_number": 63,
+    "question": "先端巨大症の原因とならないのはどれか。",
+    "options": [
+      "膵頭部腫瘍",
+      "胃ポリープ",
+      "下垂体腺腫",
+      "気管支カルチノイド"
+    ],
+    "answer": 1,
+    "explanation": "先端巨大症は、成長ホルモンが過剰に分泌されることを原因として発症する。3：下垂体腺腫以外にも1：膵頭部腫瘍、4：気管支カルチノイドといった腫瘍が、異所性に成長ホルモン放出ホルモンを分泌することにより先端巨大症をきたすことがある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_071",
+    "subject": "clinical_special",
+    "category": "endocrine_disease",
+    "sub_category": "甲状腺・副甲状腺疾患",
+    "category_question_number": 2,
+    "round": 26,
+    "round_question_number": 71,
+    "question": "甲状腺機能低下症でみられるのはどれか。",
+    "options": [
+      "頻脈",
+      "眼球突出",
+      "粘液水腫",
+      "発汗過多"
+    ],
+    "answer": 2,
+    "explanation": "【解説】甲状腺機能低下症では、3:粘液水腫による眼瞼や下肢の浮腫、脱力感、疲労感、発汗減少、体重増加、食欲低下などがみられる。1:頻脈、2:眼球突出、4:発汗過多は、バセドウ病などの甲状腺機能亢進症でみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_060",
+    "subject": "clinical_special",
+    "category": "endocrine_disease",
+    "sub_category": "甲状腺・副甲状腺疾患",
+    "category_question_number": 3,
+    "round": 29,
+    "round_question_number": 60,
+    "question": "女性に多く発症するのはどれか。",
+    "options": [
+      "橋本病",
+      "尿崩症",
+      "先端巨大症",
+      "原発性アルドステロン症"
+    ],
+    "answer": 0,
+    "explanation": "【解説】1:橋本病は中年女性に多い疾患である(男女比1:10〜20)。2:尿崩症の家族性では女性に多いが、全体的に男女比はほぼ等しい。3:先端巨大症、4:原発性アルドステロン症の男女比はほぼ等しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_064",
+    "subject": "clinical_special",
+    "category": "endocrine_disease",
+    "sub_category": "甲状腺・副甲状腺疾患",
+    "category_question_number": 4,
+    "round": 31,
+    "round_question_number": 64,
+    "question": "甲状腺機能低下症の症状で正しいのはどれか。",
+    "options": [
+      "頻脈",
+      "手指振戦",
+      "体重増加",
+      "発汗過多"
+    ],
+    "answer": 2,
+    "explanation": "【解説】甲状腺機能低下症では代謝の低下と粘液水腫により3:体重増加がみられる。1:頻脈、2:手指振戦、4:発汗過多は甲状腺機能亢進症でみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_062",
+    "subject": "clinical_special",
+    "category": "endocrine_disease",
+    "sub_category": "副腎疾患",
+    "category_question_number": 5,
+    "round": 28,
+    "round_question_number": 62,
+    "question": "高血圧と耐糖能異常のいずれも認めないのはどれか。",
+    "options": [
+      "褐色細胞腫",
+      "アジソン病",
+      "クッシング症候群",
+      "原発性アルドステロン症"
+    ],
+    "answer": 1,
+    "explanation": "【解説】1:褐色細胞腫ではカテコールアミンが過剰産生され、高血圧を呈する。3:クッシング症候群ではコルチゾール、4:原発性アルドステロン症ではアルドステロン、それぞれの過剰分泌により高血圧、糖尿病、高脂血症を呈する。2:アジソン病ではコルチゾール、アルドステロン、アンドロゲンなどが欠乏し、低血圧を呈する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_077",
+    "subject": "clinical_special",
+    "category": "endocrine_disease",
+    "sub_category": "副腎疾患",
+    "category_question_number": 6,
+    "round": 23,
+    "round_question_number": 77,
+    "question": "次の文で示す症例について下記の2問に答えよ。\n「45歳の男性。高血圧、頻拍発作の精査で受診。血中ナトリウム、カリウム値は正常範囲内であったが、腹部CTにて右副腎部に腫瘍病変を認めた。」\n\n本患者によくみられる所見はどれか。",
+    "options": [
+      "頭痛",
+      "発汗量減少",
+      "低血糖",
+      "貧血"
+    ],
+    "answer": 0,
+    "explanation": "【解説】本症例は、副腎の腫瘍病変に加え、高血圧と頻拍発作などの症状から褐色細胞腫が考えられる。高血圧患者10万人のうち1.4人程度とされ、高血圧のほか、1:頭痛、発汗、高血糖、顔面蒼白、四肢冷感、手指振戦、痩せなどの症状を呈する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_078",
+    "subject": "clinical_special",
+    "category": "endocrine_disease",
+    "sub_category": "副腎疾患",
+    "category_question_number": 7,
+    "round": 23,
+    "round_question_number": 78,
+    "question": "本疾患の診断に最も有用な測定項目はどれか。",
+    "options": [
+      "尿中アルブミン",
+      "尿中アミラーゼ",
+      "血中カテコールアミン",
+      "血中CK"
+    ],
+    "answer": 2,
+    "explanation": "【解説】褐色細胞腫は副腎髄質や傍神経節などのクロム親和性組織から発生し、大量の3:カテコールアミンを分泌する腫瘍である。そのため、血中のカテコールアミン高値、尿中カテコールアミン排泄増加、尿中カテコールアミン代謝産物であるメタネフリンなどが高値となる。1:尿中アルブミンは糖尿病性腎症など、2:尿中アミラーゼは膵炎、膵癌など、4:血中CKは心筋炎、心筋梗塞などで高値となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_071",
+    "subject": "clinical_special",
+    "category": "endocrine_disease",
+    "sub_category": "副腎疾患",
+    "category_question_number": 8,
+    "round": 25,
+    "round_question_number": 71,
+    "question": "内分泌疾患と検査値の組合せで正しいのはどれか。",
+    "options": [
+      "褐色細胞腫 ── 血中カテコールアミン低値",
+      "アジソン病 ── 血中ACTH低値",
+      "原発性アルドステロン症 ── 血漿レニン活性低値",
+      "原発性甲状腺機能低下症 ── 血中TSH低値"
+    ],
+    "answer": 2,
+    "explanation": "【解説】1:褐色細胞腫は副腎髄質や傍神経節の腫瘍で、血中カテコールアミンは高値となる。2:アジソン病は慢性副腎皮質機能低下症であり、血中ACTH(副腎皮質刺激ホルモン)は高値となる。3:原発性アルドステロン症はアルドステロンの過剰分泌をきたす疾患で、血漿レニン活性は低値となる。4:原発性甲状腺機能低下症の原因としては橋本病が最も多く、血中TSH(甲状腺刺激ホルモン)は高値となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_058",
+    "subject": "clinical_special",
+    "category": "endocrine_disease",
+    "sub_category": "副腎疾患",
+    "category_question_number": 9,
+    "round": 29,
+    "round_question_number": 58,
+    "question": "不眠がみられにくいのはどれか。",
+    "options": [
+      "褐色細胞腫",
+      "アジソン病",
+      "クッシング症候群",
+      "バセドウ病"
+    ],
+    "answer": 1,
+    "explanation": "【解説】1:褐色細胞腫では交感神経系の刺激状態がみられるため、不眠となりやすい。3:クッシング症候群はコルチゾール過剰により中枢神経の興奮性が促進することで不眠となる。4:バセドウ病は甲状腺機能亢進症であり、甲状腺ホルモン分泌過剰による精神症状として不眠となる。2:アジソン病ではコルチゾール分泌低下による中枢神経の興奮性が低下するため、不眠はみられにくい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_063",
+    "subject": "clinical_special",
+    "category": "allergy_autoimmune",
+    "sub_category": "アレルギー性疾患",
+    "category_question_number": 1,
+    "round": 30,
+    "round_question_number": 63,
+    "question": "Ⅳ型アレルギーはどれか。",
+    "options": [
+      "アナフィラキシーショック",
+      "アレルギー性結膜炎",
+      "アレルギー性接触性皮膚炎",
+      "アレルギー性鼻炎"
+    ],
+    "answer": 2,
+    "explanation": "【解説】1:アナフィラキシーショック、2:アレルギー性結膜炎、4:アレルギー性鼻炎はⅠ型アレルギーである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_059",
+    "subject": "clinical_special",
+    "category": "allergy_autoimmune",
+    "sub_category": "膠原病と類縁疾患",
+    "category_question_number": 2,
+    "round": 24,
+    "round_question_number": 59,
+    "question": "全身性エリテマトーデスについて正しいのはどれか。",
+    "options": [
+      "関節変形がみられる。",
+      "高齢女性に発症頻度が高い。",
+      "血清補体価上昇を認める。",
+      "白血球数減少がみられる。"
+    ],
+    "answer": 3,
+    "explanation": "【解説】全身性エリテマトーデスは、免疫機能の異常によって、皮膚、関節など、全身の臓器に炎症を引き起こす疾患で、増悪と寛解を繰り返しながら、慢性に経過する。ただし、関節の炎症は一般に間欠的で、通常は関節に損傷が起きても、1:関節変形をきたすことは少ない。20〜40代の比較的2:若い女性に多い疾患である。一般的に、活動期には、3:血清補体価は低下し、4:白血球数(特にリンパ球)は減少する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_070",
+    "subject": "clinical_special",
+    "category": "allergy_autoimmune",
+    "sub_category": "膠原病と類縁疾患",
+    "category_question_number": 3,
+    "round": 25,
+    "round_question_number": 70,
+    "question": "全身性エリテマトーデスについて誤っているのはどれか。",
+    "options": [
+      "女性に多い。",
+      "白血球が増加する。",
+      "抗核抗体が陽性である。",
+      "蝶形紅斑を認める。"
+    ],
+    "answer": 0,
+    "explanation": "【解説】全身性エリテマトーデスは自己免疫疾患であり、1:女性に多く、4:蝶形紅斑、円板状皮疹、日光過敏、口腔内潰瘍、関節炎、漿膜炎、腎障害、神経障害などの多彩な症状を呈する。2:白血球数は減少し、3:抗核抗体が陽性となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_077",
+    "subject": "clinical_special",
+    "category": "allergy_autoimmune",
+    "sub_category": "膠原病と類縁疾患",
+    "category_question_number": 4,
+    "round": 26,
+    "round_question_number": 77,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「40歳の女性。数年前より手指のこわばりを自覚していた。最近、症状の増悪と手指の関節痛、腫脹が認められ来院した。冷たいものに触ると手指が白くなることがある。検査では抗トポイソメラーゼⅠ抗体(抗Scl-70)が陽性であった。」\n\n本症例の手指の所見はどれか。",
+    "options": [
+      "ゴットロン徴候",
+      "ばち指",
+      "レイノー現象",
+      "スプーン状爪"
+    ],
+    "answer": 2,
+    "explanation": "【解説】寒冷刺激などによって誘発される血管攣縮による手指、足、耳、鼻、舌、口唇などの皮膚の色調変化を3:レイノー現象という。本症例は、レイノー現象と併せて、手指のこわばり、関節痛、腫脹を認め、抗トポイソメラーゼⅠ抗体(抗Scl-70)が陽性であることから、全身性強皮症が疑われる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_078",
+    "subject": "clinical_special",
+    "category": "allergy_autoimmune",
+    "sub_category": "膠原病と類縁疾患",
+    "category_question_number": 5,
+    "round": 26,
+    "round_question_number": 78,
+    "question": "本疾患の合併症として最も多いのはどれか。",
+    "options": [
+      "ブドウ膜炎",
+      "ネフローゼ症候群",
+      "逆流性食道炎",
+      "シェーグレン症候群"
+    ],
+    "answer": 2,
+    "explanation": "【解説】全身性強皮症では、レイノー現象に加え、爪上皮出血点を認め、3:逆流性食道炎などの合併症が多くみられる。爪上皮出血点は、4:シェーグレン症候群や皮膚筋炎などでもみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_075",
+    "subject": "clinical_special",
+    "category": "allergy_autoimmune",
+    "sub_category": "膠原病と類縁疾患",
+    "category_question_number": 6,
+    "round": 24,
+    "round_question_number": 75,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「48歳の女性。2年前、左手のこわばりがみられ、その後、近位指節間関節から始まる左指の関節痛と腫れが生じ、さらに右指の関節も痛みだした。現在では、両側の手・膝関節にも関節炎がみられる。光過敏や嚥下障害はない。」\n\n本疾患で陽性となるのはどれか。",
+    "options": [
+      "リウマトイド因子",
+      "LE細胞",
+      "抗Jo-1抗体",
+      "抗トポイソメラーゼⅠ抗体(抗Scl-70抗体)"
+    ],
+    "answer": 0,
+    "explanation": "【解説】手のこわばり、左右対称性、手指の関節痛から、関節リウマチが疑われ、光過敏、嚥下障害のないことから、全身性エリテマトーデス、強皮症、多発性筋炎、皮膚筋炎は否定できる。1:リウマトイド因子は関節リウマチで陽性になりやすい。2:LE細胞が陽性となるのは、全身性エリテマトーデスである。3:抗Jo-1抗体は多発性筋炎、皮膚筋炎に特異的な自己抗体である。4:抗Scl-70抗体は、強皮症の進行性全身性硬化症に極めて特異性の高い抗核抗体である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_076",
+    "subject": "clinical_special",
+    "category": "allergy_autoimmune",
+    "sub_category": "膠原病と類縁疾患",
+    "category_question_number": 7,
+    "round": 24,
+    "round_question_number": 76,
+    "question": "本疾患でよくみられるのはどれか。",
+    "options": [
+      "ハンマー指",
+      "ヘバーデン結節",
+      "Z型変形",
+      "プシャール結節"
+    ],
+    "answer": 2,
+    "explanation": "【解説】関節リウマチの特徴的な手指変形には、ボタン穴変形、スワンネック変形、尺側変位、3:Z型変形がある。1:ハンマー指は手指伸筋腱の断裂で生じる。足趾にも同様の変化をきたす。2:ヘバーデン結節は、遠位指節間関節の変形性関節症で、4:プシャール結節は近位指節間関節の変形性関節症である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_072",
+    "subject": "clinical_special",
+    "category": "allergy_autoimmune",
+    "sub_category": "膠原病と類縁疾患",
+    "category_question_number": 8,
+    "round": 26,
+    "round_question_number": 72,
+    "question": "関節リウマチについて正しいのはどれか。",
+    "options": [
+      "男性に多い。",
+      "関節のこわばりは夕方に多い。",
+      "対称性の関節腫脹を認めることが多い。",
+      "遠位指節間関節の腫脹を認めることが多い。"
+    ],
+    "answer": 2,
+    "explanation": "【解説】関節リウマチは1:女性に多く、自己免疫疾患に分類され、滑膜が存在する関節包、腱鞘、滑液包における炎症による関節痛、腫れ、熱感、2:朝のこわばりなどの症状のほか、発熱、倦怠感、体重減少、うつ症状などの全身症状もみられる。3:関節腫脹は対称性で、4:近位指節間関節や中手指節関節に認めることが多い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_061",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "関節疾患",
+    "category_question_number": 1,
+    "round": 24,
+    "round_question_number": 61,
+    "question": "変形性関節症のエックス線所見でないのはどれか。",
+    "options": [
+      "関節裂隙の狭小化",
+      "骨棘の形成",
+      "骨嚢胞の形成",
+      "骨萎縮"
+    ],
+    "answer": 3,
+    "explanation": "【解説】変形性関節症は、その進行度により異なるが、一般的にはエックス線により、1:関節裂隙の狭小化、軟骨下骨の骨密度が増加(骨硬化像)し、関節辺縁部に2:骨棘の形成、3:骨嚢胞を認める。4:骨萎縮は、既に形成された骨組織の骨量の減少状態をいう。原因別には、圧迫性骨萎縮、廃用性骨萎縮、老人性骨萎縮、神経性骨萎縮、ズーデック骨萎縮に分類され、変形性関節症において特異的な所見ではない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_056",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "関節疾患",
+    "category_question_number": 2,
+    "round": 26,
+    "round_question_number": 56,
+    "question": "変形性股関節症の原因とならないのはどれか。",
+    "options": [
+      "ペルテス病",
+      "単純性股関節炎",
+      "外傷性股関節脱臼",
+      "大腿骨頭すべり症"
+    ],
+    "answer": 1,
+    "explanation": "【解説】変形性股関節症は原因の有無によって一次性と二次性に分類され、何らかの原因があって起こる二次性が大半を占める。二次性の原因としては、先天性股関節脱臼と臼蓋形成不全(発育性股関節形成不全)が圧倒的に多く、そのほか、1:ペルテス病、3:外傷性股関節脱臼、4:大腿骨頭すべり症、特発性大腿骨頭壊死症などが挙げられる。2:単純性股関節炎は、小児においてみられる一過性に股関節痛を生じる代表的な疾患である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_058",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "関節疾患",
+    "category_question_number": 3,
+    "round": 28,
+    "round_question_number": 58,
+    "question": "大腿骨頭すべり症で陽性になるのはどれか。",
+    "options": [
+      "アイヒホッフテスト",
+      "ピボットシフトテスト",
+      "ドレーマン徴候",
+      "ピアノキー徴候"
+    ],
+    "answer": 2,
+    "explanation": "【解説】1:アイヒホッフテスト─ドケルバン病、2:ピボットシフトテスト─ACL損傷、3:ドレーマン徴候─大腿骨頭すべり症、4:ピアノキー徴候─肩鎖関節損傷、それぞれ陽性となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_056",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "関節疾患",
+    "category_question_number": 4,
+    "round": 25,
+    "round_question_number": 56,
+    "question": "ピロリン酸カルシウムが原因であるのはどれか。",
+    "options": [
+      "偽痛風",
+      "関節リウマチ",
+      "肩関節周囲炎",
+      "変形性股関節症"
+    ],
+    "answer": 0,
+    "explanation": "【解説】1:偽痛風はピロリン酸カルシウム結晶の沈着によって起こる関節炎で、膝関節や手関節に好発する。2:関節リウマチは自己免疫疾患であり、原因はいまだ不明であるが、遺伝的素因やウイルス感染などの関与が示唆されている。3:肩関節周囲炎は、関節構成体(骨、軟骨、靱帯、腱など)の退行変性を基盤とする、肩関節周囲組織の炎症が原因と考えられている。4:変形性股関節症の多くは、発育性股関節形成不全を主な原因とした二次性股関節症が占める。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_077",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "関節疾患",
+    "category_question_number": 5,
+    "round": 28,
+    "round_question_number": 77,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「83歳の女性。昨夜から左膝痛と38℃の発熱が出現した。左膝関節に熱感、腫脹および膝蓋跳動を認める。関節液の偏光顕微鏡観察で異常を認めた。」\n\n最も可能性の高い疾患はどれか。",
+    "options": [
+      "化膿性関節炎",
+      "関節リウマチ",
+      "偽痛風",
+      "変形性膝関節症"
+    ],
+    "answer": 2,
+    "explanation": "【解説】症例は突発性の発熱、関節の炎症所見(熱感、水腫)、関節液の異常から3:偽痛風が疑われる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_078",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "関節疾患",
+    "category_question_number": 6,
+    "round": 28,
+    "round_question_number": 78,
+    "question": "本症例に特徴的な単純エックス線所見はどれか。",
+    "options": [
+      "骨棘形成",
+      "関節裂隙狭小化",
+      "骨びらん",
+      "半月板石灰化"
+    ],
+    "answer": 3,
+    "explanation": "【解説】本症は、ピロリン酸カルシウム結晶が関節内に沈着して炎症反応を起こす。単純エックス線所見において4:半月板や関節軟骨の石灰化を認めることがあり、血液検査では炎症反応を示すCRP、WBC、血沈などの上昇が見られる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_049",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "関節疾患",
+    "category_question_number": 7,
+    "round": 30,
+    "round_question_number": 49,
+    "question": "変形性関節症の単純エックス線所見で正しいのはどれか。",
+    "options": [
+      "骨壊死像",
+      "骨棘の形成",
+      "関節裂隙の拡大",
+      "軟骨下骨の萎縮像"
+    ],
+    "answer": 1,
+    "explanation": "【解説】変形性関節症の単純エックス線所見では、2:骨棘の形成、3:関節裂隙の狭小化、4:軟骨下骨の硬化、嚢胞、などが特徴的にみられる。変形性関節症では骨壊死を伴わないため、1:骨壊死像はみられない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_061",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "骨代謝性疾患",
+    "category_question_number": 8,
+    "round": 23,
+    "round_question_number": 61,
+    "question": "骨疾患と病態の組合せで正しいのはどれか。",
+    "options": [
+      "くる病 ── ビタミンC欠乏",
+      "骨軟化症 ── 類骨の増加",
+      "骨粗鬆症 ── 骨量の増加",
+      "多発性骨髄腫 ── 骨硬化"
+    ],
+    "answer": 1,
+    "explanation": "【解説】1:くる病はビタミンDの欠乏によって起こる病気で、ビタミンCの欠乏は壊血病である。また、2:骨軟化症(くる病)は、骨量は減少していないが、骨に比べて類骨の増加があるものを指す。3:骨粗鬆症は、骨・類骨比は正常であるが、骨量が減少しているものを指す。4:多発性骨髄腫は、腫瘍性の形質細胞が骨髄で増殖し、多発性に集塊を形成しているものを指す。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_062",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "骨代謝性疾患",
+    "category_question_number": 9,
+    "round": 24,
+    "round_question_number": 62,
+    "question": "骨粗鬆症の原因でないのはどれか。",
+    "options": [
+      "クッシング症候群",
+      "コルチコステロイドの投与",
+      "ビタミンA欠乏",
+      "閉経"
+    ],
+    "answer": 2,
+    "explanation": "骨粗鬆症は基礎疾患の有無により、原発性と続発性に分類され、原発性骨粗鬆症には、主として4：閉経後の女性にみられる閉経後骨粗鬆症と、65歳以上の高齢者にみられる老人性骨粗鬆症がある。続発性骨粗鬆症の原因としては、内分泌疾患（1：クッシング症候群）、代謝性疾患、炎症性疾患、先天性疾患、栄養性（3：ビタミンA）、薬物性（2：コルチコステロイド）などがある。3：ビタミンAに関しては、その過剰摂取により、骨粗鬆症のリスクが高まるとされている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_059",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "骨代謝性疾患",
+    "category_question_number": 10,
+    "round": 25,
+    "round_question_number": 59,
+    "question": "骨粗鬆症患者に好発する骨折はどれか。",
+    "options": [
+      "鎖骨骨幹部骨折",
+      "橈骨近位部骨折",
+      "大腿骨近位部骨折",
+      "脛骨遠位部骨折"
+    ],
+    "answer": 2,
+    "explanation": "骨粗鬆症とは、骨量の減少による骨の微細構造の異常を特徴とし、骨の脆弱性が亢進する結果、骨折のリスクが高まる。原因となる基礎疾患の有無により、原発性骨粗鬆症と続発性骨粗鬆症の2つに分類される。骨折は椎体（特に胸腰椎移行部）、3：大腿骨近位部、橈骨遠位部、上腕骨近位部に好発する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_057",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "骨代謝性疾患",
+    "category_question_number": 11,
+    "round": 27,
+    "round_question_number": 57,
+    "question": "骨粗鬆症における骨折危険因子でないのはどれか。",
+    "options": [
+      "運動",
+      "喫煙",
+      "糖尿病",
+      "副腎皮質ステロイド薬"
+    ],
+    "answer": 0,
+    "explanation": "4：副腎皮質ステロイド薬は、骨を脆弱化させる。3：糖尿病は、骨密度を低下させるため骨折のリスクが高くなる。2：喫煙はエストロゲンの分泌を抑制し、腸管からの栄養吸収を妨げることから、骨粗鬆症を助長する。一方、適度な1：運動は骨に刺激を与え、骨密度に好影響を与えるとともに、運動習慣は姿勢維持に関連した筋・神経を活性化することにより、急な姿勢変化を余儀なくされた場合の対応などにも影響を与える。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_050",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "骨代謝性疾患",
+    "category_question_number": 12,
+    "round": 30,
+    "round_question_number": 50,
+    "question": "くる病の治療で適切でないのはどれか。",
+    "options": [
+      "ビタミンDの投与",
+      "運動",
+      "日光浴",
+      "副腎皮質ホルモンの投与"
+    ],
+    "answer": 3,
+    "explanation": "くる病はビタミンD作用不足、リン欠乏、アシドーシスなどによる骨の石灰化不全で、類骨組織の増加が原因で生じる疾患である。4：副腎皮質ホルモンには破骨細胞増加による骨吸収促進作用、骨芽細胞減少による骨形成低下作用があるため、治療としては適切ではない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_065",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "骨代謝性疾患",
+    "category_question_number": 13,
+    "round": 31,
+    "round_question_number": 65,
+    "question": "骨粗鬆症患者で最も骨折が起こりにくい部位はどれか。",
+    "options": [
+      "橈骨遠位部",
+      "腰椎椎体",
+      "大腿骨近位部",
+      "踵骨体部"
+    ],
+    "answer": 3,
+    "explanation": "問題10の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_066",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "骨腫瘍",
+    "category_question_number": 14,
+    "round": 23,
+    "round_question_number": 66,
+    "question": "骨肉腫の初発症状でよくみられるのはどれか。",
+    "options": [
+      "発熱",
+      "運動時痛",
+      "腫脹",
+      "間欠跛行"
+    ],
+    "answer": 1,
+    "explanation": "骨肉腫は10代、特に15～19歳に多く、大腿骨の遠位や脛骨の近位の骨幹端、上腕骨の骨幹端に好発する。2：運動時痛が初発症状であることが多く、進行とともに昼夜問わない自発痛に進行し、やがて1：局所の熱感、3：腫脹、関節運動障害、4：跛行などを呈する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_055",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "骨腫瘍",
+    "category_question_number": 15,
+    "round": 26,
+    "round_question_number": 55,
+    "question": "骨腫瘍で予後が悪いのはどれか。",
+    "options": [
+      "軟骨肉腫",
+      "内軟骨腫",
+      "外骨腫",
+      "類骨腫"
+    ],
+    "answer": 0,
+    "explanation": "骨腫瘍には悪性骨腫瘍と良性骨腫瘍があり、悪性骨腫瘍は予後不良とされている。1：軟骨肉腫は悪性骨腫瘍に分類され、40歳代以上に多く、好発部位は大腿骨、骨盤、上腕骨である。2：内軟骨腫、3：外骨腫、4：類骨腫は、転移の可能性が低く、予後が良好とされる良性骨腫瘍に分類される。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_064",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "骨腫瘍",
+    "category_question_number": 16,
+    "round": 32,
+    "round_question_number": 64,
+    "question": "原発性悪性骨腫瘍で最も頻度が高いのはどれか。",
+    "options": [
+      "骨肉腫",
+      "軟骨肉腫",
+      "ユーイング肉腫",
+      "脊索腫"
+    ],
+    "answer": 0,
+    "explanation": "原発性悪性骨腫瘍で最も頻度が高いのは1：骨肉腫で、次いで2：軟骨肉腫、3：ユーイング肉腫、4：脊索腫である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_051",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "筋・腱疾患",
+    "category_question_number": 17,
+    "round": 30,
+    "round_question_number": 51,
+    "question": "骨化性筋炎の原因はどれか。",
+    "options": [
+      "脊髄損傷",
+      "エストロゲン製剤の服用",
+      "意識障害を伴う脳障害",
+      "筋挫傷後の無理な可動域訓練"
+    ],
+    "answer": 3,
+    "explanation": "骨化性筋炎は筋や靭帯などの軟部組織に生じる異所性骨化を伴う炎症性疾患である。外傷による筋や靭帯組織の損傷にともなう出血が器質化することにより異所性骨化が生じると考えられている。4：筋挫傷後の無理な可動域訓練は骨化性筋炎の原因となりうる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_085",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "筋・腱疾患",
+    "category_question_number": 18,
+    "round": 30,
+    "round_question_number": 85,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「70歳の男性。車を停車中に左上肢を伸ばし後部座席の物を取ったところ、肩峰部に激痛を感じた。肩関節部を他動的に外転させても、自力で外転位を保持できない。」\n\n診察所見で適切なのはどれか。",
+    "options": [
+      "ドロップアームテスト陽性",
+      "ペインフルアークサイン陽性",
+      "肩関節内旋筋力低下",
+      "肩関節内転筋力低下"
+    ],
+    "answer": 0,
+    "explanation": "ハンドルが左右のどちらかにあるかで状況が変わるため症例文前半を無視したとしても、自力で肩関節外転位を保持できないことから腱板断裂を疑う。肩関節を他動的に外転させ患肢を保持できるかどうかを調べる試験は1：ドロップアームテストであり、症例文より外転位が保持できないため陽性となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_086",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "筋・腱疾患",
+    "category_question_number": 19,
+    "round": 30,
+    "round_question_number": 86,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「70歳の男性。車を停車中に左上肢を伸ばし後部座席の物を取ったところ、肩峰部に激痛を感じた。肩関節部を他動的に外転させても、自力で外転位を保持できない。」\n\n診断確定のための検査で最も適切なのはどれか。",
+    "options": [
+      "エックス線検査",
+      "CT検査",
+      "MRI検査",
+      "筋電図検査"
+    ],
+    "answer": 2,
+    "explanation": "1：X線検査は軟部組織を描出することはできない。2：CT検査は骨の立体的構造や形態変化、石灰化の描出に優れるが、軟部組織の描出は十分に行えない。3：MRI検査は軟部組織の描出に最も優れた画像検査である。4：筋電図検査は画像検査ではなく、断裂に用いる検査としては不向きである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_058",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "形態異常",
+    "category_question_number": 20,
+    "round": 25,
+    "round_question_number": 58,
+    "question": "生後3か月の発育性股関節形成不全の患児でみられるのはどれか。",
+    "options": [
+      "アリス徴候",
+      "トレンデレンブルグ徴候",
+      "ドレーマン徴候",
+      "フローマン徴候"
+    ],
+    "answer": 0,
+    "explanation": "股関節形成不全は不適切な育児習慣によって股関節脱臼を発症するケースが多いことから、それらが発育性股関節形成不全と呼ばれるようになった。女児に多く、乳児期には開排制限が見られるほか、脚長差が生じるため、1：アリス徴候が陽性となる。2：トレンデレンブルグ徴候は、立位が可能となる幼児期にみられる。3：ドレーマン徴候は背臥位で股関節を屈曲していくと患肢が開排していく現象で、大腿骨頭すべり症で陽性となる。4：フローマン徴候は、尺骨神経麻痺時に母指内転筋の筋力低下が生じることによって陽性となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_075",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "形態異常",
+    "category_question_number": 21,
+    "round": 25,
+    "round_question_number": 75,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「7歳の女児。主訴は歩行異常。トレンデレンブルグ徴候がみられた。」\n\n罹患関節の種類はどれか。",
+    "options": [
+      "鞍関節",
+      "ラセン関節",
+      "臼状関節",
+      "楕円関節"
+    ],
+    "answer": 2,
+    "explanation": "本症例は発育性股関節形成不全を示唆していることから、罹患関節は3：臼状関節である。1：鞍関節には母指CM関節、胸鎖関節などがあり、2：ラセン関節には腕尺関節、距腿関節、脛骨大腿関節、4：楕円関節には橈骨手根関節がある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_076",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "形態異常",
+    "category_question_number": 22,
+    "round": 25,
+    "round_question_number": 76,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「7歳の女児。主訴は歩行異常。トレンデレンブルグ徴候がみられた。」\n\n本症例で筋力低下をきたした筋の主な運動はどれか。",
+    "options": [
+      "罹患関節の伸展",
+      "罹患関節を屈曲しながらの外転",
+      "罹患関節の内旋",
+      "罹患関節の外転"
+    ],
+    "answer": 3,
+    "explanation": "発育性股関節形成不全では、股関節の4：外転筋力が低下することから、トレンデレンブルグ徴候が陽性となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_064",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "形態異常",
+    "category_question_number": 23,
+    "round": 24,
+    "round_question_number": 64,
+    "question": "装具と疾患の組合せで正しいのはどれか。",
+    "options": [
+      "ミルウォーキーブレース ── 側弯症",
+      "ボストンブレース ── 斜頸",
+      "デニスブラウン副子 ── 発育性股関節形成不全（先天性股関節脱臼）",
+      "リーメンビューゲル装具 ── 先天性内反足"
+    ],
+    "answer": 0,
+    "explanation": "1：ミルウォーキーブレースは、脊柱側弯（側弯症）の矯正保持を目的とした上位胸椎部矯正型装具である。2：ボストンブレースは、アンダーアーム型ブレースの一種で、側弯症矯正装具である。3：デニスブラウン副子は、先天性内反足の矯正位保持装具である。4：リーメンビューゲル装具は、先天性股関節脱臼に対する機能的治療法として考案された装具である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_049",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "形態異常",
+    "category_question_number": 24,
+    "round": 29,
+    "round_question_number": 49,
+    "question": "生後3か月の女児が乳児健康診査で股関節開排制限を指摘された。診察で誤っているのはどれか。",
+    "options": [
+      "大腿部の皮膚のしわを観察する。",
+      "開排位での大転子と坐骨結節間の距離を診る。",
+      "ラックマン徴候を診る。",
+      "超音波断層像を診る。"
+    ],
+    "answer": 2,
+    "explanation": "発育性股関節形成不全を疑う。発育性股関節形成不全の所見として開排制限、1：大腿皮膚溝の非対称、クリック徴候、脚長差（アリス徴候）、2：脱臼に伴う大転子の位置異常がみられる。4：画像検査では軟骨を描出できる超音波検査が有用である。3：ラックマン徴候は前十字靭帯機能不全でみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_050",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "形態異常",
+    "category_question_number": 25,
+    "round": 29,
+    "round_question_number": 50,
+    "question": "特発性側弯症について正しいのはどれか。",
+    "options": [
+      "男性に多い。",
+      "前屈姿勢で左右の鎖骨の張り出しの差を診る。",
+      "コブ角は脊椎側面エックス線写真で測定する。",
+      "早期発見には学校健康診断が重要である。"
+    ],
+    "answer": 3,
+    "explanation": "特発性側弯症は、1：女性に多く、4：学校保健法で前屈テストが定められており、早期発見として重要である。2：前屈姿勢（前屈テスト）で左右の肋骨隆起・腰部隆起の差を診る。3：コブ角は前画像で測定する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_066",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "形態異常",
+    "category_question_number": 26,
+    "round": 31,
+    "round_question_number": 66,
+    "question": "中殿筋機能が低下して起こるのはどれか。",
+    "options": [
+      "アリス徴候",
+      "クリック徴候",
+      "ドレーマン徴候",
+      "トレンデレンブルグ徴候"
+    ],
+    "answer": 3,
+    "explanation": "1：アリス徴候と2：クリック徴候は発育性股関節形成不全でみられる。3：ドレーマン徴候は大腿骨頭すべり症でみられる。4：トレンデレンブルグ徴候は中殿筋機能が低下しているときにみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_059",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 27,
+    "round": 28,
+    "round_question_number": 59,
+    "question": "頸椎椎間板ヘルニアについて正しいのはどれか。",
+    "options": [
+      "神経根症では上肢に腱反射の亢進を認める。",
+      "神経根症では腹壁反射の消失を認める。",
+      "脊髄症では下肢に腱反射の減弱を認める。",
+      "脊髄症では下肢に病的反射を認める。"
+    ],
+    "answer": 3,
+    "explanation": "頸椎椎間板ヘルニアは、圧迫形態により神経根症と脊髄症に分かれる。神経根症では、障害高位を中枢とする腱反射は減弱または消失する。胸椎ヘルニアによる神経根症では、腹壁反射の減弱または消失を認める。脊髄症では障害高位以下を中枢とする上肢および下肢の腱反射の亢進を認め、上肢および4：下肢の病的反射を認める。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_057",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 28,
+    "round": 25,
+    "round_question_number": 57,
+    "question": "脊柱管狭窄を生じるのはどれか。",
+    "options": [
+      "黄色靭帯肥厚",
+      "前縦靭帯骨化",
+      "横突起肥大",
+      "棘上靭帯骨化"
+    ],
+    "answer": 0,
+    "explanation": "脊柱管狭窄の原因としては、脊椎の退行変性に伴う骨増殖性変化や配列異常（すべり）、あるいは椎間板、椎間関節の変性のほか、脊柱管内に存在する後縦靭帯や1：黄色靭帯の肥厚、骨化などが挙げられる。後縦靭帯骨化症は頸椎に多く、黄色靭帯骨化症は胸椎に好発する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_059",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 29,
+    "round": 27,
+    "round_question_number": 59,
+    "question": "脊椎疾患と所見の組合せで正しいのはどれか。",
+    "options": [
+      "頸椎椎間板ヘルニア ── 間欠跛行",
+      "頸椎後縦靱帯骨化症 ── 膝蓋腱反射の減弱",
+      "腰椎椎間板ヘルニア ── アキレス腱反射の亢進",
+      "腰部脊柱管狭窄症 ── 会陰部のしびれ"
+    ],
+    "answer": 3,
+    "explanation": "馬尾性間欠跛行は、4：腰部脊柱管狭窄症の特徴的な所見である。2：頸椎後縦靭帯骨化症で、脊柱管が狭窄した場合には膝蓋腱反射は亢進する可能性が高い。3：腰椎椎間板ヘルニア（L4/L5）において、一般的な後外側への脱出ではS1神経根が刺激され、アキレス腱反射は低下する。4：腰部脊柱管狭窄症では、会陰部のしびれが出現する場合がある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_065",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 30,
+    "round": 23,
+    "round_question_number": 65,
+    "question": "頸椎症について正しいのはどれか。",
+    "options": [
+      "脊髄症型では一側の肩甲背部の疼痛が起こる。",
+      "神経根型では深部反射亢進が起こる。",
+      "関連痛型では手術療法が第1選択である。",
+      "保存療法では頸椎牽引が有効である。"
+    ],
+    "answer": 3,
+    "explanation": "頸椎症は脊髄症と神経根症に分かれるが、典型的な脊髄症では両側の手や上肢にかけての疼痛やしびれが認められ、下肢の痙性麻痺のために歩行困難を起こしたり、膀胱直腸障害が認められることがある。また、深部腱反射の亢進や病的反射の出現などが特徴であるのに対し、典型的な神経根症は一側の手指のしびれ、握力の低下、母指球・小指球・虫様筋の萎縮などの症状を障害高位に応じて起こす。深部腱反射は消失または減弱するが、病的反射は認められない。治療に関しては、筋肉の萎縮が強いときや歩行困難や膀胱直腸障害が認められるときは手術適応であるが、痛みやしびれが中心のときは保存療法が一般的である。保存療法としては、頸椎カラーの装着、薬物治療、4：牽引療法、温熱療法などが一般的である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_058",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 31,
+    "round": 26,
+    "round_question_number": 58,
+    "question": "頸椎症性神経根症でみられるのはどれか。",
+    "options": [
+      "握力低下",
+      "腱反射亢進",
+      "尿閉",
+      "病的反射"
+    ],
+    "answer": 0,
+    "explanation": "頸椎症は脊柱管の狭窄によって生じる脊髄症と、椎間孔の狭小化によって生じる神経根症があり、神経根症では、1：握力低下のほか、障害神経根に応じて、上肢の筋力低下、知覚異常、腱反射低下がみられる。2：腱反射亢進、3：尿閉、4：病的反射がみられる場合は脊髄症が疑われる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_079",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 32,
+    "round": 26,
+    "round_question_number": 79,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「62歳の男性。右側の腰から下肢にかけての痛み、しびれがある。歩くと痛みは強くなり歩けなくなるが、休むと再び歩けるようになる。足関節・上腕血圧比は1.0であった。」\n\n本症例の徒手検査所見で陽性を示すのはどれか。",
+    "options": [
+      "SLRテスト",
+      "ケンプ徴候",
+      "大腿神経伸展テスト",
+      "K・ボンネットテスト"
+    ],
+    "answer": 1,
+    "explanation": "本症例は腰下肢症状を認めており、足関節・上腕血圧比は正常であることから、間欠跛行は神経性であると考えられ、腰部脊柱管狭窄症が疑われる。腰椎（体幹）の後屈によって脊柱管の狭小化を強めることから、症状を誘発する可能性がある。したがって選択肢のうち、陽性を示すのは2：ケンプ徴候と考えられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_080",
+    "subject": "clinical_special",
+    "category": "locomotor_disease",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 33,
+    "round": 26,
+    "round_question_number": 80,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「62歳の男性。右側の腰から下肢にかけての痛み、しびれがある。歩くと痛みは強くなり歩けなくなるが、休むと再び歩けるようになる。足関節・上腕血圧比は1.0であった。」\n\n歩行中に右下肢痛が起こったときの対応として、体幹の姿位で最も適切なのはどれか。",
+    "options": [
+      "前屈",
+      "後屈",
+      "右側屈",
+      "左側屈"
+    ],
+    "answer": 0,
+    "explanation": "腰椎（体幹）の1：前屈によって脊柱管前後径の拡大が期待でき、症状の軽減が得られると考えられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_063",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 34,
+    "round": 23,
+    "round_question_number": 63,
+    "question": "脊椎・脊髄疾患と身体所見の組合せで正しいのはどれか。",
+    "options": [
+      "脊髄ショック ── 痙性麻痺",
+      "頸椎捻挫 ── バレー・リュー症状",
+      "L3−L4椎間板ヘルニア ── アキレス腱反射の低下",
+      "腰部脊柱管狭窄症 ── 鶏歩"
+    ],
+    "answer": 1,
+    "explanation": "1：脊髄ショックは、弛緩性麻痺や尿閉が認められる。痙性麻痺は、脳梗塞の後遺症として認められることが多い。2：頸椎捻挫では頭痛・めまい・耳鳴り・難聴・悪心・嘔吐・眼振などバレー・リュー症状と呼ばれる自律神経症状を呈するタイプがある。3：L3−L4椎間板ヘルニアはL4の障害であることから膝蓋腱反射（L2−L4）の消失は認められるが、アキレス腱反射（S1−S2）の消失は認められない。4：腰部脊柱管狭窄症の特徴は神経性間欠跛行と呼ばれる跛行であり、姿勢を変える（体幹の前屈など）ことで速やかに改善して歩けるようになるのが特徴。鶏歩は腓骨神経麻痺に特徴的な跛行である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_087",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 35,
+    "round": 29,
+    "round_question_number": 87,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「14歳の男子。サッカー部に入部してから3か月が経過した。最近腰部を反らすと腰に痛みが出るようになり来院した。」\n\n予想される診察所見はどれか。",
+    "options": [
+      "体前屈で腰痛が増強する。",
+      "体幹回旋で腰痛が増強する。",
+      "SLRテストは陽性となる。",
+      "FNSテストは陽性となる。"
+    ],
+    "answer": 1,
+    "explanation": "10代のスポーツ活動の多い男性で後屈により症状が増悪し、神経根症状がみられないため、脊椎分離症を疑う。腰部をそらすと腰に痛みが出るため、1：体前屈で腰痛が増強するとは考えにくい。神経根症状がみられないため、3：SLRテストと4：FNSテストは陰性となる。2：回旋動作は分離部への負荷となるため腰痛が増加する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_088",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 36,
+    "round": 29,
+    "round_question_number": 88,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「14歳の男子。サッカー部に入部してから3か月が経過した。最近腰部を反らすと腰に痛みが出るようになり来院した。」\n\n本症例に特徴的な単純エックス線所見はどれか。",
+    "options": [
+      "椎間板腔の狭小化",
+      "腰椎前弯の消失",
+      "テリアの首輪",
+      "椎体の変形"
+    ],
+    "answer": 2,
+    "explanation": "本症例は脊椎分離症であり、X線検査の45°斜位像でテリアの首輪徴候（テリアネックサイン）がみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_085",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 37,
+    "round": 31,
+    "round_question_number": 85,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「56歳の男性。数日前から続く右肩甲部や右上腕外側の痛みと、右前腕橈側から右手橈側のしびれを主訴に来院した。」\n\n最も陽性になりやすいのはどれか。",
+    "options": [
+      "ペインフルアークサイン",
+      "スパーリングテスト",
+      "トムゼンテスト",
+      "ファレンテスト"
+    ],
+    "answer": 1,
+    "explanation": "症例は頸椎症性神経根症（C5、C6神経根障害）である。2：スパーリングテストやジャクソンテストが陽性となる。1：ペインフルアークサインは腱板損傷で陽性となる。3：トムゼンテストは上腕骨外側上顆炎で陽性となる。4：ファレンテストは手根管症候群で陽性となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_086",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 38,
+    "round": 31,
+    "round_question_number": 86,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「56歳の男性。数日前から続く右肩甲部や右上腕外側の痛みと、右前腕橈側から右手橈側のしびれを主訴に来院した。」\n\n装具療法を行う場合に最も適切なのはどれか。",
+    "options": [
+      "頸椎装具",
+      "肩関節外転装具",
+      "テニス肘バンド",
+      "手関節背屈装具"
+    ],
+    "answer": 0,
+    "explanation": "1：頸椎装具は頸椎症や頸椎捻挫、頸椎椎間板ヘルニアなどで用いる。2：肩関節外転装具は腱板損傷などで用いる。3：テニス肘バンドは上腕骨外側上顆炎で用いる。4：手関節背屈装具は主に橈骨神経麻痺で用いる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_063",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 39,
+    "round": 32,
+    "round_question_number": 63,
+    "question": "L5神経根障害の所見として誤っているのはどれか。",
+    "options": [
+      "足背の知覚障害",
+      "アキレス腱反射消失",
+      "足関節背屈筋力低下",
+      "SLRテスト陽性"
+    ],
+    "answer": 1,
+    "explanation": "2：アキレス腱反射が消失するのはS1神経根の障害である。1：第5趾を除く足背の知覚障害、3：足関節背屈筋力低下はL5神経根障害の特徴的所見である。4：SLRテストは下肢伸展挙上で坐骨神経が伸張されるテストであるため、L4〜S3神経根障害で陽性となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_087",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 40,
+    "round": 32,
+    "round_question_number": 87,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「45歳の男性。長時間の座位により右下肢痛が生じるようになったため整形外科を受診し、腰椎椎間板ヘルニアと診断された。右の片脚立ちで踵の挙上ができなかった。」\n\n感覚鈍麻が疑われる部位はどれか。",
+    "options": [
+      "足底",
+      "足背中央",
+      "下腿内側",
+      "大腿前面"
+    ],
+    "answer": 0,
+    "explanation": "症例より、右足の片脚立ちで踵の挙上ができなかったことから、下腿三頭筋の筋力低下をきたしており、S1神経根障害を疑う。S1神経根の障害により生じる感覚鈍麻は1：足底である。2：足背中央はL5神経根障害、3：下腿内側はL4神経根障害、4：大腿前面はL2・3神経根障害である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_088",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "脊椎疾患",
+    "category_question_number": 41,
+    "round": 32,
+    "round_question_number": 88,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「45歳の男性。長時間の座位により右下肢痛が生じるようになったため整形外科を受診し、腰椎椎間板ヘルニアと診断された。右の片脚立ちで踵の挙上ができなかった。」\n\n早期に手術治療を要する病態はどれか。",
+    "options": [
+      "尿閉",
+      "下腿後面のしびれ",
+      "夜間のこむら返り",
+      "アキレス腱反射消失"
+    ],
+    "answer": 0,
+    "explanation": "早期に手術療法を要する病態は、下肢麻痺や重篤な膀胱直腸障害（1：尿閉）を呈した場合である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_058",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "脊髄損傷",
+    "category_question_number": 42,
+    "round": 27,
+    "round_question_number": 58,
+    "question": "脊髄損傷の機能障害評価法で正しいのはどれか。",
+    "options": [
+      "ブルンストロームステージ",
+      "バーセルインデックス",
+      "フランケル分類",
+      "ハミルトン評価尺度"
+    ],
+    "answer": 2,
+    "explanation": "1：ブルンストロームステージは、片麻痺の回復過程をステージ化した評価法である。2：バーセルインデックスは、日常生活動作における障害者や高齢者の機能的評価である。3：フランケル分類は、脊髄損傷患者の神経学的重症度の診断評価として一般的に使用されている。4：ハミルトン評価尺度は、医療者が面接によりうつ病患者の症状の程度を評価するために用いられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_085",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "脊髄損傷",
+    "category_question_number": 43,
+    "round": 29,
+    "round_question_number": 85,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「75歳の男性。脚立から落下し、手足が動かなくなった。非骨傷性脊髄損傷と診断され入院した。肘関節の屈曲は可能、手関節の伸展と屈曲および肘関節の伸展は不能であった。」\n\n本患者の脊髄節残存高位はどれか。",
+    "options": [
+      "C5",
+      "C6",
+      "C7",
+      "C8"
+    ],
+    "answer": 0,
+    "explanation": "脊髄損傷の損傷レベルと代表的な残存筋は、1：C5で上腕二頭筋、三角筋、2：C6で長・橈側手根伸筋、3：C7で上腕三頭筋、4：C8で中指・深指屈筋である。本症例では肘関節の屈曲が可能（上腕二頭筋残存）で手関節の伸展と屈曲および肘関節の伸展が不能であるため、脊髄節残存高位はC5となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_086",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "脊髄損傷",
+    "category_question_number": 44,
+    "round": 29,
+    "round_question_number": 86,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「75歳の男性。脚立から落下し、手足が動かなくなった。非骨傷性脊髄損傷と診断され入院した。肘関節の屈曲は可能、手関節の伸展と屈曲および肘関節の伸展は不能であった。」\n\n退院時には屋内歩行が可能となったが、箸がうまく使えなかった。退院の準備として正しいのはどれか。",
+    "options": [
+      "長下肢装具の作製",
+      "意思伝達装置の導入",
+      "歩行ロボットの導入",
+      "食事に対する自助具の作製"
+    ],
+    "answer": 3,
+    "explanation": "屋内歩行が可能であるため、1：長下肢装具と3：歩行ロボットの導入は準備として必要とはならない。2：C5脊髄損傷では発声に関わる障害はないため、意思伝達装置は必要とはならない。4：箸がうまく使えないため、食事に対する自助具の作成が必要となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_065",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "外傷",
+    "category_question_number": 45,
+    "round": 24,
+    "round_question_number": 65,
+    "question": "外傷性肩関節脱臼について正しいのはどれか。",
+    "options": [
+      "若年者の初回脱臼は反復性に移行しやすい。",
+      "高齢者では上腕骨大結節骨折の合併はまれである。",
+      "後方脱臼が最も多い。",
+      "整復後は可及的早期に可動域訓練を開始する。"
+    ],
+    "answer": 0,
+    "explanation": "肩関節は身体のなかで可動域が最も大きく、安定性を周囲の筋や靭帯などの軟部組織に頼っているため、最も脱臼しやすい関節である。外傷性肩関節脱臼は、肩を強打したり、転倒時に手をつくことで発生する。ラグビー、アメフト、柔道などのコリジョン・コンタクトスポーツに多く、前下方脱臼がほとんどである（3：後方脱臼は稀）。若年者は一度脱臼すると再脱臼しやすくなり、前下方脱臼では、外転・外旋位を強制されると脱臼しやすい（1：反復性肩関節脱臼）。脱臼の整復後は、反復性脱臼への移行を避けるため、4：可及的早期の可動域訓練は行わない。高齢者や骨粗鬆症患者では、肩関節脱臼時に2：上腕骨大結節骨折を伴うことが少なくない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_059",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "外傷",
+    "category_question_number": 46,
+    "round": 26,
+    "round_question_number": 59,
+    "question": "骨密度が保たれていても骨折を起こしやすいのはどれか。",
+    "options": [
+      "糖尿病",
+      "高血圧症",
+      "脂質異常症",
+      "高尿酸血症"
+    ],
+    "answer": 0,
+    "explanation": "近年、骨粗鬆症と代表的な生活習慣病である1：糖尿病、2：高血圧、3：脂質異常症は密接な関係にあることが示唆されている。ただし、糖尿病に関しては、Ⅰ型は骨量減少を認めるとされているが、Ⅱ型に関しては、骨密度の減少はないものの、骨折危険性は高いとされている。4：高尿酸血症と骨折リスクに関しては不確かながら、血清尿酸値が高いことにより、パーキンソン病と骨折のリスクが低下するとの報告もある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_064",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "外傷",
+    "category_question_number": 47,
+    "round": 23,
+    "round_question_number": 64,
+    "question": "過度の動作と傷害の組合せで正しいのはどれか。",
+    "options": [
+      "腰部前屈 ── 腰部脊椎分離症",
+      "ジャンプ着地 ── 膝蓋靭帯炎",
+      "ボールキック ── 膝前十字靱帯損傷",
+      "バットの素振り ── 手の舟状骨骨折"
+    ],
+    "answer": 1,
+    "explanation": "1：腰部脊髄分離症とは、脊椎骨の上関節突起と下関節突起の間をつなぐ椎弓峡部という狭い部分において骨の連続性が失われたものを指し、L5に好発する。なお、腰部に加わるストレスは後屈と回旋が最大となる。2：膝蓋靭帯炎はジャンパー膝とも呼ばれ、膝関節の伸展に関与する靭帯と筋肉がジャンプなどを繰り返し行うことで障害される病態。3：膝前十字靭帯損傷は、ストップ、カット、ターン、ジャンプの着地などで生じることが多く、スキー、バレーボール、バスケットボールなどのスポーツでよくみられる。4：手の舟状骨骨折は、手をついて転んだときなどに認められる骨折。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_060",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "外傷",
+    "category_question_number": 48,
+    "round": 26,
+    "round_question_number": 60,
+    "question": "スポーツ中に肉ばなれを起こしやすいのはどれか。",
+    "options": [
+      "大殿筋",
+      "大腰筋",
+      "前脛骨筋",
+      "腓腹筋"
+    ],
+    "answer": 3,
+    "explanation": "肉ばなれとは、筋に急激かつ過剰な伸張力がかかることにより、筋・筋膜が損傷した状態をいう。短距離走やジャンプなどを伴うスポーツ活動中に生じることが多く、ハムストリングスや4：腓腹筋、大腿四頭筋などに好発する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_057",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "外傷",
+    "category_question_number": 49,
+    "round": 26,
+    "round_question_number": 57,
+    "question": "下腿の区画と筋の組合せで正しいのはどれか。",
+    "options": [
+      "前区画 ── 長指屈筋",
+      "外側区画 ── 後脛骨筋",
+      "深後区画 ── 長腓骨筋",
+      "浅後区画 ── ヒラメ筋"
+    ],
+    "answer": 3,
+    "explanation": "下腿の区画（コンパートメント）は、前、外側、深後、浅後の4区画に分けられる。1：前区画には前脛骨筋、長母趾伸筋、長趾伸筋、2：外側区画には長腓骨筋、短腓骨筋、3：深後区画には後脛骨筋、長母趾屈筋、長趾屈筋、4：浅後区画には腓腹筋、ヒラメ筋、足底筋が存在する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_051",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "外傷",
+    "category_question_number": 50,
+    "round": 29,
+    "round_question_number": 51,
+    "question": "受傷直後の足関節捻挫に対するRICE処置について最も適切なのはどれか。",
+    "options": [
+      "ギプス包帯を行う。",
+      "湿布を患部に貼付する。",
+      "損傷靭帯部を圧迫する。",
+      "患肢は頭より高く上げる。"
+    ],
+    "answer": 2,
+    "explanation": "1：（R）安静は捻挫であるため、ギプス包帯による固定は必要としない（骨折時を除く）。2：（I）冷却はアイスパックなどを用いる。3：（C）患部の圧迫には弾性包帯などを用いる。4：（E）挙上は患部を心臓の位置よりも高くする。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_052",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "外傷",
+    "category_question_number": 51,
+    "round": 30,
+    "round_question_number": 52,
+    "question": "外傷とその原因の組合せで正しいのはどれか。",
+    "options": [
+      "手舟状骨骨折 ── 手関節掌屈",
+      "股関節脱臼 ── 車内のダッシュボードへの膝の衝突",
+      "上腕骨顆上骨折 ── 上肢の急激な牽引",
+      "第5中足骨基部裂離骨折 ── 足部外がえし"
+    ],
+    "answer": 1,
+    "explanation": "1：手舟状骨骨折の多くは手関節背屈位（伸展位）での外傷で生じる。2：股関節脱臼は交通事故（ダッシュボード損傷）や転落などの強い外力により生じる。3：上腕骨顆上骨折は肘伸展位で手掌をついて転倒したときに生じやすい。4：第5中足骨基部裂離骨折は足部内がえしで生じやすい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_052",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "外傷",
+    "category_question_number": 52,
+    "round": 31,
+    "round_question_number": 52,
+    "question": "肘内障について正しいのはどれか。",
+    "options": [
+      "肘に腫脹はない。",
+      "腕尺関節の脱臼である。",
+      "徒手整復は困難である。",
+      "反復性に移行しやすい。"
+    ],
+    "answer": 0,
+    "explanation": "肘内障は急激な牽引により2：橈骨頭が橈骨輪状靭帯の遠位に亜脱臼した状態である。前腕回内位・肘は軽度屈曲位で上肢を下垂して動かそうとしない。疼痛はあるが、1：腫脹はない。3：徒手整復は困難でなく、徒手整復で治療が可能である。4：反復性となることもあるが、成長とともに発生しなくなる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_083",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "外傷",
+    "category_question_number": 53,
+    "round": 32,
+    "round_question_number": 83,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「3歳の女児。滑り台から落ちて右手をつき、右肘過伸展を強いられ受傷。近医を受診、右肘部変形があり、肘部前面の皮下出血と示指・中指のしびれが認められた。」\n\n最も考えられる診断はどれか。",
+    "options": [
+      "上腕骨外科頸骨折",
+      "上腕骨骨幹部骨折",
+      "上腕骨顆上骨折",
+      "上腕骨外顆骨折"
+    ],
+    "answer": 2,
+    "explanation": "1：上腕骨外科頸骨折（上腕骨近位部骨折）は高齢者の転倒によって生じやすい骨折である。2：上腕骨骨幹部骨折は直達外力が原因として多いが、自家筋力の作用が原因となることもある。3：上腕骨顆上骨折は小児に多い骨折で、肘関節の過伸展が強制されて生じることが多い。4：上腕骨外顆骨折は小児に多い骨折で、肘関節に強い内反もしくは外反が加わった際に生じることが多い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_084",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "外傷",
+    "category_question_number": 54,
+    "round": 32,
+    "round_question_number": 84,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「3歳の女児。滑り台から落ちて右手をつき、右肘過伸展を強いられ受傷。近医を受診、右肘部変形があり、肘部前面の皮下出血と示指・中指のしびれが認められた。」\n\n最も考えられる障害神経はどれか。",
+    "options": [
+      "腋窩神経",
+      "正中神経",
+      "筋皮神経",
+      "尺骨神経"
+    ],
+    "answer": 1,
+    "explanation": "示指と中指のしびれがみられることから、2：正中神経の障害が考えられる。1：腋窩神経は上腕骨外科頸骨折で生じやすい。3：筋皮神経が障害されると前腕の掌側外半と外側の知覚障害をきたす。4：尺骨神経が障害されると第5指と第4指尺側に知覚障害をきたす。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_077",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "その他",
+    "category_question_number": 55,
+    "round": 24,
+    "round_question_number": 77,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「28歳の女性。上肢の痛み、だるさ、しびれを訴える。上肢下垂時に症状が増悪する。首が長く、姿勢が悪い。モーレイテスト、アドソンテスト陽性。」\n\n最も考えられる疾患はどれか。",
+    "options": [
+      "変形性頸椎症",
+      "頸椎椎間板ヘルニア",
+      "頸椎捻挫",
+      "胸郭出口症候群"
+    ],
+    "answer": 3,
+    "explanation": "性別、年齢、症状、検査所見から4：胸郭出口症候群が疑われる。上肢症状（痛み、だるさ、しびれ）は、1：変形性頸椎症、2：頸椎椎間板ヘルニアでも起こり得るが、モーレイテスト、アドソンテストが陽性であることから、4：胸郭出口症候群が有力となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_078",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "その他",
+    "category_question_number": 56,
+    "round": 24,
+    "round_question_number": 78,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「28歳の女性。上肢の痛み、だるさ、しびれを訴える。上肢下垂時に症状が増悪する。首が長く、姿勢が悪い。モーレイテスト、アドソンテスト陽性。」\n\n本症例で治療対象となる筋はどれか。",
+    "options": [
+      "小胸筋",
+      "斜角筋",
+      "胸鎖乳突筋",
+      "肩甲挙筋"
+    ],
+    "answer": 1,
+    "explanation": "胸郭出口症候群は、斜角筋症候群、頸肋症候群、肋鎖症候群、過外転症候群に分類することができる。症例はモーレイテスト、アドソンテストが陽性であることから、関連する筋は2：斜角筋となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_063",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "その他",
+    "category_question_number": 57,
+    "round": 24,
+    "round_question_number": 63,
+    "question": "徒手検査と疾患の組合せで正しいのはどれか。",
+    "options": [
+      "トムゼンテスト ── 頸肩腕症候群",
+      "ライトテスト ── 肘部管症候群",
+      "ファレンテスト ── 手根管症候群",
+      "ヤーガソンテスト ── 腱板損傷"
+    ],
+    "answer": 2,
+    "explanation": "1：トムゼンテストは、中指伸展テストやチェアテストと同様に、上腕骨外側上顆炎に対する徒手検査である。2：ライトテストは胸郭出口症候群に対する徒手検査で、特に小胸筋症候群（過外転症候群）の判別に用いられる。3：ファレンテストは、手根管症候群に対する徒手検査である。4：ヤーガソンテストは、上腕二頭筋長頭腱炎の判別に用いられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_055",
+    "subject": "clinical_special",
+    "category": "運動器疾患",
+    "sub_category": "その他",
+    "category_question_number": 58,
+    "round": 25,
+    "round_question_number": 55,
+    "question": "脛骨跳躍型疲労骨折の好発部位で正しいのはどれか。",
+    "options": [
+      "脛骨骨端部",
+      "脛骨上1/3",
+      "脛骨中1/3",
+      "脛骨下1/3"
+    ],
+    "answer": 2,
+    "explanation": "脛骨疲労骨折は、発生原因により疾走型と跳躍型に分類される。疾走型はランニングによって起こり、サッカーや陸上競技などで多く発生し、脛骨上1/3部で好発する。跳躍型はジャンプ動作の繰り返しによって起こるため、バスケットボールやバレーボールなどで多く、3：脛骨中1/3部に好発する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_068",
+    "subject": "clinical_special",
+    "category": "皮膚・頭頸部・乳房疾患",
+    "sub_category": "皮膚疾患",
+    "category_question_number": 1,
+    "round": 27,
+    "round_question_number": 68,
+    "question": "直径10mm以下の限局性隆起性の発疹はどれか。",
+    "options": [
+      "丘疹",
+      "紅斑",
+      "痂皮",
+      "鱗屑"
+    ],
+    "answer": 0,
+    "explanation": "直径10mm以下の限局性隆起性発疹を1：丘疹といい、直径10〜20mmのものは結節という。2：紅斑は、真皮乳頭および乳頭下層での血管拡張・充血により生じる。3：痂皮とは血漿、炎症細胞、壊死塊などが、表皮で乾固したものをいう。4：鱗屑とは、角質が肥厚蓄積し脱落あるいは脱落しようとしている状態をいう。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_049",
+    "subject": "clinical_special",
+    "category": "皮膚・頭頸部・乳房疾患",
+    "sub_category": "皮膚疾患",
+    "category_question_number": 2,
+    "round": 31,
+    "round_question_number": 49,
+    "question": "アトピー性皮膚炎について正しいのはどれか。",
+    "options": [
+      "主にⅡ型アレルギーが関与する。",
+      "四肢の伸側に好発する。",
+      "皮膚のバリア機能が亢進している。",
+      "スキンケアが重要である。"
+    ],
+    "answer": 3,
+    "explanation": "1：主にⅠ型アレルギーが関与する。2：四肢の屈側（肘窩や膝窩）に好発する。3：皮膚のバリア機能が低下している。皮膚のバリア機能の低下は皮膚の易刺激性や掻痒につながるため、保湿剤による乾燥皮膚への4：スキンケアが重要である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_067",
+    "subject": "clinical_special",
+    "category": "皮膚・頭頸部・乳房疾患",
+    "sub_category": "眼疾患",
+    "category_question_number": 3,
+    "round": 27,
+    "round_question_number": 67,
+    "question": "アデノウイルス感染症はどれか。",
+    "options": [
+      "伝染性単核球症",
+      "流行性角結膜炎",
+      "手足口病",
+      "突発性発疹"
+    ],
+    "answer": 1,
+    "explanation": "1：伝染性単核球症は、エプスタイン−バーウイルスにより引き起こされる。2：流行性角結膜炎は、アデノウイルスが原因で発症する。3：手足口病の代表的な原因ウイルスは、コクサッキーウイルスやエンテロウイルスである。4：突発性発疹の原因ウイルスとして最も多いのは、ヒトヘルペスウイルスである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_062",
+    "subject": "clinical_special",
+    "category": "skin_head_neck_breast",
+    "sub_category": "眼疾患",
+    "category_question_number": 4,
+    "round": 29,
+    "round_question_number": 62,
+    "question": "中心部の視野欠損や物がゆがんで見える症状が早期から出現する疾患はどれか。",
+    "options": [
+      "白内障",
+      "緑内障",
+      "ぶどう膜炎",
+      "加齢黄斑変性症"
+    ],
+    "answer": 3,
+    "explanation": "1：白内障の症状は霧視、羞明、複視、視力低下などである。2：緑内障では中心視野は最後まで残ることが多い。3：ぶどう膜炎の症状は霧視、羞明、眼痛、毛様充血、流涙、視力低下、飛蚊症などである。4：加齢黄斑変性症は変視（物が歪んで見える）、中心視野障害に始まり、失明に至る疾患である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_062",
+    "subject": "clinical_special",
+    "category": "skin_head_neck_breast",
+    "sub_category": "眼疾患",
+    "category_question_number": 5,
+    "round": 30,
+    "round_question_number": 62,
+    "question": "我が国における後天性失明の原因で最も多いのはどれか。",
+    "options": [
+      "加齢黄斑変性症",
+      "白内障",
+      "網膜剥離",
+      "緑内障"
+    ],
+    "answer": 3,
+    "explanation": "我が国における後天性失明の原因で最も多いのは4：緑内障である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_089",
+    "subject": "clinical_special",
+    "category": "skin_head_neck_breast",
+    "sub_category": "眼疾患",
+    "category_question_number": 6,
+    "round": 30,
+    "round_question_number": 89,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「55歳の男性。強度近視。夕方デスクワーク中、右眼で黒く動く小さな糸くず状のものが見えた。」\n\n該当する症状はどれか。",
+    "options": [
+      "霧視",
+      "複視",
+      "飛蚊症",
+      "光視症"
+    ],
+    "answer": 2,
+    "explanation": "症例が示すのは3：飛蚊症（何らかの原因で硝子体に混濁が生じたもの）である。1：霧視は霧の中で物を見ているように感じること。2：複視は固視している1つの物体が2つに見える病態。4：光視症は視野内に光るもの（閃輝）が見える状態のこと。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_090",
+    "subject": "clinical_special",
+    "category": "skin_head_neck_breast",
+    "sub_category": "眼疾患",
+    "category_question_number": 7,
+    "round": 30,
+    "round_question_number": 90,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「55歳の男性。強度近視。夕方デスクワーク中、右眼で黒く動く小さな糸くず状のものが見えた。」\n\n次第に症状は悪化し、右眼で下から上へ視野欠損も生じてきた。考えられる疾患はどれか。",
+    "options": [
+      "緑内障",
+      "白内障",
+      "網膜剥離",
+      "網膜色素変性症"
+    ],
+    "answer": 2,
+    "explanation": "3：網膜剥離では剥離部位により異なるが、多くは視野欠損が下方から始まり、放置すると失明に至る。1：緑内障の視野欠損は中心から始まり鼻側から全体へと広がる。2：白内障では視野欠損はみられない。4：網膜色素変性症の視野欠損は輪状に始まり全体に広がる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_069",
+    "subject": "clinical_special",
+    "category": "skin_head_neck_breast",
+    "sub_category": "眼疾患",
+    "category_question_number": 8,
+    "round": 32,
+    "round_question_number": 69,
+    "question": "緑内障について最も適切なのはどれか。",
+    "options": [
+      "水晶体が混濁する。",
+      "細菌感染症である。",
+      "失明の原因となる。",
+      "中心視野から障害される。"
+    ],
+    "answer": 2,
+    "explanation": "緑内障は2：眼圧の上昇により1：視神経乳頭が陥凹し、視神経が障害される疾患で、糖尿病性網膜症と並び、主な3：失明原因の一つである。視野障害は4：傍中心暗点（中心視野の近く）から始まり、次第に拡大するが、中心視野は末期まで保たれることが多い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_063",
+    "subject": "clinical_special",
+    "category": "skin_head_neck_breast",
+    "sub_category": "耳鼻咽喉疾患",
+    "category_question_number": 9,
+    "round": 29,
+    "round_question_number": 63,
+    "question": "伝音性難聴をきたすのはどれか。",
+    "options": [
+      "急性中耳炎",
+      "聴神経腫瘍",
+      "突発性難聴",
+      "メニエール病"
+    ],
+    "answer": 0,
+    "explanation": "外耳および中耳の疾患で伝音性難聴、内耳から中枢の疾患で感音性難聴となる。1：中耳炎は中耳に生じる疾患のため、伝音性難聴をきたす。2：聴神経腫瘍、3：突発性難聴、4：メニエール病では感音性難聴をきたす。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_060",
+    "subject": "clinical_special",
+    "category": "skin_head_neck_breast",
+    "sub_category": "乳腺・乳房疾患",
+    "category_question_number": 10,
+    "round": 25,
+    "round_question_number": 60,
+    "question": "乳癌について正しいのはどれか。",
+    "options": [
+      "腫瘤は痛みを伴う。",
+      "多くはホルモン依存症ではない。",
+      "自己検診は推奨されていない。",
+      "乳房の外上部の発生が多い。"
+    ],
+    "answer": 3,
+    "explanation": "乳癌の初期症状として、1：痛みを伴わない腫瘤がみられる。約7割は2：ホルモン依存性であり、エストロゲンの刺激によって増殖する。早期発見につながることから、3：自己検診が推奨されている。乳腺が豊富に存在する4：乳房の外上部に最も多く発生する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_070",
+    "subject": "clinical_special",
+    "category": "skin_head_neck_breast",
+    "sub_category": "乳腺・乳房疾患",
+    "category_question_number": 11,
+    "round": 32,
+    "round_question_number": 70,
+    "question": "乳癌について正しいのはどれか。",
+    "options": [
+      "腫瘤は痛みを伴う。",
+      "乳房の外下部の発生が多い。",
+      "多くはホルモン依存性である。",
+      "乳房全摘術が第一選択である。"
+    ],
+    "answer": 2,
+    "explanation": "乳癌の多くは3：ホルモン依存性（エストロゲン）であり、2：乳房の外上部の発生が多い。1：疼痛を伴うことはあるが、必発症状ではない。4：乳房温存術と放射線療法を組合せた乳房温存療法が第一選択である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_070",
+    "subject": "clinical_special",
+    "category": "mental_psychosomatic",
+    "sub_category": "統合失調・気分障害",
+    "category_question_number": 1,
+    "round": 26,
+    "round_question_number": 70,
+    "question": "させられ体験がみられるのはどれか。",
+    "options": [
+      "統合失調症",
+      "単極性障害",
+      "双極性障害",
+      "広汎性発達障害"
+    ],
+    "answer": 0,
+    "explanation": "「させられ体験」とは、自我意識の障害で、自分と外の世界との境界が不明瞭となり、周囲の影響を受けやすくなって、自分の行動や考えを誰かに支配されているように感じる、1：統合失調症を特徴づける代表的な症状である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_23_070",
+    "subject": "clinical_special",
+    "category": "mental_psychosomatic",
+    "sub_category": "不安障害",
+    "category_question_number": 2,
+    "round": 23,
+    "round_question_number": 70,
+    "question": "パニック障害の症状はどれか。",
+    "options": [
+      "息苦しさ",
+      "嗄声",
+      "妄想",
+      "幻聴"
+    ],
+    "answer": 0,
+    "explanation": "パニック障害は、予期しない①動機・心悸亢進・心拍増加、②発汗、③振戦、④息切れ、⑤窒息感、⑥胸痛、⑦悪心、⑧めまいなど、パニック発作のうち少なくとも4つ以上が突然に発症し、10分以内にピークに達するものが繰り返し起こる障害。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_068",
+    "subject": "clinical_special",
+    "category": "mental_psychosomatic",
+    "sub_category": "不安障害",
+    "category_question_number": 3,
+    "round": 32,
+    "round_question_number": 68,
+    "question": "パニック障害の症状はどれか。",
+    "options": [
+      "予期不安",
+      "妄想",
+      "幻聴",
+      "させられ体験"
+    ],
+    "answer": 0,
+    "explanation": "パニック障害は明らかな誘因なく、息切れ、動悸、めまい感、発汗、胸痛などが突然起こり、病気や死への恐怖など強い不安が生じる。症状の再発を恐れる4：予期不安を伴うことが多い。反復性に生じ慢性に経過する障害である。2：妄想、3：幻聴、4：させられ体験がみられるのは統合失調症である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_051",
+    "subject": "clinical_special",
+    "category": "mental_psychosomatic",
+    "sub_category": "摂食障害",
+    "category_question_number": 4,
+    "round": 31,
+    "round_question_number": 51,
+    "question": "神経性やせ症（神経性食欲不振症）について正しいのはどれか。",
+    "options": [
+      "中年に多い。",
+      "栄養吸収障害が原因である。",
+      "電解質異常は起こしにくい。",
+      "心理療法が有効である。"
+    ],
+    "answer": 3,
+    "explanation": "神経性やせ症（神経性食欲不振症）は1：若年女性に多い。2：身体像の障害ややせ願望、肥満恐怖などの心理社会的要因が原因となる。嘔吐や下痢を伴う例では3：電解質異常を起こしやすい。4：心理療法が有効である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_064",
+    "subject": "clinical_special",
+    "category": "mental_psychosomatic",
+    "sub_category": "その他",
+    "category_question_number": 5,
+    "round": 29,
+    "round_question_number": 64,
+    "question": "病気でもないのに病気と考えたり、些細な身体の不調を重大な疾患と考え、執拗に訴えるのはどれか。",
+    "options": [
+      "強迫神経症",
+      "心気症",
+      "不安神経症",
+      "抑うつ神経症"
+    ],
+    "answer": 1,
+    "explanation": "1：強迫神経症は自己の意志に反して繰り返し起こる強迫観念と、それを打ち消すために行われる強迫行為を特徴とする。3：不安神経症は心因によって不安発作や浮動性不安が引き起こされた状態で、自律神経症状や不眠、注意集中困難がみられる。4：抑うつ神経症はヒステリー症状、不安、恐怖、強迫などのいわゆる神経症症状を示し、抑うつ気分が中心となることが多い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_064",
+    "subject": "clinical_special",
+    "category": "mental_psychosomatic",
+    "sub_category": "その他",
+    "category_question_number": 6,
+    "round": 28,
+    "round_question_number": 64,
+    "question": "次の文で示す症例の病態で正しいのはどれか。\n「85歳の女性。左大腿骨頸部骨折の手術を受けた翌日の夜に、ちぐはぐな言動が出現した。」",
+    "options": [
+      "せん妄",
+      "認知症",
+      "うつ病",
+      "不安神経症"
+    ],
+    "answer": 0,
+    "explanation": "1：せん妄とは認知機能、注意力、知覚、感情、精神運動、睡眠などの障害などに支障を来す精神障害で、高齢者の入院や術後に多く見られる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_066",
+    "subject": "clinical_special",
+    "category": "mental_psychosomatic",
+    "sub_category": "その他",
+    "category_question_number": 7,
+    "round": 27,
+    "round_question_number": 66,
+    "question": "アスペルガー症候群に伴わないのはどれか。",
+    "options": [
+      "知的障害",
+      "反復行動",
+      "特定分野への強いこだわり",
+      "社会的コミュニケーション障害"
+    ],
+    "answer": 0,
+    "explanation": "アスペルガー症候群は、自閉症に見られる特徴（4：社会的コミュニケーション障害、3：特定分野への強いこだわり）を共通の類似点として持っている。しかし、自閉症では1：知的障害や言語発達に遅れを伴うことがあるが、アスペルガー症候群ではそれらはない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_064",
+    "subject": "clinical_special",
+    "category": "mental_psychosomatic",
+    "sub_category": "その他",
+    "category_question_number": 8,
+    "round": 30,
+    "round_question_number": 64,
+    "question": "発達障害で不注意、多動性、衝動性の3つの特徴がみられるのはどれか。",
+    "options": [
+      "ADHD",
+      "PTSD",
+      "発達性協調運動障害",
+      "自閉スペクトラム症"
+    ],
+    "answer": 0,
+    "explanation": "1：ADHDは不注意と多動性、衝動性の一方あるいは両方が7歳以前から学校および家庭で同年齢の小児と比較して多くみられ、年齢相当の学業成績や対人関係を保てないものである。",
+    "is_irregular": false,
+    "irregular_reason": ""
   }
-  
 ]
