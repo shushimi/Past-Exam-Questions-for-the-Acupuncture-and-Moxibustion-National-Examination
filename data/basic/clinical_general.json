@@ -1,0 +1,2129 @@
+[
+  {
+    "id": "clinical_general_29_047",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "全身の症候",
+    "category_question_number": 1,
+    "round": 29,
+    "round_question_number": 47,
+    "question": "反復する回転性めまいをきたしやすい疾患はどれか。",
+    "options": [
+      "貧血",
+      "髄膜炎",
+      "メニエール病",
+      "脳幹梗塞"
+    ],
+    "answer": 2,
+    "explanation": "めまいは、平衡機能の反射系が障害され、姿勢の統御が困難になった状態を指す。内耳（前庭迷路）や前庭神経に原因のある末梢前庭性めまいには、メニエール病、良性発作性めまい、前庭神経炎などが原因となり、回転感を特徴とするが、小脳・脳幹に原因のある中枢性めまいは、小脳脳幹出血、小脳脳幹梗塞、小脳腫瘍などが原因となり、回転感がなく、方向の定まらない不安定感やフラフラした感じを特徴とする。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_30_048",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "全身の症候",
+    "category_question_number": 2,
+    "round": 30,
+    "round_question_number": 48,
+    "question": "めまいをきたす疾患はどれか。",
+    "options": [
+      "メニエール病",
+      "パーキンソン病",
+      "クッシング病",
+      "ウィルソン病"
+    ],
+    "answer": 0,
+    "explanation": "問題1を参照。基底核変性疾患として、2：パーキンソン病、4：ウィルソン病があり、どちらも錐体外路徴候である振戦、筋固縮、姿勢反射障害などを示す。3：クッシング病は、下垂体疾患として、コルチゾールの過剰によって様々な代謝異常をきたし、肥満や満月様顔貌、高血圧を呈する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_31_046",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "全身の症候",
+    "category_question_number": 3,
+    "round": 31,
+    "round_question_number": 46,
+    "question": "中枢性めまいの特徴について正しいのはどれか。",
+    "options": [
+      "持続時間が長い。",
+      "めまいの程度が強い。",
+      "回転性のことが多い。",
+      "耳鳴りを伴うことが多い。"
+    ],
+    "answer": 0,
+    "explanation": "中枢性めまいは、脳血管障害による小脳病変や聴神経腫瘍、髄膜炎などが原因で起こる。回転性は少なく、程度も軽いが、数日以上1：持続する。一方、末梢性めまいは内耳の障害で起こり、2：めまいの程度が強く、3：回転性のことが多く、4：耳鳴りを伴うことが多い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_28_054",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "全身の症候",
+    "category_question_number": 4,
+    "round": 28,
+    "round_question_number": 54,
+    "question": "ショックの分類と原因の組合せで正しいのはどれか。",
+    "options": [
+      "血液量減少性ショック ― 熱傷",
+      "心原性ショック ― 緊張性気胸",
+      "血液分布異常性ショック ― 心筋梗塞",
+      "閉塞性ショック ― 消化管出血"
+    ],
+    "answer": 0,
+    "explanation": "1：熱傷による急激な体液量の減少により血液量減少（低容量性）ショックが起こる。2：心原性ショックは心臓のポンプ機能が低下して起こるもので、心筋梗塞や心不全などで発症する。3：血液分布異常性ショックは自律神経の異常などにより血管が拡張し、内容量が不足することによるもので、感染症やアナフィラキシーにより起こる。また、4：閉塞性ショックは心臓以外の臓器の障害により心臓のポンプ機能の低下が起こるもので、緊張性気胸、肺塞栓などが原因となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_31_044",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "全身の症候",
+    "category_question_number": 5,
+    "round": 31,
+    "round_question_number": 44,
+    "question": "ショックの分類で、患者の皮膚が温かい場合に考えられるのはどれか。",
+    "options": [
+      "心原性",
+      "閉塞性",
+      "血液量減少性",
+      "血液分布異常性"
+    ],
+    "answer": 3,
+    "explanation": "ショックの臨床症状としては、蒼白、虚脱、冷汗、脈拍の不触知、呼吸不全の5つがある。ただし、4：血液分布異常性では皮膚の表在性血管が拡張して、むしろ温かくなることがあり、ウォームショックと呼ばれている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_24_048",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "皮膚・外表",
+    "category_question_number": 6,
+    "round": 24,
+    "round_question_number": 48,
+    "question": "発疹部に痛みを伴うのはどれか。",
+    "options": [
+      "麻疹",
+      "帯状疱疹",
+      "アトピー性皮膚炎",
+      "接触性皮膚炎"
+    ],
+    "answer": 1,
+    "explanation": "2：帯状疱疹は、水痘罹患後、神経節に潜伏感染していた水痘・帯状疱疹ウイルスが再活性化して生じる疾患である。神経痛様の疼痛が皮疹に先行して出現し、数日後に神経分布に一致して小水疱を伴った浮腫性紅斑が生じる。3：アトピー性皮膚炎、4：接触性皮膚炎は痒みを伴うことが多い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_27_054",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "感覚器",
+    "category_question_number": 7,
+    "round": 27,
+    "round_question_number": 54,
+    "question": "感音性難聴がみられるのはどれか。",
+    "options": [
+      "急性中耳炎",
+      "メニエール病",
+      "耳管狭窄症",
+      "耳垢塞栓"
+    ],
+    "answer": 1,
+    "explanation": "感音性難聴は、内耳から中枢の内耳神経といった感音系の障害による難聴を指す。2：メニエール病は内耳の半規管や蝸牛の内リンパ水腫が原因であり、耳鳴・難聴・めまいが出現する。一方、外耳から中耳の障害による難聴は伝音性難聴という。1：急性中耳炎は中耳の炎症、3：耳管狭窄症は中耳（鼓室）と咽頭をつなぐ耳管が狭窄することによる異状、4：耳垢塞栓は外耳道が耳垢により閉塞することによる難聴で、いずれの場合も難聴があれば伝音性難聴である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_27_050",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "呼吸器、心臓、血管",
+    "category_question_number": 8,
+    "round": 27,
+    "round_question_number": 50,
+    "question": "咳・痰について正しいのはどれか。",
+    "options": [
+      "痰を伴う咳を乾性咳嗽という。",
+      "気管支喘息の発作時は咳・痰は通常ない。",
+      "血痰が出ても少量なら肺癌は考えない。",
+      "誤嚥時の咳・痰は防御反応の一つである。"
+    ],
+    "answer": 3,
+    "explanation": "誤嚥は、何らかの原因により食道から胃に送られるべき飲食物が喉頭、気管に入ることをいう。気管に異物が入ると、通常は異物を排出しようとする反射（気道防御反射）が働き、強く咳き込む。これは防御反応の一つである。1：痰を伴う咳は湿性咳嗽という。2：気管支喘息の発作時には、咳・痰が出ることが多い。3：血痰が出る場合には、喉頭、咽頭や気管支、肺などに組織損傷がある可能性が考えられる。肺癌の場合、血痰が初発症状である場合も多いことから疑う必要がある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_28_050",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "呼吸器、心臓、血管",
+    "category_question_number": 9,
+    "round": 28,
+    "round_question_number": 50,
+    "question": "咳嗽について正しいのはどれか。",
+    "options": [
+      "誤嚥では生じない。",
+      "生体防御反応の一つである。",
+      "心不全では生じない。",
+      "長期間持続するときは鎮咳薬で経過をみる。"
+    ],
+    "answer": 1,
+    "explanation": "咳嗽は気道内の異物を排除し、清潔に保とうとする生体防御反応である。1：誤嚥による気道への刺激でも生じる。3：心不全では肺うっ血や肺水腫となり、呼吸困難や咳嗽が出現する。4：長期間持続する場合は、呼吸器だけではなく、その他の疾患も視野に入れて原因疾患を明確にする検査を行うべきと考えられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_30_044",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "呼吸器、心臓、血管",
+    "category_question_number": 10,
+    "round": 30,
+    "round_question_number": 44,
+    "question": "呼吸器症状について正しいのはどれか。",
+    "options": [
+      "気胸は胸痛の原因となる。",
+      "喘息による咳は昼間に多い。",
+      "痰を伴わない咳を湿性咳嗽という。",
+      "動脈血酸素飽和度が正常であれば呼吸困難は呈さない。"
+    ],
+    "answer": 0,
+    "explanation": "1：鍼灸治療の有害事象例として、鍼治療後に発生する可能性がある。胸膜に神経があるため、突然痛みを訴え、その後、空咳や息苦しさが出現する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_25_052",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "消化器",
+    "category_question_number": 11,
+    "round": 25,
+    "round_question_number": 52,
+    "question": "吐血の原因となる疾患はどれか。",
+    "options": [
+      "大腸憩室炎",
+      "マロリー・ワイス症候群",
+      "過敏性腸症候群",
+      "急性膵炎"
+    ],
+    "answer": 1,
+    "explanation": "2：マロリー・ワイス症候群は過度の飲酒などの原因により、嘔吐を繰り返すことで胃・食道接合部付近を傷害して吐血するものである。1：大腸憩室炎では下血となる。3：過敏性腸症候群では出血することはない。4：急性膵炎の重症例では、消化管出血による下血や腹腔内出血がみられることがある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_055",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "消化器",
+    "category_question_number": 12,
+    "round": 23,
+    "round_question_number": 55,
+    "question": "胆嚢癌について正しいのはどれか。",
+    "options": [
+      "女性に多い。",
+      "胆石の合併は少ない。",
+      "左季肋部痛が多い。",
+      "AFPの上昇がみられる。"
+    ],
+    "answer": 0,
+    "explanation": "胆嚢癌は1：女性に多い。2：高率に胆石を合併し、その因果関係は胆石による機械的刺激、胆汁の変化による胆嚢の炎症性変化などと考えられている。3：胆嚢癌の痛みは右季肋部や心窩部に多い。4：AFPは肝細胞癌、転移性肝癌などの腫瘍マーカーであり、胆嚢癌ではCEAやCA19-9などの腫瘍マーカーが高値となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_25_054",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "消化器",
+    "category_question_number": 13,
+    "round": 25,
+    "round_question_number": 54,
+    "question": "口渇をきたすのはどれか。",
+    "options": [
+      "高血圧症",
+      "脂質異常症",
+      "高尿酸血症",
+      "糖尿病"
+    ],
+    "answer": 3,
+    "explanation": "口渇が最も考えられるのは4：糖尿病である。糖尿病では、高血糖により血漿浸透圧が上昇する。また、尿糖の増加により尿浸透圧が上昇し、尿量が増加する。それらの結果から口渇をきたす。\n1〜3の疾患では口渇がみられることは少ない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_24_046",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "血液、造血器、免疫",
+    "category_question_number": 14,
+    "round": 24,
+    "round_question_number": 46,
+    "question": "疾患と診察所見の組合せでよくみられるのはどれか。",
+    "options": [
+      "鉄欠乏性貧血 ― 歯肉出血",
+      "巨赤芽球性貧血 ― 関節内出血",
+      "腎性貧血 ― 血尿",
+      "再生不良性貧血 ― 鼻出血"
+    ],
+    "answer": 3,
+    "explanation": "4：再生不良性貧血では、末梢血ですべての血球が減少する汎血球減少がみられる。主要症状は息切れ、動悸、めまいなどの貧血症状と皮下出血斑、歯肉出血、鼻出血などの出血傾向である。1：鉄欠乏性貧血は鉄の欠乏によるヘモグロビンの合成低下により、2：巨赤芽球性貧血はビタミンB12または葉酸の欠乏により、3：腎性貧血はエリスロポエチンの産生低下により赤血球の生成が減少してそれぞれ貧血症状をきたすが、出血傾向はみられない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_27_051",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "血液、造血器、免疫",
+    "category_question_number": 15,
+    "round": 27,
+    "round_question_number": 51,
+    "question": "血液疾患に伴う病態について正しいのはどれか。",
+    "options": [
+      "貧血は血小板を指標にする。",
+      "出血傾向は先天的には起こらない。",
+      "白血球数が正常であれば易感染性はない。",
+      "繰り返す歯肉出血は出血傾向を疑う。"
+    ],
+    "answer": 3,
+    "explanation": "4：歯肉からの出血は歯肉炎や歯槽膿漏の場合も多いが、それらがなければ出血傾向を疑う。1：貧血は血液中のヘモグロビン量を指標とする。2：出血傾向は血友病や血小板減少症など、先天的に起こるものは多い。3：白血球数の低下は易感染性となるが、正常であってもその他の免疫機構に異状があれば易感染性となることは考えられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_29_039",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "血液、造血器、免疫",
+    "category_question_number": 16,
+    "round": 29,
+    "round_question_number": 39,
+    "question": "易感染性をきたさないのはどれか。",
+    "options": [
+      "高齢",
+      "糖尿病",
+      "肺結核症",
+      "重度の熱傷"
+    ],
+    "answer": 2,
+    "explanation": "易感染性とは、治療に難治性である、弱毒病原体によっても容易に感染を起こしやすい状態のこと。1：高齢、2：糖尿病は、好中球の減少および機能不全により起こり、4：重度の熱傷は、皮膚・粘膜の障害により起こる。3：肺結核症は、結核菌を吸い込むことで感染するが、AIDSなどの免疫能低下がなければ、感染しても発症する率は約10%と低い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_27_047",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "泌尿・生殖器",
+    "category_question_number": 17,
+    "round": 27,
+    "round_question_number": 47,
+    "question": "月経異常はどれか。",
+    "options": [
+      "持続期間5日",
+      "周期の変動2日",
+      "初経12歳",
+      "閉経38歳"
+    ],
+    "answer": 3,
+    "explanation": "閉経は平均50〜53歳で起こるとされており、4：閉経38歳は早期卵巣不全（早期閉経）であり、月経異状と考えられる。持続期間は3〜7日、周期は25〜37日、初経は10〜14歳頃が正常と考えられている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_31_039",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "神経、運動器",
+    "category_question_number": 18,
+    "round": 31,
+    "round_question_number": 39,
+    "question": "排尿障害のうち蓄尿障害はどれか。",
+    "options": [
+      "尿勢低下",
+      "尿線途絶",
+      "尿失禁",
+      "残尿感"
+    ],
+    "answer": 2,
+    "explanation": "排尿障害は、尿排出障害と蓄尿障害に分類される。蓄尿障害は、下部尿路の炎症や排尿にかかわる神経障害により膀胱に尿を適切にためておくことができず、不適当な場所や時間に不随意に尿が出てしまう（3：尿失禁）障害である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_045",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "神経、運動器",
+    "category_question_number": 19,
+    "round": 23,
+    "round_question_number": 45,
+    "question": "脳血管障害の後遺症でよくみられるのはどれか。",
+    "options": [
+      "起坐位",
+      "エビ姿勢",
+      "前かがみ姿勢",
+      "マン・ウェルニッケ肢位"
+    ],
+    "answer": 3,
+    "explanation": "4：脳血管障害後遺症では麻痺側の上肢は屈曲・回内、下肢は伸展・足は底屈位となる。この肢位をマン・ウェルニッケ（Wernicke-Mann）肢位と呼ぶ。1：起坐位は上半身をほぼ90度に起こした状態で背中や胸に枕、クッションなどを抱えるように前かがみで座る姿勢であり、心臓喘息、気管支喘息などによる呼吸困難を軽減する姿勢である。2：エビ姿勢は激しい腹痛などにより股関節・膝関節を屈曲し、エビのように前屈する姿勢で、急性膵炎などでみられる。3：前かがみ姿勢は前傾・前屈姿勢を示し、パーキンソン病で特徴的である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_058",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "神経、運動器",
+    "category_question_number": 20,
+    "round": 23,
+    "round_question_number": 58,
+    "question": "筋萎縮性側索硬化症でみられるのはどれか。",
+    "options": [
+      "膀胱直腸障害",
+      "感覚障害",
+      "嚥下障害",
+      "眼球運動障害"
+    ],
+    "answer": 2,
+    "explanation": "筋萎縮性側索硬化症には出現しない症状として4大陰性徴候があり、1：膀胱直腸障害、2：感覚障害、4：眼球運動障害に加えて褥瘡がそれに当たる。3：嚥下障害は球麻痺の症状として、筋萎縮性側索硬化症でみられる初発症状の一つである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_27_045",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "神経、運動器",
+    "category_question_number": 21,
+    "round": 27,
+    "round_question_number": 45,
+    "question": "球麻痺でみられるのはどれか。",
+    "options": [
+      "舌萎縮",
+      "嗅覚障害",
+      "聴力低下",
+      "眼球運動障害"
+    ],
+    "answer": 0,
+    "explanation": "球麻痺の「球」は延髄のことを指し、球麻痺とは延髄に存在する運動神経核と舌咽神経、迷走神経、舌下神経の障害により、構音障害、嚥下障害、舌の麻痺が起こるものをいう。ここでは、舌下神経の障害による1：舌萎縮が正しい。2：嗅覚障害は嗅神経、3：聴力低下は内耳神経、4：眼球運動障害は動眼神経、滑車神経、外転神経の障害により起こると考えられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_28_045",
+    "subject": "clinical_general",
+    "category": "symptoms",
+    "sub_category": "神経、運動器",
+    "category_question_number": 22,
+    "round": 28,
+    "round_question_number": 45,
+    "question": "脳血管障害により片側顔面と反対側半身の温痛覚障害をきたす部位はどれか。",
+    "options": [
+      "大脳",
+      "小脳",
+      "橋",
+      "延髄"
+    ],
+    "answer": 3,
+    "explanation": "脳血管障害により問題の症状をきたすのは、主に椎骨動脈の閉塞によって起こる延髄外側症候群（Wallenbergワレンベルグ症候群）である。典型的な症状は、患側：①顔面温痛覚障害（三叉神経脊髄路核の障害）②ホルネル症候群（網様体の障害）③小脳性運動失調（下小脳脚の障害）④構音障害、嚥下障害（舌咽神経、迷走神経の障害）⑤回転性めまい、眼振（前庭神経核の障害）、反対側：①体幹・上下肢の温痛覚障害（外側脊髄視床路の障害）がある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_31_043",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "医療面接",
+    "category_question_number": 1,
+    "round": 31,
+    "round_question_number": 43,
+    "question": "医療面接について正しいのはどれか。",
+    "options": [
+      "患者が話したことは繰り返さない。",
+      "別居している家族の健康状態も聞く。",
+      "問診は特定の疾患を推定して始める。",
+      "医学用語を用いて説明する。"
+    ],
+    "answer": 1,
+    "explanation": "医療面接では、1：質問は系統立てて行ない、要点を整理して要領よく記載すること、3：最初から特定の疾患を推定し、その疾患に都合のよいように質問を誘導しないこと、4：一般的に医学的知識に乏しいため、医学用語は出来るだけ用いないこととなっている。2：家族歴に該当し、祖父母、両親、同胞、配偶者、子供などを中心に、健康状態や罹患疾患、死因などを聴取することになる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_26_052",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 2,
+    "round": 26,
+    "round_question_number": 52,
+    "question": "低身長となる疾患はどれか。",
+    "options": [
+      "マルファン症候群",
+      "シーハン症候群",
+      "下垂体前葉機能不全症",
+      "バセドウ病"
+    ],
+    "answer": 2,
+    "explanation": "3：下垂体前葉機能不全では、成長ホルモンとその増加作用を持つ甲状腺ホルモンの分泌低下により低身長となる。1：マルファン症候群では、逆に四肢が長い特徴を持った巨人症が生じる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_24_053",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 3,
+    "round": 24,
+    "round_question_number": 53,
+    "question": "顔貌と疾患の組合せで正しいのはどれか。",
+    "options": [
+      "仮面様顔貌 ― 肝硬変",
+      "満月様顔貌 ― クッシング症候群",
+      "無欲状顔貌 ― 狭心症",
+      "ヒポクラテス顔貌 ― バセドウ病"
+    ],
+    "answer": 1,
+    "explanation": "2：満月様顔貌は、さまざまな原因によって副腎皮質からコルチゾールが過剰に分泌されるクッシング症候群でみられる、特徴的身体所見の一つである。1：仮面様顔貌はパーキンソン病で、3：無欲状顔貌は高熱疾患、精神疾患などで、4：ヒポクラテス顔貌は消耗性疾患や癌の末期などに特徴的にみられる顔貌である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_26_053",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 4,
+    "round": 26,
+    "round_question_number": 53,
+    "question": "視診所見と疾患の組合せで正しいのはどれか。",
+    "options": [
+      "ヘバーデン結節 ― 関節リウマチ",
+      "眼瞼下垂 ― 甲状腺機能亢進症",
+      "メズサの頭 ― 肝硬変",
+      "ばち指 ― 糖尿病"
+    ],
+    "answer": 2,
+    "explanation": "3：メズサ（メデューサ）の頭は、肝門脈圧の亢進により臍を中心に腹壁静脈の怒張をきたすものをいい、肝硬変でみられる。1：ヘバーデン結節は変形性関節症の一種であり、関節リウマチで生じるものではない。2：眼瞼下垂は動眼神経麻痺、重症筋無力症、頚部交感神経麻痺でみられる。甲状腺機能亢進症では、眼球突出がみられる。4：ばち指は先天性心疾患や慢性肺疾患などでみられるもので、手指の末節が太鼓のばちのように腫大し、爪が前後面、側面の両面からみて凸状になっている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_27_049",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 5,
+    "round": 27,
+    "round_question_number": 49,
+    "question": "疾患と視診所見の組合せで誤っているのはどれか。",
+    "options": [
+      "帯状疱疹 ― 胸背部の発赤・水疱",
+      "肝硬変 ― 眼球結膜の黄染",
+      "パーキンソン病 ― 水牛様肩",
+      "バセドウ病 ― 眼球突出"
+    ],
+    "answer": 2,
+    "explanation": "3：パーキンソン病の視診所見では仮面様顔貌や振戦、前傾前屈姿勢、突進歩行などがある。水牛様肩は、クッシング症候群でみられる肩甲部への脂肪沈着である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_28_049",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 6,
+    "round": 28,
+    "round_question_number": 49,
+    "question": "疾患と視診所見の組合せで誤っているのはどれか。",
+    "options": [
+      "アジソン病 ― 恥毛脱落",
+      "バセドウ病 ― 眉弓部突出",
+      "クッシング病 ― 水牛様脂質沈着",
+      "甲状腺機能低下症 ― 眉毛外側1/3脱落"
+    ],
+    "answer": 1,
+    "explanation": "2：バセドウ病では眼球突出、頻脈、甲状腺腫大という特徴的な症状（メルゼブルグの3徴）がみられる。眉弓部の突出は、成長ホルモンの過剰による先端巨大症でみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_32_048",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 7,
+    "round": 32,
+    "round_question_number": 48,
+    "question": "疾患と症状の組合せで正しいのはどれか。",
+    "options": [
+      "溶血性貧血 ― ばち指",
+      "鉄欠乏性貧血 ― スプーン状爪",
+      "巨赤芽球性貧血 ― 黄疸",
+      "再生不良性貧血 ― ハンター舌炎"
+    ],
+    "answer": 1,
+    "explanation": "組織低酸素の症状として、皮膚や粘膜の蒼白、息切れ、めまい、倦怠感などが現れる。1：溶血性貧血では黄疸、2：鉄欠乏性貧血ではスプーン爪、3：巨赤芽球性貧血（B12欠乏）では舌乳頭萎縮（ハンター舌炎）や運動失調、4：再生不良性貧血では顔面蒼白、息切れ、動悸、めまい、立ち眩み、易疲労感、頭重感などがみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_30_047",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 8,
+    "round": 30,
+    "round_question_number": 47,
+    "question": "やせをきたしやすい疾患はどれか。",
+    "options": [
+      "早期胃癌",
+      "脂質異常症",
+      "甲状腺機能低下症",
+      "神経性食欲不振症"
+    ],
+    "answer": 3,
+    "explanation": "やせには、単純性やせ（体質的、食物不足、ダイエット）と症候性やせ（神経性食欲不振症、消化器系疾患、内分泌系疾患、慢性消耗性疾患）がある。1：早期の胃がん、2：脂質異常症、3：甲状腺機能低下症ではやせはみられない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_27_048",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 9,
+    "round": 27,
+    "round_question_number": 48,
+    "question": "異常歩行と疾患の組合せで正しいのはどれか。",
+    "options": [
+      "突進歩行 ― 変形性膝関節症",
+      "あひる歩行 ― 進行性筋ジストロフィー",
+      "はさみ脚歩行 ― パーキンソン病",
+      "硬性墜落性跛行 ― 脳性麻痺"
+    ],
+    "answer": 1,
+    "explanation": "2：進行性筋ジストロフィーでは、四肢近位の筋、特に骨盤周囲筋の筋力低下が出現する。そのため、両側下肢の外転が障害されることから、対側下肢の立脚時に骨盤が引き上げられずあひる歩行となる。1：突進歩行はパーキンソン病で、3：はさみ脚歩行は脳性麻痺で、4：硬性墜落性跛行は一側下肢の短縮による脚長差で出現する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_28_048",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 10,
+    "round": 28,
+    "round_question_number": 48,
+    "question": "右股関節に屈曲拘縮がある患者の歩行時の特徴で正しいのはどれか。",
+    "options": [
+      "左の歩幅の減少",
+      "右立脚相後期の腰椎前弯減少",
+      "はさみ脚歩行",
+      "左トレンデレンブルグ徴候"
+    ],
+    "answer": 0,
+    "explanation": "右股関節に屈曲拘縮がある患者では、右立脚時に股関節の伸展が制限され、遊脚側である左足の振出に制限が起こり、歩幅の減少が見られる。2：右立脚相後期では、股関節屈筋の拘縮により骨盤前傾が増加し、腰椎前弯は増加する。3：はさみ脚歩行は、脳性麻痺などでみられる痙性対麻痺歩行であり、4：トレンデレンブルグ徴候は中殿筋の麻痺、股関節疾患でみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_30_039",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 11,
+    "round": 30,
+    "round_question_number": 39,
+    "question": "脳性麻痺で、はさみ脚歩行を呈するのはどれか。",
+    "options": [
+      "痙直型",
+      "失調型",
+      "非緊張型",
+      "アテトーゼ型"
+    ],
+    "answer": 0,
+    "explanation": "脳性麻痺の病型として、1：痙直型が全体の約50%、4：アテトーゼ型が約20%を示す。痙直型で見られる異常歩行を痙性対麻痺歩行と呼び、両膝が重なり合うようにして歩き、内側に向いた足尖を交互に交差させながら歩くことから、はさみの動きに似ているため、はさみ脚歩行と呼ばれる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_051",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 12,
+    "round": 23,
+    "round_question_number": 51,
+    "question": "チアノーゼを判断しやすいのはどれか。",
+    "options": [
+      "眼球結膜",
+      "口唇",
+      "手掌",
+      "腹部"
+    ],
+    "answer": 1,
+    "explanation": "チアノーゼは毛細血管内の還元ヘモグロビンが増加して皮膚と粘膜が暗紫赤色を示すもので、2：口唇、頬骨部、鼻尖部、耳朶などで特に目立つ。1：眼球結膜は黄疸が確認されやすい。3：手掌における皮膚色調の変化としては、肝硬変などの慢性肝疾患において、母指球、小指球などが赤みを帯びる手掌紅斑が特徴的である。4：腹部では発疹や黄疸などの変化に注意が必要となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_26_050",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 13,
+    "round": 26,
+    "round_question_number": 50,
+    "question": "チアノーゼについて正しいのはどれか。",
+    "options": [
+      "皮膚が白くなる。",
+      "末梢循環不全で生じる。",
+      "貧血で現れやすい。",
+      "じんま疹のとき生じる。"
+    ],
+    "answer": 1,
+    "explanation": "チアノーゼは還元ヘモグロビンの増加により皮膚の色調が暗紫赤色を呈する状態で、末梢循環不全のほか、先天性心疾患、肺疾患などでみられる。1：皮膚が白くなるのは、貧血患者でみられ、ヘモグロビン濃度の減少により起こる。4：じんま疹は原発疹の一つで、皮膚が限局的に、かつ境界鮮明に隆起した状態をいう。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_047",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 14,
+    "round": 23,
+    "round_question_number": 47,
+    "question": "皮膚症状と疾患の組合せで正しいのはどれか。",
+    "options": [
+      "紫斑 ― アトピー性皮膚炎",
+      "蝶形紅斑 ― 全身性硬化症",
+      "黄疸 ― 全身性エリテマトーデス",
+      "手掌紅斑 ― 肝硬変"
+    ],
+    "answer": 3,
+    "explanation": "4：手掌紅斑は、肝硬変でエストロゲンの代謝が障害され、血中濃度が増加することでみられる所見である。1：紫斑は出血傾向を示す疾患の特徴的所見であり、アトピー性皮膚炎ではみられない。2：蝶形紅斑は全身性エリテマトーデス（SLE）で顔面に特徴的にみられる。全身性硬化症（強皮症）は皮膚硬化と血管病変を特徴とし、四肢末梢でレイノー現象がみられることが多い。3：黄疸は血清ビリルビンの増加による皮膚色調の変化であり、溶血性貧血、肝疾患、胆道閉塞などで出現する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_26_054",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 15,
+    "round": 26,
+    "round_question_number": 54,
+    "question": "浮腫をきたすのはどれか。",
+    "options": [
+      "副甲状腺機能低下症",
+      "高コレステロール血症",
+      "非アルコール性脂肪肝",
+      "うっ血性心不全"
+    ],
+    "answer": 3,
+    "explanation": "4：うっ血性心不全では浮腫が起こる。1：副甲状腺機能低下症は、副甲状腺ホルモンの作用不全により低カルシウム血症と高リン血症が引き起こされる疾患である。2：高コレステロール血症、3：非アルコール性脂肪肝では共に浮腫は起こりにくい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_24_047",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 16,
+    "round": 24,
+    "round_question_number": 47,
+    "question": "レイノー現象がみられるのはどれか。",
+    "options": [
+      "原発性アルドステロン症",
+      "アジソン病",
+      "全身性硬化症（強皮症）",
+      "パーキンソン病"
+    ],
+    "answer": 2,
+    "explanation": "3：全身性硬化症ではレイノー現象が必発する。レイノー現象とは寒冷刺激によって四肢末梢部の虚血状態が引き起こされ、皮膚の色調が蒼白→チアノーゼ→発赤・充血の順で変化する現象をいう。原因疾患には、レイノー病、膠原病（全身性硬化症、全身性エリテマトーデスなど）、バージャー病、斜角筋症候群、頸肋症候群などがある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_25_049",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 17,
+    "round": 25,
+    "round_question_number": 49,
+    "question": "多毛症がみられるのはどれか。",
+    "options": [
+      "クッシング症候群",
+      "ターナー症候群",
+      "甲状腺機能低下症",
+      "クラインフェルター症候群"
+    ],
+    "answer": 0,
+    "explanation": "多毛症とは、アンドロゲンの分泌過剰、もしくはアンドロゲン標的細胞の機能亢進による体毛増加と考えられている。1：クッシング症候群では、副腎アンドロゲンの分泌過剰により多毛となる。\n2：ターナー症候群は性染色体の異常であり、性腺発育不全、翼状頚、外反肘、低身長を主徴とする。3：甲状腺機能低下症では、甲状腺ホルモンの欠乏による新陳代謝の低下から徐脈、皮膚乾燥、筋力低下、体重増加などの症状に加えて、頭髪の脱毛や眉毛の外側1/3の脱落などがみられる。\n4：クラインフェルター症候群はX染色体が過剰となる性染色体異常により、長身、狭い肩幅、なで肩、女性化乳房、小陰茎、小精巣（小睾丸）などがみられる。いずれも多毛はみられない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_30_043",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 18,
+    "round": 30,
+    "round_question_number": 43,
+    "question": "リンパ節腫脹の原因で誤っているのはどれか。",
+    "options": [
+      "感染症",
+      "白血病",
+      "鼠径ヘルニア",
+      "悪性腫瘍の転移"
+    ],
+    "answer": 2,
+    "explanation": "3：鼠径ヘルニアは、鼠径部に嵌頓（腸管などの内臓器官が腹壁の間隙から脱出し、元に戻らなくなった状態）や疼痛、膨隆を生じる疾患である。鼠径ヘルニアの膨隆は、経過、触診における軟性、体位による変化、グル音の聴取などの特徴を有し、身体所見のみでの診断率は70〜90%とされている。嵌頓などの場合は、膨隆が固定し、腫瘤状となり、一部で疼痛を伴うこともあることから、鼠径部の疼痛を生じる疾患（鼠径部リンパ節腫脹、動脈瘤など）との鑑別に超音波やCT、MRIが必要となる。よって、リンパ節の腫脹は伴わないことから、3が誤っている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_057",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 19,
+    "round": 23,
+    "round_question_number": 57,
+    "question": "口腔内所見と疾患の組合せで正しいのはどれか。",
+    "options": [
+      "う歯 ― 悪性貧血",
+      "アフタ性口内炎 ― 潰瘍性大腸炎",
+      "舌炎 ― くる病",
+      "口角炎 ― ビタミンA欠乏症"
+    ],
+    "answer": 1,
+    "explanation": "2：潰瘍性大腸炎では、腸管外合併症の皮膚・粘膜症状としてアフタ性口内炎、結節性紅斑、壊死性膿皮症などが出現する。1：悪性貧血の口腔内所見としてはビタミンB12の欠乏によって舌乳頭が萎縮し、食べ物がしみるハンター（Hunter）舌炎がある。3：くる病は骨端線閉鎖前にビタミンDが欠乏して成長障害や骨変形が生じる。4：ビタミンA欠乏症は暗順応障害や夜盲症、結膜・角膜乾燥症などを生じる。共に口腔内所見はみられない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_25_053",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 20,
+    "round": 25,
+    "round_question_number": 53,
+    "question": "肝硬変の所見でないのはどれか。",
+    "options": [
+      "クモ状血管腫",
+      "眼球突出",
+      "女性化乳房",
+      "手掌紅斑"
+    ],
+    "answer": 1,
+    "explanation": "肝硬変では、エストロゲンの代謝障害による血中エストロゲン濃度の上昇で末梢血管が拡張することから、1：クモ状血管腫、4：手掌紅斑がみられる。また、3：女性化乳房も同様の理由により出現すると考えられている。2：眼球突出は甲状腺機能亢進症（バセドウ病）の特徴的所見である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_30_041",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 21,
+    "round": 30,
+    "round_question_number": 41,
+    "question": "鷲手をきたす罹患神経はどれか。",
+    "options": [
+      "筋皮神経",
+      "正中神経",
+      "橈骨神経",
+      "尺骨神経"
+    ],
+    "answer": 3,
+    "explanation": "鷲手は、背側骨间筋が著明に萎縮し、中手指節関節が背屈、遠位指節間関節が屈曲した状態である。骨間筋を支配しているのは、4：尺骨神経である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_32_044",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "視診",
+    "category_question_number": 22,
+    "round": 32,
+    "round_question_number": 44,
+    "question": "縦隔腫瘍でみられるのはどれか。",
+    "options": [
+      "眼振",
+      "ベル現象",
+      "眼球突出",
+      "ホルネル症候群"
+    ],
+    "answer": 3,
+    "explanation": "縦隔とは、胸の中心にある左右の肺の間にある空間で、胸腺、心臓、大血管、食道、気管などの重要な臓器が含む。それらの臓器に由来してできる腫瘍のことを縦隔腫瘍と呼び、上縦隔（甲状腺腫）、前縦隔（胸腺腫、胸腺癌、胸腺嚢胞、奇形腫、胚細胞腫瘍）、中縦隔（悪性リンパ腫、心膜嚢胞、気管支嚢胞）、後縦隔（神経鞘腫）など、それぞれの区画ごとに腫瘍が形成される。肺尖部の癌により交感神経が侵されるとホルネル症候群（病側の眼裂狭小、眼球陥凹、無汗症、縮瞳）を呈する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_054",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "打診",
+    "category_question_number": 23,
+    "round": 23,
+    "round_question_number": 54,
+    "question": "肝腫大の胸腹部打診所見はどれか。",
+    "options": [
+      "濁音域の拡大",
+      "清音域の拡大",
+      "鼓音域の拡大",
+      "過共鳴音域の拡大"
+    ],
+    "answer": 0,
+    "explanation": "肝臓は打診において濁音が聴取される。したがって、肝臓がびまん性あるいは局所性に大きくなる肝腫大では、1：濁音界の拡大がみられる。2：清音は正常肺野での打診所見であり、肝腫大では濁音界の拡大に伴い肺肝境界が上昇する可能性があり、清音界の拡大はみられない。3：鼓音は正常な腸管や胃で聴取される打診音であり、肝腫大により右側で縮小する可能性がある。4：過共鳴音は清音に比べて持続時間が長く、より低調で大きな音。肺気腫や気胸でみられる所見である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_26_047",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "聴診",
+    "category_question_number": 24,
+    "round": 26,
+    "round_question_number": 47,
+    "question": "気管支喘息の聴診所見はどれか。",
+    "options": [
+      "捻髪音",
+      "水泡音",
+      "笛音",
+      "いびき音"
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "explanation": "病的状態で出現する呼吸音は副雑音で、肺から発生するラ音と肺以外から発生するその他の音がある。ラ音はさらに連続性ラ音と断続性ラ音とに分類され、連続性ラ音には気道狭窄と気道内分泌物貯留による高調な3：笛（様）音と低調な4：いびき（様）音があり、気管支喘息ではその両方が聴取される。また、断続性ラ音には1：捻髪音と2：水泡音の2種類があり、捻髪音は間質性肺炎を示唆するとされ、水泡音は気道の炎症性疾患（急性・慢性気管支炎、気管支拡張症など）、肺炎などで聴取される。",
+    "is_irregular": true,
+    "irregular_reason": "正解が複数（3または4）あるため"
+  },
+  {
+    "id": "clinical_general_25_048",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "聴診",
+    "category_question_number": 25,
+    "round": 25,
+    "round_question_number": 48,
+    "question": "腸閉塞に特徴的な聴診所見はどれか。",
+    "options": [
+      "グル音",
+      "捻髪音",
+      "水泡音",
+      "金属音"
+    ],
+    "answer": 3,
+    "explanation": "腸閉塞（イレウス）は、機械性イレウスと機能性イレウスに大別される。機械性イレウスは、腸の血行障害を伴わない単純性イレウスと血行障害を伴う複雑性（絞扼性）イレウスに分類される。機能性イレウスの大半は麻痺性イレウスである。聴診所見ではいずれも腸雑音（1：グル音）に特徴があるが、機械性イレウスでは亢進し、機能性イレウスでは腸雑音が減弱・消失する。グル音は正常でも、その他の原因でも異常所見がみられることから、ここでは機械性イレウスにみられる4：金属音が特徴的な聴診所見となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_32_041",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "聴診",
+    "category_question_number": 26,
+    "round": 32,
+    "round_question_number": 41,
+    "question": "大動脈弁の音がよく聴取されるのはどれか。",
+    "options": [
+      "第2肋間胸骨右縁",
+      "第2肋間胸骨左縁",
+      "第3肋間胸骨左縁",
+      "第4肋間胸骨左縁"
+    ],
+    "answer": 0,
+    "explanation": "心臓の聴診部位として、1：第2肋間胸骨右縁は大動脈弁領域、2：第2肋間胸骨左縁は肺動脈弁領域、3：第3肋間胸骨左縁はエルブ領域、4：第4肋間胸骨左縁は三尖弁領域、左第5肋間と鎖骨中線の交点は僧帽弁領域となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_32_042",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "聴診",
+    "category_question_number": 27,
+    "round": 32,
+    "round_question_number": 42,
+    "question": "呼吸音が減弱するのはどれか。",
+    "options": [
+      "無気肺",
+      "気管支炎",
+      "肺線維症",
+      "気管支肺炎"
+    ],
+    "answer": 0,
+    "explanation": "呼吸音の減弱ないし消失は、気胸、胸水貯留、胸膜肥厚などにより呼吸音の伝導が低下するために起こる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_28_053",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "触診",
+    "category_question_number": 28,
+    "round": 28,
+    "round_question_number": 53,
+    "question": "腹部触診について正しいのはどれか。",
+    "options": [
+      "聴診より先に行う。",
+      "最初は柔らかく触れる。",
+      "疼痛部位を最初に触れる。",
+      "体位変換は必要ない。"
+    ],
+    "answer": 1,
+    "explanation": "腹部の触診は、一般的に視診・聴診・打診・触診の順に行われる。聴診より先に触診を行ったり、痛い部位を最初に触ると腹部の緊張が強くなり、その後の診察に支障をきたす。触診では、最初は手掌に力を入れずに軽く行い、次にやや指先に力を入れて探るようにして進める。また、通常は仰臥位で膝を立てた状態で行うが、立位や半座位、側臥位など、体位を適宜変換させて行う。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_25_046",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "身体計測",
+    "category_question_number": 29,
+    "round": 25,
+    "round_question_number": 46,
+    "question": "四肢の周径の計測で誤っているのはどれか。",
+    "options": [
+      "上腕周径は上腕二頭筋部最大径で測る。",
+      "前腕周径は前腕部最大径で測る。",
+      "大腿周径は大腿部最大径で測る。",
+      "下腿周径は下腿部最大径で測る。"
+    ],
+    "answer": 2,
+    "explanation": "3：大腿周径は、大腿部最大径で測るのは誤りである。外側膝関節裂隙より成人で10cm、小児では5cm上方で測定する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_31_045",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "バイタルサイン（生命徴候）",
+    "category_question_number": 30,
+    "round": 31,
+    "round_question_number": 45,
+    "question": "熱型と感染症の組合せで正しいのはどれか。",
+    "options": [
+      "稽留熱 ― マラリア",
+      "弛張熱 ― 敗血症",
+      "周期熱 ― ホジキンリンパ腫",
+      "波状熱 ― 髄膜炎"
+    ],
+    "answer": 1,
+    "explanation": "1：稽留熱は、発熱が持続しているが、日内変動が1℃以内で腸チフス、肺炎、髄膜炎などでみられる。2：弛張熱は、発熱が持続し、日内変動が1℃以上で敗血症、肝膿瘍、膠原病などでみられる。3：周期熱は、高熱期と無熱期が周期的に繰り返し、マラリアが代表的である。4：波状熱は有熱期と無熱期が不規則に繰り返し、ホジキンリンパ腫などでみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_25_050",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "バイタルサイン（生命徴候）",
+    "category_question_number": 31,
+    "round": 25,
+    "round_question_number": 50,
+    "question": "脈拍について正しいのはどれか。",
+    "options": [
+      "鉄欠乏性貧血では徐脈を呈する。",
+      "うっ血性心不全では頻脈を呈する。",
+      "甲状腺機能低下症では頻脈を呈する。",
+      "出血性ショックでは徐脈を呈する。"
+    ],
+    "answer": 1,
+    "explanation": "2：うっ血性心不全では1回心拍出量が低下することから、それを補うためにカテコールアミンの分泌亢進などが起こり、頻脈となる。1：鉄欠乏性貧血ではヘモグロビンによる酸素運搬能が低下することから、頻脈となる。3：甲状腺機能低下症では甲状腺ホルモン欠乏による徐脈、4：出血性ショックでは、循環血液量が減少することによる1回心拍出量低下を補うために頻脈となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_28_052",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "バイタルサイン（生命徴候）",
+    "category_question_number": 32,
+    "round": 28,
+    "round_question_number": 52,
+    "question": "脈拍について正しいのはどれか。",
+    "options": [
+      "貧血では頻脈を呈する。",
+      "頭蓋内圧亢進時は頻脈を呈する。",
+      "甲状腺機能亢進症では徐脈を呈する。",
+      "うっ血性心不全では徐脈を呈する。"
+    ],
+    "answer": 0,
+    "explanation": "2：頭蓋内圧亢進時は徐脈と脈圧の増大が見られる。4：うっ血性心不全では、心臓から血液を拍出する能力が落ちて血液量の減少が見られるため、脈拍数は増加することが多い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_053",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "バイタルサイン（生命徴候）",
+    "category_question_number": 33,
+    "round": 23,
+    "round_question_number": 53,
+    "question": "血圧について正しいのはどれか。",
+    "options": [
+      "血圧を測定する際は前腕を強く屈曲する。",
+      "低血圧は動脈硬化の危険因子である。",
+      "血圧は心臓の拡張期に最高となる。",
+      "収縮期血圧と拡張期血圧の差を脈圧という。"
+    ],
+    "answer": 3,
+    "explanation": "4：収縮期血圧（最高血圧）と拡張期血圧（最低血圧）の差が脈圧である。1：血圧測定は、上肢を伸展位として前腕を心臓の高さになるよう置くことが重要である。2：動脈硬化の危険因子は高血圧である。3：最高血圧は心臓の収縮期である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_29_046",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "バイタルサイン（生命徴候）",
+    "category_question_number": 34,
+    "round": 29,
+    "round_question_number": 46,
+    "question": "血圧について正しいのはどれか。",
+    "options": [
+      "心臓の拡張期に最高となる。",
+      "脈圧は収縮期血圧と拡張期血圧の差である。",
+      "触診法で拡張期血圧が測定できる。",
+      "圧迫帯は肘関節に巻く。"
+    ],
+    "answer": 1,
+    "explanation": "問題33を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_24_052",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "バイタルサイン（生命徴候）",
+    "category_question_number": 35,
+    "round": 24,
+    "round_question_number": 52,
+    "question": "成人のバイタルサインで異常所見はどれか。",
+    "options": [
+      "体温 36.5℃",
+      "血圧 110/70mmHg",
+      "呼吸数 18回/分",
+      "脈拍 110回/分"
+    ],
+    "answer": 3,
+    "explanation": "4：脈拍は成人健常者で65〜85回/分であり、100回/分以上は頻脈という。3：呼吸数は脈拍の約1/3〜1/4であり、通常16〜20回/分である。1：体温36.5℃、2：血圧110/70mmHgともに正常である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_26_045",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 36,
+    "round": 26,
+    "round_question_number": 45,
+    "question": "脊髄分節と体表知覚の組合せで正しいのはどれか。",
+    "options": [
+      "第4頸神経 ― 後頭部",
+      "第4胸神経 ― 肩甲骨下角",
+      "第4腰神経 ― 下腿外側",
+      "第4仙骨神経 ― 肛門周囲"
+    ],
+    "answer": 3,
+    "explanation": "4：肛門周囲は第4仙骨神経なので、正しい。1：後頭部は第2頸神経、2：肩甲骨下角は第6あるいは第7胸神経、3：下腿外側は第5腰神経である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_31_041",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 37,
+    "round": 31,
+    "round_question_number": 41,
+    "question": "デルマトームにおいて母指の分節はどれか。",
+    "options": [
+      "C2",
+      "C4",
+      "C6",
+      "C8"
+    ],
+    "answer": 2,
+    "explanation": "各選択肢の皮膚分節について、1：C2は後頭部、2：C4は肩、3：C6は前腕尺側〜母指、4：C8は環指、小指となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_049",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 38,
+    "round": 23,
+    "round_question_number": 49,
+    "question": "表在反射でないのはどれか。",
+    "options": [
+      "角膜反射",
+      "下顎反射",
+      "腹壁反射",
+      "肛門反射"
+    ],
+    "answer": 1,
+    "explanation": "2：下顎反射は咬筋の伸展刺激により、その筋の収縮を引き起こす反射であり、深部反射である。表在反射とは皮膚や粘膜の刺激で多シナプス性に筋収縮が生じるもので1：角膜反射、3：腹壁反射、4：肛門反射が含まれる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_25_051",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 39,
+    "round": 25,
+    "round_question_number": 51,
+    "question": "深部反射はどれか。",
+    "options": [
+      "角膜反射",
+      "足底反射",
+      "腹壁反射",
+      "下顎反射"
+    ],
+    "answer": 3,
+    "explanation": "問題38の解説参照。2：足底反射は、足底の皮膚への刺激により足趾が底屈する反射で、表在反射の一つである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_31_042",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 40,
+    "round": 31,
+    "round_question_number": 42,
+    "question": "涙腺と唾液腺を支配しているのはどれか。",
+    "options": [
+      "三叉神経",
+      "顔面神経",
+      "舌咽神経",
+      "舌下神経"
+    ],
+    "answer": 1,
+    "explanation": "脳神経は左右12対から成り立ち、この中で涙腺、唾液腺に至る分泌線維（副交感神経線維）を含んで支配するのは2：顔面神経（Ⅶ）である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_24_045",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 41,
+    "round": 24,
+    "round_question_number": 45,
+    "question": "対光反射の遠心路はどれか。",
+    "options": [
+      "動眼神経",
+      "三叉神経",
+      "外転神経",
+      "顔面神経"
+    ],
+    "answer": 0,
+    "explanation": "対光反射は眼球に光を入れたら縮瞳が起こる反射で、反射弓は、受容器が網膜の視細胞、視神経が求心路、中枢である中脳の視蓋前域、動眼神経副核であるEdinger-Westphal（エディンガー・ウエストファル）核を介して、遠心路は1：動眼神経副交感神経線維、効果器は瞳孔括約筋である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_30_040",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 42,
+    "round": 30,
+    "round_question_number": 40,
+    "question": "対光反射の遠心路はどれか。",
+    "options": [
+      "動眼神経",
+      "三叉神経",
+      "外転神経",
+      "顔面神経"
+    ],
+    "answer": 0,
+    "explanation": "問題41を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_29_041",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 43,
+    "round": 29,
+    "round_question_number": 41,
+    "question": "上肢の病的反射はどれか。",
+    "options": [
+      "バビンスキー反射",
+      "チャドック反射",
+      "トレムナー反射",
+      "ゴードン反射"
+    ],
+    "answer": 2,
+    "explanation": "病的反射とは、錐体路障害により健常者にはみられない反射が出現することである。上肢の病的反射としては、3：トレムナー反射（中指末節を検者の指で掌側からはじくように叩き、全指ごとに母指が屈曲する）となる。1：バビンスキー反射、2：チャドック反射、4：ゴードン反射はいずれも下肢の病的反射である。キー反射、2：チャドック反射、4：ゴードン反射はいずれも下肢の病的反射である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_24_054",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 44,
+    "round": 24,
+    "round_question_number": 54,
+    "question": "自律神経反射はどれか。",
+    "options": [
+      "バビンスキー反射",
+      "ホフマン反射",
+      "モロー反射",
+      "アシュネル反射"
+    ],
+    "answer": 3,
+    "explanation": "自律神経反射は、体性神経あるいは内臓求心性神経を求心路とし自律神経を遠心路とする反射をいう。4：アシュネル反射は、眼球を指で圧迫すると心拍数の減少をきたす反射で、求心路が三叉神経、中枢が延髄、遠心路が迷走神経である。脈拍数が10回/分以上減少する場合、迷走神経の緊張状態が考えられる。1：バビンスキー反射、2：ホフマン反射はともに病的反射であり、錐体路障害で陽性となる。3：モロー反射は新生児に出現する原始反射の一つである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_27_046",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 45,
+    "round": 27,
+    "round_question_number": 46,
+    "question": "バレー徴候で患側上肢にみられる陽性所見はどれか。",
+    "options": [
+      "外旋する。",
+      "下降する。",
+      "振戦が出現する。",
+      "しびれを自覚する。"
+    ],
+    "answer": 1,
+    "explanation": "バレー徴候は、手掌を上に向けた状態で上肢を90度屈曲位にし、30秒程度保持する検査である。一側上肢が内旋、下降すれば陽性所見とする。陽性では、錐体路障害による患側上肢の筋力低下を疑う。3：振戦は錐体外路障害でみられる所見である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_29_040",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 46,
+    "round": 29,
+    "round_question_number": 40,
+    "question": "次の文で示す意識障害はどれか。\n「大声で呼びかけると目が覚めるが、またすぐに眠ってしまう。」",
+    "options": [
+      "昏睡",
+      "半昏睡",
+      "昏迷",
+      "傾眠"
+    ],
+    "answer": 3,
+    "explanation": "問題48参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_30_046",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 47,
+    "round": 30,
+    "round_question_number": 46,
+    "question": "意識障害で最も重いのはどれか。",
+    "options": [
+      "昏迷",
+      "傾眠",
+      "昏睡",
+      "嗜眠"
+    ],
+    "answer": 2,
+    "explanation": "問題48参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_32_045",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 48,
+    "round": 32,
+    "round_question_number": 45,
+    "question": "意識障害で、周囲に対する認識の減退や不安・興奮状態がみられるのはどれか。",
+    "options": [
+      "傾眠",
+      "昏迷",
+      "せん妄",
+      "無欲状態"
+    ],
+    "answer": 2,
+    "explanation": "意識障害は、刺激や呼び掛けに無反応である意識混濁と幻覚や錯乱などの症状がみられる意識変容に分けられる。意識障害の程度としては、いかなる外的刺激にも反応しないで無動の状態をしめす昏睡、時々自動的な体動や開眼はみられるが、刺激に対する反応がない半昏睡、強い刺激でかろうじて開眼するが十分に覚醒しない昏迷、放置すると眠っているが大声で呼び掛けると覚醒する傾眠がある。せん妄は意識変容に分類され、脱水、感染、炎症、貧血、薬物など、身体的に負荷がかかった時に生じる意識の混乱状態である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_24_050",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 49,
+    "round": 24,
+    "round_question_number": 50,
+    "question": "髄膜刺激徴候はどれか。",
+    "options": [
+      "ラセーグ徴候",
+      "ブラガード徴候",
+      "ケルニッヒ徴候",
+      "ガワーズ徴候"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "髄膜刺激症候は、項部硬直、3：ケルニッヒ徴候、ブルジンスキー徴候と1：ラセーグ徴候が含まれる。3：ケルニッヒ徴候は、仰臥位で股関節、膝関節を90度屈曲位とし、下腿を他動的に伸展させた際、髄膜刺激による筋の攣縮により135度以上に伸展できない状態で陽性となる。1：ラセーグ徴候は仰臥位で膝関節を伸展したまま股関節を屈曲させた際、70度以下で大腿後面に疼痛が出現してそれ以上挙上できないものを陽性とし、主に腰部神経根の圧迫でみられるが、ケルニッヒ徴候と同様の意義を持ち、髄膜刺激症候の一つと考えられている。",
+    "is_irregular": true,
+    "irregular_reason": "正解が複数（1と3）あるため"
+  },
+  {
+    "id": "clinical_general_26_051",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 50,
+    "round": 26,
+    "round_question_number": 51,
+    "question": "髄膜刺激症状はどれか。",
+    "options": [
+      "ケルニッヒ徴候",
+      "ロンベルグ徴候",
+      "ブルンベルグ徴候",
+      "ガワーズ徴候"
+    ],
+    "answer": 0,
+    "explanation": "髄膜刺激症状はクモ膜下出血や髄膜炎などで出現する症状を総称するもので、1：ケルニッヒ徴候のほか項部硬直、ブルジンスキー徴候がある。2：ロンベルグ徴候は運動失調を、3：ブルンベルグ徴候は反跳痛あるいは反動痛ともいわれ、腹膜炎を疑うものである。4：ガワーズ徴候とは登攀性起立ともいい、デュシェンヌ型筋ジストロフィーでみられるもので、膝に手をつき、自身の身体をよじ登るようにする起立をいう。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_048",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 51,
+    "round": 23,
+    "round_question_number": 48,
+    "question": "麻痺について正しい組合せはどれか。",
+    "options": [
+      "四肢麻痺 ― 両側の上下肢",
+      "片麻痺 ― 一側の上肢",
+      "対麻痺 ― 両側の上肢",
+      "単麻痺 ― 一側の上下肢"
+    ],
+    "answer": 0,
+    "explanation": "麻痺の分類として、1：四肢麻痺は両側の上下肢の麻痺、2：片麻痺は一側の上下肢の麻痺、3：対麻痺は対照的な両側の下肢の麻痺、4：単麻痺は一側の上肢もしくは下肢の一肢に限られた麻痺をそれぞれ示している。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_24_049",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 52,
+    "round": 24,
+    "round_question_number": 49,
+    "question": "知覚障害の型と疾患の組合せで正しいのはどれか。",
+    "options": [
+      "分節性 ― 脊髄空洞症",
+      "片側性 ― ブラウンセカール症候群",
+      "解離性 ― 横断型脊髄損傷",
+      "手袋靴下型 ― 多発性神経炎"
+    ],
+    "answer": 3,
+    "explanation": "4：多発性神経炎では左右対称性に四肢の遠位優位に障害が起こり、手袋をはめた部位、靴下を履いた部位の障害となるため、手袋靴下型と呼ばれる。1：分節性は神経根の障害、2：片側性は脳血管障害後遺症で起こる。3：解離性とは、温度覚、痛覚は障害されるが触覚は保たれるものをいい、脊髄空洞症でみられる障害の型である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_28_046",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "神経系の検査",
+    "category_question_number": 53,
+    "round": 28,
+    "round_question_number": 46,
+    "question": "改訂長谷川式簡易知能評価スケールの質問で、アルツハイマー病では病初期から答えられないのはどれか。",
+    "options": [
+      "お歳はいくつですか。",
+      "100から7を順番に引いてください。",
+      "これから言う3つの言葉を言ってみてください。",
+      "先ほど覚えてもらった言葉をもう一度、言ってみてください。"
+    ],
+    "answer": 3,
+    "explanation": "アルツハイマー病は、初期から近時記憶（数分〜数日前の記憶）に障害がみられる。4は遅延再生に当たる質問項目であり、近時記憶について確認するもので、これが正解となる。1は年齢、2は計算、3は即時再生で短期記憶を確認するものである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_050",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "運動機能検査",
+    "category_question_number": 54,
+    "round": 23,
+    "round_question_number": 50,
+    "question": "下肢の徒手検査でないのはどれか。",
+    "options": [
+      "パトリックテスト",
+      "モーレイテスト",
+      "トーマステスト",
+      "マックマレーテスト"
+    ],
+    "answer": 1,
+    "explanation": "2：モーレイテストは頸部における腕神経叢圧迫テストで、陽性であれば斜角筋症候群を疑う。1：パトリックテストは股関節の検査、3：トーマステストは大腿四頭筋、腸腰筋の拘縮に対する検査、4：マックマレーテストは膝関節の半月板の検査である（表2）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_24_051",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "運動機能検査",
+    "category_question_number": 55,
+    "round": 24,
+    "round_question_number": 51,
+    "question": "肩関節の診察法と疾患の組合せで正しいのはどれか。",
+    "options": [
+      "ペインフルアークサイン ― 棘上筋腱損傷",
+      "スピードテスト ― 上腕三頭筋腱炎",
+      "アプリヘンションサイン ― 肩関節周囲炎",
+      "ドロップアームサイン ― 大円筋断裂"
+    ],
+    "answer": 0,
+    "explanation": "1：ペインフルアークサインは腱板損傷（特に棘上筋腱）でみられる。2：スピードテストは上腕二頭筋腱炎の検査である。3：アプリヘンジョンサインは、肩関節の前方不安定性に対する検査で、肩関節外転90度で外旋を加えた際に患者自身が脱臼の不安や恐怖を覚えることが陽性所見である。4：ドロップアームサインは腱板断裂を疑う検査である（表2）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_25_045",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "運動機能検査",
+    "category_question_number": 56,
+    "round": 25,
+    "round_question_number": 45,
+    "question": "アキレス腱断裂の診察法はどれか。",
+    "options": [
+      "トーマステスト",
+      "ラックマンテスト",
+      "トンプソン徴候",
+      "ドレーマン徴候"
+    ],
+    "answer": 2,
+    "explanation": "3：トンプソン徴候は、下腿三頭筋を把握した際の足関節底屈が消失することを陽性所見とする検査で、アキレス腱断裂を示唆する。1：トーマステストは股関節屈曲拘縮、2：ラックマンテストは膝前十字靭帯に対する検査である（表2）。4：ドレーマン徴候は、股関節屈曲時に自然と外転・外旋肢位を取るもので、大腿骨頭すべり症で認められる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_25_047",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "運動機能検査",
+    "category_question_number": 57,
+    "round": 25,
+    "round_question_number": 47,
+    "question": "下肢の徒手検査法はどれか。",
+    "options": [
+      "アイヒホッフテスト",
+      "トムゼンテスト",
+      "アプレイテスト",
+      "ライトテスト"
+    ],
+    "answer": 2,
+    "explanation": "3：アプレイテストは膝半月板、内側・外側側副靭帯の損傷に対する検査である。1：アイヒホッフテストは、母指を中に入れて手を握り、手関節を尺屈した際に手関節橈側の痛みが誘発されれば陽性とする検査で、長母指外転筋腱と短母指伸筋腱が通る手関節背側第1区画の狭窄性腱鞘炎が示唆される。2：トムゼンテストは上腕骨外側上顆炎、4：ライトテストは過外転症候群で陽性となる検査である（表2）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_26_046",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "運動機能検査",
+    "category_question_number": 58,
+    "round": 26,
+    "round_question_number": 46,
+    "question": "膝関節の徒手検査法と疾患の組合せで正しいのはどれか。",
+    "options": [
+      "マックマレーテスト ― 膝半月板損傷",
+      "Nテスト ― 膝後十字靭帯損傷",
+      "グラインディングテスト ― 膝蓋靭帯炎",
+      "後方引き出しテスト ― 膝前十字靭帯損傷"
+    ],
+    "answer": 0,
+    "explanation": "1：マックマレーテストは膝半月板の異常を確認するテストであり、正しい。2：Nテストは、膝前十字靭帯損傷または機能不全を含めた不安定性を確認するのに用いられる。3：グラインディングテストは膝蓋大腿関節面の異常に対する検査であり、4：後方引き出しテストは膝後十字靭帯損傷に対する検査である（表2）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_27_052",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "運動機能検査",
+    "category_question_number": 59,
+    "round": 27,
+    "round_question_number": 52,
+    "question": "膝関節障害の徒手検査法はどれか。",
+    "options": [
+      "ケンプテスト",
+      "ジャクソンテスト",
+      "パトリックテスト",
+      "アプレイテスト"
+    ],
+    "answer": 3,
+    "explanation": "4：アプレイテストは牽引テストと圧迫テストがあるが、前者は側副靭帯の、後者は半月板の検査であり、いずれも膝関節障害に対する検査である。1：ケンプテストは腰部の神経あるいは椎間関節に対する検査であり、2：ジャクソンテストは頸部の神経根圧迫テスト、3：パトリックテストは股関節に対する検査である（表2）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_31_047",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "運動機能検査",
+    "category_question_number": 60,
+    "round": 31,
+    "round_question_number": 47,
+    "question": "膝関節の前十字靭帯損傷を確認する徒手検査法はどれか。",
+    "options": [
+      "アプレイテスト",
+      "内反ストレステスト",
+      "マックマレーテスト",
+      "ラックマンテスト"
+    ],
+    "answer": 3,
+    "explanation": "表2参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_28_051",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "運動機能検査",
+    "category_question_number": 61,
+    "round": 28,
+    "round_question_number": 51,
+    "question": "頸椎を後側屈して頭部を圧迫する理学検査はどれか。",
+    "options": [
+      "アドソンテスト",
+      "スパーリングテスト",
+      "ペインフルアークサイン",
+      "ヤーガソンテスト"
+    ],
+    "answer": 1,
+    "explanation": "1：アドソンテストは腕の痺れがある側に頭部を回旋し、頚を反らせたときの患側の橈骨動脈の拍動を確認するもので、胸郭出口症候群の検査である。3：ペインフルアークサインは肩、肩峰下滑液包炎、腱板損傷などの検査、4：ヤーガソンテストは前腕回内位から検者の抵抗に逆らって回外する検査で、肩部、上腕二頭筋長頭腱炎に対する検査である（表2）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_29_045",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "運動機能検査",
+    "category_question_number": 62,
+    "round": 29,
+    "round_question_number": 45,
+    "question": "中殿筋機能不全を確認する徒手検査法はどれか。",
+    "options": [
+      "トレンデレンブルグテスト",
+      "パトリックテスト",
+      "ブラガードテスト",
+      "マックマレーテスト"
+    ],
+    "answer": 0,
+    "explanation": "中殿筋は、骨盤を水平位に保つ働きがあり、先天性股関節脱臼や変形性股関節症、中殿筋麻痺により機能不全が起こる。1：トレンデレンブルグテストは、患側肢で片足起立をした際、中殿筋による外側からの支持が十分でないため、健側の骨盤が下がることから、中殿筋の機能不全を示唆するテストである。2：パトリックテストは仙腸関節・股関節障害、3：ブラガードテストは神経根障害、4：マックマレーテストは半月板損傷をそれぞれ示唆する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_32_047",
+    "subject": "clinical_general",
+    "category": "examination",
+    "sub_category": "運動機能検査",
+    "category_question_number": 63,
+    "round": 32,
+    "round_question_number": 47,
+    "question": "股関節の屈曲拘縮を確認する徒手検査法はどれか。",
+    "options": [
+      "トーマステスト",
+      "ボンネットテスト",
+      "パトリックテスト",
+      "マックマレーテスト"
+    ],
+    "answer": 0,
+    "explanation": "表2参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_046",
+    "subject": "clinical_general",
+    "category": "clinical_test",
+    "sub_category": "検体検査",
+    "category_question_number": 1,
+    "round": 23,
+    "round_question_number": 46,
+    "question": "血清CKの上昇がみられる疾患はどれか。",
+    "options": [
+      "関節リウマチ",
+      "シェーグレン症候群",
+      "多発性筋炎",
+      "全身性エリテマトーデス"
+    ],
+    "answer": 2,
+    "explanation": "血清CK（クレアチンキナーゼ）は主として骨格筋に含まれる酵素で、筋疾患の診断に重要である。したがって3：多発性筋炎や心筋梗塞、筋ジストロフィーなどで上昇がみられる。1：関節リウマチではRF（リウマトイド因子）、2：シェーグレン症候群では抗DNA抗体、4：全身性エリテマトーデスでは抗DNA抗体、抗核抗体などが主に上昇する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_30_042",
+    "subject": "clinical_general",
+    "category": "clinical_test",
+    "sub_category": "検体検査",
+    "category_question_number": 2,
+    "round": 30,
+    "round_question_number": 42,
+    "question": "血中脂質で基準値を下回ると動脈硬化のリスクが高くなるのはどれか。",
+    "options": [
+      "中性脂肪",
+      "総コレステロール",
+      "LDLコレステロール",
+      "HDLコレステロール"
+    ],
+    "answer": 3,
+    "explanation": "動脈硬化は、血液検査において、2：総コレステロール、3：LDLコレステロールの増加、4：HDLコレステロールの低下により示唆される。1：中性脂肪は、高値で高脂血症、肥満、糖尿病を示唆し、低値で甲状腺機能亢進症や低栄養を示唆する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_056",
+    "subject": "clinical_general",
+    "category": "clinical_test",
+    "sub_category": "検体検査",
+    "category_question_number": 3,
+    "round": 23,
+    "round_question_number": 56,
+    "question": "尿所見と疾患の組合せで正しいのはどれか。",
+    "options": [
+      "膿尿 ― 急性糸球体腎炎",
+      "褐色尿 ― ネフローゼ症候群",
+      "血尿 ― 尿管結石",
+      "蛋白尿 ― 前立腺肥大症"
+    ],
+    "answer": 2,
+    "explanation": "3：尿管結石では、尿検査で血尿とシュウ酸Caなど特徴的な結晶がみられる。1：急性糸球体腎炎の尿所見では血尿、蛋白尿が重要である。膿尿は尿に蛋白が混入したものをいい、多くの場合細菌の混入もあり尿路の感染症を示唆する。2：ネフローゼ症候群は蛋白尿が重要である。褐色尿はさまざまな疾患でみられ、尿中のビリルビン、ウロビリノゲンの増加やヘモグロビン、ミオグロビンの混入のほか、発熱、脱水などでもみられることがある。4：前立腺肥大症では尿所見に特別なものはなく、蓄尿症状や排尿症状が主となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_32_046",
+    "subject": "clinical_general",
+    "category": "clinical_test",
+    "sub_category": "検体検査",
+    "category_question_number": 4,
+    "round": 32,
+    "round_question_number": 46,
+    "question": "成人で1日の尿量が100mL以下の状態を示すのはどれか。",
+    "options": [
+      "尿閉",
+      "稀尿",
+      "乏尿",
+      "無尿"
+    ],
+    "answer": 3,
+    "explanation": "健常者では、1mL/体重kg/時間の尿量があり、成人では約800〜1,600mLである。1日の尿量が400mL以下を乏尿、100mL以下を無尿とよび、急性腎炎、急性・慢性腎不全、ネフローゼ症候群などでみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_26_049",
+    "subject": "clinical_general",
+    "category": "clinical_test",
+    "sub_category": "検体検査",
+    "category_question_number": 5,
+    "round": 26,
+    "round_question_number": 49,
+    "question": "腎機能の検査はどれか。",
+    "options": [
+      "クレアチニン",
+      "クレアチンキナーゼ",
+      "アルカリホスファターゼ",
+      "γ-グルタミントランスペプチダーゼ"
+    ],
+    "answer": 0,
+    "explanation": "血液生化学検査における1：クレアチニンの値が腎機能の指標となる。2：クレアチンキナーゼは主として骨格筋に含まれる酵素で、筋ジストロフィー、心筋梗塞など筋の変性・壊死などで上昇する。3：アルカリホスファターゼは肝胆道疾患、骨疾患の指標である。4：γ-グルタミントランスペプチダーゼ（γ-GTP）はアルコール性肝障害で著明に上昇する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_29_043",
+    "subject": "clinical_general",
+    "category": "clinical_test",
+    "sub_category": "検体検査",
+    "category_question_number": 6,
+    "round": 29,
+    "round_question_number": 43,
+    "question": "疾患と腫瘍マーカーの組合せで最も適切なのはどれか。",
+    "options": [
+      "肝臓癌 ― CA125",
+      "胃癌 ― AFP",
+      "前立腺癌 ― PSA",
+      "卵巣癌 ― SCC抗原"
+    ],
+    "answer": 2,
+    "explanation": "1：CA 125（Carbohydrate Antigen 125）は、糖鎖関連腫瘍マーカーの略語で、主に婦人科系（卵巣がん、子宮頸がん）で高値を示す。2：AFP（α-FetProtein）は、主に消化器系（肝がん、肝炎、肝硬変など）で高値を示す。3：PSA（Prostate Specific Antigen）は、前立腺特異抗原の略語で、前立腺がん、前立腺肥大症、前立腺炎で高値を示す。4：SCC抗原（Squamous Cell Carcinoma antigen）は、扁平上皮癌関連抗原の略語で、肺扁平上皮がん、食道がん、子宮頸がん、肺炎、肺結核などで高値を示す。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_29_048",
+    "subject": "clinical_general",
+    "category": "clinical_test",
+    "sub_category": "検体検査",
+    "category_question_number": 7,
+    "round": 29,
+    "round_question_number": 48,
+    "question": "黄疸をきたす疾患はどれか。",
+    "options": [
+      "糖尿病",
+      "慢性心不全",
+      "脂質異常症",
+      "溶血性貧血"
+    ],
+    "answer": 3,
+    "explanation": "4：溶血性貧血では、間接ビリルビンが増加する溶血性黄疸が生じる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_31_040",
+    "subject": "clinical_general",
+    "category": "clinical_test",
+    "sub_category": "生理学的検査",
+    "category_question_number": 8,
+    "round": 31,
+    "round_question_number": 40,
+    "question": "心電図検査でST低下の際に疑われるのはどれか。",
+    "options": [
+      "狭心症",
+      "心房細動",
+      "心室粗動",
+      "洞不全症候群"
+    ],
+    "answer": 0,
+    "explanation": "心電図は、P波（心房の興奮時に生じる）、QRS波（心室の興奮時に生じる）、T波（心室の興奮からの回復時に生じる）、U波（回復の終了時に生じる）で確認される。このうち、ST波の変化は心筋虚血で生じることから、1：狭心症が一過性の心筋虚血をきたすため、心電図検査でSTの低下がみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_052",
+    "subject": "clinical_general",
+    "category": "clinical_test",
+    "sub_category": "生理学的検査",
+    "category_question_number": 9,
+    "round": 23,
+    "round_question_number": 52,
+    "question": "呼吸機能検査所見と疾患の組合せで正しいのはどれか。",
+    "options": [
+      "拘束性障害 ― 慢性閉塞性肺疾患（COPD）",
+      "閉塞性障害 ― 肺結核後遺症",
+      "拡散能低下 ― 特発性肺線維症",
+      "気道過敏性亢進 ― 心臓性喘息"
+    ],
+    "answer": 2,
+    "explanation": "3：拡散能低下は1：拘束性障害と共に、間質の炎症や浸出液の貯留、線維化などが起こる間質性肺疾患でみられる症状である。特発性肺線維症は原因不明の間質性肺炎の中で最も頻度が高いことから、拡散能低下との組み合わせは正しい。2：閉塞性障害は気管支の攣縮や分泌物による気道の閉塞によるものであり、主に慢性閉塞性肺疾患（COPD）でみられる。肺結核後遺症では外科的処置の結果によってさまざまな器質的な変化が生じて呼吸障害が出現する。4：気道過敏性亢進は気管支喘息でみられる所見であり、起坐呼吸が特徴的所見となる心臓喘息ではみられない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_29_042",
+    "subject": "clinical_general",
+    "category": "clinical_test",
+    "sub_category": "生理学的検査",
+    "category_question_number": 10,
+    "round": 29,
+    "round_question_number": 42,
+    "question": "呼吸機能検査で閉塞性換気障害を示すのはどれか。",
+    "options": [
+      "気管支喘息",
+      "胸水貯留",
+      "間質性肺炎",
+      "肺動脈血栓塞栓症"
+    ],
+    "answer": 0,
+    "explanation": "呼吸機能検査は、肺胞における空気の出入（換気）、肺毛細血管の血液の流れ（血流）、肺胞と肺毛細血管の間のガス交換（拡散）の機能を評価する。閉塞性換気障害（COPD）の場合、1秒率の低下（空気をいきおいよく吐き出せず、時間がかかる状態）が起こる。1：気管支喘息は、リンパ球を主体とした気道の炎症であり、気道の狭窄と気管支腺の過分泌状態を呈するため、肺機能上閉塞性障害（1秒率低下）をきたす疾患であることから、呼吸機能検査において閉塞性換気障害を示す。2：胸水貯留は、悪性腫瘍（肺がん、乳がんなど）、感染症（結核、肺炎など）、心不全などで起こり、胸部X線検査、CT検査、注射針穿刺などを用いる。3：間質性肺炎は、肺の間質（肺の空気が入る部分である肺胞を除いた部分で、主に肺を支える役割を担っている）を中心に炎症をきたし、肺活量や拡散能検査を用いる。4：肺動脈血栓塞栓症は、主に下肢などの静脈内で血液が凝固して生じた血栓が、肺動脈につまることで起こり、CT検査を用いる。問題9を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_26_048",
+    "subject": "clinical_general",
+    "category": "clinical_test",
+    "sub_category": "生理学的検査",
+    "category_question_number": 11,
+    "round": 26,
+    "round_question_number": 48,
+    "question": "放射線被曝を伴う検査はどれか。",
+    "options": [
+      "筋電図検査",
+      "PET検査",
+      "MRI検査",
+      "サーモグラフィ"
+    ],
+    "answer": 1,
+    "explanation": "2：PET検査とはポジトロン・エミッション・トモグラフィー（Positron Emission Tomography）の略で、陽電子放出核種を含む薬剤を静脈注射し、臓器に取り込まれた際に放出される陽電子（ポジトロン）を検出して画像に描出する検査である。その際に放射線を放出するため、被曝する。その他は放射線被曝を伴わない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_32_043",
+    "subject": "clinical_general",
+    "category": "clinical_test",
+    "sub_category": "生理学的検査",
+    "category_question_number": 12,
+    "round": 32,
+    "round_question_number": 43,
+    "question": "放射線被曝を伴わない検査はどれか。",
+    "options": [
+      "PET検査",
+      "CT検査",
+      "MRI検査",
+      "シンチグラフィ検査"
+    ],
+    "answer": 2,
+    "explanation": "問題11を参照。1：PET検査、2：CT検査、4：シンチグラフィ検査はいずれも放射線被曝を伴う検査であり、MRI検査は磁気共鳴画像として抽出され、放射線被曝がないことが利点である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_28_047",
+    "subject": "clinical_general",
+    "category": "clinical_test",
+    "sub_category": "生理学的検査",
+    "category_question_number": 13,
+    "round": 28,
+    "round_question_number": 47,
+    "question": "排尿障害の検査で初めに行うのはどれか。",
+    "options": [
+      "神経伝導検査",
+      "膀胱内視鏡検査",
+      "腹部超音波検査",
+      "腹部エックス線検査"
+    ],
+    "answer": 2,
+    "explanation": "排尿障害は、排出障害と蓄尿障害に分けられるが、多くの患者は両者を合併している。その原因は、器質性の下部尿路閉塞と機能性の排尿筋の障害に分けられる。3：腹部超音波検査は水腎症や腎・膀胱などの結石、前立腺を含めた部分の腫瘤性病変の有無、前立腺肥大の有無、程度、排尿後の残尿の測定などがわかり有用性が高く、はじめに選択される検査と考えられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_27_053",
+    "subject": "clinical_general",
+    "category": "therapy",
+    "sub_category": "概要",
+    "category_question_number": 1,
+    "round": 27,
+    "round_question_number": 53,
+    "question": "ターミナルケアについて誤っているのはどれか。",
+    "options": [
+      "苦痛の緩和が主体である。",
+      "病気の根治治療が目標である。",
+      "多職種間での協力が重要である。",
+      "QOLの向上を目指す。"
+    ],
+    "answer": 1,
+    "explanation": "ターミナルケアとは病気などで余命わずかとなり、人生の終末期を迎えた方に対する医療・ケアのこと。病気の治療ではなく症状による苦痛や不快感を取り除き、残りの人生を自分らしく過ごしてもらうことを目標としている。したがって、2：病気の根治治療が目標ではなく、誤りである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_32_040",
+    "subject": "clinical_general",
+    "category": "therapy",
+    "sub_category": "食事療法",
+    "category_question_number": 2,
+    "round": 32,
+    "round_question_number": 40,
+    "question": "2型糖尿病患者の食事療法において、1日あたりの適正なエネルギー摂取量の算出に必要なのはどれか。",
+    "options": [
+      "体温",
+      "腹囲",
+      "目標体重",
+      "体表面積"
+    ],
+    "answer": 2,
+    "explanation": "2型糖尿病（中年以降の肥満者に多い）は、遺伝的素因、栄養の過剰摂取、運動不足などの環境因子が加わって発症する。食事療法としては、理想体重×25（高度肥満では20）kcalとなる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_30_045",
+    "subject": "clinical_general",
+    "category": "therapy",
+    "sub_category": "救命処置",
+    "category_question_number": 3,
+    "round": 30,
+    "round_question_number": 45,
+    "question": "一次救命処置で正しいのはどれか。",
+    "options": [
+      "救急薬品を使用する。",
+      "胸骨圧迫を行う。",
+      "人工呼吸器をつける。",
+      "静脈ルートを確保する。"
+    ],
+    "answer": 1,
+    "explanation": "一次救命処置（AHA-BLS）は、医療従事者に限らず、誰でも実施できる救命処置であり、応援要請や通報、医療用具を要さない気道の確保や人工呼吸、2：胸骨圧迫、自動体外式除細動器（AED）の使用を行う。1：救急薬品を使用する、3：人工呼吸器をつける、4：静脈ルートの確保は、医師、看護師、救急救命士などが行う二次救命処置（AHA-ACLS）となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_32_039",
+    "subject": "clinical_general",
+    "category": "therapy",
+    "sub_category": "救命処置",
+    "category_question_number": 4,
+    "round": 32,
+    "round_question_number": 39,
+    "question": "成人に対する一次救命処置において、1分間あたりの胸骨圧迫の回数で適切なのはどれか。",
+    "options": [
+      "40〜60回",
+      "70〜90回",
+      "100〜120回",
+      "130〜150回"
+    ],
+    "answer": 2,
+    "explanation": "成人の胸骨圧迫は、強く（約5cm）、速く（100〜120回/分）、絶え間なく（中断を最小にする）が原則となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_059",
+    "subject": "clinical_general",
+    "category": "no_category",
+    "sub_category": "",
+    "category_question_number": 1,
+    "round": 23,
+    "round_question_number": 59,
+    "question": "甲状腺機能亢進症でよくみられる症状はどれか。",
+    "options": [
+      "体重減少",
+      "発汗量減少",
+      "食欲低下",
+      "記憶力低下"
+    ],
+    "answer": 0,
+    "explanation": "甲状腺機能亢進症は、末梢血中に存在する過剰となった甲状腺ホルモンにより甲状腺中毒症を生ずる病態である。甲状腺中毒症でよくみられる症状は、全身症状として1：体重減少（るいそう）、多汗、暑がり、易疲労感、循環器症状として頻脈、動悸、不整脈、消化器症状として食欲亢進、下痢・軟便などがある。2：発汗量減少、3：食欲低下はみられない。4：記憶力低下は甲状腺中毒症状が強く出現する特殊状態としての甲状腺クリーゼでみられることがあるが、一般的な症状ではない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_23_060",
+    "subject": "clinical_general",
+    "category": "no_category",
+    "sub_category": "",
+    "category_question_number": 2,
+    "round": 23,
+    "round_question_number": 60,
+    "question": "皮膚筋炎でみられるのはどれか。",
+    "options": [
+      "ヘリオトロープ疹",
+      "コプリック斑",
+      "スワンネック変形",
+      "ソーセージ様手指"
+    ],
+    "answer": 0,
+    "explanation": "1：ヘリオトロープ疹は両眼眼瞼に出現する浮腫性で紫色の皮疹で、ゴットロン（Gottron）徴候と共に皮膚筋炎でみられる特徴的な皮膚症状である。2：コプリック斑は麻疹でみられる口腔内の発疹、3：スワンネック変形は関節リウマチでみられる手の変形、4：ソーセージ様手指は全身性硬化症（強皮症）でみられる手の症状であり、すべて皮膚筋炎ではみられない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_29_044",
+    "subject": "clinical_general",
+    "category": "no_category",
+    "sub_category": "",
+    "category_question_number": 3,
+    "round": 29,
+    "round_question_number": 44,
+    "question": "季節性インフルエンザウイルス感染症の特徴で正しいのはどれか。",
+    "options": [
+      "膿性痰を認める。",
+      "潜伏期は1週間前後である。",
+      "感染経路は飛沫感染である。",
+      "ワクチンで感染を防ぐことができる。"
+    ],
+    "answer": 2,
+    "explanation": "インフルエンザウイルスA、B、Cによる呼吸器を主とする感染症。感染症法5類に分類。冬季に流行しやすく、3：飛沫中のウイルスが目、鼻、口から侵入して、上下気道の上皮細胞で増殖し、気道に炎症を起こす。2：潜伏期間は1〜2日で、悪寒、発熱、頭痛、腰痛、倦怠感などの全身症状の後に、咳、喀痰、胸痛などの呼吸器症状が出現する。1：膿性痰は細菌感染によるものが多い。4：ワクチンによる予防は重要であるが、感染を防ぐことはできない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_general_31_048",
+    "subject": "clinical_general",
+    "category": "no_category",
+    "sub_category": "",
+    "category_question_number": 4,
+    "round": 31,
+    "round_question_number": 48,
+    "question": "心身症に含まれる疾患はどれか。",
+    "options": [
+      "うつ病",
+      "統合失調症",
+      "パニック障害",
+      "過敏性腸症候群"
+    ],
+    "answer": 3,
+    "explanation": "心身症とは、ストレスなど心理的な要因により身体各部に症状が現れる疾患の総称であり、神経症やうつ病など、精神障害に伴う身体症状は除外すると定義されている。1：うつ病、2：統合失調症、3：パニック障害はいずれも精神障害となり、4：過敏性腸症候群が心身症に含まれる疾患となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  }
+]
+]
