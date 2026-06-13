@@ -1902,5 +1902,505 @@
     "is_irregular": false,
     "irregular_reason": ""
   },
+    {
+    "id": "clinical_special_28_070",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "腸疾患",
+    "category_question_number": 10,
+    "round": 28,
+    "round_question_number": 70,
+    "question": "潰瘍性大腸炎の特徴で正しいのはどれか。",
+    "options": [
+      "大腸壁の全層に炎症を起こす。",
+      "痔瘻合併の頻度が高い。",
+      "直腸から口側へと病変が連続する。",
+      "回盲部に好発する。"
+    ],
+    "answer": 2,
+    "explanation": "【解説】潰瘍性大腸炎は1：大腸の粘膜層（最内層）に炎症を起こし、下痢や血便、腹痛、発熱、貧血などを呈する。3：病変は直腸から口側に広がる性質があり、大量出血、狭窄、穿孔などの腸管合併症の他、アフタ性口内炎、肝胆道系障害、結節性紅斑などの腸管外合併症も見られる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_069",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "腸疾患",
+    "category_question_number": 11,
+    "round": 30,
+    "round_question_number": 69,
+    "question": "大腸癌について正しいのはどれか。",
+    "options": [
+      "近年減少傾向である。",
+      "便潜血検査は死亡率減少に寄与する。",
+      "大部分が扁平上皮癌である。",
+      "血清CEAが早期診断に役立つ。"
+    ],
+    "answer": 1,
+    "explanation": "【解説】大腸癌は、1：食生活の欧米化（高脂肪、高蛋白、低繊維食）により増加傾向にある。2：早期発見のスクリーニングとして便潜血検査を行う。早期発見、早期治療で死亡率減少に寄与する。3：大部分は腺癌である。4：血清CEAの早期癌での陽性率は低く、進行するにつれて高くなるため、早期診断に役立つとは言えない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_071",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "腸疾患",
+    "category_question_number": 12,
+    "round": 24,
+    "round_question_number": 71,
+    "question": "脱水を起こしやすいのはどれか。",
+    "options": [
+      "腸閉塞",
+      "大腸ポリープ",
+      "胃下垂",
+      "食道憩室"
+    ],
+    "answer": 0,
+    "explanation": "【解説】1：腸閉塞は、食べ物や消化液の流れが小腸や大腸で滞った状態、すなわち内容物が腸に詰まった状態をいう。腸閉塞の種類によっては、頻脈、発熱、脱水、尿量の減少などもみられる。2：大腸ポリープは大腸にできる隆起性の病変をいい、炎症性、過誤腫性、腫瘍性などがあり、多くは腫瘍性である。自覚症状はほとんどないが、大きくなると発生部位により、血便が生じたり、便潜血検査が陽性となる。3：胃下垂は、胃が正常な位置よりも下に垂れ下がった状態をいう。胃アトニーを併発することが多い。症状は腹部膨満感、食後の下腹部の膨隆、食後のむかつき、食欲不振などが挙げられる。4：食道憩室は、粘膜が食道筋層を貫いて外に嚢状に突出したものである。ほとんどは無症状であるが、ツェンカー憩室では、嚥下障害や逆流を引き起こすこともある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_25_069",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "腸疾患",
+    "category_question_number": 13,
+    "round": 25,
+    "round_question_number": 69,
+    "question": "痔瘻を合併しやすいのはどれか。",
+    "options": [
+      "過敏性腸症候群",
+      "急性細菌性腸炎",
+      "潰瘍性大腸炎",
+      "クローン病"
+    ],
+    "answer": 3,
+    "explanation": "【解説】4：クローン病は、口腔から肛門に至る消化管粘膜に炎症や潰瘍が起こり、特に小腸末端部に好発する。若年者に多く、原因は不明である。肛門に病変が起こりやすく、一次病変として肛門潰瘍や裂肛などがあり、二次病変としては痔瘻、肛門周囲膿瘍、皮垂、肛門狭窄などがある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_068",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "腸疾患",
+    "category_question_number": 14,
+    "round": 29,
+    "round_question_number": 68,
+    "question": "ウイルス性肝炎で生の貝類の摂取により最も感染しやすいのはどれか。",
+    "options": [
+      "A型",
+      "B型",
+      "C型",
+      "E型"
+    ],
+    "answer": 0,
+    "explanation": "【解説】1：A型肝炎ウイルス（HAV）はHAVに汚染された飲料水や食物を介して経口的に感染する。我が国では感染源として貝類の生食が多い。2：B型肝炎ウイルスの感染経路は輸血、針刺し事故、出産時産道感染、性交感染などである。3：C型肝炎ウイルスの感染経路は主に輸血などの血液感染である。4：E型肝炎ウイルスの感染経路は経口感染で、国内ではブタ、シカ、イノシシなどの生肉摂取による感染がある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_069",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "腸疾患",
+    "category_question_number": 15,
+    "round": 29,
+    "round_question_number": 69,
+    "question": "非代償性肝硬変でみられる血液検査所見はどれか。",
+    "options": [
+      "総ビリルビン値低下",
+      "血小板減少",
+      "プロトロンビン時間短縮",
+      "アルブミン値上昇"
+    ],
+    "answer": 1,
+    "explanation": "【解説】非代償性肝硬変は肝機能低下が生じ、その結果、黄疸（1：総ビリルビン値上昇）、浮腫（4：アルブミン値低下）、腹水、胸水、肝性脳症、出血傾向（2：血小板減少、3：プロトロンビン時間延長）などの身体所見が出現する病態である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_057",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "肝臓疾患",
+    "category_question_number": 16,
+    "round": 24,
+    "round_question_number": 57,
+    "question": "急性ウイルス性肝炎で正しいのはどれか。",
+    "options": [
+      "A型肝炎では発熱がよくみられる。",
+      "B型肝炎では垂直感染はみられない。",
+      "C型肝炎では劇症化することが多い。",
+      "E型肝炎では生鮮魚介類摂取が原因となることが多い。"
+    ],
+    "answer": 0,
+    "explanation": "【解説】ウイルス肝炎にはA型、B型、C型、D型、E型肝炎があり、それぞれ、A型、B型、C型、D型、E型肝炎ウイルスによって起こる。これらの肝炎ウイルスのうち、A型、B型、C型、E型肝炎ウイルスが急性肝炎を引き起こす。1：A型急性肝炎は、成人では一般的に、急激な38度以上の発熱で始まり、続いて黄疸、食欲不振、倦怠感、吐き気などの急性肝炎症状が発現する。慢性化することはない。\n2：B型急性肝炎の症状としては食欲不振、悪心・嘔吐、右上腹部痛、上腹部膨満感が出現する。感染経路は、性行為や医療行為が多い。垂直感染とは、病原体が親から直接その子孫へと伝搬される感染様式である。3：C型急性肝炎もB型急性肝炎と同様の症状が出現することがあるが、A型急性肝炎やB型急性肝炎に比べて症状が軽いため、大多数の人では自覚症状がない。また、慢性肝炎へ移行することも多い。4：E型肝炎は上下水道が未整備な地域で散発的に、あるいは飲料水を介して集団発生する。生鮮魚介類の摂取が原因となるのは、A型肝炎である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_071",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "肝臓疾患",
+    "category_question_number": 17,
+    "round": 27,
+    "round_question_number": 71,
+    "question": "肝炎の感染経路で正しいのはどれか。",
+    "options": [
+      "A型肝炎は血液で感染する。",
+      "B型肝炎は性行為で感染する。",
+      "C型肝炎は生鮮魚介類の摂取で感染する。",
+      "E型肝炎は母子感染する。"
+    ],
+    "answer": 1,
+    "explanation": "【解説】1：A型肝炎ウイルスは、糞口感染（経口感染）で感染する。2：B型肝炎ウイルスは、血液・体液を介して感染する。つまり、性行為によっても感染する。経路としては垂直感染（母子感染）と水平感染がある。3：C型肝炎ウイルスは、血液を介して感染する。4：E型肝炎ウイルスは糞便に汚染された飲食物からの経口感染・水系感染が主体となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_071",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "肝臓疾患",
+    "category_question_number": 18,
+    "round": 28,
+    "round_question_number": 71,
+    "question": "ウイルス性肝炎と感染経路の組合せで正しいのはどれか。",
+    "options": [
+      "A型 ― 血液への暴露",
+      "B型 ― 性行為",
+      "C型 ― 獣肉摂取",
+      "E型 ― 生鮮魚介類摂取"
+    ],
+    "answer": 1,
+    "explanation": "【解説】1：A型－生鮮魚介類摂取、2：B型－性行為、血液への暴露、3：C型－血液への暴露、性行為、4：E型－獣肉摂取、が組み合わせとして正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_075",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "肝臓疾患",
+    "category_question_number": 19,
+    "round": 28,
+    "round_question_number": 75,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「35歳の女性看護師。皮膚の黄染、全身倦怠感にて受診。針刺しの既往がある。肝炎ウイルスマーカーでは、HCV抗体陽性、HCV-RNA陽性で、他は陰性であった。」\n\n本疾患について正しいのはどれか。",
+    "options": [
+      "生ガキの摂取で起こる。",
+      "慢性化の頻度が高い。",
+      "劇症肝炎へ進展しやすい。",
+      "ワクチン予防が可能である。"
+    ],
+    "answer": 1,
+    "explanation": "【解説】症例は針刺しの既往があり、黄疸、全身倦怠感の症状を呈し、HCV抗体陽性、HCV-RNA陽性であることからC型肝炎を示唆しており、本症は1：血液への暴露や性交渉が感染経路であり、2：慢性化の頻度が高く、肝炎を引き起こし、3：肝硬変や肝癌に移行しやすいが、4：有効なワクチンは未だ実用化されていない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_28_076",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "肝臓疾患",
+    "category_question_number": 20,
+    "round": 28,
+    "round_question_number": 76,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「35歳の女性看護師。皮膚の黄染、全身倦怠感にて受診。針刺しの既往がある。肝炎ウイルスマーカーでは、HCV抗体陽性、HCV-RNA陽性で、他は陰性であった。」\n\n本疾患に合併する悪性腫瘍で上昇する腫瘍マーカーはどれか。",
+    "options": [
+      "CA125",
+      "SCC",
+      "CEA",
+      "AFP"
+    ],
+    "answer": 3,
+    "explanation": "【解説】1：CA125は卵巣癌の他、子宮筋腫や卵巣嚢腫、子宮内膜症、子宮筋腫などで上昇する。2：SCCは子宮頸癌、肺癌、食道癌など、多くの扁平上皮癌で高値を示す。3：CEAは大腸癌や膵癌、胆管癌、肺癌などで上昇、4：AFPは急性・慢性肝炎の他、劇症肝炎や肝硬変、肝癌などで高値を示す。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_079",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "肝臓疾患",
+    "category_question_number": 21,
+    "round": 24,
+    "round_question_number": 79,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「50歳の男性。大酒家である。軽度の意識障害で受診した。眼球の黄染、胸部のクモ状血管拡張と著明な腹水がみられた。また、上肢の不規則な運動が認められた。」\n\n本症例でみられる上肢の所見はどれか。",
+    "options": [
+      "けいれん",
+      "バリスム",
+      "アテトーゼ",
+      "振戦"
+    ],
+    "answer": 3,
+    "explanation": "【解説】症状、所見から、肝硬変が疑われ、黄疸、腹水、肝性脳症などの症状が出現していることから、非代償性肝硬変と考えられる。本症例における上肢症状は、肝性脳症による4：羽ばたき振戦と考えられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_24_080",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "肝臓疾患",
+    "category_question_number": 22,
+    "round": 24,
+    "round_question_number": 80,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「50歳の男性。大酒家である。軽度の意識障害で受診した。眼球の黄染、胸部のクモ状血管拡張と著明な腹水がみられた。また、上肢の不規則な運動が認められた。」\n\n本疾患でよくみられる合併症はどれか。",
+    "options": [
+      "大動脈瘤",
+      "食道静脈瘤",
+      "マロリー・ワイス症候群",
+      "大腸憩室炎"
+    ],
+    "answer": 1,
+    "explanation": "【解説】肝硬変の合併症としては、腹水、2：食道静脈瘤、肝性脳症、肝細胞癌が挙げられる。肝硬変あるいは慢性肝炎では、門脈圧が上昇することによって、食道の粘膜下層の静脈が太くなり、食道静脈瘤となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_063",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "肝臓疾患",
+    "category_question_number": 23,
+    "round": 26,
+    "round_question_number": 63,
+    "question": "脂肪肝に関係ないのはどれか。",
+    "options": [
+      "肥満",
+      "糖尿病",
+      "肝硬変",
+      "胆嚢ポリープ"
+    ],
+    "answer": 3,
+    "explanation": "【解説】肝細胞に中性脂肪が蓄積し、全肝細胞の30%以上が脂肪化している状態を脂肪肝という。脂肪肝は、過度なアルコール摂取によるアルコール性脂肪肝と、1：肥満、2：糖尿病、薬剤などが原因の非アルコール性脂肪肝に大別される。自覚症状はほとんどなく、脂肪性肝炎→3：肝硬変→肝癌へと進行する危険がある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_070",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "肝臓疾患",
+    "category_question_number": 24,
+    "round": 30,
+    "round_question_number": 70,
+    "question": "ウイルス性肝炎と感染経路の組合せで正しいのはどれか。",
+    "options": [
+      "A型 ― 性行為",
+      "B型 ― 獣肉摂取",
+      "C型 ― 血液への曝露",
+      "E型 ― 生鮮魚介類の摂取"
+    ],
+    "answer": 2,
+    "explanation": "【解説】1：A型肝炎は生ガキなどの生鮮魚介類の摂取による経口感染、2：B型肝炎は性行為・血液感染・母子感染、3：C型肝炎は血液感染、4：E型肝炎は獣肉の摂取による経口感染である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_31_069",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "肝臓疾患",
+    "category_question_number": 25,
+    "round": 31,
+    "round_question_number": 69,
+    "question": "疾患と症状の組合せで正しいのはどれか。",
+    "options": [
+      "過敏性腸症候群 ― 血便",
+      "急性胆嚢炎 ― 左季肋部痛",
+      "慢性膵炎 ― 便秘",
+      "肝硬変 ― 女性化乳房"
+    ],
+    "answer": 3,
+    "explanation": "【解説】1：過敏性腸症候群では便通異常（便性状と回数の変化）はみられるものの、血便はみられない。2：急性胆嚢炎では右季肋部痛がみられる。3：慢性膵炎では下痢や脂肪便がみられる。4：肝硬変では女性化乳房がみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_066",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "肝臓疾患",
+    "category_question_number": 26,
+    "round": 32,
+    "round_question_number": 66,
+    "question": "ウイルス性肝炎と感染経路の組合せで正しいのはどれか。",
+    "options": [
+      "A型肝炎 ― 感染血液への曝露",
+      "B型肝炎 ― 分娩時の垂直感染",
+      "C型肝炎 ― 獣肉の生食",
+      "E型肝炎 ― 生鮮魚介類の摂取"
+    ],
+    "answer": 1,
+    "explanation": "【解説】問題18の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_27_070",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "膵臓疾患",
+    "category_question_number": 27,
+    "round": 27,
+    "round_question_number": 70,
+    "question": "急性膵炎の原因で最も多いのはどれか。",
+    "options": [
+      "胆石",
+      "アルコール多飲",
+      "脂質異常症",
+      "膵癌"
+    ],
+    "answer": 1,
+    "explanation": "【解説】急性膵炎とは、膵液に含まれる消化酵素に膵臓自体が消化されることにより、膵臓や関連する器官に急性炎症を引き起こした状態をいう。急性膵炎の原因として最も多いのは2：アルコールの多飲であり、次いで多いのは、十二指腸乳頭に1：胆石が詰まって起こる胆石性膵炎である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_29_070",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "膵臓疾患",
+    "category_question_number": 28,
+    "round": 29,
+    "round_question_number": 70,
+    "question": "膵癌のリスクファクターでないのはどれか。",
+    "options": [
+      "糖尿病",
+      "慢性膵炎",
+      "喫煙",
+      "高血圧"
+    ],
+    "answer": 3,
+    "explanation": "【解説】膵臓がんのリスクファクターとしては、1：糖尿病、2：慢性膵炎、3：喫煙、高脂肪食、胆道疾患などが挙げられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_066",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "膵臓疾患",
+    "category_question_number": 29,
+    "round": 30,
+    "round_question_number": 66,
+    "question": "急性膵炎で最も多いのはどれか。",
+    "options": [
+      "アルコール性膵炎",
+      "自己免疫性膵炎",
+      "胆石性膵炎",
+      "薬剤性膵炎"
+    ],
+    "answer": 0,
+    "explanation": "【解説】急性膵炎の成因はアルコール摂取が最も多く、次いで胆石、特発性、その他である。アルコールの大量摂取に起因する1：アルコール性膵炎が最も多い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_087",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "膵臓疾患",
+    "category_question_number": 30,
+    "round": 30,
+    "round_question_number": 87,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「55歳の女性。2か月前から背部の鈍痛が続いていたが放置していた。発熱はないが、食欲不振、体重減少、倦怠感がある。」\n\n最も疑われる疾患はどれか。",
+    "options": [
+      "子宮筋腫",
+      "尿路結石",
+      "腎盂腎炎",
+      "膵臓癌"
+    ],
+    "answer": 3,
+    "explanation": "【解説】1：子宮筋腫では症例にある症状はいずれもみられない。2：尿路結石は腰背部痛がみられるが、その他症例にある症状はみられない。3：腎盂腎炎は発熱や腰背部痛がみられるが、その他症例にある症状はみられない。4：黄疸、上腹部痛や腰背部痛、体重減少が膵癌の主な症状であり、食欲不振、下痢、便秘、全身倦怠感、悪心嘔吐などもみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_30_088",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "膵臓疾患",
+    "category_question_number": 31,
+    "round": 30,
+    "round_question_number": 88,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「55歳の女性。2か月前から背部の鈍痛が続いていたが放置していた。発熱はないが、食欲不振、体重減少、倦怠感がある。」\n\n行うべき検査で最も適切なのはどれか。",
+    "options": [
+      "腹部超音波検査",
+      "尿沈渣",
+      "血液像（白血球分画）",
+      "腹部エックス線検査"
+    ],
+    "answer": 0,
+    "explanation": "【解説】膵癌の検査には1：腹部超音波検査、腹部造影CT検査、核磁気共鳴胆管膵管撮影（MRCP）、内視鏡的逆行性胆管膵管造影（ERCP）が行われる。膵癌では2：尿沈渣や3：白血球分画で異常がみられることは稀である。4：エックス線検査では軟部組織の描写は困難である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_32_067",
+    "subject": "clinical_special",
+    "category": "digestive_disease",
+    "sub_category": "膵臓疾患",
+    "category_question_number": 32,
+    "round": 32,
+    "round_question_number": 67,
+    "question": "膵癌のリスクファクターとして正しいのはどれか。",
+    "options": [
+      "高血圧症",
+      "脂質異常症",
+      "高尿酸血症",
+      "糖尿病"
+    ],
+    "answer": 3,
+    "explanation": "【解説】問題28の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_075",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "糸球体疾患",
+    "category_question_number": 1,
+    "round": 26,
+    "round_question_number": 75,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「50歳の男性。主訴は下肢の浮腫。血液検査は総蛋白5.2g/dL、アルブミン2.5g/dL、総コレステロール280mg/dL。尿検査は尿糖3+、尿蛋白4+であった。」\n\n下肢浮腫の触診部位で最も適切なのはどれか。",
+    "options": [
+      "脛骨前面",
+      "内果",
+      "外果",
+      "アキレス腱"
+    ],
+    "answer": 0,
+    "explanation": "【解説】本症例は浮腫、蛋白尿、低蛋白血症、低アルブミン血症、高脂血症の所見を認めることから、ネフローゼ症候群が疑われる。腎疾患による一次性ネフローゼ症候群と、全身疾患に伴う二次性ネフローゼ症候群に大別される。下肢浮腫の触診部位としては、1：脛骨前面が適切である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "clinical_special_26_076",
+    "subject": "clinical_special",
+    "category": "renal_urological_reproductive",
+    "sub_category": "糸球体疾患",
+    "category_question_number": 2,
+    "round": 26,
+    "round_question_number": 76,
+    "question": "次の文で示す症例について、下記の2問に答えよ。\n「50歳の男性。主訴は下肢の浮腫。血液検査は総蛋白5.2g/dL、アルブミン2.5g/dL、総コレステロール280mg/dL。尿検査は尿糖3+、尿蛋白4+であった。」\n\n本症例でみられる浮腫の主な原因はどれか。",
+    "options": [
+      "静水圧の上昇",
+      "血漿膠質浸透圧の低下",
+      "血管透過性亢進",
+      "リンパ液のうっ滞"
+    ],
+    "answer": 1,
+    "explanation": "【解説】ネフローゼ症候群では、低蛋白血症に伴う2：血漿膠質浸透圧の低下により、浮腫、循環血漿量の減少、尿量低下をきたしやすい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  }
   
 ]
