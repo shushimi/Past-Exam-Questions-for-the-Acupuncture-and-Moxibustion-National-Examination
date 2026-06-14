@@ -740,26 +740,6 @@
     "irregular_reason": ""
   },
   {
-    "id": "hygiene_26_011",
-    "subject": "hygiene",
-    "category": "disinfection",
-    "sub_category": "消毒の種類と方法",
-    "category_question_number": 1,
-    "round": 26,
-    "round_question_number": 11,
-    "question": "滅菌に用いられるのはどれか。",
-    "options": [
-      "アルコール",
-      "塩素ガス",
-      "高圧蒸気",
-      "紫外線"
-    ],
-    "answer": 2,
-    "explanation": "滅菌とは、病原性の有無にかかわらず、対象物に存在するすべての微生物を死滅または除去することをいう。物理的滅菌法に乾熱滅菌法、3：高圧蒸気滅菌法（オートクレーブ）、ガンマ線滅菌法など、化学的滅菌法にエチレンオキサイドガス（EOG）滅菌法、過酸化水素ガスプラズマ滅菌法などがある。4：紫外線は物質透過性が小さく照射表面しか殺菌できないため、一般には滅菌に用いられない。1：アルコールや2：塩素ガスは消毒に用いられる。",
-    "is_irregular": false,
-    "irregular_reason": ""
-  },
-  {
     "id": "oriental_clinical_28_123",
     "subject": "oriental_clinical",
     "category": "oriental_clinical_basis",
