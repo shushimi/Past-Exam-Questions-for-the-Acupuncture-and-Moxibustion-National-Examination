@@ -1405,5 +1405,614 @@
     "is_irregular": false,
     "irregular_reason": ""
   },
-  
+  {
+    "id": "moxibustion_32_177",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "灸刺激と反射",
+    "category_question_number": 23,
+    "round": 32,
+    "round_question_number": 177,
+    "question": "施灸による交感神経活動の亢進反応はどれか。",
+    "options": [
+      "血圧上昇",
+      "皮膚血管拡張",
+      "瞳孔括約筋収縮",
+      "気管支平滑筋収縮"
+    ],
+    "answer": 0,
+    "explanation": "【解説】施灸時には血圧上昇がみられる。1：血圧上昇は交感神経の亢進による。\n2：皮膚血管は交感神経単独支配であり、拡張は交感神経の抑制による。\n3：瞳孔括約筋収縮と4：気管支平滑筋収縮は副交感神経の作用である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_32_178",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "灸刺激と反射",
+    "category_question_number": 24,
+    "round": 32,
+    "round_question_number": 178,
+    "question": "施灸により胃運動亢進をきたす反射の遠心路を構成するのはどれか。",
+    "options": [
+      "Aα線維とAγ線維",
+      "Aβ線維とB線維",
+      "Aδ線維とC線維",
+      "B線維とC線維"
+    ],
+    "answer": 3,
+    "explanation": "【解説】施灸による消化管活動への影響は、体性－自律神経反射であり、遠心路は節前線維がB線維、節後線維はC線維である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_25_159",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "血流改善",
+    "category_question_number": 25,
+    "round": 25,
+    "round_question_number": 159,
+    "question": "透熱灸の施灸局所に起こる反応で正しいのはどれか。",
+    "options": [
+      "痛覚過敏はセロトニンにより起こる。",
+      "痒みはノルアドレナリンの作用による。",
+      "フレアは脊髄反射により起こる。",
+      "局所膨隆は血漿漏出により起こる。"
+    ],
+    "answer": [
+      0,
+      3
+    ],
+    "explanation": "【解説】1：痛覚過敏は、組織が損傷したことで損傷部から放出されるセロトニン、プロスタグランジン、ブラジキニンなどによって知覚神経が感作されたことにより起こる。2：痒みはヒスタミンの作用による。透熱灸の施灸局所により起こる反応の3：フレアは軸索反射により起こる。軸索反射によって神経末端から分泌されるサブスタンスPやCGRPなどの神経ペプチドは血管に作用し、4：血管透過性が亢進され、血漿成分が血管外に漏出することで局所膨隆がみられる。したがって、本問は解答が2つあることになる。",
+    "is_irregular": true,
+    "irregular_reason": "複数正解（1, 4）のため"
+  },
+  {
+    "id": "moxibustion_23_157",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "血流改善",
+    "category_question_number": 26,
+    "round": 23,
+    "round_question_number": 157,
+    "question": "施灸により局所の鎮痛に作用するのはどれか。",
+    "options": [
+      "交感神経活動の亢進",
+      "ストレス蛋白質の産生",
+      "皮膚血流の増加",
+      "筋収縮"
+    ],
+    "answer": 2,
+    "explanation": "【解説】1：交感神経活動の亢進は皮膚や筋血管の収縮を引き起こす。2：ストレス蛋白質はストレスを受けた細胞のストレス耐性を高める（例：熱刺激）。3：皮膚血流の増加は、発痛物質の洗い流しを促進する可能性がある。4：筋収縮は筋循環を阻害する。選択肢の中で可能性があるのは皮膚血流の増加である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_31_177",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "血流改善",
+    "category_question_number": 27,
+    "round": 31,
+    "round_question_number": 177,
+    "question": "血管に対し収縮性に作用する物質はどれか。",
+    "options": [
+      "NO",
+      "CGRP",
+      "アデノシン",
+      "ノルアドレナリン"
+    ],
+    "answer": 3,
+    "explanation": "【解説】ノルアドレナリンが血管平滑筋のα受容体に作用すると、血管収縮となる。\nNO、CGRP、アデノシンは血管拡張物質である。CGRPやアデノシンが血管のそれぞれの受容体に結合すると血管内皮でNOが合成され、血管平滑筋を弛緩させ、血管拡張となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_23_160",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 28,
+    "round": 23,
+    "round_question_number": 160,
+    "question": "透熱灸により好中球の遊走性を最も高めるのはどれか。",
+    "options": [
+      "ロイコトリエンB4",
+      "ブラジキニン",
+      "プロスタグランジンE2",
+      "ヒスタミン"
+    ],
+    "answer": 0,
+    "explanation": "【解説】1：ロイコトリエンはプロスタグランジンと同様に細胞膜のアラキドン酸から産生される生理活性物質であり、炎症反応で重要な役割を演じる。なかでもロイコトリエンB4は、好中球（白血球の一つ）に走化性（遊走性）を与える。2：ブラジキニンは生体内で産生される強力な発痛物質であり、3：プロスタグランジンE2は血管拡張物質、4：ヒスタミンは肥満細胞から放出される血管透過性亢進物質である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_28_160",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 29,
+    "round": 28,
+    "round_question_number": 160,
+    "question": "施灸後早期に貪食能の活性が亢進すると考えられるのはどれか。",
+    "options": [
+      "T細胞",
+      "好中球",
+      "線維芽細胞",
+      "マクロファージ"
+    ],
+    "answer": 1,
+    "explanation": "【解説】施灸後早期に貪食能の活性が亢進するのは2：好中球、施灸5日後ではマクロファージの貪食能の活性が亢進する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_29_180",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 30,
+    "round": 29,
+    "round_question_number": 180,
+    "question": "1回の透熱灸による生体反応で正しいのはどれか。",
+    "options": [
+      "血管透過性の抑制",
+      "補体の活性化",
+      "肥満細胞の脱顆粒抑制",
+      "血液凝固時間の延長"
+    ],
+    "answer": 1,
+    "explanation": "【解説】1回の透熱灸による生体反応は血管透過性の亢進、補体の活性化、肥満細胞の脱顆粒促進、血液凝固時間の短縮である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_24_159",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 31,
+    "round": 24,
+    "round_question_number": 159,
+    "question": "ブラジキニンの発痛作用を増強させるのはどれか。",
+    "options": [
+      "CGRP",
+      "エンケファリン",
+      "サブスタンスP",
+      "プロスタグランジン"
+    ],
+    "answer": 3,
+    "explanation": "【解説】4：プロスタグランジン（総称名）にはブラジキニンの発痛作用を増強するものがある。1：CGRPは軸索反射において血管拡張物質として作用する。2：エンケファリンはモルヒネ様物質で内因性鎮痛物質の一つ。3：サブスタンスPは軸索反射において血管透過性亢進物質として、また、脊髄後角においては痛覚情報の神経伝達物質として作用する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_28_157",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 32,
+    "round": 28,
+    "round_question_number": 157,
+    "question": "透熱灸の施灸局所で発痛を増強するのはどれか。",
+    "options": [
+      "ヒスタミン",
+      "ブラジキニン",
+      "CGRP",
+      "プロスタグランジン"
+    ],
+    "answer": [
+      0,
+      3
+    ],
+    "explanation": "【解説】4：プロスタグランジンは、ブラジキニンによる発痛作用を著しく亢進させる。1：ヒスタミンは痒みや疼痛を起こす一方で、発痛を増強する作用もある。問題28、31、33の解説参照。",
+    "is_irregular": true,
+    "irregular_reason": "複数正解（1, 4）のため"
+  },
+  {
+    "id": "moxibustion_27_157",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 33,
+    "round": 27,
+    "round_question_number": 157,
+    "question": "透熱灸施灸により生成されるアラキドン酸代謝産物はどれか。",
+    "options": [
+      "プロスタグランジン",
+      "サブスタンスP",
+      "CGRP",
+      "ヒスタミン"
+    ],
+    "answer": 0,
+    "explanation": "【解説】透熱灸施灸によって生成されるアラキドン酸代謝産物は、1：プロスタグランジンである。問題28、31の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_30_178",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 34,
+    "round": 30,
+    "round_question_number": 178,
+    "question": "施灸時の組織傷害によって放出されるアラキドン酸代謝産物はどれか。",
+    "options": [
+      "ロイコトリエン",
+      "セロトニン",
+      "CGRP",
+      "ヒスタミン"
+    ],
+    "answer": 0,
+    "explanation": "【解説】問題28、33の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_27_158",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 35,
+    "round": 27,
+    "round_question_number": 158,
+    "question": "透熱灸による局所炎症反応で正しいのはどれか。",
+    "options": [
+      "皮膚血流量減少",
+      "血管透過性抑制",
+      "血小板凝集能亢進",
+      "マスト細胞活性抑制"
+    ],
+    "answer": 2,
+    "explanation": "【解説】透熱灸による局所炎症反応で正しいのは、3：血小板凝集能亢進である。透熱灸により皮膚血流量は増加、血管透過性は亢進、マスト細胞活性は亢進する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_30_179",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 36,
+    "round": 30,
+    "round_question_number": 179,
+    "question": "透熱灸による局所炎症反応で最も早期の反応はどれか。",
+    "options": [
+      "好中球の活性化",
+      "血管透過性の亢進",
+      "リンパ球の浸潤",
+      "マクロファージの活性化"
+    ],
+    "answer": 1,
+    "explanation": "【解説】透熱灸による局所炎症反応は、血管拡張と血流増加、血管透過性の亢進に伴う血漿成分の血管外への漏出、白血球（好中球）の血管外へ遊走の順で起こる。問題25、27の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_32_179",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 37,
+    "round": 32,
+    "round_question_number": 179,
+    "question": "透熱灸による急性炎症反応で最も遅く出現するのはどれか。",
+    "options": [
+      "ブラジキニンの放出",
+      "セロトニンの放出",
+      "補体の滲出",
+      "膠原線維の産生"
+    ],
+    "answer": 3,
+    "explanation": "【解説】透熱灸による侵害熱刺激で局所炎症となり、ブラジキニンやセロトニンなどの発痛物質が産生される。また好中球増加や補体の活動が亢進するなど、免疫細胞の活性化がみられる。これらは施灸後短時間にみられる。\n一方、透熱灸により微小な熱傷となり、灸痕となるのは、膠原線維が増加し瘢痕組織として残るためであり、皮膚の修復過程で起きるので4が最も遅い。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_31_180",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 38,
+    "round": 31,
+    "round_question_number": 180,
+    "question": "灸施術による局所炎症反応に最も関与するのはどれか。",
+    "options": [
+      "ルフィニ終末興奮",
+      "Ⅰb線維興奮",
+      "インターロイキン6産生",
+      "カプサイシン産生"
+    ],
+    "answer": 2,
+    "explanation": "【解説】灸による局所炎症においては、インターフェロンγ、インターロイキン1、インターロイキン6など、さまざまなサイトカインが産生される。マクロファージ、樹状細胞などがサイトカインを産生し、免疫細胞の分化誘導などを行い、免疫の調節に関わる。よって正解は3である。\n1：ルフィニ終末は真皮にある圧受容器であり、関節など深部においては固有受容器としても働く。2：Ⅰb線維はゴルジ腱器官につき、腱の伸展情報を伝える。4：カプサイシンは唐辛子の成分で、外因性発痛物質でもある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_32_180",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 39,
+    "round": 32,
+    "round_question_number": 180,
+    "question": "温熱ストレスにより抗炎症性に働くのはどれか。",
+    "options": [
+      "コルチゾール",
+      "プロスタグランジン",
+      "インターロイキン6（IL-6）",
+      "ヒスタミン"
+    ],
+    "answer": 0,
+    "explanation": "【解説】副腎皮質ホルモンである糖質コルチコイド（主に1：コルチゾール）は強い抗炎症作用、免疫抑制作用をもつ。\n2：プロスタグランジン、3：インターロイキン、4：ヒスタミンは炎症物質である。インターロイキンはサイトカインの一種で、サイトカインは主に免疫細胞間の情報伝達を担う働きをもつ。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_26_158",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 40,
+    "round": 26,
+    "round_question_number": 158,
+    "question": "透熱灸によるヒスタミンの分泌に直接関与するのはどれか。",
+    "options": [
+      "好中球",
+      "形質細胞",
+      "肥満細胞",
+      "マクロファージ"
+    ],
+    "answer": 2,
+    "explanation": "【解説】3：肥満細胞は細胞質内にヒスタミン顆粒を含有しており、IgE抗体などにより刺激され脱顆粒を起こし、ヒスタミンを分泌する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_31_178",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 41,
+    "round": 31,
+    "round_question_number": 178,
+    "question": "施灸刺激の早期より肥満細胞から放出されるのはどれか。",
+    "options": [
+      "IgE",
+      "補体",
+      "ヒスタミン",
+      "アドレナリン"
+    ],
+    "answer": 2,
+    "explanation": "【解説】灸刺激によって局所炎症となり、さまざまな炎症物質が放出される。ヒスタミンは肥満細胞から放出される発痛物質である。問題40を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_26_159",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 42,
+    "round": 26,
+    "round_question_number": 159,
+    "question": "施灸によりアラキドン酸から産生される物質が引き起こす作用はどれか。",
+    "options": [
+      "血管を収縮する。",
+      "心拍数を減少する。",
+      "血栓の発生を防止する。",
+      "発痛物質の作用を増強する。"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "【解説】アラキドン酸は、細胞膜のリン脂質から生成され、これを基質としてエイコサノイドが産生される。本問の「アラキドン酸から産生される物質」はエイコサノイドのことであり、プロスタグランジン、トロンボキサン、ロイコトリエンがそれに当たる。\nこれらエイコサノイドは多彩な生理活性を持つ。プロスタグランジンは血小板の活性化を阻害することにより、3：血栓の発生予防や1：血管拡張作用、毛細血管の透過性の亢進、4：ブラジキニンの発痛作用の増強など、トロンボキサンは血管収縮作用など、ロイコトリエンは白血球に対する遊走作用を持つ。",
+    "is_irregular": true,
+    "irregular_reason": "複数正解（1, 3, 4）のため"
+  },
+  {
+    "id": "moxibustion_28_158",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 43,
+    "round": 28,
+    "round_question_number": 158,
+    "question": "施灸局所の肥満細胞から放出される血管透過性亢進物質はどれか。",
+    "options": [
+      "IgE",
+      "補体",
+      "ヒスタミン",
+      "ブラジキニン"
+    ],
+    "answer": 2,
+    "explanation": "【解説】問題28、40の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_26_160",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 44,
+    "round": 26,
+    "round_question_number": 160,
+    "question": "透熱灸刺激では起こらない鎮痛機序はどれか。",
+    "options": [
+      "下行性痛覚抑制系",
+      "広汎性侵害抑制調節",
+      "ゲートコントロール説に基づく鎮痛系",
+      "血流改善による発痛物質の洗い流しに基づく鎮痛"
+    ],
+    "answer": 2,
+    "explanation": "【解説】3：ゲートコントロール説とは、触・圧刺激を伝える太い神経線維（Aβ線維）からの入力が痛みを伝える細い神経線維（C線維）からの入力を抑制するというものである。つまり、痛いところを擦ると痛みが緩和されるメカニズムに当たる。透熱灸刺激は触・圧刺激ではないので、ゲートコントロール説に基づく鎮痛系を賦活しない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_28_159",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "その他",
+    "category_question_number": 45,
+    "round": 28,
+    "round_question_number": 159,
+    "question": "広汎性侵害抑制性調節（DNIC）が最も関与するのはどれか。",
+    "options": [
+      "合谷に透熱灸を行い歯痛が緩和した。",
+      "足三里に七分灸を行い胃痛が緩和した。",
+      "大腸兪にショウガ灸を行い腰痛が改善した。",
+      "梁丘に温筒灸を行い膝痛が改善した。"
+    ],
+    "answer": 0,
+    "explanation": "【解説】1：合谷への透熱灸で歯痛が緩和したのは、広汎性侵害抑制調節が関与している。2：足三里への七分灸による胃痛の緩和は、上脊髄性の自律神経反射が関与する。3、4は、軸索反射による施灸局所の血流増加が関与している。「C. 灸刺激と反射」問題18（p.465）の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_23_158",
+    "subject": "moxibustion",
+    "category": "灸療法の治効理論",
+    "sub_category": "治療的作用",
+    "category_question_number": 1,
+    "round": 23,
+    "round_question_number": 158,
+    "question": "次の文について、問いに答えよ。\n「45歳の女性。両下腿に冷えを訴えて来院。愁訴を改善する目的で、両側の三陰交に半米粒大の透熱灸5壮の施術を行った。」\n目的とした治療的作用はどれか。",
+    "options": [
+      "防衛作用",
+      "矯正作用",
+      "鎮静作用",
+      "誘導作用"
+    ],
+    "answer": 3,
+    "explanation": "1：防衛作用は、生体の防御能を高める作用（主として灸）を指し、2：矯正作用は、関節の機能回復（例：関節可動域の改善）に関する作用（あん摩マッサージ指圧の治療的作用）、3：鎮静作用は、生体の機能亢進を抑制する作用、4：誘導作用は、循環調節に関する作用を指す。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_24_160",
+    "subject": "moxibustion",
+    "category": "灸療法の治効理論",
+    "sub_category": "治療的作用",
+    "category_question_number": 2,
+    "round": 24,
+    "round_question_number": 160,
+    "question": "虚弱体質を改善する灸の作用はどれか。",
+    "options": [
+      "防衛作用",
+      "免疫作用",
+      "調整作用",
+      "転調作用"
+    ],
+    "answer": 3,
+    "explanation": "虚弱という表現は幅が広く、すべての選択肢が正解となりえるが、体質の改善に焦点を当てるのであれば4：転調作用が正解となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_27_159",
+    "subject": "moxibustion",
+    "category": "灸療法の治効理論",
+    "sub_category": "治療的作用",
+    "category_question_number": 3,
+    "round": 27,
+    "round_question_number": 159,
+    "question": "手足の冷えを改善する灸の治療的作用はどれか。",
+    "options": [
+      "鎮静作用",
+      "防衛作用",
+      "誘導作用",
+      "矯正作用"
+    ],
+    "answer": 2,
+    "explanation": "冷えている部位に血流を導き、冷えを改善するのは3：誘導作用である。問題1の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_31_179",
+    "subject": "moxibustion",
+    "category": "灸療法の治効理論",
+    "sub_category": "治療的作用",
+    "category_question_number": 4,
+    "round": 31,
+    "round_question_number": 179,
+    "question": "灸療法の治療的作用において、細網内皮系の機能亢進に関与するのはどれか。",
+    "options": [
+      "調整作用",
+      "鎮痛作用",
+      "転調作用",
+      "防衛作用"
+    ],
+    "answer": 3,
+    "explanation": "防衛作用は、細網内皮系機能の強化により生体の防衛機能を高めるものである。\n細網内皮系（網内系）は、リンパ節のリンパ洞、脾洞、肝臓の類洞（クッパー細胞が常在する）などで、貪食能を有する場所であり、生体防御の役割をもつ。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_25_160",
+    "subject": "moxibustion",
+    "category": "関連学説",
+    "sub_category": "ホメオスタシス",
+    "category_question_number": 1,
+    "round": 25,
+    "round_question_number": 160,
+    "question": "「生体の内部環境は適当な制御機構が働いて、ほぼ一定に維持されている」と定義されるのはどれか。",
+    "options": [
+      "ホメオスタシス",
+      "圧自律神経反射",
+      "汎適応症候群",
+      "サイバネティックス"
+    ],
+    "answer": 0,
+    "explanation": "「生体の内部環境は適当な防御機構が働いて、ほぼ一定に維持されている」と定義されるのは、1：ホメオスタシスである。サイバネティックスは米国のウィナーによって提唱されたもので、情報通信・自動制御の理論で、基本的原理としてフィードバックを強調している。ネガティブ・フィードバックは出力信号が入力側へ戻り、出力の増加により入力を抑制するもので、値を一定範囲に保持するシステムである。ホメオスタシスはネガティブ・フィードバックにより主に調節される。ホメオスタシスはサイバネティックスの概念により保持されるが、問題文は、ほぼ一定に維持されていることについての問いなので、ホメオスタシスが正解となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_30_180",
+    "subject": "moxibustion",
+    "category": "関連学説",
+    "sub_category": "ホメオスタシス",
+    "category_question_number": 2,
+    "round": 30,
+    "round_question_number": 180,
+    "question": "熱刺激時のアドレナリン増加を説明する根拠として適切なのはどれか。",
+    "options": [
+      "圧自律神経反射",
+      "広汎性侵害抑制調節",
+      "交感神経－副腎髄質系",
+      "視床下部－下垂体－副腎皮質系"
+    ],
+    "answer": 2,
+    "explanation": "熱刺激時にアドレナリンの増加がみられるのは、熱刺激が急激なストレスとして交感神経を介して副腎髄質からアドレナリンを分泌させたからである（交感神経－副腎髄質系）。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_27_160",
+    "subject": "moxibustion",
+    "category": "関連学説",
+    "sub_category": "レイリー現象",
+    "category_question_number": 3,
+    "round": 27,
+    "round_question_number": 160,
+    "question": "足三里へ多壮灸をした後、患者がすぐに全身倦怠感を訴えた。この原因を説明するのに適切なのはどれか。",
+    "options": [
+      "サイバネティックス",
+      "ストレス学説",
+      "レイリー現象",
+      "圧自律神経反射"
+    ],
+    "answer": 2,
+    "explanation": "足三里へ多壮灸をした後に全身倦怠感を訴えたことから、これは足三里への多壮灸が過剰刺激となり、一過性に交感神経の過緊張が起きたと思われる。この原因は3：レイリー現象である。\n2：ストレス学説はハンス・セリエが提唱した学説で生体に加えられたストレスによって引き起こされる一連の生体反応について述べたものである。\n4：圧自律神経反射は高木健太郎により明らかにされたもので、圧迫側の交感神経機能が抑制され、非圧迫側の交感神経機能は亢進する反射である。\n問題1の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  }
 ]
