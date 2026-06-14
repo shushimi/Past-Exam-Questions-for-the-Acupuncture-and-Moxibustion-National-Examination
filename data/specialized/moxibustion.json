@@ -1,0 +1,1409 @@
+[
+  {
+    "id": "moxibustion_28_151",
+    "subject": "moxibustion",
+    "category": "灸の基礎知識",
+    "sub_category": "灸の材料",
+    "category_question_number": 1,
+    "round": 28,
+    "round_question_number": 151,
+    "question": "良質艾の精製工程で最も時間をかけて不純物を取り除くのはどれか。",
+    "options": [
+      "裁断機",
+      "石臼",
+      "けんどん（長唐箕）",
+      "唐箕"
+    ],
+    "answer": 3,
+    "explanation": "4：唐箕は、風力で艾に含まれる不純物を除去し、精製するものである。問題3の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_30_171",
+    "subject": "moxibustion",
+    "category": "灸の基礎知識",
+    "sub_category": "灸の材料",
+    "category_question_number": 2,
+    "round": 30,
+    "round_question_number": 171,
+    "question": "艾の製造工程で使用する用具と用途の組合せで正しいのはどれか。",
+    "options": [
+      "裁断機 ── 夾雑物をふるい落とす。",
+      "石臼 ── 葉脈を除去する。",
+      "けんどん（長唐箕） ── 乾燥したヨモギを粉砕する。",
+      "唐箕 ── 毛茸の表面付着物を除去する。"
+    ],
+    "answer": 3,
+    "explanation": "1：夾雑物のうち葉柄や葉脈など比較的大きいものをふるい落とすのはけんどん（長唐箕）である。問題3の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_31_171",
+    "subject": "moxibustion",
+    "category": "灸の基礎知識",
+    "sub_category": "灸の材料",
+    "category_question_number": 3,
+    "round": 31,
+    "round_question_number": 171,
+    "question": "艾の製造工程で艾葉から毛茸を剥離するのに用いるのはどれか。",
+    "options": [
+      "裁断機",
+      "石臼",
+      "けんどん",
+      "唐箕"
+    ],
+    "answer": 1,
+    "explanation": "艾の製造工程は、乾燥したヨモギの葉を裁断し、石臼で挽いて、けんどんや長通し、円通しなどと呼ばれる篩にかけて葉柄や葉脈などの比較的大きな夾雑物を除き、更に唐箕にかけて風力・遠心力・叩打力により細かな夾雑物を除く。最終工程の唐箕の段階が最も時間をかけて行われる。艾の成分となる毛茸・腺毛と、夾雑物を分けるのは篩と唐箕の段階で、裁断と石臼では分別はされない。石臼は、篩以降の分別の前段階において、葉から毛茸等を剥離する役割がある。石臼での挽き方、篩と唐箕にかける時間などの調節により、さまざまな精製度の艾が製造される。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_31_172",
+    "subject": "moxibustion",
+    "category": "灸の基礎知識",
+    "sub_category": "灸の材料",
+    "category_question_number": 4,
+    "round": 31,
+    "round_question_number": 172,
+    "question": "施灸に用いる線香について誤っているのはどれか。",
+    "options": [
+      "原料にはタブ粉を用いる。",
+      "生産量が最も多いのは兵庫県である。",
+      "湿気を含むと折れにくい。",
+      "途中で消えないものが望ましい。"
+    ],
+    "answer": 2,
+    "explanation": "兵庫県の淡路島は、線香の生産量日本一を占める。タブの樹皮や葉、または杉の葉が原料となる。灸に使用される線香は、仏事用のものよりも一般的に太く、施術中に持っていても折れにくくなっている。線香は湿気ると柔らかくなり折れやすくなる。よって誤りは3である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_24_151",
+    "subject": "moxibustion",
+    "category": "灸の基礎知識",
+    "sub_category": "灸の材料",
+    "category_question_number": 5,
+    "round": 24,
+    "round_question_number": 151,
+    "question": "ヨモギの組成のうち精油を多く含むのはどれか。",
+    "options": [
+      "葉柄",
+      "毛茸",
+      "葉脈",
+      "腺毛"
+    ],
+    "answer": 3,
+    "explanation": "モグサは柔毛（2：毛茸と4：腺毛）と夾雑物（1：葉柄や3：葉脈など）からなる。柔毛のうち、毛茸はモグサの主成分であり、腺毛はモグサの特性を決める。精油成分を多く含むのは腺毛である。なお夾雑物の割合が多いほど粗悪艾となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_23_151",
+    "subject": "moxibustion",
+    "category": "灸の基礎知識",
+    "sub_category": "灸の材料",
+    "category_question_number": 6,
+    "round": 23,
+    "round_question_number": 151,
+    "question": "良質艾の特徴で正しいのはどれか。",
+    "options": [
+      "芳香が少ない。",
+      "淡黄白色である。",
+      "燃焼時の最高温度が高い。",
+      "繊維が粗い。"
+    ],
+    "answer": 1,
+    "explanation": "1：芳香が少ないのは粗悪艾、2：淡黄白色なのは良質艾（黒褐色は粗悪艾）、3：燃焼時の最高温度が高いのは粗悪艾、4：繊維が粗いのは粗悪艾である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_25_151",
+    "subject": "moxibustion",
+    "category": "灸の基礎知識",
+    "sub_category": "灸の材料",
+    "category_question_number": 7,
+    "round": 25,
+    "round_question_number": 151,
+    "question": "透熱灸に用いる艾で最も適切なのはどれか。",
+    "options": [
+      "黒褐色である。",
+      "繊維が粗い。",
+      "葉柄が多い。",
+      "灰分が少ない。"
+    ],
+    "answer": 3,
+    "explanation": "透熱灸に用いるのは、良質艾である。良質艾の特徴は、色が1：淡黄白色で、2：繊維は細かい。3：葉柄などの夾雑物や4：灰分が少ないである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_32_171",
+    "subject": "moxibustion",
+    "category": "灸の基礎知識",
+    "sub_category": "灸の材料",
+    "category_question_number": 8,
+    "round": 32,
+    "round_question_number": 171,
+    "question": "透熱灸に用いる艾の品質で最も適切なのはどれか。",
+    "options": [
+      "湿気を帯びている。",
+      "夾雑物が多い。",
+      "淡黄白色である。",
+      "灰分が多い。"
+    ],
+    "answer": 2,
+    "explanation": "透熱灸は高精製艾（良質艾）を用いる。高精製艾は淡黄白色で、水分含有量は少なく、夾雑物・灰分は少ない。よって正答は3である。他の選択肢は低精製艾の特徴である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_25_152",
+    "subject": "moxibustion",
+    "category": "灸の基礎知識",
+    "sub_category": "灸の材料",
+    "category_question_number": 9,
+    "round": 25,
+    "round_question_number": 152,
+    "question": "艾炷の燃焼について正しいのはどれか。",
+    "options": [
+      "良質艾では燃焼時間が長くなる。",
+      "粗悪艾では最高温度が低くなる。",
+      "硬くひねると温度の上昇がゆっくりになる。",
+      "軟らかくひねると熱感が強くなる。"
+    ],
+    "answer": 2,
+    "explanation": "艾炷の燃焼は、3：硬くひねると温度の上昇がゆっくりになる。1：良質艾では燃焼時間が短くなる。2：粗悪艾では最高温度が高くなる。4：柔らかくひねると熱感が弱くなる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_27_152",
+    "subject": "moxibustion",
+    "category": "灸の基礎知識",
+    "sub_category": "灸の材料",
+    "category_question_number": 10,
+    "round": 27,
+    "round_question_number": 152,
+    "question": "艾の燃焼に関して正しいのはどれか。",
+    "options": [
+      "軟らかくひねると燃焼時間が長い。",
+      "良質艾は燃焼温度が低い。",
+      "乾いた艾は燃焼時間が長い。",
+      "硬くひねると燃焼温度は低い。"
+    ],
+    "answer": 1,
+    "explanation": "2：良質艾は燃焼温度が低く、粗悪艾は燃焼温度が高くなる。「1. 灸の基礎知識 A. 灸の材料」問題9（p.453）の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_29_171",
+    "subject": "moxibustion",
+    "category": "灸の基礎知識",
+    "sub_category": "灸の材料",
+    "category_question_number": 11,
+    "round": 29,
+    "round_question_number": 171,
+    "question": "艾について誤っているのはどれか。",
+    "options": [
+      "ヨモギの葉の裏面には毛茸が多い。",
+      "毛茸は良質艾に含まれる。",
+      "柄細胞は揮発性の精油を含む。",
+      "シネオールは線維様物質である。"
+    ],
+    "answer": 3,
+    "explanation": "シネオール（チネオール）は腺毛に含まれる精油成分であり、艾特有の芳香の原因となる。問題5の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_24_153",
+    "subject": "moxibustion",
+    "category": "灸術の種類",
+    "sub_category": "有痕灸",
+    "category_question_number": 1,
+    "round": 24,
+    "round_question_number": 153,
+    "question": "通常用いる透熱灸で正しいのはどれか。",
+    "options": [
+      "大豆大の艾炷を用いる。",
+      "施灸でできた痂皮は取り除く。",
+      "精製度の高い艾を用いる。",
+      "艾炷底面の燃焼最高温度は約150℃である。"
+    ],
+    "answer": 2,
+    "explanation": "一般的な透熱灸では、3：精製度の高い艾（良質艾）を糸状から米粒大の艾炷に成形して用いる。痂皮はあえて取り除かない。燃焼最高温度は米粒大で約100℃である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_32_172",
+    "subject": "moxibustion",
+    "category": "灸術の種類",
+    "sub_category": "有痕灸",
+    "category_question_number": 2,
+    "round": 32,
+    "round_question_number": 172,
+    "question": "焦灼灸について正しいのはどれか。",
+    "options": [
+      "一局所に多壮施灸する。",
+      "患者が気持ち良いところで消火する。",
+      "免疫機能低下者に適した灸法である。",
+      "輻射熱による温熱刺激を与えることを目的とする。"
+    ],
+    "answer": 0,
+    "explanation": "焦灼灸は疣贅や鶏眼の除去に用いられる灸法で、組織破壊を目的とし、多壮によって行う。よって正解は1である。\n2は知熱灸、3は棒灸や隔物灸などの温灸、4は棒灸、箱灸などが該当する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_23_152",
+    "subject": "moxibustion",
+    "category": "灸術の種類",
+    "sub_category": "有痕灸",
+    "category_question_number": 3,
+    "round": 23,
+    "round_question_number": 152,
+    "question": "中指頭大の艾炷をすえた後に吸い出し膏を貼る灸法はどれか。",
+    "options": [
+      "打膿灸",
+      "焦灼灸",
+      "透熱灸",
+      "薬灸"
+    ],
+    "answer": 0,
+    "explanation": "1：打膿灸とは、小指から母指頭大の艾炷を直接皮膚上で施灸して熱傷をつくり、その上に膏薬（吸い出し膏など）を塗ったガーゼを貼付して無菌性の化膿を促す灸法である。2：焦灼灸は、熱刺激により病的組織（イボ〔疣贅〕、ウオノメ〔鶏眼〕など）を破壊する灸法である。3：透熱灸は、糸状から米粒大程度の良質艾を直接皮膚の上で燃焼させる灸法である。4：薬物灸（薬灸）は、艾を使用しないで各種薬物を治療穴に塗布して、主に薬物のみの刺激を皮膚に与えることを目的とする灸法である。打膿灸、焦灼灸、透熱灸は有痕灸に、薬物灸は無痕灸に分類される。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_24_154",
+    "subject": "moxibustion",
+    "category": "灸術の種類",
+    "sub_category": "無痕灸",
+    "category_question_number": 4,
+    "round": 24,
+    "round_question_number": 154,
+    "question": "八分灸が属する灸法はどれか。",
+    "options": [
+      "焦灼灸",
+      "知熱灸",
+      "塩灸",
+      "温筒灸"
+    ],
+    "answer": 1,
+    "explanation": "八分灸とは、艾炷が8割ほど燃えた時点で取り除く2：知熱灸のことである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_23_153",
+    "subject": "moxibustion",
+    "category": "灸術の種類",
+    "sub_category": "無痕灸",
+    "category_question_number": 5,
+    "round": 23,
+    "round_question_number": 153,
+    "question": "湿性温灸はどれか。",
+    "options": [
+      "知熱灸",
+      "棒灸",
+      "ショウガ灸",
+      "温筒灸"
+    ],
+    "answer": 2,
+    "explanation": "湿性温灸は湿熱刺激による無痕灸を指すと考えられる。無痕灸のうち、1：知熱灸、温灸（2：棒灸・4：温筒灸）は乾熱刺激である。隔物灸には、湿熱刺激によるもの（例：3：ショウガ灸、ニンニク灸、味噌灸）と乾熱刺激によるもの（例：塩灸、押灸）とに大別できる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_24_152",
+    "subject": "moxibustion",
+    "category": "灸術の種類",
+    "sub_category": "無痕灸",
+    "category_question_number": 6,
+    "round": 24,
+    "round_question_number": 152,
+    "question": "押灸に用いる艾で正しいのはどれか。",
+    "options": [
+      "火力が強い。",
+      "手触りがよい。",
+      "淡黄白色である。",
+      "繊維が細かい。"
+    ],
+    "answer": 0,
+    "explanation": "押灸は点火した棒灸を介在物（手ぬぐい、紙、アルミホイル、ビワの葉など）を介して皮膚に押し当て熱刺激を与える灸法である。棒灸で使用するモグサは粗悪艾に分類される。選択肢1は粗悪艾、2〜4は良質艾の特徴である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_27_151",
+    "subject": "moxibustion",
+    "category": "灸術の種類",
+    "sub_category": "無痕灸",
+    "category_question_number": 7,
+    "round": 27,
+    "round_question_number": 151,
+    "question": "灸法で施灸部の組織を破壊しないのはどれか。",
+    "options": [
+      "打膿灸",
+      "焦灼灸",
+      "透熱灸",
+      "押灸"
+    ],
+    "answer": 3,
+    "explanation": "4：押灸は、棒灸を用いて皮膚との間に布や紙などの介在物を置き、その上から棒灸を押し当てて皮膚に温熱刺激を加える手技の隔物灸である。その他はすべて有痕灸である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_27_153",
+    "subject": "moxibustion",
+    "category": "灸術の種類",
+    "sub_category": "無痕灸",
+    "category_question_number": 8,
+    "round": 27,
+    "round_question_number": 153,
+    "question": "艾を使用しないのはどれか。",
+    "options": [
+      "漆灸",
+      "塩灸",
+      "味噌灸",
+      "ニンニク灸"
+    ],
+    "answer": 0,
+    "explanation": "艾を用いないのは1：漆灸である。それ以外は塩、味噌、ニンニクを用いた隔物灸で艾を用いる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_29_172",
+    "subject": "moxibustion",
+    "category": "灸術の種類",
+    "sub_category": "無痕灸",
+    "category_question_number": 9,
+    "round": 29,
+    "round_question_number": 172,
+    "question": "母指と示指で艾炷を覆い、ゆっくり八分目で消火する灸法はどれか。",
+    "options": [
+      "透熱灸",
+      "焦灼灸",
+      "打膿灸",
+      "知熱灸"
+    ],
+    "answer": 3,
+    "explanation": "問題5の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_30_172",
+    "subject": "moxibustion",
+    "category": "灸術の種類",
+    "sub_category": "無痕灸",
+    "category_question_number": 10,
+    "round": 30,
+    "round_question_number": 172,
+    "question": "無痕灸で主に輻射熱を用いるのはどれか。",
+    "options": [
+      "漆灸",
+      "塩灸",
+      "艾条灸",
+      "味噌灸"
+    ],
+    "answer": 2,
+    "explanation": "艾条灸は艾または艾と生薬の粉末を混ぜたものを紙で巻いて棒状にしたものである。艾条灸を手に持ち患者の皮膚に近づけたり遠ざけたりして輻射熱により熱刺激を加える。無痕灸に含まれる。1：漆灸は薬物灸で、艾の燃焼は用いない。2：塩灸と4：味噌灸は隔物灸であり、精製度の低い艾を燃焼させる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_31_173",
+    "subject": "moxibustion",
+    "category": "灸術の種類",
+    "sub_category": "無痕灸",
+    "category_question_number": 11,
+    "round": 31,
+    "round_question_number": 173,
+    "question": "知熱灸について誤っているのはどれか。",
+    "options": [
+      "無痕灸の一つである。",
+      "患者が熱さを感じたら取り除く。",
+      "虚弱者にも適応となる。",
+      "施灸部にⅡ度熱傷が生じる。"
+    ],
+    "answer": 3,
+    "explanation": "知熱灸は無痕灸の一種で、米粒大程度の小さな艾炷であれば指で覆って酸素の供給を減らして消火するか、途中でつまみ取るなどし、母指頭大程度の大きな艾炷であれば、患者が熱さを感じた辺りで取り除く。弱刺激なので虚弱者にも適する。無痕灸であるので熱傷は生じない。誤りは4である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_32_173",
+    "subject": "moxibustion",
+    "category": "灸術の種類",
+    "sub_category": "無痕灸",
+    "category_question_number": 12,
+    "round": 32,
+    "round_question_number": 173,
+    "question": "輻射熱を用いるのはどれか。",
+    "options": [
+      "押灸",
+      "箱灸",
+      "塩灸",
+      "紅灸"
+    ],
+    "answer": 1,
+    "explanation": "1：押灸は介在物の上から棒灸で押圧し、圧刺激とともに温熱刺激を与える。輻射熱刺激ではない。\n2：箱灸は輻射熱によって温熱刺激を与えるもので、主に背部や腹部に用いられる。2が正解である。\n3：塩灸は隔物灸であり輻射熱刺激ではない。\n4：紅灸は薬物の塗布によるもので、艾は用いない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_32_174",
+    "subject": "moxibustion",
+    "category": "灸術の種類",
+    "sub_category": "無痕灸",
+    "category_question_number": 13,
+    "round": 32,
+    "round_question_number": 174,
+    "question": "小児に対して最も適した灸法はどれか。",
+    "options": [
+      "透熱灸",
+      "焦灼灸",
+      "打膿灸",
+      "艾条灸"
+    ],
+    "answer": 3,
+    "explanation": "1：透熱灸、2：焦灼灸、3：打膿灸は有痕灸であり、強刺激であるので小児には用いない。4：艾条灸（棒灸）は輻射熱での温熱刺激であるので、小児に用いることができる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_26_151",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "刺激量",
+    "category_question_number": 1,
+    "round": 26,
+    "round_question_number": 151,
+    "question": "強刺激を与える目的で行う灸法で正しいのはどれか。",
+    "options": [
+      "艾雑物が多い艾を用いる。",
+      "軟らかくひねる。",
+      "壮数を少なくする。",
+      "小さな艾炷を用いる。"
+    ],
+    "answer": 0,
+    "explanation": "1：艾雑物が多い粗悪艾は燃焼時の熱感が強いため、強刺激を与えることが可能である。また、2：艾を硬くひねる、3：壮数を多くする、4：大きな艾炷を用いると強刺激となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_26_153",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 2,
+    "round": 26,
+    "round_question_number": 153,
+    "question": "温筒灸を行った際に、第Ⅱ度熱傷予防のため、艾炷を取り除く目安とはどれか。",
+    "options": [
+      "フレアが出始めた時点",
+      "温かさを感じ始めた時点",
+      "ヒリヒリとした熱さを感じ始めた時点",
+      "我慢することができなくなった時点"
+    ],
+    "answer": 2,
+    "explanation": "温筒灸の温度が上昇するに伴い温覚が生じ、温度が45℃以上になると熱痛覚（ヒリヒリとした熱さ）が生じる。熱痛覚を感じると、それに伴い血流が増加し、フレアが観察される。3：熱痛覚を感じた段階で艾炷を取り除けば、第Ⅱ度熱傷の予防が可能である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_30_173",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 3,
+    "round": 30,
+    "round_question_number": 173,
+    "question": "施灸後に紅斑と痛みが出現した。該当する熱傷はどれか。",
+    "options": [
+      "Ⅰ度",
+      "浅達性Ⅱ度",
+      "深達性Ⅱ度",
+      "Ⅲ度"
+    ],
+    "answer": 0,
+    "explanation": "施灸後に紅斑と痛みが出現したことから、熱傷の臨床症状による深達度分類では1：Ⅰ度熱傷が考えられる。浅達性、深達性のⅡ度熱傷では水疱がみられる。Ⅲ度熱傷では水疱はみられず、無痛性である。また皮膚の色調は黒色、褐色または白色である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_23_154",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 4,
+    "round": 23,
+    "round_question_number": 154,
+    "question": "有痕灸を避けるべき経穴はどれか。",
+    "options": [
+      "陰都",
+      "迎香",
+      "侠渓",
+      "前頂"
+    ],
+    "answer": 1,
+    "explanation": "有痕灸の禁忌部位は、美容上の問題となる顔面部、皮膚が弱く化膿しやすい部位（例：1：陰部）、浅層に大血管のある部位、皮膚病の患部などである。陰都（腎経）は腹部、2：迎香（大腸経）は顔面部、3：侠渓（胆経）は足部、4：前頂（督脈）は頭部に位置する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_28_152",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 5,
+    "round": 28,
+    "round_question_number": 152,
+    "question": "透熱灸を避けるべき経穴はどれか。",
+    "options": [
+      "神堂",
+      "顴髎",
+      "風市",
+      "臑会"
+    ],
+    "answer": 1,
+    "explanation": "透熱灸を避けるべき経穴は、顔面部に位置する2：顴髎である。問題4、7の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_29_177",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 6,
+    "round": 29,
+    "round_question_number": 177,
+    "question": "有痕灸を避けるべき部位はどれか。",
+    "options": [
+      "頭頂部",
+      "爪根部",
+      "頬部",
+      "胸骨部"
+    ],
+    "answer": 2,
+    "explanation": "頬部も含めて顔面部は有痕灸を避けるべき部位である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_26_154",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 7,
+    "round": 26,
+    "round_question_number": 154,
+    "question": "WHOの「鍼の基礎教育と安全性に関するガイドライン（1999年）」で有痕灸を避けることとしている部位にある経穴はどれか。",
+    "options": [
+      "巨髎",
+      "淵腋",
+      "環跳",
+      "丘墟"
+    ],
+    "answer": 0,
+    "explanation": "有痕灸を避ける部位は、顔面や腱または大血管がある部位、関節付近、知覚障害部位、化膿性皮膚炎あるいは循環障害がある部位などとされているので、本問では顔面部にある1：巨髎が答えとなる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_24_155",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 8,
+    "round": 24,
+    "round_question_number": 155,
+    "question": "WHOの「鍼の基礎教育と安全性に関するガイドライン（1999年）」において、灸治療の禁忌はどれか。",
+    "options": [
+      "低血圧",
+      "高熱",
+      "便秘",
+      "月経痛"
+    ],
+    "answer": 1,
+    "explanation": "WHOの「鍼の基礎教育と安全性に関するガイドライン」（1999年）では「妊娠第一期までは下腹部や腰仙部の経穴への施鍼や施灸は禁忌」あるいは「意識レベルが低いか、知覚障害または精神障害のある患者への施灸、あるいは化膿性皮膚炎もしくは循環障害のある部位への施灸は避けるべきである」と記載されるのみであり、「高熱」の記載はない。単純に禁忌を決めるのは困難であるが、易感染性患者（糖尿病、長期ステロイド服用、HIVなど）や著明な高血圧または2：高熱を呈する患者には、刺激の強い施灸は避けるのが一般的である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_24_156",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 9,
+    "round": 24,
+    "round_question_number": 156,
+    "question": "免疫機能低下の患者に適した灸はどれか。",
+    "options": [
+      "紅灸",
+      "打膿灸",
+      "焦灼灸",
+      "隔物灸"
+    ],
+    "answer": [
+      0,
+      3
+    ],
+    "explanation": "免疫の低下した患者（易感染性患者）は容易に感染を起こすため、熱傷を生じない無痕灸（間接灸）が求められ、一般的には4：隔物灸を用いる。また、1：紅灸も無痕灸（艾を用いない灸）に分類されることから、これも正解となり得る。",
+    "is_irregular": true,
+    "irregular_reason": "複数正解（1, 4）のため"
+  },
+  {
+    "id": "moxibustion_25_153",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 10,
+    "round": 25,
+    "round_question_number": 153,
+    "question": "糖尿病患者で避けるべきなのはどれか。",
+    "options": [
+      "ニンニク灸",
+      "糸状灸",
+      "押灸",
+      "八分灸"
+    ],
+    "answer": 1,
+    "explanation": "糖尿病患者は感染防御機構が障害され、易感染状態にある。したがって、熱傷により化膿する可能性のある直接灸、2：糸状灸は避けるべきである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_28_154",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 11,
+    "round": 28,
+    "round_question_number": 154,
+    "question": "糖尿病患者に対する灸施術で灸痕化膿のリスクが最も低いのはどれか。",
+    "options": [
+      "艾条灸",
+      "焦灼灸",
+      "透熱灸",
+      "打膿灸"
+    ],
+    "answer": 0,
+    "explanation": "1：艾条灸（棒灸）は無痕灸である。問題9、10の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_26_155",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 12,
+    "round": 26,
+    "round_question_number": 155,
+    "question": "知熱灸を行う際に最も注意を要するのはどれか。",
+    "options": [
+      "認知症",
+      "関節リウマチ",
+      "骨粗鬆症",
+      "過敏性腸症候群"
+    ],
+    "answer": 0,
+    "explanation": "1：認知症があると灸熱感を正しく認識できない可能性があるため、知熱灸を行う場合には注意を要する。問題8の解説を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_26_152",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 13,
+    "round": 26,
+    "round_question_number": 152,
+    "question": "月経異常に対する灸療法で最も適応となるのはどれか。",
+    "options": [
+      "40歳頃から月経量が多く、月経痛とともに月経血中に血塊が混ざる。",
+      "13歳で初経を迎え、2年後から月経痛に悩んでいる。",
+      "28歳で月経痛が発症し、月経ごとに数日間強い下腹部痛を伴う。",
+      "頻発月経で3周期以上無排卵月経が続いている。"
+    ],
+    "answer": 1,
+    "explanation": "月経異常に対する灸療法で最も適応となるのは、機能的な原因による場合である。したがって、最も適応となるのは、原発性（機能性）月経困難症の可能性が考えられる2である。1、3は続発性（器質性）月経困難（子宮筋腫や、子宮内膜症など）が疑われる。4は多嚢胞性卵巣症候群などの器質的な原因が考えられる。いずれも適応とはなりにくい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_29_174",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 14,
+    "round": 29,
+    "round_question_number": 174,
+    "question": "透熱灸を行う場合、最も注意しなければならない疾患はどれか。",
+    "options": [
+      "全身性エリテマトーデス",
+      "過敏性腸症候群",
+      "月経困難症",
+      "変形性腰椎症"
+    ],
+    "answer": 0,
+    "explanation": "全身性エリテマトーデス（SLE）は疾患自体の易感染性と治療として用いられるステロイドによる免疫抑制との両方によって感染症を起こしやすい状態にある。現在、SLEの死因の原因として感染症は重要な問題となっている。以上のことから、透熱灸を行う場合に最も注意しなければならないのは、感染リスクの高い全身性エリテマトーデスである。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_30_175",
+    "subject": "moxibustion",
+    "category": "moxibustion_clinical_application",
+    "sub_category": "灸療法の適応と禁忌",
+    "category_question_number": 15,
+    "round": 30,
+    "round_question_number": 175,
+    "question": "副腎皮質ホルモン剤を長期服用している患者への施灸方法で最も適しているのはどれか。",
+    "options": [
+      "棒灸",
+      "焦灼灸",
+      "透熱灸",
+      "糸状灸"
+    ],
+    "answer": 0,
+    "explanation": "副腎皮質ホルモン剤を長期服用していると免疫抑制がおこり感染症を起こしやすくなる（易感染状態）。したがって、副腎皮質ホルモン剤を長期服用している患者への施灸法で正しいのは感染を防止するために熱傷を生じない無痕灸が適している。1：棒灸が答えとなる。問題9、14の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_23_155",
+    "subject": "moxibustion",
+    "category": "moxibustion_risk_management",
+    "sub_category": "灸療法の医療過誤と副作用",
+    "category_question_number": 1,
+    "round": 23,
+    "round_question_number": 155,
+    "question": "施灸部の化膿を防止する対策として最も適切なのはどれか。",
+    "options": [
+      "壮数を重ねる際にずらして施灸する。",
+      "艾炷の底面積を広くする。",
+      "施灸部に生じた水疱の排液を行う。",
+      "施灸部の消毒を行う。"
+    ],
+    "answer": 3,
+    "explanation": "灸痕の化膿の防止には、壮数を重ねる際はずらさず同一点へ施灸し、艾炷は柔らかくひねり、小さく、底面積を狭くする。施灸後、水疱となった場合は掻破しないこと。消毒は、施灸の前後に行うのが原則である。よって4が正しい。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_30_174",
+    "subject": "moxibustion",
+    "category": "moxibustion_risk_management",
+    "sub_category": "灸療法の医療過誤と副作用",
+    "category_question_number": 2,
+    "round": 30,
+    "round_question_number": 174,
+    "question": "灸痕の化膿を防止する方法で誤っているのはどれか。",
+    "options": [
+      "艾炷を小さくする。",
+      "同一点に施灸する。",
+      "水疱を掻破する。",
+      "痂皮を保護する。"
+    ],
+    "answer": 2,
+    "explanation": "灸痕部の水疱や痂皮を掻破し灸痕を破壊すると化膿する可能性があるため化膿の防止方法として3：水疱を掻破するは誤っている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_25_154",
+    "subject": "moxibustion",
+    "category": "moxibustion_risk_management",
+    "sub_category": "灸療法の医療過誤と副作用",
+    "category_question_number": 3,
+    "round": 25,
+    "round_question_number": 154,
+    "question": "灸あたりについて誤っているのはどれか。",
+    "options": [
+      "瞑眩ともいう。",
+      "初めて灸療法を受けた場合に起こりやすい。",
+      "施術後の不潔操作で起こりやすい。",
+      "食欲不振は症状の一つである。"
+    ],
+    "answer": 2,
+    "explanation": "灸あたりとは施灸後、一過性に全身倦怠感、疲労感、脱力感を数時間程度自覚するもので、1：瞑眩ともいわれる。灸あたりの症状が強いと上記症状以外に頭重、めまい、4：食欲不振などの症状を伴うことがある。灸あたりは刺激過剰が原因となり、特に2：初めて灸療法を受けた場合に起こりやすい。3：施術後の不潔操作は原因とならない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_27_154",
+    "subject": "moxibustion",
+    "category": "moxibustion_risk_management",
+    "sub_category": "灸療法の医療過誤と副作用",
+    "category_question_number": 4,
+    "round": 27,
+    "round_question_number": 154,
+    "question": "灸あたりの症状はどれか。",
+    "options": [
+      "めまい",
+      "チアノーゼ",
+      "胸痛",
+      "しびれ"
+    ],
+    "answer": 0,
+    "explanation": "問題3の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_28_153",
+    "subject": "moxibustion",
+    "category": "moxibustion_risk_management",
+    "sub_category": "灸療法の医療過誤と副作用",
+    "category_question_number": 5,
+    "round": 28,
+    "round_question_number": 153,
+    "question": "灸あたりについて誤っているのはどれか。",
+    "options": [
+      "瞑眩の一種である。",
+      "水疱の破壊により起こる。",
+      "めまいは症状の一つである。",
+      "灸療法を再開したときは総刺激量を少なくする。"
+    ],
+    "answer": 1,
+    "explanation": "2：水疱の破壊は、灸あたりの原因にならない。問題3の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_29_175",
+    "subject": "moxibustion",
+    "category": "moxibustion_risk_management",
+    "sub_category": "灸療法の医療過誤と副作用",
+    "category_question_number": 6,
+    "round": 29,
+    "round_question_number": 175,
+    "question": "灸あたりの一般的症状でないのはどれか。",
+    "options": [
+      "悪寒",
+      "発熱",
+      "胸痛",
+      "頭重"
+    ],
+    "answer": 2,
+    "explanation": "施灸後に一過性に自覚される全身倦怠感、疲労感、脱力感を灸あたりと称している。灸あたりの症状が強い場合には上記以外に悪寒、発熱、頭重、めまい、食欲不振、嘔気などがみられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_31_174",
+    "subject": "moxibustion",
+    "category": "moxibustion_risk_management",
+    "sub_category": "灸療法の医療過誤と副作用",
+    "category_question_number": 7,
+    "round": 31,
+    "round_question_number": 174,
+    "question": "灸あたりの予防として最も適切なのはどれか。",
+    "options": [
+      "艾炷のひねりを硬くする。",
+      "艾炷の底面を広くする。",
+      "刺激量の少ない灸法を選択する。",
+      "施灸後の皮膚消毒を念入りに行う。"
+    ],
+    "answer": 2,
+    "explanation": "灸あたりは刺激に対する過剰反応で、倦怠感、疲労感、頭重感、食欲不振、吐き気などの症状がみられる。\n予防には刺激量を少なくすることが必要となるので、艾炷は小さく、ひねりは柔らかく、壮数は少なく、穴数も少なくし、無痕灸などの刺激量の少ない灸法にする。施灸前後の消毒は必要であるが、灸あたりには関係しない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_25_155",
+    "subject": "moxibustion",
+    "category": "moxibustion_risk_management",
+    "sub_category": "感染防止対策",
+    "category_question_number": 8,
+    "round": 25,
+    "round_question_number": 155,
+    "question": "有痕灸施術部位の皮膚消毒について最も適切なのはどれか。",
+    "options": [
+      "施灸前後に行う。",
+      "ラビング法を用いる。",
+      "施灸部位を往復するように拭く。",
+      "次亜塩素酸ナトリウムを用いる。"
+    ],
+    "answer": 0,
+    "explanation": "有痕灸施術部位の皮膚消毒は、一般的に消毒用エタノールで1：施灸前後に清拭法（スワブ法）で一方向性、あるいは遠心性渦巻き状に行う。4：次亜塩素酸ナトリウムは医療用具の消毒に用い、皮膚消毒には用いない。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_29_173",
+    "subject": "moxibustion",
+    "category": "moxibustion_risk_management",
+    "sub_category": "感染防止対策",
+    "category_question_number": 9,
+    "round": 29,
+    "round_question_number": 173,
+    "question": "透熱灸施灸部の消毒方法で最も適切なのはどれか。",
+    "options": [
+      "ラビング法を用いる。",
+      "施灸前後に行う。",
+      "次亜塩素酸ナトリウムを用いる。",
+      "施灸部位を往復するように拭く。"
+    ],
+    "answer": 1,
+    "explanation": "問題8を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_23_156",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "末梢における灸刺激の受容と伝導",
+    "category_question_number": 1,
+    "round": 23,
+    "round_question_number": 156,
+    "question": "施灸により蛋白質の変性が起き始める温度はどれか。",
+    "options": [
+      "45℃",
+      "60℃",
+      "75℃",
+      "100℃"
+    ],
+    "answer": 0,
+    "explanation": "【解説】熱傷つまり蛋白質の変性が起こる温度は、一般に1：45℃とされている。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_25_156",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "末梢における灸刺激の受容と伝導",
+    "category_question_number": 2,
+    "round": 25,
+    "round_question_number": 156,
+    "question": "温度刺激に関して正しいのはどれか。",
+    "options": [
+      "20〜40℃の間では皮膚温が高いほど閾値が高くなる。",
+      "感覚の順応は起きにくい。",
+      "熱刺激を受容するⅢ群線維がある。",
+      "皮膚温が45℃未満の熱刺激では神経性炎症は起こらない。"
+    ],
+    "answer": 2,
+    "explanation": "【解説】温度刺激に関して正しいのは、3：熱刺激を受容するⅢ群線維（Aδ線維）が存在する。このⅢ群線維は52℃以上の熱刺激により活性化される。1：20〜40℃の間では皮膚温が高いほど、温覚の閾値が低くなる。また、2：感覚の順応は起きやすい。なお、4：皮膚温が45℃未満の熱刺激でも、軸索反射による神経性炎症は起こる。これは、43℃以上の熱刺激で興奮するⅣ群線維が関与している。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_27_156",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "末梢における灸刺激の受容と伝導",
+    "category_question_number": 3,
+    "round": 27,
+    "round_question_number": 156,
+    "question": "ポリモーダル受容器が受容した熱痛を主に伝導するのはどれか。",
+    "options": [
+      "Aα線維",
+      "Aβ線維",
+      "Aγ線維",
+      "C線維"
+    ],
+    "answer": 3,
+    "explanation": "【解説】ポリモーダル受容器からの熱痛を伝導するのは、4：C線維（Ⅳ群線維）である。1：Aα線維は筋紡錘や腱受容器からの情報を伝達する。2：Aβ線維は触圧受容器からの情報を伝導する。3：Aγ線維は筋紡錘に向かう遠心性の運動線維である。後出の問題10の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_30_176",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "末梢における灸刺激の受容と伝導",
+    "category_question_number": 4,
+    "round": 30,
+    "round_question_number": 176,
+    "question": "施灸時の熱刺激を伝える一次求心性神経線維はどれか。",
+    "options": [
+      "Ⅰa群線維",
+      "Ⅰb群線維",
+      "Ⅱ群線維",
+      "Ⅳ群線維"
+    ],
+    "answer": 3,
+    "explanation": "【解説】温度情報を伝えるのはAδ（Ⅲ群）線維とC（Ⅳ群）線維である。よって正解は4である。問題5を参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_31_175",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "末梢における灸刺激の受容と伝導",
+    "category_question_number": 5,
+    "round": 31,
+    "round_question_number": 175,
+    "question": "痛みを伴う熱刺激を伝導するのはどれか。",
+    "options": [
+      "Aα線維",
+      "Aβ線維",
+      "Aγ線維",
+      "Aδ線維"
+    ],
+    "answer": 3,
+    "explanation": "【解説】温度刺激の情報を伝えるのはAδ線維とC線維である。どちらも熱痛に関与する。\n熱刺激受容体であるTRPV1は43℃以上で活性化し、主にC線維に発現する。52℃以上で活性化するTRPV2はAδ線維に多くみられる。選択肢にはC線維は無いので、4のAδ線維を選ぶ。Aδ線維は高閾値熱刺激の伝導を行う。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_26_156",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "末梢における灸刺激の受容と伝導",
+    "category_question_number": 6,
+    "round": 26,
+    "round_question_number": 156,
+    "question": "第12胸神経から第2腰神経の皮膚分節領域に関連痛が現れる臓器はどれか。",
+    "options": [
+      "心臓",
+      "肝臓",
+      "胆嚢",
+      "腎臓"
+    ],
+    "answer": 3,
+    "explanation": "【解説】内臓からの情報を伝える内臓求心性神経は、交感神経とほぼ平行して走行している。したがって、第12胸神経から第2腰神経の皮膚分節領域に関連痛が現れる臓器は、同一脊髄分節から起こる交感神経が分布している臓器ということになり、4：腎臓が答えとなる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_27_155",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "末梢における灸刺激の受容と伝導",
+    "category_question_number": 7,
+    "round": 27,
+    "round_question_number": 155,
+    "question": "関連痛に直接関与しないのはどれか。",
+    "options": [
+      "侵害受容器",
+      "広作動域ニューロン",
+      "Ⅰb群求心性線維",
+      "外側脊髄視床路"
+    ],
+    "answer": 2,
+    "explanation": "【解説】3：Ⅰb群求心性線維は腱受容器からの情報を中枢に伝える求心性線維であり、関連痛には関与しない。2：広作動域ニューロンは脊髄内で痛みを伝える二次侵害受容ニューロンで、関連痛の発生に関与している。1、4：侵害受容器からの情報と別の部位からの情報が脊髄後角で二次ニューロンに収束し、外側脊髄視床路を上行する。同一の二次ニューロンに収束することで、本来の侵害刺激の部位の認識に混乱が起きるとするのが関連痛の収束説である。よって1と4は関連痛に関与する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_31_176",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "末梢における灸刺激の受容と伝導",
+    "category_question_number": 8,
+    "round": 31,
+    "round_question_number": 176,
+    "question": "灸による温熱刺激の受容・伝導について正しいのはどれか。",
+    "options": [
+      "カプサイシン受容体（TRPV1受容体）が応答する。",
+      "Ⅱ群線維によって伝導される。",
+      "温度感覚は順応が起こりにくい。",
+      "熱痛情報は脊髄後索を上行する。"
+    ],
+    "answer": 0,
+    "explanation": "【解説】2：温熱刺激はⅢ群またはⅣ群線維によって伝導され、3：温度感覚は順応しやすく、4：熱痛情報を伝えるのは外側脊髄視床路で、脊髄前側索を上行する。よって2、3、4は誤りである。\n温熱刺激の受容体としても働くTRPチャネルのひとつであるTRPV1の熱活性化温度閾値は43℃であり、侵害性熱刺激受容に関与すると考えられる。TRPV1は温度のみならず、唐辛子の主成分であるカプサイシンの他、酸、カンフル、アリシンでも活性化され、カプサイシン受容体とも呼ばれる。辛いことも熱いことも英語ではhotと言い表すが、この2つの刺激を感知する共通の分子メカニズムとして知られる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_24_157",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "感覚の中枢内伝導路",
+    "category_question_number": 9,
+    "round": 24,
+    "round_question_number": 157,
+    "question": "灸刺激の伝導に関与するのはどれか。",
+    "options": [
+      "Ⅱ群線維",
+      "脊髄後角",
+      "後索核",
+      "赤核"
+    ],
+    "answer": 1,
+    "explanation": "【解説】脊髄後角はあらゆる体性感覚情報（感覚神経）が集まる部位であり、温熱情報も同様である。1：Ⅱ群線維は触圧情報を伝える感覚神経。3：後索核は脊髄内伝導路として、触圧情報を伝える中継核。4：赤核は、中脳にある錐体外路系（不随運動）に関する神経核。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_26_157",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "感覚の中枢内伝導路",
+    "category_question_number": 10,
+    "round": 26,
+    "round_question_number": 157,
+    "question": "温度覚について正しいのはどれか。",
+    "options": [
+      "温受容器の形態は特定の受容器構造をもつ。",
+      "熱刺激による興奮はⅡ群線維によって伝達される。",
+      "2次求心性ニューロンの細胞体は延髄の後索核にある。",
+      "右下肢の熱刺激の興奮は左の大脳皮質の体性感覚野に伝わる。"
+    ],
+    "answer": 3,
+    "explanation": "【解説】4：温度覚は脊髄の後根から脊髄後角に入り、交叉して対側の前外側（外側脊髄視床路）を上行し、大脳皮質の体性感覚野に投射する。1：温度受容器は、特定の受容器構造を持たない自由神経終末である。2：熱刺激による興奮は、Ⅳ群線維（C線維）によって伝達される。3：2次求心性ニューロンの細胞体は、脊髄の後角内にある。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_28_155",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "感覚の中枢内伝導路",
+    "category_question_number": 11,
+    "round": 28,
+    "round_question_number": 155,
+    "question": "灸による温熱刺激の受容・伝導について誤っているのはどれか。",
+    "options": [
+      "熱刺激で開くイオンチャネルが存在する。",
+      "Ⅳ群線維によって伝導される。",
+      "脊髄後角の侵害受容ニューロンへ伝達する。",
+      "熱痛情報は脊髄後側索を上行する。"
+    ],
+    "answer": 3,
+    "explanation": "【解説】1：TRPチャネルはイオンチャネルであり、温度上昇の刺激に応答してチャネルを開く。2：温度情報はAδ（Ⅲ群）線維とC（Ⅳ群）線維によって伝えられ、3：1次ニューロンは脊髄後角で2次ニューロンにシナプスし、温熱刺激情報が伝達され、4：2次ニューロンは対側に交叉し、脊髄前側索を上行する。これが外側脊髄視床路である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_29_176",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "感覚の中枢内伝導路",
+    "category_question_number": 12,
+    "round": 29,
+    "round_question_number": 176,
+    "question": "透熱灸による熱刺激の伝導路はどれか。",
+    "options": [
+      "外側皮質脊髄路",
+      "外側脊髄視床路",
+      "腹側脊髄視床路",
+      "後索路"
+    ],
+    "answer": 1,
+    "explanation": "【解説】問題7、9の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_30_177",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "感覚の中枢内伝導路",
+    "category_question_number": 13,
+    "round": 30,
+    "round_question_number": 177,
+    "question": "熱刺激の伝導で一次求心性神経線維のシナプスがあるのはどれか。",
+    "options": [
+      "胸髄核",
+      "薄束核",
+      "楔状束核",
+      "脊髄後角"
+    ],
+    "answer": 3,
+    "explanation": "【解説】熱刺激を伝える一次求心性神経線維は脊髄後角で二次求心性神経線維にシナプス結合する。問題10の解説参照。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_32_175",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "感覚の中枢内伝導路",
+    "category_question_number": 14,
+    "round": 32,
+    "round_question_number": 175,
+    "question": "温熱刺激情報を二次ニューロンへ伝達するのはどれか。",
+    "options": [
+      "グルタミン酸",
+      "ノルアドレナリン",
+      "アセチルコリン",
+      "ドパミン"
+    ],
+    "answer": 0,
+    "explanation": "【解説】温熱刺激情報はAδ線維またはC線維により中枢へ伝えられ、脊髄後角で二次ニューロンへ伝達される。このとき伝達物質として、グルタミン酸、サブスタンスPが放出される。グルタミン酸はAδ線維・C線維両方の伝達物質である。よって正解は1である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_32_176",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "感覚の中枢内伝導路",
+    "category_question_number": 15,
+    "round": 32,
+    "round_question_number": 176,
+    "question": "透熱灸刺激の伝導に関係するのはどれか。",
+    "options": [
+      "脊髄前角",
+      "薄束",
+      "脳幹網様体",
+      "内側毛帯"
+    ],
+    "answer": 2,
+    "explanation": "【解説】熱刺激は新脊髄視床路、旧脊髄視床路を上行するが、旧脊髄視床路は3：脳幹網様体に多くの側枝を出す。これが脊髄網様体路で、情動形成や自律機能に影響を与える。\n1：脊髄前角は運動ニューロンの細胞体があり、熱の伝導には関与しない。\n2：薄束、4：内側毛帯は、精細触圧覚の伝導路である後索－内側毛帯路が上行する部位である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_23_159",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "灸刺激と反射",
+    "category_question_number": 16,
+    "round": 23,
+    "round_question_number": 159,
+    "question": "次の文について、問いに答えよ。\n「45歳の女性。両下腿に冷えを訴えて来院。愁訴を改善する目的で、両側の三陰交に半米粒大の透熱灸5壮の施術を行った。」\n施灸部に生じた膨隆に関与するのはどれか。",
+    "options": [
+      "エンケファリン",
+      "伸展受容器",
+      "サブスタンスP",
+      "高閾値機械受容器"
+    ],
+    "answer": 2,
+    "explanation": "【解説】皮膚の膨隆は主として腫脹が原因であり、これは血管透過性の亢進により生じる。血管透過性を亢進させる作用を持つ物質として、3：サブスタンスPやヒスタミンが有名である。本問題は、施灸による軸索反射を介したサブスタンスPの放出を想定していると考えられる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_24_158",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "灸刺激と反射",
+    "category_question_number": 17,
+    "round": 24,
+    "round_question_number": 158,
+    "question": "ラットの背部への施灸において同一脊髄レベルでの神経損傷により軸索反射が消失するのはどれか。",
+    "options": [
+      "脊髄神経を脊髄神経節の末梢側で切断",
+      "脊髄神経前根を切断",
+      "交感神経を灰白交通枝で切断",
+      "脊髄後角を破壊"
+    ],
+    "answer": 0,
+    "explanation": "【解説】軸索反射は細い感覚神経（主に無髄C線維）の軸索上で起こる反射様現象である。そのため、2、4：脊髄神経前根（α運動ニューロンや交感神経の節前線維）や脊髄後角は関与しない。1：脊髄神経節（神経細胞体の集まり）の末梢側を切断すると軸索への栄養が途絶え、数日後に脱髄が起こり軸索反射は消失する。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_25_158",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "灸刺激と反射",
+    "category_question_number": 18,
+    "round": 25,
+    "round_question_number": 158,
+    "question": "施灸局所の血流増加に関与するのはどれか。",
+    "options": [
+      "軸索反射",
+      "広汎性侵害抑制調節",
+      "交感神経－アドレナリン系",
+      "圧受容器反射"
+    ],
+    "answer": 0,
+    "explanation": "【解説】施灸局所の血流増加に関与するのは1：軸索反射である。2：広汎性侵害抑制調節（DNIC）とは鎮痛機構の一つ。疼痛がある状態で与えた侵害刺激は全身のあらゆる場所へ伝達され、本来の疼痛の伝達を抑制するというものである。ウォルター・キャノンは、環境変化（緊急時）に対する有利な生体応答を調節する系として、3：交感神経－アドレナリン系の緊急反応を考えた。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_29_178",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "灸刺激と反射",
+    "category_question_number": 19,
+    "round": 29,
+    "round_question_number": 178,
+    "question": "施灸局所のフレア現象について正しいのはどれか。",
+    "options": [
+      "広作動域ニューロンが関与する。",
+      "単シナプス反射によって生じる。",
+      "CGRPの遊離によって生じる。",
+      "内因性オピオイドが関与する。"
+    ],
+    "answer": 2,
+    "explanation": "【解説】施灸局所のフレア現象は軸索反射により放出された神経ペプチド（CGRP、サブスタンスP）により血管が拡張したために出現する。広域作動ニューロンは脊髄内で痛みを伝える二次侵害受容ニューロンで関連痛の発生に関与している。軸索反射は脊髄を介さないため本来の脊髄（中枢）を介して起こる反射とは異なりシナプスを介さない。内因性オピオイドは下行性痛覚抑制系に関与している。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_25_157",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "灸刺激と反射",
+    "category_question_number": 20,
+    "round": 25,
+    "round_question_number": 157,
+    "question": "過敏性腸症候群における下痢に対して、脊髄性の自律神経反射を考慮して灸治療を行う場合、最も効果が期待できるのはどれか。",
+    "options": [
+      "合谷",
+      "帰来",
+      "足三里",
+      "内庭"
+    ],
+    "answer": 1,
+    "explanation": "【解説】過敏性腸症候群における下痢に対して、脊髄性の自律神経反射を考慮して灸治療を行う場合、最も効果が期待できるのは体幹部の経穴である2：帰来である。四肢にある経穴への刺激は、脊髄性ではなく上脊髄性の自律神経反射となる。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  {
+    "id": "moxibustion_28_156",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "灸刺激と反射",
+    "category_question_number": 21,
+    "round": 28,
+    "round_question_number": 156,
+    "question": "デルマトームを考慮した体性－自律神経反射を利用して下痢の灸治療を行う場合、最も効果が期待できるのはどれか。",
+    "options": [
+      "梁門",
+      "帰来",
+      "脾兪",
+      "足三里"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "【解説】デルマトームを考慮した体性－自律神経反射を利用して下痢の治療を行う場合には、小腸・大腸を支配している交感神経レベル（Th9−L1）に対応するデルマトーム上の経穴を選択する。Th9−L1のデルマトーム上に相当するのは、帰来と脾兪である。",
+    "is_irregular": true,
+    "irregular_reason": "複数正解（2, 3）のため"
+  },
+  {
+    "id": "moxibustion_29_179",
+    "subject": "moxibustion",
+    "category": "灸治効の基礎",
+    "sub_category": "灸刺激と反射",
+    "category_question_number": 22,
+    "round": 29,
+    "round_question_number": 179,
+    "question": "透熱灸によって血圧上昇をきたす反射の遠心路を構成する神経線維はどれか。",
+    "options": [
+      "Aα線維",
+      "Aβ線維",
+      "Aδ線維",
+      "C線維"
+    ],
+    "answer": 3,
+    "explanation": "【解説】透熱灸によって血圧上昇をきたす反射（体性－自律神経反射）の遠心路は交感神経節前線維および節後線維である。節前線維は神経線維の分類ではB線維、節後線維はC線維である。",
+    "is_irregular": false,
+    "irregular_reason": ""
+  },
+  
+]
